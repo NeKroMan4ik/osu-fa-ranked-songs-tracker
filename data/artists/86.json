@@ -1,0 +1,201 @@
+{
+  "id": 86,
+  "name": "Ne Obliviscaris",
+  "tracks": [
+    {
+      "title": "And Plague Flowers The Kaleidoscope",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1210790
+        ],
+        "osu": [
+          1208673
+        ],
+        "fruits": [
+          990553
+        ]
+      }
+    },
+    {
+      "title": "As Icicles Fall",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2382206
+        ]
+      }
+    },
+    {
+      "title": "Devour Me, Colossus (Part I)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Equus",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2023758
+        ]
+      }
+    },
+    {
+      "title": "Eyrie",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1177346
+        ]
+      }
+    },
+    {
+      "title": "Forget Not",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          930865
+        ]
+      }
+    },
+    {
+      "title": "Graal",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2031536
+        ]
+      }
+    },
+    {
+      "title": "Intra Venus",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2314415
+        ],
+        "osu": [
+          1495753,
+          2069295
+        ]
+      }
+    },
+    {
+      "title": "Libera (Part I) - Saturnine Spheres",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1371944,
+          2167811
+        ],
+        "taiko": [
+          1296171
+        ]
+      }
+    },
+    {
+      "title": "Misericorde I - As The Flesh Falls",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2382902
+        ]
+      }
+    },
+    {
+      "title": "Misericorde II - Anatomy of Quiescence",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Of Petrichor Weaves Black Noise",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1680152
+        ],
+        "osu": [
+          1557359
+        ]
+      }
+    },
+    {
+      "title": "Of The Leper Butterflies",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1896945
+        ]
+      }
+    },
+    {
+      "title": "Painters of the Tempest (Part II)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Pyrrhic",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1646116
+        ]
+      }
+    },
+    {
+      "title": "Suspyre",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tapestry Of The Starless Abstract",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Urn (Part I) - And Within the Void We Are Breathless",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Urn (Part II) - As Embers Dance in Our Eyes",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Xenoflux",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T14:51:19Z"
+}

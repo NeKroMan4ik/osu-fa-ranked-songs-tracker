@@ -1,0 +1,131 @@
+{
+  "id": 454,
+  "name": "Anamanaguchi",
+  "tracks": [
+    {
+      "title": "Blackout City",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          67226
+        ],
+        "taiko": [
+          67226
+        ]
+      }
+    },
+    {
+      "title": "Helix Nebula",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          10517
+        ]
+      }
+    },
+    {
+      "title": "John Hughes",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          655256
+        ]
+      }
+    },
+    {
+      "title": "Miku",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2314946
+        ],
+        "osu": [
+          1839623
+        ]
+      }
+    },
+    {
+      "title": "My Skateboard Will Go On",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          18689
+        ]
+      }
+    },
+    {
+      "title": "Pop It",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          501677
+        ]
+      }
+    },
+    {
+      "title": "Prom Night",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          398797
+        ]
+      }
+    },
+    {
+      "title": "SPF 420",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          109024
+        ],
+        "taiko": [
+          109024
+        ]
+      }
+    },
+    {
+      "title": "STILL SPLODIN' THO (Interlude)",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          104151,
+          1980121
+        ],
+        "fruits": [
+          104151
+        ],
+        "taiko": [
+          104151
+        ],
+        "mania": [
+          104151
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:24:38Z"
+}

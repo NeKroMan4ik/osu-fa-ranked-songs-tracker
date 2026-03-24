@@ -1,0 +1,92 @@
+{
+  "id": 407,
+  "name": "Cansol",
+  "tracks": [
+    {
+      "title": "1,2,3,4!",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1926697
+        ],
+        "taiko": [
+          1658671
+        ]
+      }
+    },
+    {
+      "title": "1,2,3,4! Overclocked Edition",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2208377
+        ]
+      }
+    },
+    {
+      "title": "Curtain Call",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Once Again",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Once Again (VIP)",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2215608
+        ]
+      }
+    },
+    {
+      "title": "Out of Place",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2475329
+        ]
+      }
+    },
+    {
+      "title": "Train of Thought",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2155531,
+          2444085
+        ],
+        "fruits": [
+          2247007,
+          2414790
+        ],
+        "mania": [
+          2228034,
+          2267033
+        ],
+        "osu": [
+          2171475,
+          2177811
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:37:52Z"
+}

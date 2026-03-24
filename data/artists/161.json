@@ -1,0 +1,105 @@
+{
+  "id": 161,
+  "name": "m108",
+  "tracks": [
+    {
+      "title": "* Crow Solace *",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2459977
+        ],
+        "taiko": [
+          1450831
+        ],
+        "mania": [
+          354157
+        ]
+      }
+    },
+    {
+      "title": "Crescent Sakura",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1449942,
+          1828485
+        ]
+      }
+    },
+    {
+      "title": "Electro Tectrium",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Le Jurden Du Reve (instrumental)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lily Lisette",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shining Stella",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shinku no Senkou",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1551011
+        ]
+      }
+    },
+    {
+      "title": "STARDUST CITY",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sunflower",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1403962
+        ]
+      }
+    },
+    {
+      "title": "The Sky is The Limit",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "XIII Charlotte",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1400205
+        ],
+        "mania": [
+          1366994
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:26:34Z"
+}

@@ -1,0 +1,89 @@
+{
+  "id": 342,
+  "name": "yaseta",
+  "tracks": [
+    {
+      "title": "Aiming!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Arty Party",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Bluenation",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          707032,
+          1883311,
+          1956864,
+          2428871
+        ],
+        "taiko": [
+          1149883,
+          1455404
+        ]
+      }
+    },
+    {
+      "title": "Dreamy Goat",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1917139
+        ]
+      }
+    },
+    {
+      "title": "Duckgroove",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Future Light",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Labyrinth",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1595581
+        ]
+      }
+    },
+    {
+      "title": "Nightscape",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1794782
+        ]
+      }
+    },
+    {
+      "title": "Soleily & yaseta - HEART WAVE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Wommotion (Game Edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:45:12Z"
+}

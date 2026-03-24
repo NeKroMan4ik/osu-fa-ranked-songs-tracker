@@ -1,0 +1,139 @@
+{
+  "id": 141,
+  "name": "nora2r",
+  "tracks": [
+    {
+      "title": "B.B.K.K.B.K.K.",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2378320
+        ],
+        "taiko": [
+          1396013
+        ],
+        "osu": [
+          1372554
+        ]
+      }
+    },
+    {
+      "title": "Best Smile",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Brave Your Mind feat. Takeda Eruru",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Daybreak Trustshot",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dreadnought",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1393933
+        ],
+        "taiko": [
+          361306,
+          606308
+        ],
+        "mania": [
+          361643,
+          400351,
+          555681
+        ],
+        "osu": [
+          361306
+        ]
+      }
+    },
+    {
+      "title": "Energy Of The Sun",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Frozen System",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "GO BACK 2 YOUR RAVE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Memory Of Sunrise",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1158978
+        ],
+        "taiko": [
+          579893
+        ]
+      }
+    },
+    {
+      "title": "Modern Dream",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "My Little Secret feat. Kazunari Ruse",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "My World feat. Kazunari Ruse",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "New World",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          324294,
+          910843
+        ]
+      }
+    },
+    {
+      "title": "Regain Blue feat. Sennzai",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Trick Stick",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "WINGS",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:43:26Z"
+}

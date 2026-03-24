@@ -1,0 +1,94 @@
+{
+  "id": 192,
+  "name": "Wiklund",
+  "tracks": [
+    {
+      "title": "Billy Boogie",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          9040,
+          22082
+        ]
+      }
+    },
+    {
+      "title": "Crystal Dimension",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          11100
+        ]
+      }
+    },
+    {
+      "title": "Joy of Living",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          9197
+        ]
+      }
+    },
+    {
+      "title": "Makeshift Clone",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mr Turbo Sailor",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nova Factory",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tainted Tune",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Digital Force",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          11153
+        ]
+      }
+    },
+    {
+      "title": "Whip the Blip",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          8299
+        ]
+      }
+    },
+    {
+      "title": "Wing Beats",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          6499
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:41:52Z"
+}

@@ -1,0 +1,186 @@
+{
+  "id": 459,
+  "name": "Ludicin",
+  "tracks": [
+    {
+      "title": "Bismuth",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2016290,
+          2017887,
+          2025951,
+          2096298,
+          2141496,
+          2320454
+        ],
+        "osu": [
+          2111658
+        ],
+        "taiko": [
+          1984610
+        ]
+      }
+    },
+    {
+      "title": "Clinozoisite",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2112596,
+          2120625,
+          2129939,
+          2241559,
+          2299394
+        ],
+        "taiko": [
+          2261417
+        ],
+        "osu": [
+          2134656,
+          2257992
+        ]
+      }
+    },
+    {
+      "title": "Echoes of Memoria",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2216111,
+          2218336,
+          2220030,
+          2246382,
+          2383964,
+          2402301
+        ],
+        "fruits": [
+          2271235
+        ],
+        "taiko": [
+          2223909,
+          2228214
+        ],
+        "osu": [
+          2214238,
+          2217155
+        ]
+      }
+    },
+    {
+      "title": "Everlasting Eternity",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2069235,
+          2099753,
+          2266951
+        ],
+        "osu": [
+          2096913,
+          2194976,
+          2233505,
+          2236074
+        ],
+        "taiko": [
+          2212374
+        ]
+      }
+    },
+    {
+      "title": "Fallen Symphony",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1925721,
+          1948301,
+          2114750
+        ],
+        "taiko": [
+          1957129
+        ],
+        "osu": [
+          1952187
+        ]
+      }
+    },
+    {
+      "title": "Lost Requiem",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2325151,
+          2325184,
+          2327411,
+          2330141,
+          2365588
+        ],
+        "fruits": [
+          2346824
+        ]
+      }
+    },
+    {
+      "title": "Luminency",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Obliterate",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Onus Regulus",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2046363
+        ]
+      }
+    },
+    {
+      "title": "Signal",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2364931
+        ]
+      }
+    },
+    {
+      "title": "State of Mind",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:24:58Z"
+}

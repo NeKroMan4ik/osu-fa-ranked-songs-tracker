@@ -1,0 +1,128 @@
+{
+  "id": 29,
+  "name": "Culprate",
+  "tracks": [
+    {
+      "title": "Acid Rain",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Culprate & Au5 - Impulse",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Culprate & Bloom - Aurora",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Culprate & Dictate - Pencilina",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Culprate & Joe Ford - Gaucho",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Culprate & Roger Wilco - Mutant",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Culprate & Signal - Hydraulic",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Culprate & Skorpion - Jester",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Culprate & Zenji - Ghostmachine",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Culprate, Keota & Sophie Meiers - Mechanic Heartbeat",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Florn",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2322253
+        ],
+        "osu": [
+          851543
+        ]
+      }
+    },
+    {
+      "title": "Jalaana (osu! ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Junglist Acid (osu! Edit)",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2317907
+        ],
+        "mania": [
+          2287873
+        ]
+      }
+    },
+    {
+      "title": "Lightfold",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Relucent",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Whispers (Part II)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          848837
+        ]
+      }
+    },
+    {
+      "title": "Yin",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1939038
+        ],
+        "osu": [
+          351403
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T12:23:48Z"
+}

@@ -1,0 +1,69 @@
+{
+  "id": 446,
+  "name": "ikaruga_nex",
+  "tracks": [
+    {
+      "title": "After The Rain",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "BLAZES ASSAULT",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ikaruga_nex vs. Kagetora. - Grabinschrift der Goetter",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lilith ambivalence lovers",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1084460
+        ]
+      }
+    },
+    {
+      "title": "Mirage",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ReviXy",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1001172
+        ]
+      }
+    },
+    {
+      "title": "SICK ROCK CRAZY",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2323478
+        ],
+        "mania": [
+          2044131
+        ]
+      }
+    },
+    {
+      "title": "ultimer",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:07:12Z"
+}

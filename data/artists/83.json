@@ -1,0 +1,210 @@
+{
+  "id": 83,
+  "name": "Thank You Scientist",
+  "tracks": [
+    {
+      "title": "A Wolf In Cheap Clothing",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Anchor",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2190628
+        ]
+      }
+    },
+    {
+      "title": "Birdwatching",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1092482
+        ]
+      }
+    },
+    {
+      "title": "Blue Automatic",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Caverns",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1991221
+        ]
+      }
+    },
+    {
+      "title": "Chromology",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Everyday Ghosts",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "FXMLDR",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2041591
+        ],
+        "osu": [
+          1494989
+        ]
+      }
+    },
+    {
+      "title": "Geronimo",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Life of Vermin",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1217706
+        ]
+      }
+    },
+    {
+      "title": "Mr. Invisible",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1130581,
+          2240017
+        ]
+      }
+    },
+    {
+      "title": "My Famed Disappearing Act",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          765338
+        ]
+      }
+    },
+    {
+      "title": "Need More Input",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Psychopomp",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2390786
+        ]
+      }
+    },
+    {
+      "title": "Rube Goldberg Variations",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1217737
+        ]
+      }
+    },
+    {
+      "title": "Son of a Serpent",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2389336
+        ]
+      }
+    },
+    {
+      "title": "Swarm",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2330669
+        ]
+      }
+    },
+    {
+      "title": "Terraformer",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Amateur Arsonist's Handbook",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1931730
+        ],
+        "osu": [
+          1184482,
+          1443356
+        ],
+        "taiko": [
+          1254893
+        ]
+      }
+    },
+    {
+      "title": "The Somnambulist",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1180544
+        ]
+      }
+    },
+    {
+      "title": "Wrinkle",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1236118
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T14:50:11Z"
+}

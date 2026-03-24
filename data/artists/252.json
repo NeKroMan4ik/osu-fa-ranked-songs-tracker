@@ -1,0 +1,136 @@
+{
+  "id": 252,
+  "name": "my sound life",
+  "tracks": [
+    {
+      "title": "02:15",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1777079,
+          2215787
+        ]
+      }
+    },
+    {
+      "title": "AIR",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1964847
+        ],
+        "osu": [
+          190366,
+          1814686
+        ]
+      }
+    },
+    {
+      "title": "Chata - re:construction",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "crossing",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Endroll",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2287933
+        ]
+      }
+    },
+    {
+      "title": "framework",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "hello",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1734686
+        ]
+      }
+    },
+    {
+      "title": "LINE",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1931568
+        ],
+        "osu": [
+          1769017
+        ]
+      }
+    },
+    {
+      "title": "meiro",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "omega",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1728309
+        ]
+      }
+    },
+    {
+      "title": "step! jump!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "waterflowing",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "yamisame",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1812908
+        ]
+      }
+    },
+    {
+      "title": "yoku",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2031380,
+          2211153
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:39:00Z"
+}

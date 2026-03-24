@@ -1,0 +1,146 @@
+{
+  "id": 373,
+  "name": "Supire",
+  "tracks": [
+    {
+      "title": "Aquaphilia",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1811200
+        ]
+      }
+    },
+    {
+      "title": "Borderline Of The Moon",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1901650
+        ]
+      }
+    },
+    {
+      "title": "Dead Aire",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2347284
+        ]
+      }
+    },
+    {
+      "title": "DJKurara & Supire - Search And Destroy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Forgotten Hate",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2108707,
+          2406745
+        ],
+        "osu": [
+          1407936
+        ]
+      }
+    },
+    {
+      "title": "Helios",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2368014
+        ]
+      }
+    },
+    {
+      "title": "kaitendaentai - Toki no Ryousen (Supire Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "KUKRI",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2479874,
+          2479895
+        ]
+      }
+    },
+    {
+      "title": "Nebula",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2335426
+        ],
+        "taiko": [
+          2166486
+        ]
+      }
+    },
+    {
+      "title": "Sabbath",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2101659
+        ]
+      }
+    },
+    {
+      "title": "Spire - Evening Sky Force",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Spire - Libidinem",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Spire - Sayounara",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Spire - Somnambulism",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Last Man",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2069662
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:20:06Z"
+}

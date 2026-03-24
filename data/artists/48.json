@@ -1,0 +1,109 @@
+{
+  "id": 48,
+  "name": "KNOWER",
+  "tracks": [
+    {
+      "title": "All Time",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "BUTTS TITS MONEY",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cry Tomorrow, Laugh Today",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1075865
+        ]
+      }
+    },
+    {
+      "title": "Die Right Now",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hanging On",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          858293
+        ]
+      }
+    },
+    {
+      "title": "Lose My Mind",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "More Than Just Another Try",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Overtime",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1170697
+        ],
+        "taiko": [
+          927890,
+          1035846
+        ]
+      }
+    },
+    {
+      "title": "Pizza",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Real Thing",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Government Knows",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Time Traveler",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2198875
+        ],
+        "mania": [
+          1612144
+        ],
+        "taiko": [
+          622136
+        ]
+      }
+    },
+    {
+      "title": "What's In Your Heart",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T14:05:14Z"
+}

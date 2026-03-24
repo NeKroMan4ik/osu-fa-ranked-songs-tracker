@@ -1,0 +1,92 @@
+{
+  "id": 50,
+  "name": "Native Construct",
+  "tracks": [
+    {
+      "title": "Chromatic Aberration",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1080164
+        ],
+        "osu": [
+          1062098
+        ]
+      }
+    },
+    {
+      "title": "Chromatic Lights",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1077275
+        ]
+      }
+    },
+    {
+      "title": "Come Hell or High Water",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1051167,
+          1298401
+        ],
+        "mania": [
+          1055375
+        ]
+      }
+    },
+    {
+      "title": "Mute",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          951320,
+          1250251
+        ],
+        "taiko": [
+          1053262
+        ]
+      }
+    },
+    {
+      "title": "Passage",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Spark of the Archon",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1064929
+        ]
+      }
+    },
+    {
+      "title": "Your Familiar Face",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1053074
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T14:06:10Z"
+}

@@ -1,0 +1,110 @@
+{
+  "id": 13,
+  "name": "Kuba Oms",
+  "tracks": [
+    {
+      "title": "7 Seconds",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1962715
+        ]
+      }
+    },
+    {
+      "title": "All in All",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Baby, Hold on to Your Dreams",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Beautiful Uncertainty (Redux)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          801774,
+          936450
+        ]
+      }
+    },
+    {
+      "title": "Come Together",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Don't Stop Fallin'",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Electrolove",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Love is my Drug",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "My Friend",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          731490
+        ]
+      }
+    },
+    {
+      "title": "My Love",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2299967
+        ],
+        "osu": [
+          163112,
+          163126,
+          163924,
+          164758,
+          165367,
+          1718175
+        ],
+        "taiko": [
+          1132237
+        ]
+      }
+    },
+    {
+      "title": "Sex is Good",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "This is Love",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Velvet Revolution",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T13:04:49Z"
+}

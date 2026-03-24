@@ -1,0 +1,265 @@
+{
+  "id": 220,
+  "name": "Marmalade butcher",
+  "tracks": [
+    {
+      "title": "-273.15C",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "=/=Virtual Futural",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2472364
+        ],
+        "taiko": [
+          2347292
+        ]
+      }
+    },
+    {
+      "title": "Akerue",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Amanita",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2270594
+        ],
+        "osu": [
+          1473778,
+          1604167
+        ]
+      }
+    },
+    {
+      "title": "Anima",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chi-Se",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cinnamon Chocolat Cakes",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cladocera",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "CuttingEdgeInsaneArtifact",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2321277,
+          2416532
+        ],
+        "osu": [
+          2409561
+        ]
+      }
+    },
+    {
+      "title": "Drop",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Floccinaucinihilipilification",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2359102
+        ],
+        "taiko": [
+          1540010
+        ]
+      }
+    },
+    {
+      "title": "Fukasetsu Fukasetsuten Fukanou Sekai",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1492715
+        ]
+      }
+    },
+    {
+      "title": "Immortality Math Club",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1787141
+        ],
+        "taiko": [
+          1762209
+        ]
+      }
+    },
+    {
+      "title": "In lacrimis",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kouka Suru Toshi",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mirage Age",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1624087
+        ],
+        "taiko": [
+          1520484
+        ]
+      }
+    },
+    {
+      "title": "Monochroma",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "NaRKiSSuS",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2288181
+        ]
+      }
+    },
+    {
+      "title": "NoisiA",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Noxious",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2096845
+        ],
+        "fruits": [
+          2015739
+        ],
+        "mania": [
+          1993035
+        ],
+        "osu": [
+          1638116,
+          1820504
+        ]
+      }
+    },
+    {
+      "title": "Open Scar Unending",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2471983
+        ]
+      }
+    },
+    {
+      "title": "SIX BILLION MNSN",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SUTEGORO",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2400346
+        ]
+      }
+    },
+    {
+      "title": "SYAKUNETSU",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ushinahareru Runazuki",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1486395
+        ]
+      }
+    },
+    {
+      "title": "VisioN",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Waltz for Chroma",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Y/M/K/M",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1502963,
+          2275714
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:28:49Z"
+}

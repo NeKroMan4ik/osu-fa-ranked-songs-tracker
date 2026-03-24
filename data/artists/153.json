@@ -1,0 +1,83 @@
+{
+  "id": 153,
+  "name": "Aethoro",
+  "tracks": [
+    {
+      "title": "A Town Beside the Ocean",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Arielle's Wish",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Awakened",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Deertracks",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2374121
+        ],
+        "fruits": [
+          2126258
+        ]
+      }
+    },
+    {
+      "title": "Firefly Forest",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Life",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Riverlight (feat. vally.exe)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sanctuary",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Snowy",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2119716
+        ]
+      }
+    },
+    {
+      "title": "Woodfairies",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2052811
+        ],
+        "osu": [
+          1309729
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:17:18Z"
+}

@@ -1,0 +1,97 @@
+{
+  "id": 178,
+  "name": "wotoha",
+  "tracks": [
+    {
+      "title": "Cobalt Dreams",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Digital Life Hacker",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1509257,
+          1516617,
+          2440729
+        ],
+        "taiko": [
+          1522733
+        ]
+      }
+    },
+    {
+      "title": "go w / da flo (feat. YACA IN DA HOUSE & KBSNK)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Happy (fam) 2",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "jelly girl",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1542359
+        ]
+      }
+    },
+    {
+      "title": "Lonerism",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "O108ROCKET (feat. Neko Hacker)",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1510106,
+          2289949
+        ],
+        "mania": [
+          2137706
+        ],
+        "taiko": [
+          1460394
+        ]
+      }
+    },
+    {
+      "title": "prism song",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Psychologic (feat. nyankobrq)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "TESHiKANi",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2347413,
+          2437728
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:42:23Z"
+}

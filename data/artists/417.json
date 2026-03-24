@@ -1,0 +1,39 @@
+{
+  "id": 417,
+  "name": "Billx",
+  "tracks": [
+    {
+      "title": "Equinox",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          692910
+        ]
+      }
+    },
+    {
+      "title": "Khalinkaa",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Punishment (Dustvoxx Remix)",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1000065
+        ]
+      }
+    },
+    {
+      "title": "Shankara",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T20:31:19Z"
+}

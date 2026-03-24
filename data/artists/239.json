@@ -1,0 +1,77 @@
+{
+  "id": 239,
+  "name": "MisoilePunch",
+  "tracks": [
+    {
+      "title": "Connect feeling",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mesheer",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1907017
+        ],
+        "osu": [
+          1862429
+        ],
+        "mania": [
+          1698761
+        ]
+      }
+    },
+    {
+      "title": "MisoilePunch feat. KIRARI - I Re:s",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MisoilePunch ~Harumaki Soe~ - DisXloss",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MisoilePunch ~Mikan Shirugake~ - Whyte pain",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MisoilePunch ~pan soe~ - MeTear'n TruX",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MisoilePunch ~Shiratama soe~ - LosTear'n HeriX",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MisoilePunch ~Takenoko Soe~ - Jack Out KIllER",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Overrrload!!",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1837749
+        ]
+      }
+    },
+    {
+      "title": "Re:union",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:32:56Z"
+}

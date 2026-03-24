@@ -1,0 +1,84 @@
+{
+  "id": 496,
+  "name": "Drazically",
+  "tracks": [
+    {
+      "title": "Drazically & Biddle3 - Satisfactory",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "EMOTE TO DEAATTHH!!!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ghost2PROTOCOL",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "JinoBeats - [battle of aetheria.] (Drazically's \"MYSTICCORE\" Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "JinoBeats, Drazically, Double-U - INSPIDITY",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kafkaesque",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moonlight Maestro",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "OMEGA",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Pneumatic",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Reality:SHIFT (feat. Hatsune Miku)",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2362316
+        ]
+      }
+    },
+    {
+      "title": "ReiNcarnation",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2334915
+        ]
+      }
+    },
+    {
+      "title": "Sacrifice //MANIA//",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tanger & Drazically - +eravol+",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T20:46:16Z"
+}

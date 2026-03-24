@@ -1,0 +1,49 @@
+{
+  "id": 344,
+  "name": "True North",
+  "tracks": [
+    {
+      "title": "Ashes",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Disconnect",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2386190
+        ]
+      }
+    },
+    {
+      "title": "Fake Love",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1440001
+        ]
+      }
+    },
+    {
+      "title": "Piece Of You",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tearing at the Seams",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Time To Reflect",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:30:12Z"
+}

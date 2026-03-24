@@ -1,0 +1,48 @@
+{
+  "id": 391,
+  "name": "Knife",
+  "tracks": [
+    {
+      "title": "Biyaku",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "code",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Jouzai",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Negaigoto Liner 2020",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2049932
+        ]
+      }
+    },
+    {
+      "title": "Story",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2109511
+        ],
+        "fruits": [
+          2096026
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:16:38Z"
+}

@@ -1,0 +1,469 @@
+{
+  "id": 73,
+  "name": "LeaF",
+  "tracks": [
+    {
+      "title": "Aleph-0",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2406499
+        ],
+        "taiko": [
+          2166675
+        ],
+        "osu": [
+          1364626
+        ]
+      }
+    },
+    {
+      "title": "Aleph-0 (extended ver.)",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1234605,
+          1800224
+        ]
+      }
+    },
+    {
+      "title": "Alice in Misanthrope -Ensei Alice-",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          797236
+        ],
+        "osu": [
+          588475,
+          782989
+        ],
+        "taiko": [
+          523315
+        ],
+        "mania": [
+          520399
+        ]
+      }
+    },
+    {
+      "title": "Arianrhod",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1156514,
+          1163990,
+          1174631
+        ],
+        "taiko": [
+          1128939
+        ],
+        "mania": [
+          366362
+        ]
+      }
+    },
+    {
+      "title": "ATHAZA",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1154007
+        ]
+      }
+    },
+    {
+      "title": "ATHAZA (extended ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Calamity Fortune",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2288990
+        ],
+        "osu": [
+          96103,
+          359168,
+          2123533
+        ],
+        "taiko": [
+          96103,
+          1603159,
+          1809241
+        ],
+        "fruits": [
+          114741
+        ]
+      }
+    },
+    {
+      "title": "Calamity Fortune (extended ver.)",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1350080,
+          2009925
+        ],
+        "mania": [
+          1711883
+        ],
+        "osu": [
+          1626172
+        ],
+        "fruits": [
+          1180607
+        ]
+      }
+    },
+    {
+      "title": "Chronostasis",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          193469
+        ]
+      }
+    },
+    {
+      "title": "Doppelganger",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          407153,
+          2352480
+        ],
+        "taiko": [
+          299136,
+          1130071,
+          1239213
+        ]
+      }
+    },
+    {
+      "title": "Doppelganger (extended ver.)",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1980729
+        ],
+        "taiko": [
+          833092
+        ]
+      }
+    },
+    {
+      "title": "Evanescent",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2439440
+        ],
+        "taiko": [
+          2405842
+        ],
+        "fruits": [
+          440997
+        ],
+        "osu": [
+          227126,
+          227234,
+          440997
+        ]
+      }
+    },
+    {
+      "title": "Evanescent (extended ver.)",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1890900
+        ],
+        "fruits": [
+          1784479
+        ],
+        "osu": [
+          1057706
+        ]
+      }
+    },
+    {
+      "title": "Heterochromia Iridis",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "I",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1128580
+        ],
+        "mania": [
+          426638
+        ],
+        "osu": [
+          99244
+        ]
+      }
+    },
+    {
+      "title": "I (extended ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kyouki Ranbu",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2194386
+        ],
+        "fruits": [
+          1939741
+        ],
+        "osu": [
+          1312129
+        ],
+        "taiko": [
+          394552
+        ]
+      }
+    },
+    {
+      "title": "Kyouki Ranbu (extended ver.)",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1371373,
+          1600135
+        ],
+        "fruits": [
+          1410668,
+          1445309
+        ],
+        "taiko": [
+          1154434,
+          1158149
+        ]
+      }
+    },
+    {
+      "title": "Lyrith -Meikyuu Lilith-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MARENOL",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2424356
+        ],
+        "osu": [
+          1070820,
+          1136149
+        ],
+        "taiko": [
+          966590
+        ]
+      }
+    },
+    {
+      "title": "Melhenia -malchenia-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MEPHISTO",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          106212,
+          2194538
+        ],
+        "osu": [
+          106212,
+          714024
+        ],
+        "mania": [
+          106212
+        ],
+        "fruits": [
+          106212
+        ]
+      }
+    },
+    {
+      "title": "Mere Fancy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mere Fancy (extended ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mopemope",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1097600,
+          1174616,
+          2063704
+        ],
+        "mania": [
+          1154288
+        ],
+        "taiko": [
+          1128384
+        ]
+      }
+    },
+    {
+      "title": "Mopemope (extended ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Poison AND/OR Affection",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1130436
+        ],
+        "taiko": [
+          245517
+        ]
+      }
+    },
+    {
+      "title": "Poison AND/OR Affection (extended ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Wizdomiot",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1128274
+        ],
+        "mania": [
+          592272
+        ],
+        "taiko": [
+          352682
+        ],
+        "osu": [
+          336099
+        ]
+      }
+    },
+    {
+      "title": "Wizdomiot (extended ver.)",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1360248
+        ],
+        "osu": [
+          1220268
+        ],
+        "fruits": [
+          1155135
+        ],
+        "taiko": [
+          988522
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T14:41:06Z"
+}

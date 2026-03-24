@@ -1,0 +1,215 @@
+{
+  "id": 199,
+  "name": "rejection",
+  "tracks": [
+    {
+      "title": "Aimai Attitude (feat. Nakamura Sanso)",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1846269,
+          2473104
+        ],
+        "mania": [
+          2235694,
+          2325129,
+          2344912,
+          2399670
+        ],
+        "osu": [
+          1601852
+        ]
+      }
+    },
+    {
+      "title": "Around You",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Around You (osu! edit)",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2350858
+        ]
+      }
+    },
+    {
+      "title": "Calling",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Calling (osu! edit)",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1868387,
+          2280366
+        ],
+        "osu": [
+          1458359
+        ]
+      }
+    },
+    {
+      "title": "Goodbye Goodnight (feat. shully)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Goodbye Goodnight (feat. shully) (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Invisible Scars (feat. mami)",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2234483
+        ]
+      }
+    },
+    {
+      "title": "Invisible Scars (feat. mami) (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moony eyes (feat. Such)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moony eyes (feat. Such) (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mou Ikkai wo Endless (feat. Nakamura Sanso)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mou Ikkai wo Endless (feat. Nakamura Sanso) (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Open Your Heart (feat. Renko)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Open Your Heart (feat. Renko) (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Reckless",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Reckless (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "rejection, RANASOL - All My Friends",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Signal (feat. Such)",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1639202
+        ]
+      }
+    },
+    {
+      "title": "Signal (feat. Such) (osu! edit)",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2324428
+        ]
+      }
+    },
+    {
+      "title": "Signal (feat. Such) - Mameyudoufu Remix",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Signal (feat. Such) - Mameyudoufu Remix (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Way of Adventure (feat. Kusaka Akira)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Way of Adventure (feat. Kusaka Akira) (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "White Canvas (feat. Aitsuki Nakuru)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "White Canvas (feat. Aitsuki Nakuru) (osu! edit)",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1881077,
+          2312897
+        ],
+        "taiko": [
+          2123554
+        ],
+        "osu": [
+          1599605
+        ]
+      }
+    },
+    {
+      "title": "Zero Gravity",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Zero Gravity (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:56:29Z"
+}

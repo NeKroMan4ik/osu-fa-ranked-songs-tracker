@@ -1,0 +1,85 @@
+{
+  "id": 360,
+  "name": "Aice room",
+  "tracks": [
+    {
+      "title": "DREAMY PLANET (feat. YUC'e)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2198372
+        ]
+      }
+    },
+    {
+      "title": "DREAMY PLANET (feat. YUC'e) (EmoCosine Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "For U",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2025686
+        ]
+      }
+    },
+    {
+      "title": "Grab the Joystick!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "I wan chuu!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "It's Juicy!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Miss U",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nor - Fantasy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nor - Fantasy (Cut Ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nyan Nyan Dive",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nyan Nyan Dive (EmoCosine Remix)",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1999339
+        ]
+      }
+    },
+    {
+      "title": "The BATTLE!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T20:18:00Z"
+}

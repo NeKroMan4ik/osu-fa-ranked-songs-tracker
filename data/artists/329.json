@@ -1,0 +1,86 @@
+{
+  "id": 329,
+  "name": "tsunamix",
+  "tracks": [
+    {
+      "title": "Boom Boom Satellite Cannon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "cardinal bud -NEW MIX-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dokkiidoki <3 Princess -NEW MIX-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Gensou wa Hakanaki Watashi no Tame ni -Shinroku-",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2130980
+        ]
+      }
+    },
+    {
+      "title": "Kaguya x ECSTASY",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "new moon illusion",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2124429,
+          2136127
+        ]
+      }
+    },
+    {
+      "title": "Period. ~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1550437
+        ],
+        "osu": [
+          223092
+        ]
+      }
+    },
+    {
+      "title": "Period. ~ Zetsubou to Hametsu no Kyoukai de Chi Ru Kibou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Satori RHYTHM -Satorism-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "stella maris",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2120912
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:30:27Z"
+}

@@ -1,0 +1,313 @@
+{
+  "id": 306,
+  "name": "Feint",
+  "tracks": [
+    {
+      "title": "161914",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          224157
+        ]
+      }
+    },
+    {
+      "title": "Defiant (feat. Laura Brehm)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Doxx & Feint - Mind In Motion",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Doxx & Feint - The Pink Fields",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Drifters (feat. Elizaveta)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          951304
+        ]
+      }
+    },
+    {
+      "title": "Face Down",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          240329,
+          324369
+        ]
+      }
+    },
+    {
+      "title": "Feint & Andromedik - I'll Be There (feat. Cammie Robinson)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Feint & Boyinaband - Time Bomb (feat. Veela)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Feint & Laura Brehm - Solace",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "For The Fire (feat. Eric Hayes)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Homebound",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1857424
+        ],
+        "osu": [
+          276967
+        ]
+      }
+    },
+    {
+      "title": "Horizons",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Laurence",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1988617
+        ],
+        "osu": [
+          997556
+        ]
+      }
+    },
+    {
+      "title": "MUZZ, Koven & Feint - Worth The Lie",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "One Last Time",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          219941
+        ]
+      }
+    },
+    {
+      "title": "Outbreak (feat. MYLK)",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          768890,
+          1082688
+        ],
+        "osu": [
+          672530,
+          738915
+        ]
+      }
+    },
+    {
+      "title": "Phosphor (feat. Miyoki)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Promises",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Silent Light",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sky Dance",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          234125
+        ],
+        "osu": [
+          146251
+        ]
+      }
+    },
+    {
+      "title": "Snake Eyes (feat. CoMa)",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          361494,
+          1224094
+        ],
+        "fruits": [
+          1034056
+        ],
+        "taiko": [
+          885801
+        ]
+      }
+    },
+    {
+      "title": "Starseed (feat. Leah Rye)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1868339
+        ]
+      }
+    },
+    {
+      "title": "Stray",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          384535
+        ]
+      }
+    },
+    {
+      "title": "Take It In (feat. Koven)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          616023
+        ]
+      }
+    },
+    {
+      "title": "The Journey (feat. Veela)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          767797,
+          770668,
+          1677263
+        ]
+      }
+    },
+    {
+      "title": "Times Like These",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tower Of Heaven (You Are Slaves)",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2344392
+        ],
+        "taiko": [
+          1951495
+        ],
+        "osu": [
+          128931
+        ]
+      }
+    },
+    {
+      "title": "Vagrant (feat. Veela)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          354537,
+          354792
+        ]
+      }
+    },
+    {
+      "title": "We Won't Be Alone (feat. Laura Brehm)",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2363139
+        ],
+        "mania": [
+          1048385
+        ],
+        "osu": [
+          357539,
+          399328
+        ]
+      }
+    },
+    {
+      "title": "Weavers",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Words (feat. Laura Brehm)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1057350,
+          2243118
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:52:35Z"
+}

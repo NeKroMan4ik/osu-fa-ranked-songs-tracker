@@ -1,0 +1,57 @@
+{
+  "id": 165,
+  "name": "Kitazawa Kyouhei",
+  "tracks": [
+    {
+      "title": "CANNIBALISM",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "CONSUMPTION",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "EXOD",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MISANTHROPE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ONIRIC",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2388192
+        ],
+        "osu": [
+          1373644
+        ]
+      }
+    },
+    {
+      "title": "OPHELIE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "PARADISE KILLER",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "TRUE-QUEEN",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:16:30Z"
+}

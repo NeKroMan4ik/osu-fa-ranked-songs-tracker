@@ -1,0 +1,58 @@
+{
+  "id": 382,
+  "name": "1914",
+  "tracks": [
+    {
+      "title": "A7V Mephisto",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Arrival. The Meuse-Argonne",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1884014
+        ],
+        "osu": [
+          1734521
+        ]
+      }
+    },
+    {
+      "title": "Don't Tread on Me (Harlem Hellfighters)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "FN .380 ACP#19074",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1736332
+        ]
+      }
+    },
+    {
+      "title": "Passchenhell (feat. David Ingram)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Pillars of Fire (The Battle of Messines)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Hundred Days Offensive",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-23T20:55:50Z"
+}

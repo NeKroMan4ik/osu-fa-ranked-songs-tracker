@@ -1,0 +1,60 @@
+{
+  "id": 278,
+  "name": "NILFRUITS",
+  "tracks": [
+    {
+      "title": "Arandano",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1786165
+        ]
+      }
+    },
+    {
+      "title": "Haiya",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "High-Low Menou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ironina",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1767671
+        ]
+      }
+    },
+    {
+      "title": "Salvador",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1541499
+        ]
+      }
+    },
+    {
+      "title": "Unniv.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "YESMAN",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:41:50Z"
+}

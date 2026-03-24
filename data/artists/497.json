@@ -1,0 +1,52 @@
+{
+  "id": 497,
+  "name": "kikoyu",
+  "tracks": [
+    {
+      "title": "a shadow-bound beast",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "conformity",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2494772
+        ],
+        "osu": [
+          2462985
+        ]
+      }
+    },
+    {
+      "title": "departmefromtotaldramaisland",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "hypocrite",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "i. immaturity",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ii. maturity",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "mentavarium",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:14:27Z"
+}

@@ -1,0 +1,185 @@
+{
+  "id": 22,
+  "name": "VINXIS",
+  "tracks": [
+    {
+      "title": "A Centralized View",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          972302
+        ],
+        "osu": [
+          780932
+        ]
+      }
+    },
+    {
+      "title": "A Long Trail of Dirt",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Acrimony",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Applause",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          788001
+        ],
+        "taiko": [
+          501719,
+          788001
+        ],
+        "osu": [
+          501719
+        ]
+      }
+    },
+    {
+      "title": "Chima",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1391615
+        ]
+      }
+    },
+    {
+      "title": "Don't Want Any",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Facade",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1001625
+        ],
+        "taiko": [
+          918446
+        ]
+      }
+    },
+    {
+      "title": "Free",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Greetings",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          288974,
+          788201,
+          800526,
+          979100,
+          1038319
+        ],
+        "taiko": [
+          288974,
+          876282
+        ],
+        "fruits": [
+          815162
+        ]
+      }
+    },
+    {
+      "title": "Left Behind",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2338797
+        ],
+        "osu": [
+          780372
+        ]
+      }
+    },
+    {
+      "title": "Sidetracked Day",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1500887,
+          2203299
+        ],
+        "osu": [
+          728276,
+          838182,
+          1008679,
+          1031435,
+          2162554
+        ],
+        "mania": [
+          809078
+        ],
+        "taiko": [
+          762693
+        ]
+      }
+    },
+    {
+      "title": "Sleep",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Take",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          828670
+        ],
+        "osu": [
+          503849
+        ]
+      }
+    },
+    {
+      "title": "Three Times the Original Charm",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Time To Think",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T13:19:05Z"
+}

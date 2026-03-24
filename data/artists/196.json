@@ -1,0 +1,182 @@
+{
+  "id": 196,
+  "name": "Sephid",
+  "tracks": [
+    {
+      "title": "Break The Seal",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chapters",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Critical Cannonball",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Critical Cannonball (Extended ver.)",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2144024
+        ],
+        "osu": [
+          1189616
+        ]
+      }
+    },
+    {
+      "title": "Cross-D Skyline",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2145826
+        ]
+      }
+    },
+    {
+      "title": "Enneaquest",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Epistrofi",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2211531
+        ],
+        "fruits": [
+          2148620
+        ],
+        "taiko": [
+          1578572
+        ],
+        "osu": [
+          1572038
+        ]
+      }
+    },
+    {
+      "title": "Ethereal Conclusion",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hermatical Reverie",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lost In Farside",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nothing But Seven",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "OVERPROTECTION",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1703896
+        ],
+        "taiko": [
+          1984348
+        ]
+      }
+    },
+    {
+      "title": "Sephid et al. - MONONATI",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sephid feat. darkxixin - Fu Xiang Di Xin De Luo Ri Liu Hao ~ Little Raven",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Striking G10ry!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Subterranean Blastoff",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2059306
+        ]
+      }
+    },
+    {
+      "title": "The Next Arcady",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2123866
+        ],
+        "taiko": [
+          1573388
+        ]
+      }
+    },
+    {
+      "title": "The Public Parallel",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Thunderstrike 1988",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2069877
+        ],
+        "osu": [
+          2055535
+        ]
+      }
+    },
+    {
+      "title": "YJC Ultrastyle",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "YMBK \"Cymbalic Echoes\"",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:08:44Z"
+}

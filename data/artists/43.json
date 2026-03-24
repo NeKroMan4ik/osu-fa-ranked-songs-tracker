@@ -1,0 +1,294 @@
+{
+  "id": 43,
+  "name": "Inferi",
+  "tracks": [
+    {
+      "title": "A Beckoning Thrall",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A Betrayal Unforetold",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1026679
+        ]
+      }
+    },
+    {
+      "title": "A New Breed of Savior",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Aeons Torn",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1441294
+        ]
+      }
+    },
+    {
+      "title": "Behold the Bearer of Light",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1047441,
+          2467522
+        ],
+        "osu": [
+          862573
+        ]
+      }
+    },
+    {
+      "title": "Condemned Assailant",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cursed Unholy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Destroyer",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          921839,
+          2234520
+        ],
+        "taiko": [
+          567140
+        ]
+      }
+    },
+    {
+      "title": "Eldritch Evolution",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1416982
+        ]
+      }
+    },
+    {
+      "title": "Enraged and Drowning Sullen",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Forged in the Phlegethon",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1382721
+        ],
+        "taiko": [
+          1041193
+        ]
+      }
+    },
+    {
+      "title": "Gatherings in the Chamber of Madness",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Malevolent Sanction",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Marching Through the Flames of Tyranny",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2045442
+        ]
+      }
+    },
+    {
+      "title": "Onslaught of the Covenant",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Prelude to a Perilous Fate",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Quest for the Trinity",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1032376
+        ]
+      }
+    },
+    {
+      "title": "Sentenced to Eternal Life",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Smolder in the Ash",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Spellbound Unearthed Terror",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1438969
+        ]
+      }
+    },
+    {
+      "title": "The Abhorrent Art",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1335192
+        ]
+      }
+    },
+    {
+      "title": "The Ancients of Shattered Thrones",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1006161
+        ]
+      }
+    },
+    {
+      "title": "The Endless Siege",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Ophidian Form",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Path of Apotheosis",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Promethean Kings",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          480651,
+          585781
+        ],
+        "taiko": [
+          567468
+        ]
+      }
+    },
+    {
+      "title": "The Ruin of Mankind",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1023681
+        ]
+      }
+    },
+    {
+      "title": "The War Machine Embodiment",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Warrior's Infinite Opus",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Those Who from the Heavens Came",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1516931
+        ],
+        "taiko": [
+          511344
+        ],
+        "osu": [
+          387311
+        ]
+      }
+    },
+    {
+      "title": "Through the Depths",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Thy Menacing Gaze",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Within the Dead Horizon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Wrath of the Fallen One",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1168660
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T13:58:33Z"
+}

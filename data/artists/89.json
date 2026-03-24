@@ -1,0 +1,202 @@
+{
+  "id": 89,
+  "name": "Street",
+  "tracks": [
+    {
+      "title": "2D Universe",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hacking Code",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          668397
+        ],
+        "osu": [
+          584527
+        ]
+      }
+    },
+    {
+      "title": "hakai",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "hayate (with Kamiya Hiroto)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2177210
+        ]
+      }
+    },
+    {
+      "title": "Hestia",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1707295
+        ],
+        "mania": [
+          1423058
+        ],
+        "taiko": [
+          1209521
+        ]
+      }
+    },
+    {
+      "title": "Hishou",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1415719
+        ]
+      }
+    },
+    {
+      "title": "Hypothesis",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kagura",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "kamui (feat. el ma Riu)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Koiyamai (TV Size)",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1212132
+        ],
+        "taiko": [
+          1211980
+        ]
+      }
+    },
+    {
+      "title": "Legend",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Maritime Police",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          681410
+        ]
+      }
+    },
+    {
+      "title": "Phi",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1429217
+        ]
+      }
+    },
+    {
+      "title": "reimei",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Reincarnation",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1239248,
+          1289711,
+          2325817
+        ],
+        "taiko": [
+          1279224
+        ]
+      }
+    },
+    {
+      "title": "Sakura Fubuki",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1224402,
+          1748991
+        ],
+        "osu": [
+          362989,
+          1202610
+        ],
+        "fruits": [
+          1143608
+        ],
+        "taiko": [
+          532669
+        ]
+      }
+    },
+    {
+      "title": "Sakura Fubuki (Iroha ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Street vs. Sin:ck - Adamantite",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "tsumujikaze",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Twin Turbo",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Village of Oasis",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T14:52:30Z"
+}

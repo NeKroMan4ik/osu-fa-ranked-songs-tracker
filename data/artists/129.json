@@ -1,0 +1,80 @@
+{
+  "id": 129,
+  "name": "Phantom Sage",
+  "tracks": [
+    {
+      "title": "Away (feat. Byndy)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Beatdown",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Crystal Clouds",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hollow",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Holystone",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1001794
+        ],
+        "osu": [
+          514942,
+          515297
+        ]
+      }
+    },
+    {
+      "title": "I'll Never Let You Go",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MIKO",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          453386
+        ]
+      }
+    },
+    {
+      "title": "Our Lives Past (feat. Emily Stiles)",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          638612
+        ]
+      }
+    },
+    {
+      "title": "PLUNDER",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "When I'm Gone",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:51:20Z"
+}

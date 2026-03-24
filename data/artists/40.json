@@ -1,0 +1,85 @@
+{
+  "id": 40,
+  "name": "RiraN",
+  "tracks": [
+    {
+      "title": "Daydream",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Explosion",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1242046
+        ]
+      }
+    },
+    {
+      "title": "Full Control",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lose Control",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Make It Move",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ready For The Madness",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1156397,
+          1650835
+        ],
+        "osu": [
+          999054
+        ]
+      }
+    },
+    {
+      "title": "Take The Long Way Home",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1007743
+        ]
+      }
+    },
+    {
+      "title": "The Guardians Of The Sun",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Unshakable",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2071492
+        ],
+        "osu": [
+          988136
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T13:56:06Z"
+}

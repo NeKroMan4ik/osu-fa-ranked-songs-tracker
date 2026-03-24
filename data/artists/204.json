@@ -1,0 +1,104 @@
+{
+  "id": 204,
+  "name": "DJ Raisei",
+  "tracks": [
+    {
+      "title": "#Kurutta Minzoku AGNIKAYANIZM",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "23",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cafe + M!lk + Chocolate",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1884877
+        ]
+      }
+    },
+    {
+      "title": "Elapse Collapse",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Elumth",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fractured Heaven",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2241070
+        ],
+        "taiko": [
+          2169918
+        ]
+      }
+    },
+    {
+      "title": "ISOMERZ (DJ Raisei + seatrus) - Symmetric",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "No Hi-TECH No Life",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2276254
+        ]
+      }
+    },
+    {
+      "title": "Nucleo Synthesis",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "T.R.A.P.",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2002366
+        ],
+        "mania": [
+          1894276
+        ]
+      }
+    },
+    {
+      "title": "ToYou & DJ Raisei - ADHD",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "TWC Sound Team \"Strike Back Squad\" - BUZZ CUTZ",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "XXXMOTIONXXX",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T20:44:58Z"
+}

@@ -1,0 +1,150 @@
+{
+  "id": 82,
+  "name": "Rohi",
+  "tracks": [
+    {
+      "title": "Artifact",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1177744
+        ]
+      }
+    },
+    {
+      "title": "Gllensista",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2376612
+        ],
+        "fruits": [
+          2195558
+        ]
+      }
+    },
+    {
+      "title": "Hitotsu no Chikai yo, Eien no Uta to Nare",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ichiru no Nozomi yo, Ano Tsuki e Hibike",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          95148
+        ]
+      }
+    },
+    {
+      "title": "Kakuzetsu Thanatos",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          76396,
+          1175412,
+          1291836
+        ],
+        "osu": [
+          76396,
+          1151959,
+          2205703
+        ],
+        "mania": [
+          357060
+        ],
+        "fruits": [
+          100203
+        ]
+      }
+    },
+    {
+      "title": "Kanata ni Mau wa Sakura no Senritsu",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2180222
+        ],
+        "taiko": [
+          1176079
+        ],
+        "osu": [
+          1175640
+        ]
+      }
+    },
+    {
+      "title": "Kodoku Egoism",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2144020
+        ],
+        "taiko": [
+          58737,
+          1175341
+        ],
+        "osu": [
+          58737
+        ]
+      }
+    },
+    {
+      "title": "LvC3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1231655
+        ],
+        "taiko": [
+          1176918
+        ]
+      }
+    },
+    {
+      "title": "Nyander*Land",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Slan Leat",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1177073
+        ],
+        "taiko": [
+          1176286
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T14:49:38Z"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 304,
+  "name": "Alestorm",
+  "tracks": [
+    {
+      "title": "1741 (The Battle of Cartagena)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Alestorm",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Death Throes of the Terrorsquid",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Drink",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Keelhauled",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          9215,
+          1537993
+        ]
+      }
+    },
+    {
+      "title": "Mexico",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nancy The Tavern Wench",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1095
+        ]
+      }
+    },
+    {
+      "title": "No Grave but the Sea",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shipwrecked",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2453558
+        ],
+        "osu": [
+          1850895
+        ]
+      }
+    },
+    {
+      "title": "The Quest",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Wenches & Mead",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          10351
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:22:58Z"
+}

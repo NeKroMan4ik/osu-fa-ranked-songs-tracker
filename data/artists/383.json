@@ -1,0 +1,152 @@
+{
+  "id": 383,
+  "name": "Kou!",
+  "tracks": [
+    {
+      "title": "A.O.E::area_of_effect",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2321798,
+          2323413
+        ]
+      }
+    },
+    {
+      "title": "Ankh Natron Collider",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2432016
+        ]
+      }
+    },
+    {
+      "title": "Frost Walker",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2219230,
+          2505403
+        ],
+        "taiko": [
+          2204283
+        ],
+        "fruits": [
+          2202823
+        ]
+      }
+    },
+    {
+      "title": "High Speed Particle Collider-beam Accelerator",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2349002
+        ],
+        "mania": [
+          1913683,
+          2267659
+        ],
+        "fruits": [
+          2156643
+        ],
+        "osu": [
+          1948258,
+          1965392
+        ]
+      }
+    },
+    {
+      "title": "Sanzui",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1902776
+        ]
+      }
+    },
+    {
+      "title": "Shigaisen*UV",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2098470
+        ]
+      }
+    },
+    {
+      "title": "sub/zerO",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2235544
+        ],
+        "mania": [
+          2080239,
+          2123291,
+          2210057
+        ],
+        "fruits": [
+          2069616
+        ]
+      }
+    },
+    {
+      "title": "TERABYTE (\"XETTABYTE\" Long Version)",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1939285
+        ],
+        "fruits": [
+          1729729
+        ]
+      }
+    },
+    {
+      "title": "Youkaikakushi Nijyusekai",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2462632
+        ],
+        "fruits": [
+          2023486
+        ],
+        "taiko": [
+          1699711
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:17:11Z"
+}

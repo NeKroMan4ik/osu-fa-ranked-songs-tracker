@@ -1,0 +1,111 @@
+{
+  "id": 114,
+  "name": "Fuki",
+  "tracks": [
+    {
+      "title": "Bloody Rain",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1361523
+        ],
+        "osu": [
+          1273120
+        ]
+      }
+    },
+    {
+      "title": "Daimei -Album ver.-",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1720939
+        ]
+      }
+    },
+    {
+      "title": "DAYS",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2184377
+        ]
+      }
+    },
+    {
+      "title": "Habitable Planet",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1749129
+        ]
+      }
+    },
+    {
+      "title": "Kamisama wa Kitto",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kimi no Inai Sekai",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kodomo no Youni",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1263862,
+          1310206
+        ]
+      }
+    },
+    {
+      "title": "R no Nai Tsuki no Koi wa Yokunai",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2398190
+        ]
+      }
+    },
+    {
+      "title": "Sacred Bones Riot",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1009680,
+          1221414,
+          1511237
+        ]
+      }
+    },
+    {
+      "title": "Zekkai no Juliet",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Zinger♡Ringer♡Gang♡Love",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T20:54:56Z"
+}

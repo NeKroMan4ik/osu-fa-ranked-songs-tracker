@@ -1,0 +1,159 @@
+{
+  "id": 279,
+  "name": "Toromaru",
+  "tracks": [
+    {
+      "title": "Blue Wind -More Ocean Remix-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "cat's cradle",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Curiosity",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1809653,
+          2460509
+        ],
+        "mania": [
+          2310855
+        ]
+      }
+    },
+    {
+      "title": "Deorbit",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2268007
+        ],
+        "mania": [
+          2048064
+        ]
+      }
+    },
+    {
+      "title": "Ebb Tide",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2101950
+        ]
+      }
+    },
+    {
+      "title": "Erinyes",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2192970
+        ],
+        "fruits": [
+          2000438
+        ]
+      }
+    },
+    {
+      "title": "Formless Canvas",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1796612
+        ],
+        "osu": [
+          1727694
+        ],
+        "taiko": [
+          1589862
+        ]
+      }
+    },
+    {
+      "title": "Horizon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "instant emotion",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Intersection",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rebuild",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Recollections of Struggle",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Return of Devil",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sleight of Hand",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1972518
+        ]
+      }
+    },
+    {
+      "title": "Trial and Error",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Uncharted Sky",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2219350
+        ],
+        "osu": [
+          1955169
+        ]
+      }
+    },
+    {
+      "title": "Wasteland",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:29:48Z"
+}

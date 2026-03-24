@@ -1,0 +1,176 @@
+{
+  "id": 32,
+  "name": "onumi",
+  "tracks": [
+    {
+      "title": "ARROGANCE",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          940377
+        ]
+      }
+    },
+    {
+      "title": "body",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "BREAK",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "CONFUSION PART ONE",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1037665
+        ],
+        "fruits": [
+          933700
+        ]
+      }
+    },
+    {
+      "title": "DESIRE",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1043754
+        ]
+      }
+    },
+    {
+      "title": "FAKE",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2195755
+        ],
+        "mania": [
+          1311103
+        ],
+        "fruits": [
+          934785
+        ]
+      }
+    },
+    {
+      "title": "FORGIVENESS",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "libido",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Melding Vines",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "NOSTALGIA",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          952393
+        ]
+      }
+    },
+    {
+      "title": "onumi & Akira Complex - Ethereal Cyber Angel XV",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "onumi X Fluff Pink & Belak - TRAUMA",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "PERSONALITY",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          933984
+        ]
+      }
+    },
+    {
+      "title": "REGRET PART ONE",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          936545
+        ]
+      }
+    },
+    {
+      "title": "REGRET PART TWO",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2098434
+        ],
+        "mania": [
+          1033765
+        ]
+      }
+    },
+    {
+      "title": "section 9",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shield",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "spider tank",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "STOCKHOLM SYNDROME",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Succubi",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Varien - One Shot One Kill (onumi remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T13:23:48Z"
+}

@@ -1,0 +1,480 @@
+{
+  "id": 331,
+  "name": "Mili",
+  "tracks": [
+    {
+      "title": "A Turtle's Heart",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1327376
+        ]
+      }
+    },
+    {
+      "title": "Bathtub Mermaid",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2217678
+        ],
+        "taiko": [
+          2217678
+        ],
+        "mania": [
+          2045102
+        ],
+        "fruits": [
+          684250
+        ]
+      }
+    },
+    {
+      "title": "Cerebrite",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1853363,
+          1928448
+        ]
+      }
+    },
+    {
+      "title": "Colorful",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1912114
+        ],
+        "osu": [
+          1910670
+        ]
+      }
+    },
+    {
+      "title": "Excalibur",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1791220
+        ],
+        "osu": [
+          1290861
+        ]
+      }
+    },
+    {
+      "title": "Fable",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          770385
+        ],
+        "mania": [
+          217722
+        ]
+      }
+    },
+    {
+      "title": "From a Place of Love",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2116801
+        ]
+      }
+    },
+    {
+      "title": "Ga1ahad and Scientific Witchery",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2180088
+        ],
+        "fruits": [
+          1361768,
+          1943617
+        ],
+        "osu": [
+          932901,
+          1940007
+        ]
+      }
+    },
+    {
+      "title": "Gertrauda",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          807114
+        ]
+      }
+    },
+    {
+      "title": "Gone Angels",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2065214
+        ]
+      }
+    },
+    {
+      "title": "Ikutoshitsuki",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Iron Lotus",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2195155,
+          2381985
+        ]
+      }
+    },
+    {
+      "title": "Lemonade",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2414734
+        ],
+        "taiko": [
+          2281063,
+          2294172
+        ]
+      }
+    },
+    {
+      "title": "Mili feat. KIHOW from MYTH & ROID - In Hell We Live, Lament",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Milk",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1273049
+        ]
+      }
+    },
+    {
+      "title": "Mitsubachi",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nine Point Eight",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1924231
+        ],
+        "osu": [
+          131147,
+          310702,
+          1914266,
+          1920432
+        ],
+        "mania": [
+          202610
+        ],
+        "taiko": [
+          198268
+        ]
+      }
+    },
+    {
+      "title": "Peach Pit and Cyanide",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2493980
+        ],
+        "osu": [
+          2468654
+        ]
+      }
+    },
+    {
+      "title": "RTRT",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          978481
+        ]
+      }
+    },
+    {
+      "title": "Rubber Human",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2371111
+        ],
+        "fruits": [
+          1992659
+        ]
+      }
+    },
+    {
+      "title": "Space Colony",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1936864,
+          2366213
+        ],
+        "taiko": [
+          2217906
+        ]
+      }
+    },
+    {
+      "title": "String Theocracy",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2288016
+        ],
+        "osu": [
+          1192164,
+          2116195
+        ]
+      }
+    },
+    {
+      "title": "Summoning 101",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          920344,
+          1949959,
+          1959023,
+          2231504
+        ],
+        "mania": [
+          1487402,
+          1954482
+        ],
+        "fruits": [
+          1301493
+        ],
+        "taiko": [
+          804107
+        ]
+      }
+    },
+    {
+      "title": "Unidentified Flavourful Object",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2089358,
+          2349218
+        ],
+        "osu": [
+          1259728
+        ]
+      }
+    },
+    {
+      "title": "Utopiosphere",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          180002,
+          920337,
+          1927978,
+          2322144
+        ],
+        "fruits": [
+          187177,
+          1924322
+        ],
+        "mania": [
+          1076432
+        ],
+        "taiko": [
+          897182
+        ]
+      }
+    },
+    {
+      "title": "Utopiosphere -Platonism-",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          928652,
+          1926727
+        ],
+        "fruits": [
+          522132
+        ]
+      }
+    },
+    {
+      "title": "Vitamins feat. world's end girlfriend",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1229050,
+          1473909,
+          1808152,
+          1911093,
+          2348250
+        ],
+        "fruits": [
+          1716502,
+          2170036
+        ],
+        "mania": [
+          1542320
+        ]
+      }
+    },
+    {
+      "title": "Vulnerability",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          706599,
+          1971788
+        ],
+        "osu": [
+          590709,
+          835194,
+          1919394
+        ]
+      }
+    },
+    {
+      "title": "Witch's Invitation",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2010903
+        ],
+        "osu": [
+          1283474
+        ]
+      }
+    },
+    {
+      "title": "world.execute(me);",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          507196,
+          2274029
+        ],
+        "osu": [
+          470977,
+          1928286
+        ],
+        "fruits": [
+          1090079
+        ]
+      }
+    },
+    {
+      "title": "YUBIKIRI-GENMAN",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1378380
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:31:44Z"
+}

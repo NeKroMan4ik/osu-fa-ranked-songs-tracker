@@ -1,0 +1,107 @@
+{
+  "id": 333,
+  "name": "Euchaeta",
+  "tracks": [
+    {
+      "title": "A Songwriter's Cosmos",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1858201
+        ]
+      }
+    },
+    {
+      "title": "Carnival Meme",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1887754
+        ]
+      }
+    },
+    {
+      "title": "eien",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2187234,
+          2422499
+        ],
+        "fruits": [
+          2221549
+        ],
+        "taiko": [
+          2135773
+        ]
+      }
+    },
+    {
+      "title": "How to Chase Two Rabbits",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1460070
+        ]
+      }
+    },
+    {
+      "title": "Lid'arresh",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sono Iro",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1590203
+        ]
+      }
+    },
+    {
+      "title": "Spirit Away",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1857409
+        ]
+      }
+    },
+    {
+      "title": "The North Pole feat. kazune",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Who's World?",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2126234
+        ],
+        "osu": [
+          1622155
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:50:55Z"
+}

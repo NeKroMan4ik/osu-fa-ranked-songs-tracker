@@ -1,0 +1,110 @@
+{
+  "id": 123,
+  "name": "kanone",
+  "tracks": [
+    {
+      "title": "Atlantis Hawk",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Blue Dragoon",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2415235
+        ]
+      }
+    },
+    {
+      "title": "CO5M1C R4ILR0AD",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1962193
+        ],
+        "osu": [
+          1357175
+        ],
+        "taiko": [
+          1278500
+        ]
+      }
+    },
+    {
+      "title": "Cross Galaxy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "EGOISTIC KILLER",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Energy Of The Moon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ground Z.E.R.O.",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1281379
+        ]
+      }
+    },
+    {
+      "title": "Here we GO!!!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Infinite Galaxy",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1338901
+        ]
+      }
+    },
+    {
+      "title": "MASAMUNE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Sea of Memory",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2397821
+        ]
+      }
+    },
+    {
+      "title": "Twilight Galaxy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "U+NI",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:12:49Z"
+}

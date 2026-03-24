@@ -1,0 +1,280 @@
+{
+  "id": 372,
+  "name": "YUC'e",
+  "tracks": [
+    {
+      "title": "Aiobahn - Shinen no Mermaid (w/ YUC'e)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Aiobahn - Towa no Utage (w/ YUC'e)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cappuccino -DJ Noriken Remix-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cappuchino",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cinderella Syndrome",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2057835
+        ],
+        "fruits": [
+          1467712
+        ],
+        "osu": [
+          561693
+        ]
+      }
+    },
+    {
+      "title": "Cinnamon Symphony",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          908439
+        ]
+      }
+    },
+    {
+      "title": "Cotton Candy Parade",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Future Cake",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Future Candy",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          924882
+        ],
+        "osu": [
+          546820
+        ],
+        "taiko": [
+          2208029
+        ]
+      }
+    },
+    {
+      "title": "intro-duck-tion!!",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          700150
+        ]
+      }
+    },
+    {
+      "title": "macaron moon",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1834016
+        ]
+      }
+    },
+    {
+      "title": "Magical Mixer",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2040079
+        ],
+        "fruits": [
+          2029961
+        ],
+        "osu": [
+          680338
+        ]
+      }
+    },
+    {
+      "title": "MUDPIE",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          633309
+        ]
+      }
+    },
+    {
+      "title": "Night Club Junkie",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "POISON",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1102382
+        ]
+      }
+    },
+    {
+      "title": "POISON -KO3 Remix-",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          967021
+        ]
+      }
+    },
+    {
+      "title": "PUMP",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1014283
+        ]
+      }
+    },
+    {
+      "title": "Purple Planet",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Secret Eve",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sengoku HOP",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          605435
+        ],
+        "osu": [
+          564329
+        ]
+      }
+    },
+    {
+      "title": "SOS",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SPACE INVADER",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2028338
+        ],
+        "mania": [
+          2008307
+        ],
+        "osu": [
+          2005892
+        ]
+      }
+    },
+    {
+      "title": "Sugary Galaxy",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2031302
+        ],
+        "osu": [
+          2015526
+        ],
+        "mania": [
+          1879397
+        ]
+      }
+    },
+    {
+      "title": "Summer Lover!!",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2057950
+        ]
+      }
+    },
+    {
+      "title": "Summer Night Hiking",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sunset Tea Cup",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2411504
+        ],
+        "fruits": [
+          1488331
+        ]
+      }
+    },
+    {
+      "title": "Tick Tock",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:47:25Z"
+}

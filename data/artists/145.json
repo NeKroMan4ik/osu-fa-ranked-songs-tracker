@@ -1,0 +1,69 @@
+{
+  "id": 145,
+  "name": "Empty Peperoncino",
+  "tracks": [
+    {
+      "title": "Ame ni Utaeba",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1385670,
+          1983843
+        ]
+      }
+    },
+    {
+      "title": "EmA",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "End Roll Empty Peperoncino ver.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hoshifuru Yoru ni",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2275621
+        ],
+        "osu": [
+          1417164
+        ]
+      }
+    },
+    {
+      "title": "Kare Ha",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kimi no Na no Monogatari",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Koko no Kodou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Love Letter",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tired Tired",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T20:49:57Z"
+}

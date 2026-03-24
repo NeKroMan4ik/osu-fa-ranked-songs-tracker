@@ -1,0 +1,48 @@
+{
+  "id": 406,
+  "name": "YonKaGor",
+  "tracks": [
+    {
+      "title": "Circus Hop",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fallacy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "I Forgot That You Exist",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2409979
+        ]
+      }
+    },
+    {
+      "title": "You'll Be Gone",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "You're Just Like Pop Music",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2179669
+        ],
+        "mania": [
+          1877709
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:45:39Z"
+}

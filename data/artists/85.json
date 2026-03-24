@@ -1,0 +1,96 @@
+{
+  "id": 85,
+  "name": "Hyper Potions",
+  "tracks": [
+    {
+      "title": "Hyper Potions & Mega Flare - Where We Wanna Be (feat. Slyleaf)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hyper Potions & MYLK - Jelly",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hyper Potions & Samme - Puppy Raceway",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hyper Potions & Skye Rocket - Shooting Star",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hyper Potions, Synthion & MYLK - Maboroshi",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Jungle Cruise",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1171007
+        ],
+        "taiko": [
+          982340
+        ]
+      }
+    },
+    {
+      "title": "Porta Vista",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          328682
+        ]
+      }
+    },
+    {
+      "title": "Ski",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1192671
+        ]
+      }
+    },
+    {
+      "title": "Snow Day",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1191546
+        ]
+      }
+    },
+    {
+      "title": "Surf",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1192583
+        ]
+      }
+    },
+    {
+      "title": "Trick or Treat",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T14:50:46Z"
+}

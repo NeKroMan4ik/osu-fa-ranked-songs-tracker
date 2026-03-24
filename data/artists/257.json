@@ -1,0 +1,181 @@
+{
+  "id": 257,
+  "name": "in love with a ghost",
+  "tracks": [
+    {
+      "title": "am i a girl? am i a boy? do i really care?",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "chilling at nemu's place",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2303071
+        ],
+        "taiko": [
+          1791490,
+          2120929
+        ],
+        "mania": [
+          1775044
+        ],
+        "fruits": [
+          1757755
+        ]
+      }
+    },
+    {
+      "title": "complex feelings about my own existence feat. jungkook",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1772651
+        ]
+      }
+    },
+    {
+      "title": "cute and soft",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2120820
+        ],
+        "mania": [
+          1808850,
+          2120611
+        ],
+        "osu": [
+          2120553
+        ],
+        "fruits": [
+          1748257
+        ]
+      }
+    },
+    {
+      "title": "goodbye earth i'm taking my spaceship to explore the universe",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1763834
+        ],
+        "fruits": [
+          1747889
+        ]
+      }
+    },
+    {
+      "title": "i thought we were lovers w/ basil",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2107832
+        ],
+        "fruits": [
+          1776379
+        ]
+      }
+    },
+    {
+      "title": "iced tea for breakfast",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1773112
+        ],
+        "fruits": [
+          1768697
+        ]
+      }
+    },
+    {
+      "title": "interdimensional portal leading to a cute place feat. snail's house",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1772648
+        ],
+        "osu": [
+          1729796
+        ]
+      }
+    },
+    {
+      "title": "introduction",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1745107,
+          2359063
+        ],
+        "taiko": [
+          1783977,
+          1788705,
+          2120704
+        ],
+        "mania": [
+          1788705,
+          1887926
+        ],
+        "fruits": [
+          1750191
+        ]
+      }
+    },
+    {
+      "title": "trans rights",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2002100
+        ],
+        "taiko": [
+          1952841
+        ],
+        "osu": [
+          1776686
+        ],
+        "fruits": [
+          1744475
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:07:28Z"
+}

@@ -1,0 +1,133 @@
+{
+  "id": 168,
+  "name": "A-One",
+  "tracks": [
+    {
+      "title": "A-One feat. Aki & Amare - Wiz Me",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A-One feat. Aki & Rute - Drive Your Fire",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A-One feat. Aki - Darkish",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A-One feat. Aki - Wanna Be My Dream",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A-One feat. Aki - Zenmai Koidokei (T.E.B Summer Mix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A-One feat. ayaponzu* - Justice Monster",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A-One feat. Hanatan - Break The Hierarchie",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A-One feat. Hanatan - flower tartan",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A-One feat. Hanatan - Sweet jealousy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A-One feat. Kanipan. - Endless, Sleepless Night",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A-One feat. Mamemi - Love the BEAT",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A-One feat. Mamemi - One-Way Highway",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A-One feat. misa - Only Treasure",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A-One feat. Nanahira - Take Your Chance",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A-One feat. Rute & Aki - Scream out!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A-One feat. Rute - Say Around",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A-One feat. Rute - Spider's Blood",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A-One feat. Shihori - Bamboo Dance",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A-One feat. Shihori - Bloody Night",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A-One feat. Shihori - DAY BREAKER",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A-One feat. Shihori - Magic Girl !!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A-One feat. Shihori - ToRyan-Se",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Side by Side",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2466136,
+          2500938
+        ],
+        "osu": [
+          2397982
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:13:16Z"
+}

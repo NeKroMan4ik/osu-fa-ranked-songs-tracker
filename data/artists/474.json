@@ -1,0 +1,64 @@
+{
+  "id": 474,
+  "name": "1zm8",
+  "tracks": [
+    {
+      "title": "Beyond The Horizon",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2260556
+        ]
+      }
+    },
+    {
+      "title": "BoOm*bOoM*FeVer~!!!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cherry blossoms",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "IDEAL [SHIFT]",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2301094
+        ]
+      }
+    },
+    {
+      "title": "Lost Echoes of Lilies",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Oddly Sinister",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Symphony no. 9 -Destiny's End-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tanoshii CHRISM*SH!!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Night of Fright",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T20:09:22Z"
+}

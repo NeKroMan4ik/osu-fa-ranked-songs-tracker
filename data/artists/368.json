@@ -1,0 +1,38 @@
+{
+  "id": 368,
+  "name": "Halv",
+  "tracks": [
+    {
+      "title": "4way",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Akashic Hex",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2401984
+        ]
+      }
+    },
+    {
+      "title": "Colorful Switch",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Halv vs. kuro - Evreka",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tell Me Now",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T20:59:56Z"
+}

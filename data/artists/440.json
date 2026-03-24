@@ -1,0 +1,84 @@
+{
+  "id": 440,
+  "name": "Trina Lydia",
+  "tracks": [
+    {
+      "title": "Ad astra itur =*",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Bend The Bullet",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Jika -ST.-",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2484664
+        ],
+        "taiko": [
+          2484664
+        ],
+        "mania": [
+          2484664
+        ]
+      }
+    },
+    {
+      "title": "Late-Night Rocket Ride",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Library at Noon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MORTALiZE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Stellar Immortality",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2197796
+        ]
+      }
+    },
+    {
+      "title": "TETRATONE ALTiSSiMO",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2310809
+        ]
+      }
+    },
+    {
+      "title": "The Blank Canvas",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2504632
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:30:02Z"
+}

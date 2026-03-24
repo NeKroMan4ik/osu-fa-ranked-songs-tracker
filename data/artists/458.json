@@ -1,0 +1,27 @@
+{
+  "id": 458,
+  "name": "EBIMAYO",
+  "tracks": [
+    {
+      "title": "NIGHTMARE INVITATION",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2321254,
+          2452954
+        ],
+        "taiko": [
+          2450489
+        ],
+        "osu": [
+          2440431
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:47:24Z"
+}

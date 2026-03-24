@@ -1,0 +1,101 @@
+{
+  "id": 10,
+  "name": "nanobii",
+  "tracks": [
+    {
+      "title": "astral blast",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          946540
+        ]
+      }
+    },
+    {
+      "title": "bumblebee bazooka",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "fizzy pop",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "HYPERDRIVE",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          883505
+        ],
+        "fruits": [
+          639991,
+          737866
+        ]
+      }
+    },
+    {
+      "title": "Neverland",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Pinky Promise",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Pixie Dust",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "popsicle beach",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          973173
+        ],
+        "osu": [
+          848068
+        ]
+      }
+    },
+    {
+      "title": "rainbow road",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          375073
+        ]
+      }
+    },
+    {
+      "title": "sugar rush",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "sugar rush (vocal mix)",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          973336
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T12:40:56Z"
+}

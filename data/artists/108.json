@@ -1,0 +1,417 @@
+{
+  "id": 108,
+  "name": "Morimori Atsushi",
+  "tracks": [
+    {
+      "title": "AAAA vs. Morimori Atsushi - Xrocus",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Aduh!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ake Hoshi",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Alter Ego",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1294869
+        ]
+      }
+    },
+    {
+      "title": "Alter Ego (ARForest Remix)",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1348181
+        ]
+      }
+    },
+    {
+      "title": "Amaterasu",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Apsaras",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Aquamarine",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "COLLAGE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Funkotsu Saishin Casino",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          811431,
+          1885416
+        ],
+        "osu": [
+          1153959
+        ],
+        "taiko": [
+          1028937
+        ]
+      }
+    },
+    {
+      "title": "Hifuu Club no Chian Warui Kyoku ni Hamatteru Kata",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kurenai",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Laevateinn",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1861290
+        ]
+      }
+    },
+    {
+      "title": "Le Cirque de Minuit (2019 Re:work)",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1303098
+        ]
+      }
+    },
+    {
+      "title": "Mangetsu no Chikurin (MRM REMIX)",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1631702
+        ]
+      }
+    },
+    {
+      "title": "MilK",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          933882,
+          2079405
+        ],
+        "osu": [
+          848309
+        ],
+        "taiko": [
+          592095
+        ]
+      }
+    },
+    {
+      "title": "Morimori Atsushi + Ujico* - Vieille Ville",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Morimori Atsushi Remixed by Spiegel - PUPA -Floor of Larva Remix-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Morimori Atsushi vs. uma - ETERNAL:DREAMER",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Morimori Atsushi vs. uma - Noel",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Morimori Atsushi vs. uma - Noel (long ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Morimori Atsushi vs. uma - Noel -Nordic Nation Edit-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Morimori Atsushi vs. uma - Sweet* Witch* Girl*",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Morimori Atsushi vs. XIzE - Soda Pop Canva5!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Noah vs. Morimori Atsushi - DUAL BLADE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Paradigm Shift",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          765055
+        ],
+        "mania": [
+          765055
+        ],
+        "osu": [
+          432589
+        ]
+      }
+    },
+    {
+      "title": "Paradigm Shift (Extended Mix)",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2031183
+        ],
+        "mania": [
+          1286752,
+          2022063
+        ]
+      }
+    },
+    {
+      "title": "Prismriver San Shimai no UK Hardcore ni Hamatte Iru Kata (VIP)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "PUPA",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          366126,
+          2422504
+        ],
+        "fruits": [
+          660618
+        ],
+        "taiko": [
+          224164,
+          235506
+        ],
+        "osu": [
+          224164
+        ]
+      }
+    },
+    {
+      "title": "PUPA (uma Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Re:Garden Clocks",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Realization",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Scarlet Shimai no Funkot ni Hamatteru Kata 2017",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Snow change rain feat. oto-fu & Zan",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Splatter Doll",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Time Capsule",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1186866
+        ]
+      }
+    },
+    {
+      "title": "Time Machine",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Toono Gensou Monogatari (MRM REMIX)",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2308571
+        ],
+        "fruits": [
+          1474955
+        ],
+        "osu": [
+          1089149,
+          1404277
+        ],
+        "taiko": [
+          812992
+        ]
+      }
+    },
+    {
+      "title": "Txxs or get the fxxk out!!",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2320547
+        ],
+        "osu": [
+          1686490
+        ],
+        "fruits": [
+          1388539
+        ]
+      }
+    },
+    {
+      "title": "uma vs. Morimori Atsushi - Crescent Moon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "uma vs. Morimori Atsushi - Gemini Star",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "uma vs. Morimori Atsushi - Kibou no Hoshi wa Seishou ni Noboru (uma vs. Morimori Atsushi Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "uma vs. Morimori Atsushi - Re: End of a Dream",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "uma vs. Morimori Atsushi - Re: End of a Dream (Long Ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "uma vs. Morimori Atsushi - Record one's Dream",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "uma vs. Morimori Atsushi - Shooting Star feat. Risa Yuzuki",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "uma vs. Morimori Atsushi - you're Nxt",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "uma with Morimori Atsushi feat. Mashiro - Enka Buyou ~Enka Dance Music~",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "uma x Morimori Atsushi - Kill me Sweets",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Umeboshi Chazuke vs. Morimori Atsushi - Pico*2 Funkoter*",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "un deux trois...",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "un secret",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2236105
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:37:44Z"
+}

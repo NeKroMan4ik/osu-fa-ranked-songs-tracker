@@ -1,0 +1,248 @@
+{
+  "id": 121,
+  "name": "MYUKKE.",
+  "tracks": [
+    {
+      "title": "AKKERA-COUNTRY-BOY",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1601364
+        ],
+        "taiko": [
+          1584690
+        ],
+        "mania": [
+          1471537
+        ]
+      }
+    },
+    {
+      "title": "Anti Safety Zone",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2336010
+        ],
+        "mania": [
+          2032982
+        ]
+      }
+    },
+    {
+      "title": "Boudica",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2128778
+        ],
+        "taiko": [
+          1428271,
+          1472397
+        ]
+      }
+    },
+    {
+      "title": "BUNA*SYNERGY!!!",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1512343
+        ],
+        "osu": [
+          1294640
+        ]
+      }
+    },
+    {
+      "title": "Chocomaca Runaway!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fickle Rule",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "FULi AUTO BUSTER",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1337543
+        ]
+      }
+    },
+    {
+      "title": "FULi AUTO BUSTER (FULi Ver)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "FULi AUTO SHOOTER",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "FULi AUTO SHOOTER (short ver)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ginevra",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2208532
+        ],
+        "taiko": [
+          1991415,
+          2208532
+        ]
+      }
+    },
+    {
+      "title": "Mach Roger",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2229913
+        ],
+        "taiko": [
+          2196508
+        ],
+        "osu": [
+          2085335
+        ]
+      }
+    },
+    {
+      "title": "Macropolis",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2225397
+        ],
+        "fruits": [
+          1611083
+        ],
+        "taiko": [
+          1457097
+        ]
+      }
+    },
+    {
+      "title": "OCCHOCO-REST-LESS",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1474029
+        ]
+      }
+    },
+    {
+      "title": "OTTAMA GAZER",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "re[in]flaw",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2386651
+        ],
+        "osu": [
+          1344871
+        ]
+      }
+    },
+    {
+      "title": "ROAD to 773H",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1581028
+        ],
+        "taiko": [
+          1345190
+        ]
+      }
+    },
+    {
+      "title": "SUTTOKO-HOLD-ON",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The 89's Momentum",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1719730,
+          2106075
+        ],
+        "fruits": [
+          1340492
+        ],
+        "taiko": [
+          1320872
+        ]
+      }
+    },
+    {
+      "title": "We're Square",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "YOKKORA-SHOW-TIME",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "YUMEND",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:39:37Z"
+}

@@ -1,0 +1,294 @@
+{
+  "id": 112,
+  "name": "Se-U-Ra",
+  "tracks": [
+    {
+      "title": "abhory",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Afterwars -Infection-",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1315809
+        ]
+      }
+    },
+    {
+      "title": "Aiyatvs -wayfarer of the Q-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cris Fortress",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1305819,
+          2136263
+        ]
+      }
+    },
+    {
+      "title": "E-Lectixilent (E-xtended Mix)",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1960360
+        ],
+        "mania": [
+          1301800
+        ]
+      }
+    },
+    {
+      "title": "Elif to Shiro Kura no Yoru -Called-",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1226466
+        ]
+      }
+    },
+    {
+      "title": "F-Rozenette",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Gensei Hatsu, Kiboukou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Graffiti:Code -V0TL 3.90-",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1302562
+        ]
+      }
+    },
+    {
+      "title": "HazArtOth",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Heaven's Gear (burying side)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hope 4 Hope",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Houyou no Hakobune Six",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kanashii Ryuu to Kaitul",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kuronoto",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "L-Uxor",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "LOA2",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1348806,
+          2420210
+        ],
+        "taiko": [
+          1281878
+        ],
+        "osu": [
+          929622
+        ]
+      }
+    },
+    {
+      "title": "LOSHAXI (origin)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "LOSHAXI -HACK-",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1094418
+        ]
+      }
+    },
+    {
+      "title": "Qlifact -another-",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1224699
+        ]
+      }
+    },
+    {
+      "title": "QSHELL -Kyoshoku no Shell-",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          928283
+        ]
+      }
+    },
+    {
+      "title": "Rainbow Avenue",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ryuu Shoku no Qlifact",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ryuu Shoku no Sa Qlifact -storia of Arq-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Se-U-Ra x seatrus - Empuxa",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Se-U-Ra x seatrus - Melusia",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sekibaku no Maihime wa Kuraku Shizumu",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1317826
+        ]
+      }
+    },
+    {
+      "title": "Shironobo",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "sink in the hypnis",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SUPER MWC KART - Purple Palace",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Syndream",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Syringa vulgaris",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tabibito ni Sasagu Eien Hana",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Endless for Traveler",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1794190
+        ]
+      }
+    },
+    {
+      "title": "Traveler ~stand aloof~",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1439562
+        ]
+      }
+    },
+    {
+      "title": "Tsui no Maihime",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1154776
+        ]
+      }
+    },
+    {
+      "title": "Utsushi Gi no Shoujo Lix",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Weiss Schwarz",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Yobi Mu no Kamisama",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:04:25Z"
+}

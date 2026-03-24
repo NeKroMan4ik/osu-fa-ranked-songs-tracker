@@ -1,0 +1,109 @@
+{
+  "id": 209,
+  "name": "Mameyudoufu",
+  "tracks": [
+    {
+      "title": "Call My Name feat. Yukacco",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1611416
+        ]
+      }
+    },
+    {
+      "title": "Citadel",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1024712
+        ]
+      }
+    },
+    {
+      "title": "Dot to Dot feat. Shully",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eyes On The Stars",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Midnight Glow feat. mami",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moments (feat. Akira Kusaka)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moments (feat. Akira Kusaka) (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Movin' On feat. Such",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Point",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Quality Control",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1609035
+        ],
+        "taiko": [
+          1052288
+        ]
+      }
+    },
+    {
+      "title": "rejection - Signal (feat. Such) - Mameyudoufu Remix",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "rejection - Signal (feat. Such) - Mameyudoufu Remix (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shining feat. Aitsuki Nakuru",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Wave feat. Aitsuki Nakuru",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2097481
+        ],
+        "taiko": [
+          1649954
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:27:46Z"
+}

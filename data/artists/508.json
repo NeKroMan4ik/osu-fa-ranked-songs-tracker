@@ -1,0 +1,63 @@
+{
+  "id": 508,
+  "name": "MEMODEMO",
+  "tracks": [
+    {
+      "title": "DANGER! DANGER!! DANGER!!!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Digital Comet",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Extragalactic",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Love Language",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2152480
+        ]
+      }
+    },
+    {
+      "title": "Mochi Marchie",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shine!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Showoff Showdown",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2463881
+        ],
+        "osu": [
+          2455351
+        ]
+      }
+    },
+    {
+      "title": "SMACK 'em",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:29:55Z"
+}

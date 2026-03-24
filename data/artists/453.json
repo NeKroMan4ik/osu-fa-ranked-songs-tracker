@@ -1,0 +1,53 @@
+{
+  "id": 453,
+  "name": "uynet",
+  "tracks": [
+    {
+      "title": "Astral Heaven",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Disaster",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mach space journey",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2013835
+        ]
+      }
+    },
+    {
+      "title": "Never Rezort",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2214270
+        ],
+        "mania": [
+          2214270
+        ]
+      }
+    },
+    {
+      "title": "Seisouken",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Twin Cluster",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:36:34Z"
+}

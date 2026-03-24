@@ -1,0 +1,132 @@
+{
+  "id": 367,
+  "name": "kanemiko",
+  "tracks": [
+    {
+      "title": "Cold Fusion",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2011539,
+          2352124,
+          2501772
+        ],
+        "fruits": [
+          2011522
+        ]
+      }
+    },
+    {
+      "title": "comet casting capsule",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "comet casting capsule (\"catching celestial clusters\" Long Version)",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2229971,
+          2259859
+        ],
+        "fruits": [
+          2055747
+        ]
+      }
+    },
+    {
+      "title": "Dream Escapism Fantasia",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Electrolytes",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2250586,
+          2429906
+        ],
+        "fruits": [
+          1774562
+        ]
+      }
+    },
+    {
+      "title": "Fragment:Unsaved",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "kanemiko & Kyutatsuki & Aoi - Fractal Vertex",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "kanemiko feat. usagidenki - Impermanence",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kurokotei x kanemiko - astranelique",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ruin in Cascade",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2354646
+        ],
+        "fruits": [
+          2321573
+        ],
+        "mania": [
+          2318032,
+          2319270
+        ]
+      }
+    },
+    {
+      "title": "Stellar Proximity Shift",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Curse Of The Lovely Fox",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Twilight of the Abyss",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2209401
+        ]
+      }
+    },
+    {
+      "title": "Us4KKi - Aria for Lepus",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:12:29Z"
+}

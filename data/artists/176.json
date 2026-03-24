@@ -1,0 +1,113 @@
+{
+  "id": 176,
+  "name": "katagiri",
+  "tracks": [
+    {
+      "title": "03",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Angel's Salad",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1534597
+        ]
+      }
+    },
+    {
+      "title": "Angel's Salad ('Le mythe etendu' ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "blooming memories.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "c0pyf0x",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2334930
+        ]
+      }
+    },
+    {
+      "title": "Heisei Saikyou no Curry Ya",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kyuukou",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1939261,
+          1962531,
+          2128936,
+          2408668
+        ],
+        "taiko": [
+          1941880,
+          2006235
+        ],
+        "osu": [
+          1952542
+        ]
+      }
+    },
+    {
+      "title": "Mofumofu Horizon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Naopura2000 -Daybreak-",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          969821
+        ]
+      }
+    },
+    {
+      "title": "tokiwa - Kotodama Refrain (katagiri Bootleg)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Urushi",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1482723
+        ],
+        "taiko": [
+          1061593
+        ]
+      }
+    },
+    {
+      "title": "UTAKATA",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:14:03Z"
+}

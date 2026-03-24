@@ -1,0 +1,102 @@
+{
+  "id": 52,
+  "name": "False Noise",
+  "tracks": [
+    {
+      "title": "Become Surrounded By",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Distant Structures",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1057177
+        ]
+      }
+    },
+    {
+      "title": "Emerald Green",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hallucinate",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hyperlight",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kek",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          944723
+        ]
+      }
+    },
+    {
+      "title": "Scarlet Red",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Serpentine",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2126878
+        ],
+        "taiko": [
+          1055536
+        ],
+        "osu": [
+          789822
+        ]
+      }
+    },
+    {
+      "title": "Shiver",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sky Shards",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Space Angel",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1824297
+        ],
+        "mania": [
+          1753872
+        ],
+        "osu": [
+          1238432
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T14:11:34Z"
+}

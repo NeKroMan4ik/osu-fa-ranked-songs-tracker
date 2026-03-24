@@ -1,0 +1,69 @@
+{
+  "id": 88,
+  "name": "LEAF XCEED Music Division",
+  "tracks": [
+    {
+      "title": "Clockwork Sky",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2295937
+        ]
+      }
+    },
+    {
+      "title": "Fur Elisa",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1215987
+        ],
+        "osu": [
+          1131805
+        ]
+      }
+    },
+    {
+      "title": "Guitar Vs. Piano [ver. XCEED]",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "M.U. Ako With Her",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mission One",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1223309
+        ]
+      }
+    },
+    {
+      "title": "mugen no jikan",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The King's Commandment",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Universal Rift",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T14:51:56Z"
+}

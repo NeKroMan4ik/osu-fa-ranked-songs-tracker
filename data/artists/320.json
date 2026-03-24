@@ -1,0 +1,77 @@
+{
+  "id": 320,
+  "name": "Ensou",
+  "tracks": [
+    {
+      "title": "COMA",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          589530
+        ],
+        "osu": [
+          167740
+        ],
+        "taiko": [
+          683542
+        ],
+        "mania": [
+          147152
+        ]
+      }
+    },
+    {
+      "title": "Entropy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Event Horizon",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2052791
+        ]
+      }
+    },
+    {
+      "title": "Lightspeed",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Living A Lie",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sedna",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Singularity",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Time Traveler",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2142618
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:50:10Z"
+}

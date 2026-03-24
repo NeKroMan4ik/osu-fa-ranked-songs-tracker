@@ -1,0 +1,97 @@
+{
+  "id": 58,
+  "name": "Kurokotei",
+  "tracks": [
+    {
+      "title": "arcanegatewanderer",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1462999
+        ]
+      }
+    },
+    {
+      "title": "Astar (Extended)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "callback",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dystopian Warriors",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fracture Temporelle (Extended)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Into the Void",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kara & Kurokotei - Valley of Voices",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kurokotei as Lidelle + eili - Sfir'elle ~ la novella ~",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "l'Historia",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lusamine in a Perfect World",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2097864
+        ],
+        "osu": [
+          1116535
+        ],
+        "fruits": [
+          599761
+        ]
+      }
+    },
+    {
+      "title": "Neurotoxicity",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "stdpriority_queueT",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "TWC Sound Team \"Zeroth Powers\" - One One",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T14:15:52Z"
+}

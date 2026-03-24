@@ -1,0 +1,86 @@
+{
+  "id": 380,
+  "name": "Aquellex",
+  "tracks": [
+    {
+      "title": "Ballistic Bunny (feat. Kommisar)",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2140228
+        ],
+        "taiko": [
+          1079067
+        ]
+      }
+    },
+    {
+      "title": "Cortex Charger",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2062236
+        ]
+      }
+    },
+    {
+      "title": "Crystal Chamber Combustion",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Decipher.#003",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Obligatory (Kurorak's Obligatory Destruction rmx)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Starflight",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1752950
+        ]
+      }
+    },
+    {
+      "title": "Tachyon Beam Cannon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Wanderflux",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1763568
+        ]
+      }
+    },
+    {
+      "title": "Zygourous Distribution",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2197285
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:27:01Z"
+}

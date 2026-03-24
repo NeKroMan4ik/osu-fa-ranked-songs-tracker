@@ -1,0 +1,69 @@
+{
+  "id": 317,
+  "name": "happy30",
+  "tracks": [
+    {
+      "title": "As the wind blows",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          355073,
+          1881739
+        ]
+      }
+    },
+    {
+      "title": "Circles!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "let me smile again",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          528343
+        ]
+      }
+    },
+    {
+      "title": "Relentless",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shoot the star",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "You spin my world",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2360595
+        ],
+        "fruits": [
+          2038439
+        ],
+        "osu": [
+          1873680,
+          1933822
+        ],
+        "taiko": [
+          1933822
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:00:33Z"
+}

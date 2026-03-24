@@ -1,0 +1,122 @@
+{
+  "id": 42,
+  "name": "Carpool Tunnel",
+  "tracks": [
+    {
+      "title": "Afterlight",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1036890
+        ],
+        "osu": [
+          1001546
+        ]
+      }
+    },
+    {
+      "title": "Better Now",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1050477
+        ]
+      }
+    },
+    {
+      "title": "Come My Way",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1205622
+        ]
+      }
+    },
+    {
+      "title": "Drought",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Getaway",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1032859
+        ],
+        "osu": [
+          1003826
+        ]
+      }
+    },
+    {
+      "title": "Hooked Again",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1050185
+        ]
+      }
+    },
+    {
+      "title": "Impressions",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1052846
+        ]
+      }
+    },
+    {
+      "title": "Parade",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1058934
+        ],
+        "fruits": [
+          1036382
+        ]
+      }
+    },
+    {
+      "title": "Regina",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "San Francisco",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1033405
+        ]
+      }
+    },
+    {
+      "title": "Shining",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T13:57:39Z"
+}

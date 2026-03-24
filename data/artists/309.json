@@ -1,0 +1,83 @@
+{
+  "id": 309,
+  "name": "Ata",
+  "tracks": [
+    {
+      "title": "Euphoria",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          890438,
+          2420690
+        ],
+        "taiko": [
+          1234186,
+          2090557
+        ],
+        "mania": [
+          2070307
+        ],
+        "fruits": [
+          1722551
+        ]
+      }
+    },
+    {
+      "title": "Fucking Machine",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Heart Beating",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1758537
+        ]
+      }
+    },
+    {
+      "title": "I'm Not Crazy",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2146986
+        ],
+        "taiko": [
+          1908857
+        ],
+        "mania": [
+          1869102
+        ]
+      }
+    },
+    {
+      "title": "Mental Atmosphere",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "RotaVirus",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2185550
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:29:12Z"
+}

@@ -1,0 +1,102 @@
+{
+  "id": 146,
+  "name": "polysha",
+  "tracks": [
+    {
+      "title": "Endverse",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2235160
+        ],
+        "osu": [
+          2088576
+        ]
+      }
+    },
+    {
+      "title": "polysha - Evanescent Edge",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "polysha - ExeQtion&Redemption",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "polysha - Has not come yet",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "polysha - Hypnos Metropolis",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "polysha - Katashigure (w/inusack)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "polysha - Nyx Metropolis",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "polysha - Papermoon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "polysha - Sora Soko wo Kakeru",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "polysha - TAKEMIKADUCHI",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "polysha - When She Flattered",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "polysha feat. Sennzai - Crazy Sweetie Glitter Candy Color",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "polysha feat. Sennzai - Crazy Sweetie Glitter Candy Color (BMS Edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "polysha feat. Sennzai - Escape from the Abyss",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "polysha feat. Sennzai - Hurt Urge",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "polysha feat. Takanashi Megumi - Kyou ga Owaru Toki made -coda-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "polysha feat. TEA - Under The Moon, Adolesecence",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:52:14Z"
+}

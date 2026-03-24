@@ -1,0 +1,288 @@
+{
+  "id": 96,
+  "name": "Kobaryo",
+  "tracks": [
+    {
+      "title": "Aozora Gradation [feat. you]",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cartoon Candy",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1704256
+        ],
+        "taiko": [
+          1496486
+        ]
+      }
+    },
+    {
+      "title": "Cross The Finish Line [feat. Nanahira]",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2210831
+        ],
+        "fruits": [
+          2012659
+        ],
+        "mania": [
+          1671244
+        ],
+        "taiko": [
+          1245739
+        ]
+      }
+    },
+    {
+      "title": "Evolution Canceler",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Galaxy Friends",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Glitched Character",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1436983
+        ]
+      }
+    },
+    {
+      "title": "Gram vs. Kobaryo - Yggdrasil",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "HUG AND KILL",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1848009
+        ]
+      }
+    },
+    {
+      "title": "Kick To The Sky",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1534286
+        ]
+      }
+    },
+    {
+      "title": "Kobaryo & Matatabi Sound System + DJ NECOJITA + Shinonome I/F + blaxervant - HARD-COREMATA (HVS VER.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kobaryo feat. blaxervant - Spark of Mayhem",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kumo No Kireme [feat. kourin]",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Magical Sanctuary",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          534568
+        ]
+      }
+    },
+    {
+      "title": "Necrophagiatoast",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          567504
+        ]
+      }
+    },
+    {
+      "title": "New Game Plus",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          797710,
+          1249951,
+          1732016
+        ]
+      }
+    },
+    {
+      "title": "northern_limit [feat. Sennzai]",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          869714
+        ]
+      }
+    },
+    {
+      "title": "Perfect Neglect",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          808872
+        ],
+        "taiko": [
+          692347
+        ]
+      }
+    },
+    {
+      "title": "Speedcore Psytama",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sulyvahn [feat. USAO]",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          965114
+        ],
+        "osu": [
+          787583
+        ]
+      }
+    },
+    {
+      "title": "SUPER MEMORIES",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1130254
+        ],
+        "mania": [
+          1000359
+        ]
+      }
+    },
+    {
+      "title": "The Lightning Sword",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1793821
+        ]
+      }
+    },
+    {
+      "title": "Theme for Psychopath Justice",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1245034,
+          2129662
+        ],
+        "fruits": [
+          1328918
+        ]
+      }
+    },
+    {
+      "title": "Tool-Assisted Speedcore (TQBF Frame Advance RMX)",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1275054
+        ]
+      }
+    },
+    {
+      "title": "Transceiver FX",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1328018
+        ]
+      }
+    },
+    {
+      "title": "Villain Virus [feat. Camellia]",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2468709
+        ],
+        "fruits": [
+          1689443
+        ],
+        "mania": [
+          915764
+        ]
+      }
+    },
+    {
+      "title": "Zero-Risk Syndrome",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2400282
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T14:58:39Z"
+}

@@ -1,0 +1,50 @@
+{
+  "id": 328,
+  "name": "Satyr",
+  "tracks": [
+    {
+      "title": "Bird",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2150422
+        ]
+      }
+    },
+    {
+      "title": "Dogma",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Levitator",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1520317
+        ]
+      }
+    },
+    {
+      "title": "Picayune",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2140406
+        ]
+      }
+    },
+    {
+      "title": "Vector",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:03:25Z"
+}

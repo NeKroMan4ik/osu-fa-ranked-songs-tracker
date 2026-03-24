@@ -1,0 +1,59 @@
+{
+  "id": 186,
+  "name": "SEBii",
+  "tracks": [
+    {
+      "title": "BONErr",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Butterfly Bankai",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1572863
+        ]
+      }
+    },
+    {
+      "title": "do u care, if i stare?",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1920437
+        ],
+        "osu": [
+          1564825
+        ]
+      }
+    },
+    {
+      "title": "Play Poker Remix (w/Maple) (Cut Ver.)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1391589
+        ]
+      }
+    },
+    {
+      "title": "Play Poker! (feat. ERISU)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SLiiDE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:06:33Z"
+}

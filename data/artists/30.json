@@ -1,0 +1,111 @@
+{
+  "id": 30,
+  "name": "SOOOO",
+  "tracks": [
+    {
+      "title": "a decayed garden sinks into the isolated sea",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          953845
+        ]
+      }
+    },
+    {
+      "title": "Akuou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Happppy song",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          971465,
+          2401593
+        ],
+        "osu": [
+          744593,
+          1016769,
+          2250580,
+          2400856
+        ],
+        "taiko": [
+          775133
+        ]
+      }
+    },
+    {
+      "title": "iiillluuuvvvUUU",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "illloved",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "illloved (osu! Edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "minus in the sun",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          983183
+        ]
+      }
+    },
+    {
+      "title": "NORMAL HUMAN",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "OTOOTO-P x SOOOO - World End",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rasou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Raven Haven",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2040467
+        ],
+        "osu": [
+          935098
+        ],
+        "taiko": [
+          921535
+        ]
+      }
+    },
+    {
+      "title": "Ruins in the Paradise",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T13:23:14Z"
+}

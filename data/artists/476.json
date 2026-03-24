@@ -1,0 +1,55 @@
+{
+  "id": 476,
+  "name": "Kyutatsuki",
+  "tracks": [
+    {
+      "title": "BLACKLOTUS",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dimension Wars",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2097269,
+          2247080,
+          2362494,
+          2435396
+        ]
+      }
+    },
+    {
+      "title": "kanemiko & Kyutatsuki & Aoi - Fractal Vertex",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Meteoric Impact",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SOUND ARCHITECT",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2403854
+        ],
+        "fruits": [
+          2198809
+        ],
+        "osu": [
+          2180470
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:19:04Z"
+}

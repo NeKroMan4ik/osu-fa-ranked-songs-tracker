@@ -1,0 +1,277 @@
+{
+  "id": 218,
+  "name": "Yooh",
+  "tracks": [
+    {
+      "title": "After The Dawn",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Astrum",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Backwards",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "BEAT BURST BEAT",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Capella",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Combat High",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Divinity",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2049777
+        ],
+        "osu": [
+          1120245
+        ]
+      }
+    },
+    {
+      "title": "Don't Be Afraid...",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eternity",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2434335,
+          2462029
+        ],
+        "mania": [
+          2421270,
+          2438278
+        ]
+      }
+    },
+    {
+      "title": "Eubiquitous",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Flashback",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hanzow",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Heracles",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2167776
+        ],
+        "osu": [
+          1659194
+        ]
+      }
+    },
+    {
+      "title": "Hold Your Fire",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ice Angel",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          297933,
+          1590068,
+          2230787
+        ],
+        "fruits": [
+          1634333
+        ],
+        "taiko": [
+          841314
+        ],
+        "mania": [
+          379365
+        ]
+      }
+    },
+    {
+      "title": "Knock The Gate",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Las ta Fear feat. akaandsia",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "LiFE Garden (Extended Mix)",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          832538
+        ],
+        "mania": [
+          626965
+        ]
+      }
+    },
+    {
+      "title": "NEO TOKYO",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Princess Sweetness",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "RED Seeker (siromaru Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "RPG",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1633250,
+          1678400,
+          2462688
+        ],
+        "mania": [
+          1640218,
+          1747426,
+          2071247,
+          2445853
+        ],
+        "fruits": [
+          1754419
+        ],
+        "taiko": [
+          1664363
+        ]
+      }
+    },
+    {
+      "title": "salvation",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          177444,
+          1645504
+        ],
+        "fruits": [
+          840189
+        ],
+        "taiko": [
+          815765
+        ],
+        "mania": [
+          459200
+        ]
+      }
+    },
+    {
+      "title": "salvation REACT",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SEDNA",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shigure",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2382151
+        ],
+        "osu": [
+          1186689,
+          1806968
+        ]
+      }
+    },
+    {
+      "title": "SOLOMON",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Summer Drops",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Unfair Damnation",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Uroboros",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Yooh vs. siromaru - Tetragrammaton Labyrinth",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:46:27Z"
+}

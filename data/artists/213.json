@@ -1,0 +1,102 @@
+{
+  "id": 213,
+  "name": "linear ring",
+  "tracks": [
+    {
+      "title": "bloo cat, bloo",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Can you hear me?",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1713296
+        ],
+        "mania": [
+          1621762
+        ]
+      }
+    },
+    {
+      "title": "enchanted love",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1982063
+        ],
+        "mania": [
+          1309606,
+          1734862
+        ],
+        "osu": [
+          1403832
+        ]
+      }
+    },
+    {
+      "title": "enchanted love (and the witch's selfish heart)",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1481796
+        ]
+      }
+    },
+    {
+      "title": "lalabai call me",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1343787,
+          2012779
+        ]
+      }
+    },
+    {
+      "title": "linear ring with RNAcid - Gypsophila",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "lovely, lovely minute",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1908858
+        ]
+      }
+    },
+    {
+      "title": "waitingforyou",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1806527
+        ]
+      }
+    },
+    {
+      "title": "Yura Yura Lovelight",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:23:39Z"
+}

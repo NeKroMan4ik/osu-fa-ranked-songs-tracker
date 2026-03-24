@@ -1,0 +1,178 @@
+{
+  "id": 152,
+  "name": "Xanthochroid",
+  "tracks": [
+    {
+      "title": "Blessed He With Boils",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2167553
+        ],
+        "osu": [
+          1277834
+        ]
+      }
+    },
+    {
+      "title": "In Putris Stagnum",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1499611
+        ],
+        "taiko": [
+          1380497
+        ],
+        "osu": [
+          968625
+        ]
+      }
+    },
+    {
+      "title": "Incultus",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Long Live Our Lifeless King",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1736495
+        ]
+      }
+    },
+    {
+      "title": "Of Aching Empty Pain",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1151696
+        ]
+      }
+    },
+    {
+      "title": "Of Gods Bereft of Grace",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          961206,
+          2178401
+        ],
+        "taiko": [
+          1231667
+        ]
+      }
+    },
+    {
+      "title": "Of Strength and the Lust for Power",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1069086,
+          2049990
+        ],
+        "taiko": [
+          1849604
+        ]
+      }
+    },
+    {
+      "title": "Rebirth of an Old Nation",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Last Relic of Axen",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Leper's Prospect",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Sound of a Glinting Blade",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Sound of a Glinting Blade / The Sound Which Has No Name",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1018888
+        ]
+      }
+    },
+    {
+      "title": "The Sound of Hunger Rises",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1452059
+        ],
+        "osu": [
+          1335143
+        ]
+      }
+    },
+    {
+      "title": "The Sound Which Has No Name",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Through Chains That Drag Us Downward",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "To Higher Climes Where Few Might Stand",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1348379
+        ]
+      }
+    },
+    {
+      "title": "Toward Truth and Reconciliation",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1474871
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:42:58Z"
+}

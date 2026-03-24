@@ -1,0 +1,219 @@
+{
+  "id": 301,
+  "name": "AAAA",
+  "tracks": [
+    {
+      "title": "8bit Shooting Star*",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "aa...hisuichazuke... - steganography",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "AAAA + Hino Isuka - ha@ppy s@mmer v@c@tion!! (Long ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "AAAA + Hino Isuka - Keep smiling.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "AAAA + Umeboshi Chazuke - Cait Sith",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "AAAA + yadrigg - Sakase Natsuzora, Koi no Hana.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "AAAA Chazuke - Myosotis no Hanataba",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "AAAA Chazuke - Sayonara Cosmonaut [Long ver.]",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "AAAA vs. Frums - beepbit * futures",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Bokutachi no Tabi to Epilogue.[Long ver.]",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          648071
+        ],
+        "osu": [
+          420016
+        ],
+        "mania": [
+          381334
+        ]
+      }
+    },
+    {
+      "title": "carnation",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          677687,
+          1967974
+        ],
+        "mania": [
+          1410399,
+          1563407
+        ],
+        "taiko": [
+          1327622
+        ]
+      }
+    },
+    {
+      "title": "Hazukashigariya no Toy Soldier",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2182073
+        ],
+        "osu": [
+          1992807
+        ],
+        "mania": [
+          1060064,
+          1113145
+        ]
+      }
+    },
+    {
+      "title": "Hiyokko Santa to Yuki no Machi",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1617344
+        ]
+      }
+    },
+    {
+      "title": "Hiyokko Santa to Yuki no Machi (Dear A Remix)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          880070
+        ]
+      }
+    },
+    {
+      "title": "Hoshi no Otoshimono",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1305045
+        ]
+      }
+    },
+    {
+      "title": "Hoshi o Kakeru Adventure ~ we are forever friends! ~ (Long ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hoshizora no Kanransha",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2094949
+        ],
+        "taiko": [
+          2008874
+        ]
+      }
+    },
+    {
+      "title": "Lobelia",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "parallel skydive",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1919576,
+          2165832
+        ]
+      }
+    },
+    {
+      "title": "pastel planet",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2429129
+        ]
+      }
+    },
+    {
+      "title": "rainbow",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2403016
+        ]
+      }
+    },
+    {
+      "title": "w = addict",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1849605
+        ],
+        "mania": [
+          1371217
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:14:13Z"
+}

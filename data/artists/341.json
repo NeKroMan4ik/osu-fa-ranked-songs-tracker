@@ -1,0 +1,59 @@
+{
+  "id": 341,
+  "name": "Cinamoro",
+  "tracks": [
+    {
+      "title": "Another",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1963582
+        ],
+        "mania": [
+          1910036
+        ]
+      }
+    },
+    {
+      "title": "Cinamoro - Variations on D Minor (feat. PLORALD)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Crimson (\"Blood Red\" Long Ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "linen",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mare Tranquillitatis",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2317728
+        ]
+      }
+    },
+    {
+      "title": "Paleturquoise",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1874826
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:39:18Z"
+}

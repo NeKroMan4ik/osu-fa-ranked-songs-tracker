@@ -1,0 +1,527 @@
+{
+  "id": 396,
+  "name": "t+pazolite",
+  "tracks": [
+    {
+      "title": "Bad Boy's missa",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Because I was so Young",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1085512
+        ]
+      }
+    },
+    {
+      "title": "BPM=RT (Uncut Edition)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Burnout",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1126454
+        ]
+      }
+    },
+    {
+      "title": "Buzy Lake (An Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "C-Show - sideflip (tpz Despair Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Call me it. (500 Tortures)",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2135232
+        ],
+        "osu": [
+          2109260
+        ]
+      }
+    },
+    {
+      "title": "CANDY CRACK CURTAIN CALL",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chartreuse Green",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "cheatreal",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1979588
+        ],
+        "osu": [
+          88180
+        ]
+      }
+    },
+    {
+      "title": "chipscape",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2137143
+        ],
+        "taiko": [
+          27752
+        ],
+        "osu": [
+          27752
+        ]
+      }
+    },
+    {
+      "title": "Count down 321",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "diskommunication",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Do I Smile?",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dogbite",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2390718
+        ]
+      }
+    },
+    {
+      "title": "Electric Butterfly",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2114419
+        ]
+      }
+    },
+    {
+      "title": "Gumbarlzo!",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2491986,
+          2493653
+        ],
+        "fruits": [
+          2479663,
+          2480276
+        ],
+        "osu": [
+          2472011,
+          2476607
+        ]
+      }
+    },
+    {
+      "title": "Hong-Kong-Tea-Soda (replay2014)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Howling Down",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1107264
+        ]
+      }
+    },
+    {
+      "title": "HYPER4ID",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "illanai-assorted",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          831403
+        ]
+      }
+    },
+    {
+      "title": "Intro - Dockaaaahhhnnn!!",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2108381
+        ],
+        "osu": [
+          466104
+        ]
+      }
+    },
+    {
+      "title": "intrO - Don't be Foolish",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2389851
+        ],
+        "taiko": [
+          733624
+        ]
+      }
+    },
+    {
+      "title": "Intro - the other Side",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          544922
+        ]
+      }
+    },
+    {
+      "title": "Kick-ass Kung-fu Carnival",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2109206
+        ],
+        "mania": [
+          1988057
+        ],
+        "osu": [
+          186677
+        ]
+      }
+    },
+    {
+      "title": "Knotfunk",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          716533,
+          2110356
+        ]
+      }
+    },
+    {
+      "title": "Lemon Heart",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          701849
+        ]
+      }
+    },
+    {
+      "title": "Lite Show Magic - Stronghold",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lite Show Magic - TRICKL4SH 220",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Magic Raffles",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Messed Up Gravity",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1186052
+        ]
+      }
+    },
+    {
+      "title": "monochrome dream",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "NAughty ADventure",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Never Let me Go",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1393508
+        ],
+        "taiko": [
+          880248
+        ]
+      }
+    },
+    {
+      "title": "Nous",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          42669
+        ],
+        "osu": [
+          42669
+        ]
+      }
+    },
+    {
+      "title": "Ofcourse you Need and nEed and neEd and neeD and NEED ME?",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Party in the HOLLOWood feat. Nanahira",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          819349,
+          2210683
+        ],
+        "fruits": [
+          868268
+        ],
+        "taiko": [
+          819349
+        ]
+      }
+    },
+    {
+      "title": "Pleasure Ritual",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "PSYCHED AGOSTO",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Psyched Fevereiro (Uncut Edition)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Pump up UR NRG",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          509112,
+          1091632
+        ]
+      }
+    },
+    {
+      "title": "Pumpin' Junkies",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          484327,
+          2219697
+        ],
+        "fruits": [
+          2116408
+        ],
+        "osu": [
+          2109811
+        ],
+        "taiko": [
+          364288,
+          967196
+        ]
+      }
+    },
+    {
+      "title": "Rumble Kung-fu Showdown",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          804330
+        ]
+      }
+    },
+    {
+      "title": "Say Hello to HOLLOWood feat. Akagawa Nene",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          926041
+        ]
+      }
+    },
+    {
+      "title": "Scatter Blast",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "seedy try",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1793951
+        ],
+        "taiko": [
+          680385
+        ]
+      }
+    },
+    {
+      "title": "t+pazolite & Getty - Twisted Drop Party",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "t+pazolite & Komiya Mao - Elustametat",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "t+pazolite feat. Kabocha - OPENING",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "t+pazolite feat. Komiya Mao - Sugary Sweets",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "t+pazolite feat. Nanahira - Otsukimi PARTY HARD",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "t+pazolite feat. Rizna - Distorted Lovesong (Full length)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "t+pazolite vs. RoughSketch - GRK Spice",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "t+pazolite with Kabocha - Elder Dragon Legend",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "t+pazolite with siromaru - Chambarising",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "to Luv me I *** for u.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "to Luv me, I *** for u. (reprise)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Yeehaw Nihao",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T14:19:15Z"
+}

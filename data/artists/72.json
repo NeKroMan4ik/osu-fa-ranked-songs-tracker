@@ -1,0 +1,331 @@
+{
+  "id": 72,
+  "name": "ginkiha",
+  "tracks": [
+    {
+      "title": "Anemoi",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1203594
+        ],
+        "osu": [
+          1134493
+        ],
+        "mania": [
+          381397
+        ]
+      }
+    },
+    {
+      "title": "ARCADE_MEMORIES",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1123482
+        ]
+      }
+    },
+    {
+      "title": "Dreaming Express",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "eastward",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          630364,
+          1141099
+        ],
+        "mania": [
+          385444
+        ]
+      }
+    },
+    {
+      "title": "EOS",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2214813
+        ],
+        "osu": [
+          151720,
+          1269063,
+          1284506,
+          2151567
+        ],
+        "taiko": [
+          725836,
+          1131661
+        ],
+        "mania": [
+          311458
+        ]
+      }
+    },
+    {
+      "title": "Fading Star",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          183512,
+          2365964
+        ]
+      }
+    },
+    {
+      "title": "Falling From The Sky",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ginkiha, Shiki - Once in a life",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hare",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Haruka",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lakeside",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2225367
+        ],
+        "osu": [
+          2225367
+        ]
+      }
+    },
+    {
+      "title": "Luvin'Epoch",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          592259
+        ]
+      }
+    },
+    {
+      "title": "Neon Tetra",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1123529
+        ]
+      }
+    },
+    {
+      "title": "nightfall",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          532805,
+          1151833
+        ],
+        "taiko": [
+          1131703
+        ],
+        "mania": [
+          469498
+        ],
+        "osu": [
+          458456
+        ]
+      }
+    },
+    {
+      "title": "nora2r vs. ginkiha - WINGS",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Oriens",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1127158
+        ],
+        "osu": [
+          65855,
+          182271,
+          222063,
+          655406
+        ],
+        "taiko": [
+          65855,
+          202040
+        ],
+        "fruits": [
+          65855
+        ]
+      }
+    },
+    {
+      "title": "Paved Garden",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1215941
+        ],
+        "osu": [
+          1110961,
+          1131098,
+          1172219
+        ],
+        "taiko": [
+          1123300
+        ]
+      }
+    },
+    {
+      "title": "scenes",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shadow Castle",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1859697
+        ],
+        "taiko": [
+          1143306
+        ]
+      }
+    },
+    {
+      "title": "Silver Eclipse",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2414413
+        ]
+      }
+    },
+    {
+      "title": "Sky with you",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Star Chaser!",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1124089
+        ]
+      }
+    },
+    {
+      "title": "Summer Triangle",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Under the Glacier",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "VALKYRIE",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          334818
+        ]
+      }
+    },
+    {
+      "title": "Vienanmeri",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Will to live",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1175287
+        ]
+      }
+    },
+    {
+      "title": "Winter Night Highway",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          998565
+        ]
+      }
+    },
+    {
+      "title": "Yokohane",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T14:40:17Z"
+}

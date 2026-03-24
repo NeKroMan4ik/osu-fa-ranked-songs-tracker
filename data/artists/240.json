@@ -1,0 +1,233 @@
+{
+  "id": 240,
+  "name": "Good Kid",
+  "tracks": [
+    {
+      "title": "Alchemist",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1689430
+        ]
+      }
+    },
+    {
+      "title": "Aloe Lite",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1726337
+        ]
+      }
+    },
+    {
+      "title": "Atlas",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1750346,
+          2354913
+        ]
+      }
+    },
+    {
+      "title": "Break",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2146620
+        ]
+      }
+    },
+    {
+      "title": "Dance Class",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2207794
+        ]
+      }
+    },
+    {
+      "title": "Down With The King",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2319934
+        ]
+      }
+    },
+    {
+      "title": "Drifting",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1703768
+        ]
+      }
+    },
+    {
+      "title": "Everything Everything",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Faster",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1952479
+        ]
+      }
+    },
+    {
+      "title": "First Rate Town",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2185624
+        ]
+      }
+    },
+    {
+      "title": "Mimi's Delivery Service",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1962744
+        ]
+      }
+    },
+    {
+      "title": "No Time to Explain",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2226184
+        ],
+        "osu": [
+          1846926
+        ]
+      }
+    },
+    {
+      "title": "Nomu",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2340450
+        ]
+      }
+    },
+    {
+      "title": "Osmosis",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2346433
+        ]
+      }
+    },
+    {
+      "title": "Premier Inn",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2238376
+        ]
+      }
+    },
+    {
+      "title": "Rift",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Slingshot",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1970946
+        ],
+        "osu": [
+          1802930
+        ]
+      }
+    },
+    {
+      "title": "Summer",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2253116
+        ],
+        "osu": [
+          2185941
+        ]
+      }
+    },
+    {
+      "title": "Tell Me You Know",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1598849
+        ]
+      }
+    },
+    {
+      "title": "Wall",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Witches",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2416816
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:58:42Z"
+}

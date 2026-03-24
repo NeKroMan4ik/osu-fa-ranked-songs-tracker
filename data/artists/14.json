@@ -1,0 +1,892 @@
+{
+  "id": 14,
+  "name": "Rin / Function Phantom",
+  "tracks": [
+    {
+      "title": "Algebra",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Amanojaku set 00 ~ Raise the Signal Fire of Cheating",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Amanojaku set 01 ~ Cheat Against the Impossible Danmaku",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Amanojaku set 02 ~ Midnight Spell Card",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Amanojaku set 03 ~ Romantic Escape Flight",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Amanojaku set 04 ~ Eternal Short-Lived Reign",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ayakashi set 00 ~ Youyoumu",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ayakashi set 01 ~ Mukau no Sato",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ayakashi set 02 ~ Crystallized Silver",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ayakashi set 04 ~ Diao Ye Zong",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ayakashi set 05 ~ Doll Maker of Bucuresti",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ayakashi set 06 ~ Ningyou Saiban",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ayakashi set 08 ~ Yuurei Gakudan",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ayakashi set 11 ~ Ultimate Truth",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ayakashi set 12 Another ~ Border of Life",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ayakashi set 14 B ~ Necrofantasia",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ayakashi set 15 ~ Shunpuu no Yume",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ayakashi set 16 ~ Sakura Sakura",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chireiden set 00 ~ Chireitachi no Kishou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chireiden set 02 ~ Fuujirareta Youkai",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chireiden set 03 ~ Wataru Mono no Todaeta Hashi",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chireiden set 04 ~ Ryokugan no Jealousy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chireiden set 07 ~ Heartfelt Fancy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chireiden set 09 ~ Haigoku Lullaby",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chireiden set 10 ~ Shitai Ryokou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chireiden set 12 ~ Reichi no Taiyou Shinkou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chireiden set 13 ~ Last Remote",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chireiden set 14 ~ Hartmann no Youkai Shoujo",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chireiden set 15 ~ Chireitachi no Kitaku",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chireiden set 16 ~ Energy Reimei",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Daishibyo set 00 ~ Yoku Fukaki Reikon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Daishibyo set 01 ~ Shiryou no Yozakura",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Daishibyo set 02 ~ Ghost Lead",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Daishibyo set 04 ~ Monzen no Youkai Komusume",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Daishibyo set 05 ~ Sutekina Hakaba de Kurashimasho",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Daishibyo set 06 ~ Rigid Paradise",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Daishibyo set 07 ~ Desire Drive",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Daishibyo set 08 ~ Furuki Yuanxian",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Daishibyo set 11 ~ Chiisana Yokubou no Hoshizora",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Daishibyo set 14 ~ Sado no Futatsuiwa",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Daishibyo set 15 ~ Jinja no Atarashii Kaze",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Daishibyo set 16 ~ Desire Dream",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eientewi set 01 ~ Illusionary Night",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eientewi set 02 ~ Stirring an Autumn Moon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eientewi set 03 ~ Song of the Night Sparrow",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eientewi set 04 ~ Deaf to All but the Song",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eientewi set 05 ~ Nostalgic Blood of the East",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eientewi set 07 ~ Retribution for the Eternal Night",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eientewi set 08 A ~ Maiden's Capriccio",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eientewi set 08 B ~ Love-Colored Master Spark",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eientewi set 09 A ~ Cinderella Cage",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eientewi set 09 B ~ White Flag of Usa Shrine",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eientewi set 10 ~ Lunatic Eyes",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eientewi set 11 ~ Voyage 1969",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eientewi set 12 A ~ Gensokyo Millennium",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eientewi set 12 Another ~ Voyage 1970",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eientewi set 12 B ~ Flight in the Bamboo Cutter",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eientewi set 13 ~ Extend Ash",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eientewi set 14  Another",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eientewi set 14 ~ Reach for the Moon, Immortal Smoke",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eientewi set 15 ~ Evening Primrose",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eientewi set 16 ~ Mystical Maple",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eientewi set 17 ~ Eastern Youkai Beauty",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Euclid",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kishinjou set 00 ~ Mysterious Purification Rod",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kishinjou set 01 ~ Mist Lake",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kishinjou set 02 ~ Mermaid from the Uncharted Land",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kishinjou set 03 ~ Humans and Youkai Traversing the Canal",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kishinjou set 04 ~ Dullahan Under the Willows",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kishinjou set 05 ~ Bamboo Forest of the Full Moon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kishinjou set 06 ~ Lonesome Werewolf",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kishinjou set 07 ~ Magical Storm",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kishinjou set 08 ~ Illusionary Joururi",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kishinjou set 09 ~ The Shining Needle Castle Sinking in the Air",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kishinjou set 10 ~ Reverse Ideology",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kishinjou set 11 ~ The Exaggerated Castle Keep",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kishinjou set 12 ~ Inchlings of the Shining Needle",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kishinjou set 13 ~ Thunderclouds of Magical Power",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kishinjou set 14 ~ Primordial Beat",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kishinjou set 15 ~ Magical Power of the Mallet",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kishinjou set 16 ~ Strange, Strange Instruments",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Koumakan set 00 ~ Aka yori Akai Yume",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Koumakan set 01 ~ Houzuki Mitai ni Akai Tamashii",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Koumakan set 02 ~ Youma Yakou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Koumakan set 03 ~ Lunate Elf",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Koumakan set 05 ~ Shanhai Kouchakan",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Koumakan set 06 ~ Meiji Juu Nana Nen no Shanghai Alice",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Koumakan set 07 ~ Voile, Mahou Toshokan",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Koumakan set 08 ~ Locked Girl",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Koumakan set 09 ~ Maid to Chi no Kaichuudokei",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Koumakan set 10 A ~ Luna Dial",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Koumakan set 10 B ~ Flowering Night",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Koumakan set 11 ~ Tepes no Osanaki Matsuei",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Koumakan set 12 Playing DJ",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Koumakan set 12 ~ Naki Oujo no Tame no Septette",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Koumakan set 14 ~ U.N. Owen wa Kanojo Nanoka?",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Koumakan set 15 ~ Beni yori Hakanai Eien",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Koumakan set 16 ~ Kourou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lunatic set 00 ~ The Space Shrine Maiden Appears",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lunatic set 01 ~ Unforgettable, the Nostalgic Greenery",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lunatic set 02 ~ Usagi wa Maiorita",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lunatic set 03 ~ The Lake Reflects the Cleansed Moonlight",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lunatic set 04 ~ September Pumpkin",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lunatic set 05 ~ The Mysterious Shrine Maiden Flying Through Space",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lunatic set 06 ~ Eternal Spring Dream",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lunatic set 07 ~ The Frozen Eternal Capital",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lunatic set 08 ~ The Reversed Wheel of Fortune",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lunatic set 09 ~ Faraway 380,000-Kilometer Voyage",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lunatic set 10 ~ The Pierrot of the Star-Spangled Banner",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lunatic set 11 ~ The Sea Where the Home Planet is Reflected",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lunatic set 12 ~ Pure Furies",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lunatic set 13 ~ A Never-Before-Seen World of Nightmares",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lunatic set 14 ~ Pandemonic Planet",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lunatic set 15 ~ The Moon as Seen from the Shrine",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lunatic set 16 ~ The Space Shrine Maiden Returns Home",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moriya set 00 ReEdit ~ Fuuin Sareshi Kamigami",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moriya set 01 ReEdit ~ Hitokoishi Kamisama",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moriya set 02 ReEdit ~ Inada Himesama ni Shikararerukara",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moriya set 04 ReEdit ~ Unmei no Dark Side",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moriya set 06 ReEdit TypeB ~ Akutagawa Ryuunosuke no Kappa",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moriya set 06 ReEdit ~ Akutagawa Ryuunosuke no Kappa",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moriya set 07 ReEdit ~ Fall of Fall",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moriya set 08 ReEdit ~ Youkai no Yama",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moriya set 10 ReEdit ~ Shinkou wa Hakanai Ningen no Tame ni",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moriya set 11 ReEdit ~ Onbashira no Hakaba",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moriya set 13 ReEdit ~ Ashita Hare no hi, ke no Kino",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moriya set 14 ReEdit ~ Native Faith",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moriya set 14 ReEdit ~ Native Faith - Original Mix",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moriya set 15 ReEdit ~ Fumoto no Jinja",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moriya set 16 ReEdit ~ Kami wa Megumi no Ame wo Furasa",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Muenzuka set 02 ~ Oriental Dark Flight",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Muenzuka set 03 ~ Poison Body",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Muenzuka set 04 ~ Konjaku Gensoukyou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Muenzuka set 05 ~ Higan Kikou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Muenzuka set 07 ~ Hana no Utsuru Tsuka",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Muenzuka set 08 ~ Shigan no Tsuka",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Muenzuka set 09 ~ Hana wa Gensou no Mama ni",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Muenzuka set 10 ~ Tamashii no Hana",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Neuronecia",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Ayakashi set 03 ~ Toono Gensou Monogatari",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Ayakashi set 07 ~ Tenkuu no Hana no Miyako",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Ayakashi set 09 ~ Touhou Youyoumu",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Ayakashi set 10 ~ Hiroari Kechou o Iru Koto",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Ayakashi set 12 ~ Yuuga ni Sakase, Sumizome no Sakura",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Ayakashi set 13 A ~ Youyou Bakko",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Ayakashi set 13 B ~ Youyou Bakko",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Ayakashi set 14 A ~ Shoujo Gensou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Ayakashi set 14 Another ~ Yoru ga Oritekuru",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Chireiden set 01 ~ Kurayami no Fuuketsu",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Chireiden set 05 ~ Kyuu Jigoku Kaidou o Yuku",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Chireiden set 06 ~ Hana no Sakazuki Ooeyama",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Chireiden set 08 ~ Shoujo Satori",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Chireiden set 10 ~ Lullaby",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Chireiden set 11 ~ Gouka Mantle",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Daishibyo set 03 ~ Youkaidera e Youkoso",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Daishibyo set 09 ~ Yumedono Daishibyou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Daishibyo set 10 ~ Oomiwa Shinwaden",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Daishibyo set 12 ~ Shoutoku Densetsu",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Daishibyo set 13 ~ Youkai Urasandou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Eientewi set 06 ~ Plain Asia",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Koumakan set 04 Another ~ Otenba Koimusume no Bouken",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Koumakan set 04 ~ Otenba Koimusume",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Koumakan set 13 ~ Mahou Shoujo-tachi no Hyakunensai",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Moriya set 03 ReEdit ~ Yakujinsama no Toorimichi",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Moriya set 05 ReEdit ~ Kamigami ga Koi Shita Gensokyo",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Moriya set 05 ReEdit ~ Kamigami ga Koi Shita Gensokyo - Original Mix",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Moriya set 09 ReEdit ~ Shoujo ga Mita Nippon no Genfuukei",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Moriya set 12 ReEdit ~ Kamisabita Kosenjou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Muenzuka set 00 ~ Kaeizuka",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Muenzuka set 01 ~ Haruiro Komichi",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Muenzuka set 06 ~ Rokujuunenme no Touhou Saiban",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Mythic set ~ Hanahazama no Battlefield",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Mythic set ~ Heart-Stirring Urban Legends",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Mythic set ~ Last Occultism ~ Esotericist of the Present World",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Shinkirou set ~ Futatsuiwa from Gensokyo",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rin - Shinkirou set ~ The Lost Emotion",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Variable",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T13:09:44Z"
+}

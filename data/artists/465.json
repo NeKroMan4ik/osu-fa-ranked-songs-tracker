@@ -1,0 +1,18 @@
+{
+  "id": 465,
+  "name": "Slax",
+  "tracks": [
+    {
+      "title": "Body to the Drum",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2343891
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:13:59Z"
+}

@@ -1,0 +1,104 @@
+{
+  "id": 386,
+  "name": "Dustvoxx",
+  "tracks": [
+    {
+      "title": "Deep Dream",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1673656,
+          2138193,
+          2415363
+        ],
+        "osu": [
+          1572241
+        ]
+      }
+    },
+    {
+      "title": "Disconnect Me (from saturator)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dustvoxx & Savage States - Prism",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dustvoxx, Laur - FireLight",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dustvoxx, Laur - FireLight (Neokontrol Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dustvoxx, Loctek - Labyrinth of Mind",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dustvoxx, USAO - Divergence",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Switchback",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1935584
+        ]
+      }
+    },
+    {
+      "title": "The Terrorist",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Trigger",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Trigger (Zekk Remix)",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2164820
+        ],
+        "taiko": [
+          1004571
+        ],
+        "mania": [
+          555076
+        ]
+      }
+    },
+    {
+      "title": "White Portal",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "XTC Stab",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T20:46:52Z"
+}

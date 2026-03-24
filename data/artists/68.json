@@ -1,0 +1,306 @@
+{
+  "id": 68,
+  "name": "Frums",
+  "tracks": [
+    {
+      "title": "24eeev0-$",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2322139
+        ],
+        "taiko": [
+          1111340
+        ],
+        "osu": [
+          1086289
+        ]
+      }
+    },
+    {
+      "title": "Credits",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1372002,
+          2398372
+        ],
+        "taiko": [
+          990649,
+          1824969
+        ],
+        "mania": [
+          996443,
+          1212405,
+          1247210
+        ]
+      }
+    },
+    {
+      "title": "Flashbacklog",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1108885
+        ]
+      }
+    },
+    {
+      "title": "Frums (unknown \"lambda\") - 19ZZ",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "HALL",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2055332,
+          2414349
+        ]
+      }
+    },
+    {
+      "title": "I Can't Even Remember My Own Name",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1566206
+        ]
+      }
+    },
+    {
+      "title": "Jam with Pancake",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mdrqnxtagon",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          967870
+        ]
+      }
+    },
+    {
+      "title": "Nisemono",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1111785,
+          1839571
+        ],
+        "mania": [
+          1122944
+        ]
+      }
+    },
+    {
+      "title": "of Ambrosia",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1900478,
+          2400967
+        ],
+        "osu": [
+          1649965
+        ],
+        "taiko": [
+          1488114
+        ]
+      }
+    },
+    {
+      "title": "Options",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1049855
+        ],
+        "taiko": [
+          1049855
+        ]
+      }
+    },
+    {
+      "title": "Pictured as Perfect",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          966235
+        ]
+      }
+    },
+    {
+      "title": "Pictured as Perfect and Plus",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1897425,
+          1897431
+        ],
+        "osu": [
+          1546763
+        ],
+        "taiko": [
+          1108483,
+          1355838
+        ],
+        "mania": [
+          1023425
+        ]
+      }
+    },
+    {
+      "title": "Salmiakki",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1485654
+        ],
+        "taiko": [
+          1113060
+        ]
+      }
+    },
+    {
+      "title": "Star Of The COME ON!!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "the end of this world, and the girl who crossed the moon's oceans.",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1214632
+        ]
+      }
+    },
+    {
+      "title": "theyaremanycolors",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          829383,
+          1909163
+        ],
+        "fruits": [
+          1612932
+        ],
+        "osu": [
+          1416051,
+          1533352
+        ],
+        "taiko": [
+          984900
+        ]
+      }
+    },
+    {
+      "title": "Wavetapper",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1109137
+        ],
+        "mania": [
+          866661
+        ]
+      }
+    },
+    {
+      "title": "We Want To Run",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1025170,
+          1114402,
+          2448118
+        ],
+        "taiko": [
+          1392660
+        ]
+      }
+    },
+    {
+      "title": "XNOR XNOR XNOR",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1335372,
+          2322180
+        ],
+        "taiko": [
+          1203858,
+          1391246
+        ],
+        "mania": [
+          1245249,
+          1341013
+        ]
+      }
+    },
+    {
+      "title": "Zephyrs",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T14:26:23Z"
+}

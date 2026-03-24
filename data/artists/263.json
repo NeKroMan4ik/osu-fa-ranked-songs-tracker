@@ -1,0 +1,140 @@
+{
+  "id": 263,
+  "name": "Ardolf",
+  "tracks": [
+    {
+      "title": "Before The Storm",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1934083
+        ]
+      }
+    },
+    {
+      "title": "BLACK MAGIC",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2323003
+        ]
+      }
+    },
+    {
+      "title": "Chromatic",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1538237
+        ]
+      }
+    },
+    {
+      "title": "Dark Dungeon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lycanthrope",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1924071
+        ]
+      }
+    },
+    {
+      "title": "Rainbow Raceway",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rejoice",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SILVER BULLET",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2338054
+        ],
+        "osu": [
+          2295411
+        ],
+        "mania": [
+          2201473
+        ],
+        "fruits": [
+          2195044
+        ]
+      }
+    },
+    {
+      "title": "Split",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1948972
+        ],
+        "fruits": [
+          1770054
+        ]
+      }
+    },
+    {
+      "title": "Split EX",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Varcolac",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2434137
+        ],
+        "osu": [
+          1750904
+        ]
+      }
+    },
+    {
+      "title": "Vermithrax",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "will u",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2399677
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:28:16Z"
+}

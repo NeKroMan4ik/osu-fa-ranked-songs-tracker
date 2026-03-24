@@ -1,0 +1,215 @@
+{
+  "id": 484,
+  "name": "Ice",
+  "tracks": [
+    {
+      "title": "Amber Wishes",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Amber Wishes (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "citanLu",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          470304
+        ]
+      }
+    },
+    {
+      "title": "Conclusio Catastropha",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2250254
+        ],
+        "osu": [
+          2228811
+        ],
+        "taiko": [
+          1621712
+        ]
+      }
+    },
+    {
+      "title": "Conclusio Catastropha (Game Ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "DJ Mashiro is dead or alive (Game Ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Entrance (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Etude for the Sinners",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2460253
+        ]
+      }
+    },
+    {
+      "title": "Floor of Lava",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "I D M",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2211365
+        ]
+      }
+    },
+    {
+      "title": "Ice vs. LunaticSounds - Capybara Kids' Paradise",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ice vs. Yukino - R4incarnation",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ImmoraL",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "L (osu! edit)",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2398146
+        ]
+      }
+    },
+    {
+      "title": "L0 -the conclusion-",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2458513
+        ]
+      }
+    },
+    {
+      "title": "L2 -Reminiscence-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "L2 -Reminiscence- (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "M4DN355, Menace",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Majestic Phoenix (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nostalgia Sonatina Op.3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2443567
+        ],
+        "mania": [
+          2395454
+        ],
+        "fruits": [
+          2395334
+        ]
+      }
+    },
+    {
+      "title": "Parodia Sonatina",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Parodia Sonatina -Grande-",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          768550,
+          2050740
+        ],
+        "fruits": [
+          1643232
+        ],
+        "osu": [
+          750363
+        ]
+      }
+    },
+    {
+      "title": "Parodia Sonatina Var.II",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Precipitation",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Spiegel vs. Ice - Rapsodie fer za Cactuses (*'v'*)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Spiegel vs. Ice - Rapsodie fer za Cactuses (*'v'*) (Game Ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Spiegel vs. Yukino - MassacrE || 3rc4224M",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:05:57Z"
+}

@@ -1,0 +1,171 @@
+{
+  "id": 113,
+  "name": "glass beach",
+  "tracks": [
+    {
+      "title": "1015",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "bathroom community",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "bedroom community",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "calico",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1288714
+        ]
+      }
+    },
+    {
+      "title": "Calico (Emo Rocksteady Cover)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "classic j dies and goes to hell part 1",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1297467,
+          1339503,
+          2133860
+        ],
+        "taiko": [
+          1297882
+        ]
+      }
+    },
+    {
+      "title": "cold weather",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1280001,
+          2156619,
+          2183740
+        ]
+      }
+    },
+    {
+      "title": "cold weather (GWIZ '180mph on the 405' Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "dallas",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1326501
+        ],
+        "taiko": [
+          1219924
+        ]
+      }
+    },
+    {
+      "title": "glass beach",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1531792,
+          1883166
+        ],
+        "mania": [
+          1489548
+        ]
+      }
+    },
+    {
+      "title": "Neon Glow",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "neon glow",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2260328
+        ],
+        "osu": [
+          2190181
+        ]
+      }
+    },
+    {
+      "title": "orchids",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2265495
+        ],
+        "fruits": [
+          2119567
+        ]
+      }
+    },
+    {
+      "title": "planetarium",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "running",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1488966
+        ]
+      }
+    },
+    {
+      "title": "yoshi's island",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1179754
+        ]
+      }
+    },
+    {
+      "title": "yoshis island (clover & sealife world 7x7 mix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T20:57:42Z"
+}

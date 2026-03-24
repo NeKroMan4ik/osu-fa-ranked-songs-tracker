@@ -1,0 +1,231 @@
+{
+  "id": 234,
+  "name": "Annabel",
+  "tracks": [
+    {
+      "title": "alpine blue",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1967856
+        ]
+      }
+    },
+    {
+      "title": "aphelion point",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Call Me",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1714935
+        ]
+      }
+    },
+    {
+      "title": "caracol",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2211559
+        ]
+      }
+    },
+    {
+      "title": "cosmic gardener",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Enrai",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2211510
+        ]
+      }
+    },
+    {
+      "title": "glimmer",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2352099
+        ],
+        "osu": [
+          1525495
+        ]
+      }
+    },
+    {
+      "title": "helical symmetry",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "howl",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1779373,
+          2201969
+        ]
+      }
+    },
+    {
+      "title": "Kareru",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1680958
+        ]
+      }
+    },
+    {
+      "title": "lettre",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "lilac slumber -cosmic ver.-",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1629018
+        ],
+        "osu": [
+          1593278
+        ]
+      }
+    },
+    {
+      "title": "little voice",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1619033
+        ]
+      }
+    },
+    {
+      "title": "Muishiki no Machi",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Natsu no Awa",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Palermo",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1686585,
+          1766909
+        ]
+      }
+    },
+    {
+      "title": "pedalnote",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1669381,
+          1700998,
+          1801386
+        ]
+      }
+    },
+    {
+      "title": "Slow Light Bird",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1647013
+        ]
+      }
+    },
+    {
+      "title": "steam driven girl",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tabi ni Deru",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "takeoff climb",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Transient",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2451222
+        ],
+        "osu": [
+          1661304,
+          2372019
+        ]
+      }
+    },
+    {
+      "title": "wormhole",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2398759
+        ],
+        "osu": [
+          1884175
+        ],
+        "taiko": [
+          1726067
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:26:11Z"
+}

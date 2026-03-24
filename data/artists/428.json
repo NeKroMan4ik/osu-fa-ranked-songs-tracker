@@ -1,0 +1,98 @@
+{
+  "id": 428,
+  "name": "takehirotei",
+  "tracks": [
+    {
+      "title": "Altermis & takehirotei & Violet Delta - Christmas Slop",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chronoexplorers (feat. Finite Limit)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2168355
+        ]
+      }
+    },
+    {
+      "title": "Haiboku no Altra Vita",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2417552,
+          2458512
+        ],
+        "osu": [
+          2412331
+        ]
+      }
+    },
+    {
+      "title": "HowToPlayLN - Normal Distribution (takehirotei \"t-distribution\" remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kuba Oms - My Love (takehirotei remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Quad Erat Demonstrandum",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2134747
+        ]
+      }
+    },
+    {
+      "title": "SEISHUN://NO_HACKING",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2498399,
+          2503449
+        ]
+      }
+    },
+    {
+      "title": "Tainted Reminiscence",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2158145
+        ]
+      }
+    },
+    {
+      "title": "takehirotei as \"Infinite Limit\" - C://YOU NEX-TIME",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "takehirotei as \"Infinite Limit\" - I.R.I.S",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "takehirotei vs. HowToPlayLN - Essence",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:23:37Z"
+}

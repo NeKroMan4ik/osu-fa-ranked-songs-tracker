@@ -1,0 +1,91 @@
+{
+  "id": 272,
+  "name": "Hino Isuka",
+  "tracks": [
+    {
+      "title": "#be_fortunate",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1032511,
+          1046607
+        ]
+      }
+    },
+    {
+      "title": "aa...hisuichazuke... - steganography",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chocolat a la menthe",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cosmogazer",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Delightness Brightness",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1859322
+        ]
+      }
+    },
+    {
+      "title": "DJ HoppingRabbit - Jumping Leaping!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dreamin' attraction!! (Extended)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hino Isuka vs. s-don - Glooorious!!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hisui Chazuke - Bomb Bang Bound!!!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mechanical Jager",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Memories of Chasers",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Wonderful Paradise",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1722598
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:04:32Z"
+}

@@ -1,0 +1,91 @@
+{
+  "id": 4,
+  "name": "yuki.",
+  "tracks": [
+    {
+      "title": "Be Your Light",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          878344,
+          1118896
+        ],
+        "osu": [
+          590152
+        ]
+      }
+    },
+    {
+      "title": "Candy Girl",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "daft",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "forget you",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Have it All",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hello! World (feat. setsunan)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nadeshiko Sensation",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1375449
+        ],
+        "osu": [
+          1003554
+        ],
+        "fruits": [
+          693123
+        ],
+        "taiko": [
+          558569
+        ]
+      }
+    },
+    {
+      "title": "Polaris",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Spring Signal",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          716211
+        ],
+        "taiko": [
+          632888
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T12:36:16Z"
+}

@@ -1,0 +1,61 @@
+{
+  "id": 250,
+  "name": "luvlxckdown",
+  "tracks": [
+    {
+      "title": "brighteyes",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2111134
+        ]
+      }
+    },
+    {
+      "title": "far from you",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "girl in a dress",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2315239
+        ]
+      }
+    },
+    {
+      "title": "tbh i dont like being social",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1557097,
+          2210296
+        ],
+        "taiko": [
+          1739529
+        ]
+      }
+    },
+    {
+      "title": "wont interfere",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2339644
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:25:37Z"
+}

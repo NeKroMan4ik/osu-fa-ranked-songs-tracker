@@ -1,0 +1,50 @@
+{
+  "id": 313,
+  "name": "Fractal",
+  "tracks": [
+    {
+      "title": "Au5 & Fractal - Blue",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Au5 & Fractal - Halcyon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Collide (feat. Danyka Nadeau)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          753365
+        ]
+      }
+    },
+    {
+      "title": "Sanctum (feat. Amiya Inspiration)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          365539
+        ]
+      }
+    },
+    {
+      "title": "Spection",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          942117
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:53:37Z"
+}

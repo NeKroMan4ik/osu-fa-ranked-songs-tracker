@@ -1,0 +1,122 @@
+{
+  "id": 206,
+  "name": "METAROOM",
+  "tracks": [
+    {
+      "title": ".ANGEL",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "FRIDAY NIGHT FUNKIN' - M.I.L.F (METAROOM REMIX)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "GOD RACE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "I - DINKI THE STARGUIDE",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1622545
+        ]
+      }
+    },
+    {
+      "title": "ICON KILLER",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2392855
+        ]
+      }
+    },
+    {
+      "title": "METAROOM & TELEMIST - DOG BUS",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "OUT OF CONTROL",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2403524
+        ]
+      }
+    },
+    {
+      "title": "PINK ORIGINS",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1629336
+        ],
+        "osu": [
+          1589495
+        ]
+      }
+    },
+    {
+      "title": "S.N.U.F.F.Y",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1963076
+        ]
+      }
+    },
+    {
+      "title": "SPIKEY BOI",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1424830
+        ]
+      }
+    },
+    {
+      "title": "STAR FACTORY",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Temptation Stairway (Waltz Variation)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "THE BAD ROOM",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "TRASH CLAN",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "WORM RAVE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:30:33Z"
+}

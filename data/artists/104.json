@@ -1,0 +1,222 @@
+{
+  "id": 104,
+  "name": "Omoi",
+  "tracks": [
+    {
+      "title": "Chit Chat March!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fires",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Five",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Greenlights Serenade",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2399964
+        ]
+      }
+    },
+    {
+      "title": "Hey William (New Translation)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1409184
+        ]
+      }
+    },
+    {
+      "title": "Hinotama wo Anatanai",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "If You're Gonna Jump",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kakokei ni Dekimasuka",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kimi no Subete o Miseteyo",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kiseki sae mo",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1357597
+        ],
+        "osu": [
+          1322144
+        ]
+      }
+    },
+    {
+      "title": "Last Night Waltz",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Miracle",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Misread, Mislead",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1283785
+        ]
+      }
+    },
+    {
+      "title": "Nee William",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2195045
+        ],
+        "taiko": [
+          1274930
+        ],
+        "osu": [
+          164155
+        ]
+      }
+    },
+    {
+      "title": "Ohne Herz",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1358927
+        ]
+      }
+    },
+    {
+      "title": "One Moment to the Andromeda",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Snow Drive (01.23)",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1274884
+        ]
+      }
+    },
+    {
+      "title": "Spiral Flight",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Teioh Education",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1466141
+        ],
+        "osu": [
+          1278333
+        ]
+      }
+    },
+    {
+      "title": "Teo",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2180342
+        ],
+        "mania": [
+          1725797
+        ],
+        "osu": [
+          721804,
+          1274098
+        ],
+        "taiko": [
+          767251
+        ]
+      }
+    },
+    {
+      "title": "Totsugeki Zenya no Dance",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          342030
+        ]
+      }
+    },
+    {
+      "title": "Unreal Mokushisou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "WAA!!!!",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1296357
+        ]
+      }
+    },
+    {
+      "title": "Zensokuryoku Kyousoukyoku",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:44:25Z"
+}

@@ -7,6 +7,7 @@ from datetime import datetime, timezone
 
 from dotenv import load_dotenv
 from ossapi import Ossapi
+from tqdm import tqdm
 
 from parser import HtmlClient
 from config import ARTISTS_DIR, INDEX_PATH
@@ -61,14 +62,18 @@ def run() -> None:
 
     results: list[dict] = []
 
-    for i, raw in enumerate(raw_artists, 1):
-        print(f"[{i}/{len(raw_artists)}] ", end="", flush=True)
+    for raw in tqdm(raw_artists, desc="Artists"):
+        artist_path = ARTISTS_DIR / f"{raw['id']}.json"
+        if artist_path.exists():
+            results.append(json.loads(artist_path.read_text(encoding="utf-8")))
+            continue
+
         try:
             artist = build_artist_record(html_client, api, raw)
             write_artist(artist)
             results.append(artist)
         except Exception as exc:
-            print(f"✗ {raw['name']} → {exc}", file=sys.stderr)
+            tqdm.write(f"✗ {raw['name']} → {exc}", file=sys.stderr)
 
     write_index(results)
 

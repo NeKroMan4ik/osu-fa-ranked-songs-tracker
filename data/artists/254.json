@@ -1,0 +1,59 @@
+{
+  "id": 254,
+  "name": "Stonebank",
+  "tracks": [
+    {
+      "title": "All Night",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          410998
+        ]
+      }
+    },
+    {
+      "title": "Rogue & Stonebank & Slippy - Unity",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Seven Lions & Echos - Cold Skin (Stonebank Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Soldier",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Pressure",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          952619
+        ],
+        "osu": [
+          325307
+        ]
+      }
+    },
+    {
+      "title": "Who's Got Your Love",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          496549
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:18:23Z"
+}

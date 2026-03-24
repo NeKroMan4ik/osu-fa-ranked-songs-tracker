@@ -1,0 +1,320 @@
+{
+  "id": 35,
+  "name": "Imperial Circus Dead Decadence",
+  "tracks": [
+    {
+      "title": "Ankoku No Jyoukaku Ni Shinkou Saru Igyou No Kyouki",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "BRING+EYES=DEATH+INVITE",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1132374
+        ]
+      }
+    },
+    {
+      "title": "Bunretsu Shita Doke to Hakkyo no Shudo Onna",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Danzai No Honoo To Koibito-Tachi No Rondo",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          961431
+        ]
+      }
+    },
+    {
+      "title": "Fushoku Resentment...",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fusyoku ressentiment, fushiyoku no sarugakuza.",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2300535,
+          2385029
+        ],
+        "osu": [
+          761881,
+          2088208
+        ],
+        "fruits": [
+          949602,
+          1416530
+        ]
+      }
+    },
+    {
+      "title": "Gekiai No Yobigoe Ga Dekiai No Sakebigoe Wo Kurau",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          915563,
+          1201605,
+          2219369
+        ],
+        "taiko": [
+          1484234
+        ],
+        "fruits": [
+          1369800
+        ]
+      }
+    },
+    {
+      "title": "Goku",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hai shita Shoujo Wa, Haiyoru Konton To Kaikousu.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hitsuunaru Kyouon wa Kanashiki Kaikou mode:Alpha",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hitsuunaru Kyouon wa Kanashiki Kaikou mode:Omega",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1936926
+        ]
+      }
+    },
+    {
+      "title": "Hyakki Yakou -Pandemonic Night Parade-",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2138714
+        ],
+        "osu": [
+          1776682
+        ]
+      }
+    },
+    {
+      "title": "Ingaritsu No Togabito, Kyoukaimen-Jou No Unmei.",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2478651
+        ],
+        "taiko": [
+          1702653
+        ],
+        "osu": [
+          1596665
+        ]
+      }
+    },
+    {
+      "title": "Jashin no Konrei, Gi wa Ai to Shiru",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kuroki Sakura wa Ai: Sono Shi o Kou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Misogiharae no Kamiumi wa Notamai, Magabarai no Shokuzai wa Chikau.",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1777349,
+          1781688,
+          2273889
+        ]
+      }
+    },
+    {
+      "title": "Seishin No Kairi No, Sakebi To Nageki.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shinbatsu o Tadori Kyoukotsu ni Itaru",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2072192,
+          2338848
+        ],
+        "mania": [
+          1647221
+        ],
+        "taiko": [
+          1070409
+        ],
+        "osu": [
+          482382
+        ]
+      }
+    },
+    {
+      "title": "Syakunetsu No Rengoku Ni Bara Wa…",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tensei",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2407477
+        ],
+        "osu": [
+          2209717,
+          2335535
+        ]
+      }
+    },
+    {
+      "title": "Tinu rareta Syuren Ni Fukeru Homura",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          553100,
+          964134,
+          1643857
+        ],
+        "taiko": [
+          1167283
+        ]
+      }
+    },
+    {
+      "title": "Uta",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          552726,
+          1839986
+        ],
+        "osu": [
+          410162,
+          479638,
+          552726,
+          962562,
+          1112662,
+          1781677
+        ],
+        "fruits": [
+          457332,
+          670439,
+          1572969
+        ],
+        "taiko": [
+          410162,
+          692207,
+          1572969
+        ]
+      }
+    },
+    {
+      "title": "Yomi yori Kikoyu, Koukoku No Hi To Honoo No Syoujo.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo. -Mogari-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Yomi yori Kikoyu...",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Yoruha: Tsumitobachi no Rasen",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Yuuaku no Inori - Anima immortalis est. -",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2475387,
+          2479501
+        ],
+        "osu": [
+          2475379,
+          2478116
+        ],
+        "taiko": [
+          2475675
+        ],
+        "fruits": [
+          2475480
+        ]
+      }
+    },
+    {
+      "title": "Zankoku-sa wa Sono Nakigara wo Neburazaru",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T13:26:16Z"
+}

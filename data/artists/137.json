@@ -1,0 +1,140 @@
+{
+  "id": 137,
+  "name": "SECONDWALL",
+  "tracks": [
+    {
+      "title": "Beautiful Lie",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1337432
+        ]
+      }
+    },
+    {
+      "title": "Boku wa Boku de shika Nakute",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1356447
+        ],
+        "fruits": [
+          1334097
+        ]
+      }
+    },
+    {
+      "title": "Fragile",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Freedom",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2235880
+        ],
+        "osu": [
+          2039403
+        ]
+      }
+    },
+    {
+      "title": "Light",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2031239
+        ],
+        "osu": [
+          1373974
+        ],
+        "taiko": [
+          1318825
+        ]
+      }
+    },
+    {
+      "title": "Merry Christmas",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1630072,
+          2259733
+        ]
+      }
+    },
+    {
+      "title": "Natsu no Owari",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2075254
+        ],
+        "taiko": [
+          1404425
+        ]
+      }
+    },
+    {
+      "title": "Shizuka na Yoru ni",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2304762
+        ],
+        "osu": [
+          2217371
+        ],
+        "taiko": [
+          1729416
+        ]
+      }
+    },
+    {
+      "title": "Shooting Star",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1368054
+        ]
+      }
+    },
+    {
+      "title": "Susume",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2183607
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T12:19:47Z"
+}

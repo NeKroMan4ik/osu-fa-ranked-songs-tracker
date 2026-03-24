@@ -1,0 +1,255 @@
+{
+  "id": 527,
+  "name": "Laur",
+  "tracks": [
+    {
+      "title": "Alteregoism",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1223763
+        ]
+      }
+    },
+    {
+      "title": "Attractor Dimension",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Calamity of the Mystic Garden : Doom",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cosmic Blaster",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "cry of viyella",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dustvoxx, Laur - FireLight",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dustvoxx, Laur - FireLight (Neokontrol Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Euphoria",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1672679
+        ]
+      }
+    },
+    {
+      "title": "Executioner",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2369185,
+          2445798,
+          2471251
+        ]
+      }
+    },
+    {
+      "title": "Kokushi Musou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Koto no Ha",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2204705
+        ]
+      }
+    },
+    {
+      "title": "Lash Out",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Laur feat. Aitsuki Nakuru - Collapse",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Laur feat. Mishamo - Let's! Miracle * HARDCORE!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Laur feat. Risa Yuzuki - Afflict",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Laur feat. Risa Yuzuki - Megaera",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Laur feat. Sennzai - Lure",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Laur vs. CK - Lost Civilization",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Laur vs. M1shamo - Deceiver",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "PRISTINE",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          872448,
+          1804855
+        ],
+        "fruits": [
+          1213868
+        ]
+      }
+    },
+    {
+      "title": "Quaerite Veritatis",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rebuff",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1919502,
+          2385880
+        ]
+      }
+    },
+    {
+      "title": "SEV-26",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2513401
+        ],
+        "fruits": [
+          2510793
+        ]
+      }
+    },
+    {
+      "title": "Sound Chimera",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          779916,
+          1080215,
+          2493003
+        ],
+        "fruits": [
+          2048353
+        ],
+        "osu": [
+          1910654
+        ],
+        "mania": [
+          1227519,
+          1415755
+        ]
+      }
+    },
+    {
+      "title": "SYSTEM ERROR",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2097315
+        ],
+        "mania": [
+          1931476,
+          1986822,
+          2006102
+        ]
+      }
+    },
+    {
+      "title": "Venomous Virus",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Viyella's Destiny",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2140655
+        ]
+      }
+    },
+    {
+      "title": "Viyella's Memory",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Viyella's Nightmare",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2129862
+        ],
+        "mania": [
+          1702668
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:20:24Z"
+}

@@ -1,0 +1,103 @@
+{
+  "id": 71,
+  "name": "Venetian Snares",
+  "tracks": [
+    {
+      "title": "Contain",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1234756
+        ]
+      }
+    },
+    {
+      "title": "Frictional Nevada",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1257738
+        ],
+        "taiko": [
+          697419,
+          1131123
+        ]
+      }
+    },
+    {
+      "title": "Ketsarku Mozgalom",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1133442
+        ]
+      }
+    },
+    {
+      "title": "My Love Is A Bulldozer",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "My So-Called Life",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          627934,
+          1140877
+        ],
+        "osu": [
+          243485
+        ]
+      }
+    },
+    {
+      "title": "Shaky Sometimes",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1229307
+        ]
+      }
+    },
+    {
+      "title": "She Runs",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          696765
+        ],
+        "osu": [
+          319890
+        ]
+      }
+    },
+    {
+      "title": "Szamar Madar",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1176036
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T14:39:30Z"
+}

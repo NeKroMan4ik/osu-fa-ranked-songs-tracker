@@ -1,0 +1,94 @@
+{
+  "id": 355,
+  "name": "Yokomin",
+  "tracks": [
+    {
+      "title": "A Place Where You Hope",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ascend to Frost",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Colorful Pastel",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          494699
+        ]
+      }
+    },
+    {
+      "title": "Distance",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Enigma",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Everlasting Princess",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Proof -Album ver-",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          465705
+        ]
+      }
+    },
+    {
+      "title": "Reflected Your Voice",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "STINGER",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2022054
+        ]
+      }
+    },
+    {
+      "title": "Where Is My Voice",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Yukari",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          428432,
+          808764,
+          1540629,
+          1699079,
+          2150876
+        ],
+        "taiko": [
+          808764
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:45:31Z"
+}

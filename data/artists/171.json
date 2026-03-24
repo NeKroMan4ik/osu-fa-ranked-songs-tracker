@@ -1,0 +1,101 @@
+{
+  "id": 171,
+  "name": "love solfege",
+  "tracks": [
+    {
+      "title": "arabesque of dif.",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          22742
+        ]
+      }
+    },
+    {
+      "title": "BABEL (2019 Remix ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "La Fatalite",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1398874
+        ]
+      }
+    },
+    {
+      "title": "Land Art",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2132108
+        ]
+      }
+    },
+    {
+      "title": "le blanc et noir",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "matricaria",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "over the surges",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "protomimesis#14",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1799269
+        ]
+      }
+    },
+    {
+      "title": "Sanzen to Kagayaku Kanashiki Ashita to...",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2128184
+        ],
+        "mania": [
+          2121836
+        ]
+      }
+    },
+    {
+      "title": "Vanity Clock",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2258994
+        ],
+        "osu": [
+          1486643
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:24:40Z"
+}

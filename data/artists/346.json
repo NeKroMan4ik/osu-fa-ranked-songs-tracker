@@ -1,0 +1,59 @@
+{
+  "id": 346,
+  "name": "Mediks",
+  "tracks": [
+    {
+      "title": "Doomsday",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          545677
+        ]
+      }
+    },
+    {
+      "title": "Mediks feat. Astronaut - Blown Away",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mediks feat. Astronaut - Blown Away (Raise Spirit Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nightmare",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          550808
+        ]
+      }
+    },
+    {
+      "title": "Outbreak",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          527082
+        ],
+        "taiko": [
+          527082
+        ]
+      }
+    },
+    {
+      "title": "Snake Charmer",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:29:43Z"
+}

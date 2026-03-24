@@ -1,0 +1,268 @@
+{
+  "id": 20,
+  "name": "Trial & Error",
+  "tracks": [
+    {
+      "title": "Ashita e tobutameni",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ashita e tobutameni (Instrumental Mix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ashita e tobutameni (Instrumental Mix) (Short Ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ashita e tobutameni (Instrumental Mix) (TV Size)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ashita e tobutameni (Short Ver.)",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2461797
+        ],
+        "osu": [
+          2461797
+        ],
+        "taiko": [
+          2461797
+        ]
+      }
+    },
+    {
+      "title": "Ashita e tobutameni (TV Size)",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2122738
+        ]
+      }
+    },
+    {
+      "title": "DAI*TAN SENSATION feat. Hatsune Miku",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "DAI*TAN SENSATION feat. Hatsune Miku (Short Ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "DAI*TAN Sensation feat. Nanahira, Mii, Nakuru Aitsuki",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "DAI*TAN Sensation feat. Nanahira, Mii, Nakuru Aitsuki (Short Ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "DREAMING COLOR",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "DREAMING COLOR (Short Ver.)",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1116584
+        ],
+        "fruits": [
+          946773
+        ]
+      }
+    },
+    {
+      "title": "hex feat. Aya Hatori",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "hex feat. Aya Hatori (Short Ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hitori ja... Issho nara!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hitori ja... Issho nara! (Short ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hitori ja... Issho nara! (TV Size)",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2208658
+        ],
+        "mania": [
+          2208658
+        ],
+        "taiko": [
+          1252845
+        ]
+      }
+    },
+    {
+      "title": "Hoshizora Touhikou feat. Hatsune Miku",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2273186
+        ],
+        "osu": [
+          747331
+        ]
+      }
+    },
+    {
+      "title": "Hoshizora Touhikou feat. Hatsune Miku (Short Ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Houkai no Hate No Ishi feat. GUMI",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Houkai no Hate No Ishi feat. GUMI (Short Ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MYxFLAVORxDAYS! feat. GUMI",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MYxFLAVORxDAYS! feat. GUMI (Short Ver.)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2121497
+        ]
+      }
+    },
+    {
+      "title": "Shuuen no Reboot",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shuuen no Reboot (Instrumental Mix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sore ga Zenbu, Yume ni Tsunagaru",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sore ga Zenbu, Yume ni Tsunagaru (Short Ver.)",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1217811
+        ],
+        "osu": [
+          1120862
+        ]
+      }
+    },
+    {
+      "title": "Sorezore no Tabiji",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sorezore no Tabiji (Short Ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Taiatari*Romance feat. Ayuru Ouhashi",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Taiatari*Romance feat. Ayuru Ouhashi (Short Ver.)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          796338
+        ]
+      }
+    },
+    {
+      "title": "Tokoyami no Keiyaku KEGARETA-SHOUJO feat. GUMI",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tokoyami no Keiyaku KEGARETA-SHOUJO feat. GUMI (Short Ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Yoru wo Kakeru feat. ming-zi",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Yoru wo Kakeru feat. ming-zi (Short Ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ZESSAN*UNMEI-CHU feat. GUMI",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ZESSAN*UNMEI-CHU feat. GUMI (Short Ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T13:18:05Z"
+}

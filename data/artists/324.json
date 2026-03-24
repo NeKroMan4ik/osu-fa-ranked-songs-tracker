@@ -1,0 +1,47 @@
+{
+  "id": 324,
+  "name": "Noisestorm",
+  "tracks": [
+    {
+      "title": "Barracuda",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1992666
+        ],
+        "taiko": [
+          1392694
+        ]
+      }
+    },
+    {
+      "title": "Breakdown VIP",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Crab Rave",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2331345
+        ],
+        "osu": [
+          891596
+        ]
+      }
+    },
+    {
+      "title": "Excision & Pegboard Nerds - Bring The Madness (feat. Mayor Apeshit) (Noisestorm Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:42:30Z"
+}

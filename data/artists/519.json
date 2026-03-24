@@ -1,0 +1,33 @@
+{
+  "id": 519,
+  "name": "ePiaeon",
+  "tracks": [
+    {
+      "title": "DIAL LOOP",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "FAKE UP",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "FLOP ERA",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2448751
+        ]
+      }
+    },
+    {
+      "title": "Wonder, and",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T20:50:17Z"
+}

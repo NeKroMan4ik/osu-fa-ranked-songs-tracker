@@ -1,0 +1,111 @@
+{
+  "id": 362,
+  "name": "Shadren",
+  "tracks": [
+    {
+      "title": "Agleam (feat. Asperatus)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1926857
+        ]
+      }
+    },
+    {
+      "title": "Attracting Universe",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2448103
+        ]
+      }
+    },
+    {
+      "title": "Fanteer",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Froskya",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1999098
+        ]
+      }
+    },
+    {
+      "title": "Kuba Oms - My Love (Shadren Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lolisquad",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1999447
+        ],
+        "mania": [
+          1998687
+        ]
+      }
+    },
+    {
+      "title": "Neuro Cute Thing",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2405735
+        ],
+        "osu": [
+          851363
+        ]
+      }
+    },
+    {
+      "title": "POWERUP",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Serene Silence",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shadren & Zerss - Tonight",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Suspense",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "You're Here Forever",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1948970
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:10:44Z"
+}

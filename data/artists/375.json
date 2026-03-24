@@ -1,0 +1,125 @@
+{
+  "id": 375,
+  "name": "Kardashev",
+  "tracks": [
+    {
+      "title": "Apparitions in Candlelight",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Apparitions in Candlelight / Dissever",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2220393
+        ]
+      }
+    },
+    {
+      "title": "Behind Leaves And Vines",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1832856
+        ]
+      }
+    },
+    {
+      "title": "Beside Cliffs and Chasms",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1515274
+        ]
+      }
+    },
+    {
+      "title": "Between Sea and Sky",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2270878,
+          2290212
+        ]
+      }
+    },
+    {
+      "title": "Cellar of Ghosts",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2413535
+        ],
+        "osu": [
+          1804362,
+          2046040
+        ]
+      }
+    },
+    {
+      "title": "Compost Grave-Song",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Glass Phantoms",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1986827,
+          2052686
+        ]
+      }
+    },
+    {
+      "title": "Lavender Calligraphy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lavender Calligraphy / The Blinding Threshold",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lux",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Potentiality",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Silvered Shadows",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Somnium",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Approaching of Atonement / Silvered Shadows",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:13:27Z"
+}

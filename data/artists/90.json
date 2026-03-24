@@ -1,0 +1,138 @@
+{
+  "id": 90,
+  "name": "Numtack05",
+  "tracks": [
+    {
+      "title": "Ansatsusha! 2010 Fuyu",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          703515
+        ]
+      }
+    },
+    {
+      "title": "Genkaku Catastrophe",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2056364
+        ],
+        "taiko": [
+          2052470
+        ],
+        "osu": [
+          675086,
+          1214702
+        ]
+      }
+    },
+    {
+      "title": "Hajimari da ne!",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1256677
+        ],
+        "osu": [
+          1002222
+        ]
+      }
+    },
+    {
+      "title": "Ikari",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1031812,
+          2178612
+        ]
+      }
+    },
+    {
+      "title": "Jama Shinaide ne*",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kienai Hitomi.",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1222182
+        ]
+      }
+    },
+    {
+      "title": "kimi no hitomi ni.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nemuritai noni!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ooki na Hane de!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Oshimai da ze!",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1001813
+        ]
+      }
+    },
+    {
+      "title": "sayonara! (ED ver)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2141296
+        ]
+      }
+    },
+    {
+      "title": "you envy fancy girl",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Yukkiina!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Yume ni Sayonara*",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Yume o Miyou yo.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T14:52:54Z"
+}

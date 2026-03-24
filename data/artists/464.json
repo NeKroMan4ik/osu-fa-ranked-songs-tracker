@@ -1,0 +1,33 @@
+{
+  "id": 464,
+  "name": "rae",
+  "tracks": [
+    {
+      "title": "ABLE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "glass_ield",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "TRANQUILITY RESOLVE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "UNABLE",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2372990
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:54:27Z"
+}

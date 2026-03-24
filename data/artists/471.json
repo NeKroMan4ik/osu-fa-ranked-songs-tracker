@@ -1,0 +1,49 @@
+{
+  "id": 471,
+  "name": "Naikou",
+  "tracks": [
+    {
+      "title": "Beyond Reality",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2163553
+        ]
+      }
+    },
+    {
+      "title": "Final Call",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2351118
+        ]
+      }
+    },
+    {
+      "title": "J1407b",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Molecular Gastronomy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Naikou & Cedric Milhau - Po5t-M0d3rn_Nostalgia",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "NGC 6618",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:39:48Z"
+}

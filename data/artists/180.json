@@ -1,0 +1,67 @@
+{
+  "id": 180,
+  "name": "Fred V & Grafix",
+  "tracks": [
+    {
+      "title": "Electrify (feat. Amy J Pryce)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1624878
+        ]
+      }
+    },
+    {
+      "title": "Forest Fires (feat. Etherwood)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Games People Play",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Here With You (feat. Collin McLoughlin)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2175216
+        ]
+      }
+    },
+    {
+      "title": "Ignite (feat. Amy J Pryce)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1060329,
+          1443360
+        ]
+      }
+    },
+    {
+      "title": "Tension (feat. Kate Westall)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ultraviolet",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1272355
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:54:39Z"
+}

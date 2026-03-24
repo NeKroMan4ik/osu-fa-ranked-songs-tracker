@@ -1,0 +1,48 @@
+{
+  "id": 366,
+  "name": "passchooo",
+  "tracks": [
+    {
+      "title": "7he osu! world cup 2 dariacore 7imeline (feat. Azer, Jade & Rain)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "a song",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "bright",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "chooo2023_1",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "chooo2023_2",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "chooo2023_4",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "david gold took it slow (alt version)",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2023751
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:50:46Z"
+}

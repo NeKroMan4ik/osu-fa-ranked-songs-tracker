@@ -1,0 +1,160 @@
+{
+  "id": 246,
+  "name": "EmoCosine",
+  "tracks": [
+    {
+      "title": "Black sour Ruby",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2019474
+        ],
+        "taiko": [
+          1715813
+        ]
+      }
+    },
+    {
+      "title": "Black sour Ruby (Extended Smelting)",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2040411,
+          2064817
+        ]
+      }
+    },
+    {
+      "title": "Cutter",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2150376
+        ],
+        "taiko": [
+          1598606,
+          1734692
+        ]
+      }
+    },
+    {
+      "title": "Dream with Me",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Give You My World",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1225464
+        ]
+      }
+    },
+    {
+      "title": "Hello, My future",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Is This Your Memory",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Love Kills U",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1719687,
+          2246506
+        ]
+      }
+    },
+    {
+      "title": "Love Pills",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2495158
+        ],
+        "taiko": [
+          1798875
+        ]
+      }
+    },
+    {
+      "title": "MAGENTA POTION",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1502054
+        ]
+      }
+    },
+    {
+      "title": "Nekojarashi",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1710593
+        ]
+      }
+    },
+    {
+      "title": "Pastel Kokoro",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Pixel Heart",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ready for Breakdown",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Step to Sky",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Third Castle",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Thinkin' About U",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "This Club is Not 4 U",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T20:49:43Z"
+}

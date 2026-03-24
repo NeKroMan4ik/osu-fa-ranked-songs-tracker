@@ -1,0 +1,45 @@
+{
+  "id": 426,
+  "name": "Nakura",
+  "tracks": [
+    {
+      "title": "7th Sphere",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2155698
+        ]
+      }
+    },
+    {
+      "title": "Lullaby (osu! edit)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2204989
+        ]
+      }
+    },
+    {
+      "title": "Real Danger (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Takin' U There (osu! edit)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2134284
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:39:55Z"
+}

@@ -1,0 +1,194 @@
+{
+  "id": 269,
+  "name": "Origami Angel",
+  "tracks": [
+    {
+      "title": "24 Hr Drive-Thru",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1724847
+        ]
+      }
+    },
+    {
+      "title": "666 Flags",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1396650,
+          2149649
+        ],
+        "taiko": [
+          1799285
+        ]
+      }
+    },
+    {
+      "title": "Bed Bath & Batman Beyond",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1959652,
+          2294349
+        ],
+        "taiko": [
+          1864157
+        ]
+      }
+    },
+    {
+      "title": "Blanket Statement",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2176607
+        ]
+      }
+    },
+    {
+      "title": "Bossa Nova Corps",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Doctor Whomst",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2166240
+        ]
+      }
+    },
+    {
+      "title": "Dr. Fondoom",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2193529
+        ],
+        "fruits": [
+          2192804
+        ],
+        "osu": [
+          1838756,
+          2140440
+        ],
+        "taiko": [
+          1905493
+        ]
+      }
+    },
+    {
+      "title": "Escape Rope",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1757733
+        ]
+      }
+    },
+    {
+      "title": "Find Your Throne",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moebius Chicken Strip",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1795159
+        ]
+      }
+    },
+    {
+      "title": "Neutrogena Spektor",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Noah Fence",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1931702
+        ],
+        "mania": [
+          1892177
+        ]
+      }
+    },
+    {
+      "title": "Say Less",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1772140
+        ]
+      }
+    },
+    {
+      "title": "Skeleton Key",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Air Up Here",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Title Track",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2398179
+        ],
+        "osu": [
+          1396156,
+          1988818
+        ],
+        "fruits": [
+          1503591
+        ]
+      }
+    },
+    {
+      "title": "Welcome to...",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:45:25Z"
+}

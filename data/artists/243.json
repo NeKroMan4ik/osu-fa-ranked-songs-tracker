@@ -1,0 +1,65 @@
+{
+  "id": 243,
+  "name": "MisomyL",
+  "tracks": [
+    {
+      "title": "Amnehilesie",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1440359,
+          1940328
+        ],
+        "osu": [
+          1703921
+        ]
+      }
+    },
+    {
+      "title": "Atashi no Juuoumujin Chou Jiyuu Yuugiki Sekai Keikaku feat. Haachi",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Catalinesie",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1904667
+        ]
+      }
+    },
+    {
+      "title": "Coming*True!!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mirai no Uchuu ni Omoi o Nosete",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mukishitsu Sekai ni Irodori o",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1812783
+        ]
+      }
+    },
+    {
+      "title": "SynG feat. Pumpkin",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:33:08Z"
+}

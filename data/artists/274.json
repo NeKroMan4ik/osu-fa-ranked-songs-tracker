@@ -1,0 +1,76 @@
+{
+  "id": 274,
+  "name": "Kanpyohgo",
+  "tracks": [
+    {
+      "title": "Chiisana Chiisana Kenshou -Nostalgic Extended Rev2-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kyuu Jigokukaidou o Yuku Dance.edt",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2281816
+        ]
+      }
+    },
+    {
+      "title": "Mannen Okigasa ni Gochui o -Festive Extended-",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1985153
+        ]
+      }
+    },
+    {
+      "title": "Reichi no Taiyou Shinkou -Nuclear Fusion- Hardcore.edt",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1811874
+        ]
+      }
+    },
+    {
+      "title": "Shoujo Satori -3rd.eye- Trance.edt",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1915183
+        ],
+        "osu": [
+          1832066
+        ]
+      }
+    },
+    {
+      "title": "Tozaseshi Kumo no Kayoiji -Stormy Extended-",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1783062
+        ]
+      }
+    },
+    {
+      "title": "Unmei no Dark Side -Rolling Gothic Mix-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:13:04Z"
+}

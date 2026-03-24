@@ -1,0 +1,115 @@
+{
+  "id": 311,
+  "name": "GLORYHAMMER",
+  "tracks": [
+    {
+      "title": "Amulet of Justice",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Angus McFife",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Apocalypse 1992",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Battle for Eternity",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Goblin King of the Darkstorm Galaxy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hootsforce",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Infernus Ad Astra",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Masters of The Galaxy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Questlords of Inverness, Ride to the Galactic Fortress!",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1630218
+        ]
+      }
+    },
+    {
+      "title": "Rise Of The Chaos Wizards",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2242259
+        ],
+        "mania": [
+          1957138
+        ]
+      }
+    },
+    {
+      "title": "The Epic Rage of Furious Thunder",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1848202
+        ]
+      }
+    },
+    {
+      "title": "The Fires of Ancient Cosmic Destiny",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Land of Unicorns",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Siege of Dunkeld (In Hoots We Trust)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Unicorn Invasion of Dundee",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1072728
+        ]
+      }
+    },
+    {
+      "title": "Universe On Fire",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T20:58:07Z"
+}

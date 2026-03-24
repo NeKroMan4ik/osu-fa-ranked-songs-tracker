@@ -1,0 +1,329 @@
+{
+  "id": 15,
+  "name": "Fractal Dreamers",
+  "tracks": [
+    {
+      "title": "Ad Astra",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1086164,
+          1096683
+        ],
+        "osu": [
+          965651
+        ]
+      }
+    },
+    {
+      "title": "Azure of the Horizon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Blue Haven",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          751894
+        ]
+      }
+    },
+    {
+      "title": "Blueshift",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Celestial Horizon",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          896302,
+          1018454,
+          1742738
+        ],
+        "taiko": [
+          1661187
+        ],
+        "osu": [
+          751846,
+          752921
+        ]
+      }
+    },
+    {
+      "title": "Clarum Somnium",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Crossing the Waterscape",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Defiance",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1665428
+        ],
+        "taiko": [
+          976985
+        ]
+      }
+    },
+    {
+      "title": "Dreamscape",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Elysian Fields",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Everything for a Dream",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          943803
+        ]
+      }
+    },
+    {
+      "title": "Ex Nihilo",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1254879
+        ]
+      }
+    },
+    {
+      "title": "Fata Morgana",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          751782
+        ]
+      }
+    },
+    {
+      "title": "Fortuna Redux",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          712974
+        ],
+        "taiko": [
+          707824
+        ]
+      }
+    },
+    {
+      "title": "Fragments of You",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1146874
+        ],
+        "taiko": [
+          1126740
+        ]
+      }
+    },
+    {
+      "title": "Gardens Under A Spring Sky",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1080892
+        ],
+        "taiko": [
+          1080892
+        ],
+        "osu": [
+          956716,
+          962862,
+          985385
+        ]
+      }
+    },
+    {
+      "title": "Infinity Chasers",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kingdom of Silence",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1756405
+        ]
+      }
+    },
+    {
+      "title": "Method of Illusion",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1123119
+        ]
+      }
+    },
+    {
+      "title": "Module_410",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1107159,
+          1382018,
+          2378246
+        ],
+        "osu": [
+          957328,
+          982205
+        ],
+        "fruits": [
+          957808
+        ]
+      }
+    },
+    {
+      "title": "Monolithia",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          982375
+        ]
+      }
+    },
+    {
+      "title": "Paradigm Shift",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          716441,
+          900006
+        ]
+      }
+    },
+    {
+      "title": "Perihelion",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ragnarok",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Reku Mochizuki & skymuted - Realm in the Sky",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Scarlet Night",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          986376
+        ]
+      }
+    },
+    {
+      "title": "skymuted & Evin a'k - memory at angels landing",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Singing Swan",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Virulence",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Whispers from a Distant Star",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1494747,
+          1739147
+        ],
+        "taiko": [
+          1332550
+        ],
+        "osu": [
+          1134144
+        ]
+      }
+    },
+    {
+      "title": "With Every Wanderer's Breath",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          847755
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T13:13:58Z"
+}

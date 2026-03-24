@@ -1,0 +1,33 @@
+{
+  "id": 533,
+  "name": "Ariz Kayaba",
+  "tracks": [
+    {
+      "title": "Destination.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Pandora's Voyage",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Vector Kontrol",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "VOLTOX",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2439956
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-23T22:47:42Z"
+}

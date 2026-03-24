@@ -1,0 +1,103 @@
+{
+  "id": 74,
+  "name": "O2i3",
+  "tracks": [
+    {
+      "title": "Dollfie Dream",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1842979
+        ]
+      }
+    },
+    {
+      "title": "Heart Function",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1139247
+        ],
+        "osu": [
+          1133480
+        ],
+        "taiko": [
+          1132966
+        ]
+      }
+    },
+    {
+      "title": "How to make Slime",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1199138
+        ]
+      }
+    },
+    {
+      "title": "Kato",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Melco, Melco",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ooi",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1125727
+        ],
+        "mania": [
+          817161,
+          932214
+        ]
+      }
+    },
+    {
+      "title": "Ping",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "TSLove",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          543830,
+          1137583,
+          2305046
+        ],
+        "taiko": [
+          597779,
+          1275052
+        ],
+        "osu": [
+          620910,
+          1197928,
+          1206779
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T14:41:20Z"
+}

@@ -1,0 +1,309 @@
+{
+  "id": 37,
+  "name": "The Flashbulb",
+  "tracks": [
+    {
+      "title": "A Raw Understanding",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Alley Acid",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Amen Iraq",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2111149
+        ],
+        "taiko": [
+          966251,
+          966277
+        ]
+      }
+    },
+    {
+      "title": "Bash",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Binedump",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Black Lawn Finale",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          967099
+        ]
+      }
+    },
+    {
+      "title": "Chik Habit",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1964687
+        ],
+        "osu": [
+          1453481
+        ],
+        "taiko": [
+          827049
+        ]
+      }
+    },
+    {
+      "title": "Coinage",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Creep",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          966087
+        ]
+      }
+    },
+    {
+      "title": "Dead On The 4th Of July",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          347882
+        ]
+      }
+    },
+    {
+      "title": "DIDJ PVC",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          966078
+        ],
+        "taiko": [
+          965178
+        ]
+      }
+    },
+    {
+      "title": "Hymn To The Unobtainable",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          539042
+        ]
+      }
+    },
+    {
+      "title": "It Never Ends",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          973171
+        ]
+      }
+    },
+    {
+      "title": "Kirlian Choices",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kirlian Shores",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1795703
+        ]
+      }
+    },
+    {
+      "title": "Lawn Wake I",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lawn Wake II",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          364724
+        ]
+      }
+    },
+    {
+      "title": "Lawn Wake III",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lawn Wake IV (Black)",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          965730
+        ],
+        "taiko": [
+          341717
+        ]
+      }
+    },
+    {
+      "title": "Lawn Wake IX",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          966060
+        ]
+      }
+    },
+    {
+      "title": "Mellann",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2423530
+        ],
+        "osu": [
+          977276
+        ]
+      }
+    },
+    {
+      "title": "Monolite",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ninedump",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          984361
+        ]
+      }
+    },
+    {
+      "title": "Passage D",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          400300,
+          966225
+        ],
+        "taiko": [
+          587426
+        ]
+      }
+    },
+    {
+      "title": "Six Acid Strings",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          966451
+        ]
+      }
+    },
+    {
+      "title": "Stretch Industry",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Bridgeport Run",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1215016
+        ]
+      }
+    },
+    {
+      "title": "The Trees In Russia",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Time Ache Finale",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1726133
+        ]
+      }
+    },
+    {
+      "title": "You Take the World's Weight Away",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1258921
+        ],
+        "fruits": [
+          964553
+        ],
+        "osu": [
+          964553
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T13:54:49Z"
+}

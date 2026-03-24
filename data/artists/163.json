@@ -1,0 +1,147 @@
+{
+  "id": 163,
+  "name": "Reku Mochizuki",
+  "tracks": [
+    {
+      "title": "7colors memories feat. Seyaka",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Be Right There",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2367606
+        ]
+      }
+    },
+    {
+      "title": "Faith of Eastward",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1609365
+        ]
+      }
+    },
+    {
+      "title": "Falseimager",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1398967
+        ]
+      }
+    },
+    {
+      "title": "FORViDDEN ENERZY -Fataldoze-",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1479741
+        ]
+      }
+    },
+    {
+      "title": "INFiNiTE ENERZY -Overdoze-",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2199117
+        ]
+      }
+    },
+    {
+      "title": "KiNG FORM -XIII-",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1495387
+        ]
+      }
+    },
+    {
+      "title": "Perfect ConfeCute",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Phynalvent",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Regeneraxion",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Reku Mochizuki & skymuted - Realm in the Sky",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Serenity Wisteria -Reblooming-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Take Me Far Away",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Unlimited Katharsis",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "VEZZELiX",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1871929
+        ],
+        "mania": [
+          1778816
+        ],
+        "taiko": [
+          1406171
+        ]
+      }
+    },
+    {
+      "title": "Yorixiro",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1438879
+        ],
+        "taiko": [
+          1397782
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:56:53Z"
+}

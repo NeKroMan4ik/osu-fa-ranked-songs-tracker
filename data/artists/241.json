@@ -1,0 +1,84 @@
+{
+  "id": 241,
+  "name": "Riya",
+  "tracks": [
+    {
+      "title": "Annihilation",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cleyera",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eternally",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2338865
+        ]
+      }
+    },
+    {
+      "title": "Final Hope",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1749541
+        ]
+      }
+    },
+    {
+      "title": "IMPULSE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Intruder",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1896707
+        ],
+        "osu": [
+          1712971
+        ]
+      }
+    },
+    {
+      "title": "Laboratory-18",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Liar",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shooting Star",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2293586
+        ],
+        "mania": [
+          1704136
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:59:31Z"
+}

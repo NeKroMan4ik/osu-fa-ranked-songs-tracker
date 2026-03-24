@@ -1,0 +1,71 @@
+{
+  "id": 336,
+  "name": "kakichoco",
+  "tracks": [
+    {
+      "title": "Enrai -Enlight-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hakudou",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2069664
+        ]
+      }
+    },
+    {
+      "title": "Hanabira no Koi",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2340609
+        ]
+      }
+    },
+    {
+      "title": "Kizuna ~Kochi version~",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "KUMONOITO",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Reirou no Hibiki",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1853651
+        ]
+      }
+    },
+    {
+      "title": "Zan'ei",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2000864
+        ],
+        "osu": [
+          1759729,
+          1888928
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:12:07Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 511,
+  "name": "gladde paling",
+  "tracks": [
+    {
+      "title": "vleermuis",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2473748
+        ],
+        "osu": [
+          2462132
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:57:15Z"
+}

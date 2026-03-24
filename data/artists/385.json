@@ -1,0 +1,33 @@
+{
+  "id": 385,
+  "name": "Will Stetson",
+  "tracks": [
+    {
+      "title": "Koala",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2098009
+        ]
+      }
+    },
+    {
+      "title": "Koala (Self Cover)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Live In Life",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Writing on the Wall",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:41:58Z"
+}

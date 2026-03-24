@@ -1,0 +1,283 @@
+{
+  "id": 106,
+  "name": "P4koo",
+  "tracks": [
+    {
+      "title": "8th:Planet ~Re:search~",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2052754
+        ],
+        "mania": [
+          1604029
+        ],
+        "osu": [
+          1295410
+        ],
+        "fruits": [
+          1240162
+        ]
+      }
+    },
+    {
+      "title": "aiming for shine (feat. A.Dokugo)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "AKATSUKI",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Altered Ego",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Believe (feat. Tsuyuri Karin)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1292652,
+          1507812,
+          2121125
+        ]
+      }
+    },
+    {
+      "title": "Captivity (feat. Tsuyuri Karin)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1289574
+        ]
+      }
+    },
+    {
+      "title": "Catalyst (feat. Tsuyuri Karin)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Colorful Days (feat. Tsuyuri Karin)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2093577
+        ]
+      }
+    },
+    {
+      "title": "Crystal Illusion",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          791944,
+          797393
+        ]
+      }
+    },
+    {
+      "title": "EXTRAPHANTASM",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Feelings of fake (feat. Tsuyuri Karin)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          921855
+        ]
+      }
+    },
+    {
+      "title": "Fly High (feat. rerone)",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2399603
+        ],
+        "osu": [
+          1564234
+        ]
+      }
+    },
+    {
+      "title": "Forbidden Light",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1279878
+        ]
+      }
+    },
+    {
+      "title": "FRAGMENT. (feat. A.Dokuga)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1290469,
+          1320376,
+          1553307
+        ]
+      }
+    },
+    {
+      "title": "Hyperlight. (feat. Tsuyuri Karin)",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1255500
+        ]
+      }
+    },
+    {
+      "title": "Illusion of Mind",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "INFINITE POSSIBILITY",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Last Flight",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Le ciel heureux",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Melody Line",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1340600
+        ]
+      }
+    },
+    {
+      "title": "MINUS - INFINITY",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Negaigoto (feat. Tsuyuri Karin)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nick of Time",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1262594
+        ]
+      }
+    },
+    {
+      "title": "Only one wish",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "overwhelm",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "PLUS+INFINITY",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SECONDED WORLD",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SHINY*STAR!!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sky High (feat. rerone)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sogaikan Utopia",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1417793
+        ]
+      }
+    },
+    {
+      "title": "starstella",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2200202
+        ]
+      }
+    },
+    {
+      "title": "when you're away",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "You're my Shine (feat. Tsuyuri Karin)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2199780
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:50:11Z"
+}

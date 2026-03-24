@@ -1,0 +1,241 @@
+{
+  "id": 194,
+  "name": "Release Hallucination",
+  "tracks": [
+    {
+      "title": "A Passing Point",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1711133
+        ]
+      }
+    },
+    {
+      "title": "Alone In The Chaos",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ANIMA",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ariadne",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1857451
+        ],
+        "osu": [
+          1550194
+        ],
+        "taiko": [
+          1536537
+        ]
+      }
+    },
+    {
+      "title": "ASTERIA",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2301277
+        ]
+      }
+    },
+    {
+      "title": "Chronostasis",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          842930,
+          1898578,
+          2311273
+        ],
+        "osu": [
+          577414,
+          1392153,
+          2270474
+        ],
+        "fruits": [
+          1096713,
+          2155116
+        ]
+      }
+    },
+    {
+      "title": "Cure",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cure(reprise)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Death with Dignity",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Deus ex Machina",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1777293
+        ]
+      }
+    },
+    {
+      "title": "Dystopia",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1638732
+        ]
+      }
+    },
+    {
+      "title": "Fate",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "I.F.",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1575103,
+          1839414,
+          1856043,
+          2060223,
+          2152319
+        ],
+        "fruits": [
+          1864538
+        ],
+        "taiko": [
+          1320516,
+          1626585
+        ]
+      }
+    },
+    {
+      "title": "Keep The Memories Brilliant",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lovers in Abyss",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2110857
+        ],
+        "taiko": [
+          1812405
+        ],
+        "fruits": [
+          1699234
+        ]
+      }
+    },
+    {
+      "title": "Melancholia",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Memento Mori",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Minikui Uso to Boku",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "My Unforgettable Day",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sepia-end of summer-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Stray Sheep",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Children For Justice",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Executioner's Eye",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Night Before Halation",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "VANITAS",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2095177,
+          2227912
+        ],
+        "fruits": [
+          2119948
+        ],
+        "taiko": [
+          2109896
+        ],
+        "mania": [
+          2104931
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:57:31Z"
+}

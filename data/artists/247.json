@@ -1,0 +1,87 @@
+{
+  "id": 247,
+  "name": "Raimukun",
+  "tracks": [
+    {
+      "title": "Cthulhu",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1814085
+        ]
+      }
+    },
+    {
+      "title": "Firmament Star",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Gyakusetsu no Sekai",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Icyxis",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2255665
+        ]
+      }
+    },
+    {
+      "title": "Isysmonahy (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Myths Orbis",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2054122
+        ],
+        "mania": [
+          1916843
+        ],
+        "osu": [
+          1889095
+        ]
+      }
+    },
+    {
+      "title": "Nyarlathotep's Dreamland",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2358642
+        ],
+        "taiko": [
+          2121470
+        ],
+        "mania": [
+          2059895
+        ]
+      }
+    },
+    {
+      "title": "Thetaru",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:54:40Z"
+}

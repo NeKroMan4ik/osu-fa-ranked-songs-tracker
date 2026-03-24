@@ -1,0 +1,150 @@
+{
+  "id": 347,
+  "name": "Whispered",
+  "tracks": [
+    {
+      "title": "Bloodred Shores Of Enoshima",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Exile of the Floating World",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2163995
+        ],
+        "taiko": [
+          2133005
+        ],
+        "osu": [
+          769346
+        ]
+      }
+    },
+    {
+      "title": "Fallen Amaterasu",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hold the Sword",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          786432
+        ]
+      }
+    },
+    {
+      "title": "Jikininki",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          750201
+        ],
+        "taiko": [
+          415048
+        ]
+      }
+    },
+    {
+      "title": "Kappa",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          436703
+        ]
+      }
+    },
+    {
+      "title": "Kensei",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1079398
+        ],
+        "taiko": [
+          1079398
+        ]
+      }
+    },
+    {
+      "title": "Lady of the Wind",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sakura Omen",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Strike!",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          713086
+        ]
+      }
+    },
+    {
+      "title": "Thousand Swords",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tsukiakari",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1326162
+        ]
+      }
+    },
+    {
+      "title": "Unrestrained",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Upon My Honor",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          780589
+        ],
+        "osu": [
+          660156
+        ]
+      }
+    },
+    {
+      "title": "Victory Grounds Nothing",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:41:28Z"
+}

@@ -1,0 +1,70 @@
+{
+  "id": 312,
+  "name": "Au5",
+  "tracks": [
+    {
+      "title": "Akira Complex - Odyssey (Au5 Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Au5 & Fractal - Blue",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Au5 & Fractal - Halcyon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Au5 & Nytrix - Always in a Nightmare",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Blossom",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1186559
+        ]
+      }
+    },
+    {
+      "title": "Culprate & Au5 - Impulse",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eden (feat. Danyka Nadeau)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          959999
+        ]
+      }
+    },
+    {
+      "title": "Moonland",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          790382
+        ]
+      }
+    },
+    {
+      "title": "The Journey (feat. Trove)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T20:29:40Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": 469,
+  "name": "Quarkee",
+  "tracks": [
+    {
+      "title": "HYPER PSY2K",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2351106
+        ]
+      }
+    },
+    {
+      "title": "Quarkee & Yuuni - Fabricated Exaltation",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:53:44Z"
+}

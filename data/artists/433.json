@@ -1,0 +1,108 @@
+{
+  "id": 433,
+  "name": "Xyris",
+  "tracks": [
+    {
+      "title": "A Cybernetic-Superluminal-Apocalyptic Post-War Divination",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2142052,
+          2416399
+        ],
+        "mania": [
+          2321297,
+          2332985
+        ],
+        "osu": [
+          1814494
+        ]
+      }
+    },
+    {
+      "title": "Dystopian Exodus of the Magical Girls",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2316692
+        ],
+        "osu": [
+          2188075
+        ]
+      }
+    },
+    {
+      "title": "Eviternity",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1961513,
+          2138173
+        ]
+      }
+    },
+    {
+      "title": "FOXGLOVE",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2325243
+        ],
+        "mania": [
+          2318030,
+          2318416
+        ]
+      }
+    },
+    {
+      "title": "Nefelibata",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2233104
+        ]
+      }
+    },
+    {
+      "title": "Reikoku Assassins",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2287693
+        ]
+      }
+    },
+    {
+      "title": "Snow Upon Lunaria",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Terrablazer",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Vitality Charger (feat. Hanakuma Chifuyu)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:44:57Z"
+}

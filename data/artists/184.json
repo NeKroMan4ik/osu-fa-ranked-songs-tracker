@@ -1,0 +1,83 @@
+{
+  "id": 184,
+  "name": "Redside",
+  "tracks": [
+    {
+      "title": "Air",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Aspiration",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Aura",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "beachballs!",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2389847
+        ],
+        "fruits": [
+          2159794
+        ]
+      }
+    },
+    {
+      "title": "Fever Dream",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "First Adventure",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kuba Oms - My Love (Redside Remix) (feat. Hatsune Miku)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Reverie",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sidequest",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2087366
+        ],
+        "osu": [
+          1876071
+        ]
+      }
+    },
+    {
+      "title": "sweet lemon tea",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2435742
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:55:45Z"
+}

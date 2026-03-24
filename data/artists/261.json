@@ -1,0 +1,136 @@
+{
+  "id": 261,
+  "name": "MUZZ",
+  "tracks": [
+    {
+      "title": "Break Away (feat. Priority One)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          789823
+        ]
+      }
+    },
+    {
+      "title": "Calling Out (feat. KG & Skyelle)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Children of Hell",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          452965
+        ]
+      }
+    },
+    {
+      "title": "Crescendo (feat. MYLK)",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          526032
+        ]
+      }
+    },
+    {
+      "title": "Draining Atlantic",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          479671
+        ]
+      }
+    },
+    {
+      "title": "Endgame",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          397905,
+          1853515
+        ],
+        "taiko": [
+          519474,
+          1802360
+        ]
+      }
+    },
+    {
+      "title": "In The Night (feat. Sullivan King)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lost Forever",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          600276
+        ]
+      }
+    },
+    {
+      "title": "Nemesis",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2153247
+        ],
+        "taiko": [
+          1751193
+        ]
+      }
+    },
+    {
+      "title": "Play (feat. UK:ID)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Spectrum",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1442175
+        ],
+        "osu": [
+          595389,
+          621102
+        ]
+      }
+    },
+    {
+      "title": "Timberwolf",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          419291
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:38:38Z"
+}

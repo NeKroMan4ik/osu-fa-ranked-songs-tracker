@@ -1,0 +1,138 @@
+{
+  "id": 370,
+  "name": "Ruby My Dear",
+  "tracks": [
+    {
+      "title": "7C0",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "A Dada",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Anemone",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Clinpf Eepfwoof",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Croque Monsieur A Disneyland",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          837346,
+          2009607
+        ],
+        "mania": [
+          1272922
+        ],
+        "osu": [
+          1203147
+        ],
+        "taiko": [
+          1039985
+        ]
+      }
+    },
+    {
+      "title": "Gaviscon",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2101653
+        ]
+      }
+    },
+    {
+      "title": "Igorrr & Ruby My Dear - Alain",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Igorrr & Ruby My Dear - Barbecue",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Igorrr & Ruby My Dear - Biquette",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Igorrr & Ruby My Dear - Cuisse",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Igorrr & Ruby My Dear - Figue Folle",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mini Short",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "No Smoke",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nour",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1399878
+        ],
+        "taiko": [
+          1190733
+        ]
+      }
+    },
+    {
+      "title": "Petit Poney",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2398893
+        ]
+      }
+    },
+    {
+      "title": "Saint Patron",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Spectacle",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Dreaming Tree",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:01:45Z"
+}

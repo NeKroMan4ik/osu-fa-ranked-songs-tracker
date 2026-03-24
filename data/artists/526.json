@@ -1,0 +1,18 @@
+{
+  "id": 526,
+  "name": "penoreri",
+  "tracks": [
+    {
+      "title": "Vacant Rhapsody",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2501778
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:51:05Z"
+}

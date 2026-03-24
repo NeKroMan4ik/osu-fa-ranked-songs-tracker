@@ -1,0 +1,91 @@
+{
+  "id": 318,
+  "name": "Massive New Krew",
+  "tracks": [
+    {
+      "title": "Bullshit",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1829152
+        ]
+      }
+    },
+    {
+      "title": "Camellia & Massive New Krew - Octo-Bug (Massive New Krew Edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Diamond Chronicles",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Diamond Chronicles (Game Size)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ever Free (Raw Edit)",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2362504
+        ]
+      }
+    },
+    {
+      "title": "Extreme Ongaku School feat. Nanahira",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1996721
+        ],
+        "mania": [
+          1378488,
+          2108331
+        ]
+      }
+    },
+    {
+      "title": "Kill 'Em All",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1900450
+        ]
+      }
+    },
+    {
+      "title": "Majestic 12",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2119554
+        ],
+        "osu": [
+          1536879
+        ]
+      }
+    },
+    {
+      "title": "The Daylight",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:29:18Z"
+}

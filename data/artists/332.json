@@ -1,0 +1,98 @@
+{
+  "id": 332,
+  "name": "Fellowship",
+  "tracks": [
+    {
+      "title": "Avalon",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1988877
+        ]
+      }
+    },
+    {
+      "title": "Glint",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Glory Days",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2219151
+        ],
+        "osu": [
+          1781620
+        ]
+      }
+    },
+    {
+      "title": "Oak and Ash",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Scars and Shrapnel Wounds",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Still Enough",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Frozen Land",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1835572,
+          2376029
+        ],
+        "taiko": [
+          2054228
+        ]
+      }
+    },
+    {
+      "title": "The Hours of Wintertime",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Saint Beyond the River",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Until the Fires Die",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2489329
+        ],
+        "fruits": [
+          2489329
+        ],
+        "taiko": [
+          2489329
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:52:51Z"
+}

@@ -1,0 +1,142 @@
+{
+  "id": 193,
+  "name": "technoplanet",
+  "tracks": [
+    {
+      "title": "Come with me...",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fairy-tale Planetarium",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2174621
+        ],
+        "osu": [
+          1563083
+        ]
+      }
+    },
+    {
+      "title": "IndicatoR",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Insomnia",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2264561
+        ]
+      }
+    },
+    {
+      "title": "Intuition",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1737565,
+          1778535
+        ],
+        "osu": [
+          1569170
+        ],
+        "fruits": [
+          1553878
+        ]
+      }
+    },
+    {
+      "title": "Madoibito",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Megastructure [Extended Mix]",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1190854,
+          2135401
+        ],
+        "taiko": [
+          1499443
+        ]
+      }
+    },
+    {
+      "title": "Secret of the Moon",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1934946
+        ]
+      }
+    },
+    {
+      "title": "technoplanet feat. Haruno - End of Fairytale",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "technoplanet feat. Haruno - Insanely heart",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tepic Tepoch",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1551369
+        ]
+      }
+    },
+    {
+      "title": "Vision",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Vomit",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2272720
+        ],
+        "mania": [
+          2144122,
+          2203489
+        ]
+      }
+    },
+    {
+      "title": "Warp Flyer 2",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:25:36Z"
+}

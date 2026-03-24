@@ -1,0 +1,117 @@
+{
+  "id": 392,
+  "name": "Sydosys",
+  "tracks": [
+    {
+      "title": "AKRASIA",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2268966
+        ]
+      }
+    },
+    {
+      "title": "ArchangeL",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2023712
+        ]
+      }
+    },
+    {
+      "title": "HONOR//REPROACH",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lunar Gateway",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2036508
+        ]
+      }
+    },
+    {
+      "title": "MALEVOLENT VORTEX",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "osu!mania SQUID GAME Sound Team - SUBTERRANEAN DRIFT <<Sole Survivor>>",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Partition",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2351137
+        ]
+      }
+    },
+    {
+      "title": "Serrate",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sydosys as \"[LS]Ham\" - Apollyon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Termina",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "TWC Sound Team \"Xurv Stasis Rasufim\" - Kaze no Denwa",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "VANISH",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Voyage",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2150872
+        ]
+      }
+    },
+    {
+      "title": "Wandered",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2192657
+        ],
+        "osu": [
+          2085296
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:20:40Z"
+}

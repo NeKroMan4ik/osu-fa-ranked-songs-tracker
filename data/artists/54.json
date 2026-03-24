@@ -1,0 +1,127 @@
+{
+  "id": 54,
+  "name": "Ricky Montgomery",
+  "tracks": [
+    {
+      "title": "Cabo",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1035982,
+          1081806,
+          1166415,
+          1556645,
+          1778169
+        ],
+        "taiko": [
+          1062285
+        ]
+      }
+    },
+    {
+      "title": "California",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1085943
+        ]
+      }
+    },
+    {
+      "title": "Don't Know How",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Get Used To It",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1062211
+        ]
+      }
+    },
+    {
+      "title": "Last Night",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Line Without A Hook",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mr. Loverman",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "My Heart Is Buried In Venice",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1261423
+        ]
+      }
+    },
+    {
+      "title": "Snow",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1722475
+        ],
+        "osu": [
+          948665,
+          1065610,
+          1074744,
+          1086534,
+          1106176,
+          1170244
+        ],
+        "fruits": [
+          971028,
+          1083491
+        ]
+      }
+    },
+    {
+      "title": "This December",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          966568,
+          1173192,
+          1356004,
+          2104765
+        ],
+        "taiko": [
+          1327962,
+          1436637
+        ],
+        "mania": [
+          1067499
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T14:12:12Z"
+}

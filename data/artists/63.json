@@ -1,0 +1,91 @@
+{
+  "id": 63,
+  "name": "Rivers of Nihil",
+  "tracks": [
+    {
+      "title": "A Home",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Capricorn - Agoratopia",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Death Is Real",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1211080
+        ]
+      }
+    },
+    {
+      "title": "Hollow",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1091806
+        ],
+        "osu": [
+          989460,
+          1091806
+        ]
+      }
+    },
+    {
+      "title": "Old Nothing",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Subtle Change (Including The Forest of Transition and Dissatisfaction Dance)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1093385
+        ]
+      }
+    },
+    {
+      "title": "The Silent Life",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1862075
+        ],
+        "osu": [
+          927891
+        ]
+      }
+    },
+    {
+      "title": "Where Owls Know My Name",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2048637
+        ],
+        "osu": [
+          766269,
+          1095785
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T14:21:31Z"
+}

@@ -1,0 +1,450 @@
+{
+  "id": 76,
+  "name": "Zekk",
+  "tracks": [
+    {
+      "title": "Abrasion",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1204065
+        ]
+      }
+    },
+    {
+      "title": "Ashes",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1177475
+        ],
+        "taiko": [
+          1144916
+        ]
+      }
+    },
+    {
+      "title": "awfuless meets Zekk - MATOI",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Calling",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1246000
+        ],
+        "osu": [
+          673878
+        ]
+      }
+    },
+    {
+      "title": "Co1ossus",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cocoon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Count",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "D4NCE",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1140776
+        ]
+      }
+    },
+    {
+      "title": "Duplication",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1963847
+        ],
+        "osu": [
+          1132727,
+          1484383,
+          1667482
+        ],
+        "fruits": [
+          1432240
+        ]
+      }
+    },
+    {
+      "title": "Eternal Cycle",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Faith",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fallen",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1778741
+        ],
+        "mania": [
+          1166091,
+          1170054,
+          1672239
+        ],
+        "taiko": [
+          1146734
+        ]
+      }
+    },
+    {
+      "title": "Falling Down feat. Renko x TRIANGLE",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1978898
+        ],
+        "taiko": [
+          1150487
+        ]
+      }
+    },
+    {
+      "title": "Feelsleft0ut",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1811658
+        ],
+        "mania": [
+          1145368
+        ],
+        "fruits": [
+          1145368
+        ],
+        "taiko": [
+          1143253
+        ]
+      }
+    },
+    {
+      "title": "Fluctuation",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1606431
+        ],
+        "osu": [
+          1313559
+        ],
+        "fruits": [
+          1148215
+        ],
+        "taiko": [
+          1145783
+        ]
+      }
+    },
+    {
+      "title": "For Your Christmas",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2479290
+        ],
+        "taiko": [
+          1174299
+        ]
+      }
+    },
+    {
+      "title": "Foresight",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1726306
+        ]
+      }
+    },
+    {
+      "title": "Gemini",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2052485
+        ],
+        "taiko": [
+          1630024
+        ]
+      }
+    },
+    {
+      "title": "Haetae",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hatsukoi Memories",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1157897
+        ]
+      }
+    },
+    {
+      "title": "July 31",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kaleidoscope",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1148786
+        ]
+      }
+    },
+    {
+      "title": "Let Me Hear",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1280467,
+          1280480
+        ]
+      }
+    },
+    {
+      "title": "MEJIRUSHI",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1159152
+        ],
+        "osu": [
+          1116742
+        ]
+      }
+    },
+    {
+      "title": "Mermaid in Mist",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mistletoe",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "NIRVANA",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Opal",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1869260
+        ]
+      }
+    },
+    {
+      "title": "Quantum L3ap",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Re_Construct",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1492528
+        ],
+        "osu": [
+          1318329
+        ],
+        "taiko": [
+          1143967
+        ]
+      }
+    },
+    {
+      "title": "ReIMEI",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Stellar Light",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sugary Daydream",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2393162
+        ],
+        "taiko": [
+          578489
+        ]
+      }
+    },
+    {
+      "title": "SUMMER",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1393068
+        ],
+        "mania": [
+          1159269
+        ],
+        "osu": [
+          1130585
+        ]
+      }
+    },
+    {
+      "title": "Swampgator",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          613792
+        ]
+      }
+    },
+    {
+      "title": "Trinity Force",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Turbulence",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1683802
+        ]
+      }
+    },
+    {
+      "title": "Vespera",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          894666
+        ]
+      }
+    },
+    {
+      "title": "Voyage",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1160498
+        ]
+      }
+    },
+    {
+      "title": "Zekk & poplavor - Gloomy Flash feat. mami",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Zekk & poplavor - glow feat. Such",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Zekk vs. Awfuless - Glacier",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T14:43:21Z"
+}

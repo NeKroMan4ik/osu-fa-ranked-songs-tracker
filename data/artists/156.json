@@ -1,0 +1,54 @@
+{
+  "id": 156,
+  "name": "fiend",
+  "tracks": [
+    {
+      "title": "2DF2",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Disconnect",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1818924
+        ]
+      }
+    },
+    {
+      "title": "Don't Ask",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2178096
+        ],
+        "taiko": [
+          1818947
+        ]
+      }
+    },
+    {
+      "title": "Fever Dream (feat. yzzyx)",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1465152
+        ]
+      }
+    },
+    {
+      "title": "In a Place That No One Speaks",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T20:52:59Z"
+}

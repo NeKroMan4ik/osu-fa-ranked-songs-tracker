@@ -1,0 +1,45 @@
+{
+  "id": 403,
+  "name": "Draper",
+  "tracks": [
+    {
+      "title": "Joyride",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          392188
+        ]
+      }
+    },
+    {
+      "title": "Joyride (Cut Ver.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Set Me Free",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          329442
+        ]
+      }
+    },
+    {
+      "title": "Set Me Free (Cut Ver.)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1679483
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:45:56Z"
+}

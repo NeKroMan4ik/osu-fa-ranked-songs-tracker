@@ -1,0 +1,188 @@
+{
+  "id": 350,
+  "name": "Down",
+  "tracks": [
+    {
+      "title": "Chosun",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1858472
+        ],
+        "osu": [
+          1833547
+        ]
+      }
+    },
+    {
+      "title": "ddm",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "DeviousPanda",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Down",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2378628
+        ]
+      }
+    },
+    {
+      "title": "Duo Cup",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1765192,
+          2013928
+        ]
+      }
+    },
+    {
+      "title": "Ekoro",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2197940
+        ],
+        "mania": [
+          2197940
+        ],
+        "osu": [
+          1683876
+        ]
+      }
+    },
+    {
+      "title": "Halfslashed",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1837962
+        ]
+      }
+    },
+    {
+      "title": "Kizan",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2325823
+        ],
+        "mania": [
+          2198998
+        ],
+        "fruits": [
+          2095318
+        ],
+        "osu": [
+          2085347
+        ]
+      }
+    },
+    {
+      "title": "Lince Cosmico",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2018806
+        ]
+      }
+    },
+    {
+      "title": "Luscent",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2503577
+        ],
+        "taiko": [
+          2503577
+        ],
+        "mania": [
+          2503577
+        ],
+        "osu": [
+          1641533
+        ]
+      }
+    },
+    {
+      "title": "Solo Cup",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1760520
+        ]
+      }
+    },
+    {
+      "title": "Trio Cup",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1769914
+        ]
+      }
+    },
+    {
+      "title": "UberFazz",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Yamangomcpro6th",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2042188
+        ],
+        "fruits": [
+          1966337
+        ],
+        "osu": [
+          1715340
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:45:38Z"
+}

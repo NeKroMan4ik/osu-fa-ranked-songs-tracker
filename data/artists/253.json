@@ -1,0 +1,168 @@
+{
+  "id": 253,
+  "name": "A.SAKA",
+  "tracks": [
+    {
+      "title": "AYAKASHI",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "KAGURA",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "KAGUTSUCHI",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2345029
+        ],
+        "taiko": [
+          2114688
+        ],
+        "osu": [
+          2091775
+        ]
+      }
+    },
+    {
+      "title": "Kannagi",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2343293
+        ]
+      }
+    },
+    {
+      "title": "KARAKURI",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MIYABI",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mutsuki Akari no Yuki",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1890055
+        ]
+      }
+    },
+    {
+      "title": "Nanatsu Hiiragisuikou (scenic mix)",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2341138
+        ]
+      }
+    },
+    {
+      "title": "Nanatsu Issenzakura",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          220432,
+          2194881,
+          2363447
+        ],
+        "osu": [
+          214138,
+          511339,
+          513731,
+          2095258
+        ],
+        "taiko": [
+          320555
+        ]
+      }
+    },
+    {
+      "title": "Nanatsu Momijiakari",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1867887
+        ]
+      }
+    },
+    {
+      "title": "Nanatsu Myoukakitsubata",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2386677,
+          2419051
+        ],
+        "osu": [
+          1598631,
+          1889202,
+          2118959
+        ]
+      }
+    },
+    {
+      "title": "REIMEI",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2422832
+        ],
+        "osu": [
+          2039663
+        ]
+      }
+    },
+    {
+      "title": "Yosakura Fubuki",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2343385,
+          2431330
+        ],
+        "osu": [
+          858337,
+          1044511
+        ],
+        "taiko": [
+          859944
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:13:38Z"
+}

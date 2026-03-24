@@ -1,0 +1,63 @@
+{
+  "id": 409,
+  "name": "ptar124",
+  "tracks": [
+    {
+      "title": "A Platter of Primes",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "AmbidextrouS ~The Alchemist of The Left x The Sage of The Right~",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1698560
+        ]
+      }
+    },
+    {
+      "title": "aqua regia",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "aqua vitae feat. Kagamine Rin & Kagamine Len",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Insurrection",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "OCTAGRAM ~Dai Happyaku Hachijuu Hachi Ji Makai Taisen~",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Premonition",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ptar124 feat. SEKAI vs. takehirotei - The Arcanists' Heist of 739 Magia Era",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Solitude In Shadow feat. Ethereal_Winter",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Viatores Nebulae (ptar124 & SiLiS) - Ad infinitum ~ein sof~",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:53:24Z"
+}

@@ -1,0 +1,121 @@
+{
+  "id": 249,
+  "name": "Plum",
+  "tracks": [
+    {
+      "title": "August Snowfall",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "DIGITAL:CANVAS",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dustwind",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Halloween Candystore",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1749963
+        ]
+      }
+    },
+    {
+      "title": "Last Minutes of Party!!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mad Piano Party",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1756251
+        ]
+      }
+    },
+    {
+      "title": "Maelstrom",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1728013,
+          1933912,
+          2345407,
+          2447773
+        ],
+        "osu": [
+          1679690
+        ]
+      }
+    },
+    {
+      "title": "R",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1624402
+        ]
+      }
+    },
+    {
+      "title": "Selfmade Disaster",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sinkhole",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tempest",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2271967
+        ]
+      }
+    },
+    {
+      "title": "Terrasphere",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1703216
+        ]
+      }
+    },
+    {
+      "title": "Timeline",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1510034
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:51:48Z"
+}

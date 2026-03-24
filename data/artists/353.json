@@ -1,0 +1,74 @@
+{
+  "id": 353,
+  "name": "Stars Hollow",
+  "tracks": [
+    {
+      "title": "as you were before.",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1966575
+        ],
+        "taiko": [
+          1509638
+        ]
+      }
+    },
+    {
+      "title": "Beside You.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Drinking Buddies",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "It's Not That",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1714779
+        ]
+      }
+    },
+    {
+      "title": "Out the Sunroof.",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1968973
+        ]
+      }
+    },
+    {
+      "title": "Stuck to You.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tadpole",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "With Weight.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "you won't be happy again",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:18:11Z"
+}

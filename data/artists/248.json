@@ -1,0 +1,249 @@
+{
+  "id": 248,
+  "name": "USAO",
+  "tracks": [
+    {
+      "title": "Aeropolis",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Anomaly",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1963008
+        ]
+      }
+    },
+    {
+      "title": "Ashigaru",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1023688
+        ],
+        "taiko": [
+          1022714
+        ]
+      }
+    },
+    {
+      "title": "BACK COVER",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Big Daddy",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2395283
+        ],
+        "mania": [
+          2093548
+        ]
+      }
+    },
+    {
+      "title": "Cyclops",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Extra Mode",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1774332
+        ],
+        "mania": [
+          967701
+        ],
+        "osu": [
+          579451,
+          624963,
+          811948,
+          888668
+        ]
+      }
+    },
+    {
+      "title": "Extra Mode (DJ Myosuke Remix)",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1188253
+        ],
+        "taiko": [
+          692594
+        ]
+      }
+    },
+    {
+      "title": "Fucking High",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fullspec",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Get on",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          552213,
+          554084
+        ]
+      }
+    },
+    {
+      "title": "Interstellar Travel",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2238749
+        ]
+      }
+    },
+    {
+      "title": "Loss Time",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Punish",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Showdown",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          438839,
+          1083470
+        ],
+        "osu": [
+          438839,
+          446658,
+          688191
+        ],
+        "mania": [
+          438839
+        ]
+      }
+    },
+    {
+      "title": "Srav3R & USAO - Becouse of You",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "TAPIOCA",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1754965
+        ],
+        "taiko": [
+          1730359
+        ],
+        "fruits": [
+          1699721
+        ],
+        "osu": [
+          1267298
+        ]
+      }
+    },
+    {
+      "title": "The Storm broke",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Time For Kill",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Try again",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1238702
+        ],
+        "taiko": [
+          969024
+        ]
+      }
+    },
+    {
+      "title": "Undulation",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Up In Smoke",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "USAO & DJ Nanashi - Super Mega Jumbo",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Wildfire",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "You & DIE",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2170119
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:35:49Z"
+}

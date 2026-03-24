@@ -1,0 +1,107 @@
+{
+  "id": 202,
+  "name": "tokiwa",
+  "tracks": [
+    {
+      "title": "Gemini",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1923055
+        ]
+      }
+    },
+    {
+      "title": "La rose jaune",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Memoirs feat. Aitsuki Nakuru",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1700539
+        ],
+        "fruits": [
+          1664624
+        ],
+        "taiko": [
+          976366
+        ],
+        "mania": [
+          976366
+        ]
+      }
+    },
+    {
+      "title": "Orthodox",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1397714
+        ]
+      }
+    },
+    {
+      "title": "Snow White",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Syuou Sange",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1387277,
+          2325386
+        ],
+        "mania": [
+          1265840
+        ]
+      }
+    },
+    {
+      "title": "tokiwa feat. Nakamura Sanso - Kotodama Refrain",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "wasurena feat. Sennzai",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1496234
+        ],
+        "mania": [
+          1957020
+        ],
+        "taiko": [
+          1674326,
+          1703065
+        ],
+        "fruits": [
+          1638487
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:27:59Z"
+}

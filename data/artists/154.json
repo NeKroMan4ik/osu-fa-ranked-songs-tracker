@@ -1,0 +1,129 @@
+{
+  "id": 154,
+  "name": "Boxplot",
+  "tracks": [
+    {
+      "title": "Effloresce",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Escape With The Clouds",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          379897,
+          2394224
+        ],
+        "taiko": [
+          1485946
+        ]
+      }
+    },
+    {
+      "title": "Escape With the Clouds (V.I.P)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1340790
+        ]
+      }
+    },
+    {
+      "title": "First Blush",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1922475,
+          2453179
+        ]
+      }
+    },
+    {
+      "title": "I Think I Think Too Much",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Leaving",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lost Without You (Boxplot Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "My Non-Existent Friend, Alice",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          692496,
+          1318025
+        ]
+      }
+    },
+    {
+      "title": "Polaroids Of You",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sunroad (feat. Audioscribe)",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1233397
+        ],
+        "taiko": [
+          1103353
+        ]
+      }
+    },
+    {
+      "title": "Tramontane",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2270381
+        ],
+        "osu": [
+          1016398
+        ]
+      }
+    },
+    {
+      "title": "We Lose It All (feat. Voicians)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1973085
+        ]
+      }
+    },
+    {
+      "title": "Welcome Home",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T20:36:28Z"
+}

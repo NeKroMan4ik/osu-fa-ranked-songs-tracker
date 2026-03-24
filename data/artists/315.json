@@ -1,0 +1,68 @@
+{
+  "id": 315,
+  "name": "Hinkik",
+  "tracks": [
+    {
+      "title": "Ena",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Explorers",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2007968
+        ],
+        "osu": [
+          1861042
+        ]
+      }
+    },
+    {
+      "title": "Hinkik & A Himitsu - Realms",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Invaders",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Momentum",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Outbreaker",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Skystrike",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Time Leaper",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2137194,
+          2174565
+        ],
+        "osu": [
+          1434388
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:04:11Z"
+}

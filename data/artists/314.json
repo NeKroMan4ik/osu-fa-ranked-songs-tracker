@@ -1,0 +1,322 @@
+{
+  "id": 314,
+  "name": "Kikuo",
+  "tracks": [
+    {
+      "title": "Aishite Aishite Aishite",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2230743
+        ],
+        "mania": [
+          2230743
+        ],
+        "taiko": [
+          2195740
+        ],
+        "osu": [
+          2039056
+        ]
+      }
+    },
+    {
+      "title": "Boku o Sonna Me de Minaide",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2051504
+        ]
+      }
+    },
+    {
+      "title": "Chiri Chiri Juso",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2196721
+        ],
+        "taiko": [
+          1844742
+        ]
+      }
+    },
+    {
+      "title": "Cotton Candy",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1247343
+        ]
+      }
+    },
+    {
+      "title": "Gakkou o Yasunda Hi no Koto",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1606407
+        ]
+      }
+    },
+    {
+      "title": "Gomenne Gomenne",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Histrionic (Vocaloid ver.)",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1151081
+        ]
+      }
+    },
+    {
+      "title": "Hole Dwelling",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1519388,
+          2300296
+        ],
+        "fruits": [
+          2214844
+        ],
+        "taiko": [
+          1187911,
+          2195081
+        ],
+        "mania": [
+          2195081
+        ]
+      }
+    },
+    {
+      "title": "Kara Kara Kara no Kara",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2136846
+        ]
+      }
+    },
+    {
+      "title": "Kikuo feat. Shiraishi Nagomu - Strict Secrecy Sweet Love",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kimi wa Dekinai Ko",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Maigo no Haien",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2408389
+        ],
+        "osu": [
+          2249412
+        ],
+        "taiko": [
+          1871425
+        ]
+      }
+    },
+    {
+      "title": "Mono wo Parapara Kowasu",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2308257
+        ]
+      }
+    },
+    {
+      "title": "Natsu no Ame no Hi no Omoide",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Neko no Shokutaku",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2322411
+        ],
+        "taiko": [
+          1871750
+        ],
+        "osu": [
+          824981
+        ]
+      }
+    },
+    {
+      "title": "Oboreru Uchuu Neko",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2198692
+        ],
+        "taiko": [
+          2034075
+        ]
+      }
+    },
+    {
+      "title": "Pokkan Color",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2398169
+        ],
+        "taiko": [
+          2052882,
+          2092016
+        ],
+        "mania": [
+          1880080
+        ]
+      }
+    },
+    {
+      "title": "Searching for your love",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1493843,
+          1875344
+        ],
+        "taiko": [
+          1579040
+        ]
+      }
+    },
+    {
+      "title": "Shikabane no Odori",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1885719
+        ]
+      }
+    },
+    {
+      "title": "Sight, Noise, Life and the Earth",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          978163
+        ]
+      }
+    },
+    {
+      "title": "Soshite Kimi wa Tsuki ni Natta",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1880497
+        ],
+        "taiko": [
+          1880494
+        ]
+      }
+    },
+    {
+      "title": "Ten Sho Sho Ten Sho",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1994791
+        ],
+        "taiko": [
+          1908844
+        ]
+      }
+    },
+    {
+      "title": "Tengoku e Ikou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Warui koto wa Shicha Ikenai yo",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Yousei no Kiri",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1880072
+        ],
+        "taiko": [
+          1871513
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:15:06Z"
+}

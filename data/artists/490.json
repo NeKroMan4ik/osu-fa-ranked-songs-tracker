@@ -1,0 +1,43 @@
+{
+  "id": 490,
+  "name": "Juwubi",
+  "tracks": [
+    {
+      "title": "H1GH D!VE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "HYPER C#M",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "JAZZY C#M",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "NEVER GONNA GIVE YOU UP",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2341735
+        ]
+      }
+    },
+    {
+      "title": "Prima Luce ~ The Last Light of Revelation ~",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Primordial Reflection ~A Retrograde Adventure~",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:10:57Z"
+}

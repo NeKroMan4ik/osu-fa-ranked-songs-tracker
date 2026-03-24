@@ -1,0 +1,94 @@
+{
+  "id": 78,
+  "name": "CircusP",
+  "tracks": [
+    {
+      "title": "Copycat",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1176418
+        ]
+      }
+    },
+    {
+      "title": "Fade",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Goodbye",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2399932
+        ],
+        "osu": [
+          251269,
+          801534,
+          1155610,
+          1157992
+        ]
+      }
+    },
+    {
+      "title": "iNSaNiTY",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1156236
+        ],
+        "osu": [
+          1154421
+        ]
+      }
+    },
+    {
+      "title": "Karma",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1143814
+        ]
+      }
+    },
+    {
+      "title": "Last of Me",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1165972
+        ]
+      }
+    },
+    {
+      "title": "Lie",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1156096
+        ]
+      }
+    },
+    {
+      "title": "Poltergeist",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T14:43:58Z"
+}

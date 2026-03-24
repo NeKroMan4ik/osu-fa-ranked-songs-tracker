@@ -1,0 +1,133 @@
+{
+  "id": 174,
+  "name": "La prière",
+  "tracks": [
+    {
+      "title": "Atonement Twins",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2135397
+        ],
+        "fruits": [
+          1652079
+        ]
+      }
+    },
+    {
+      "title": "Eiketsu no Gemini",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2379595
+        ],
+        "osu": [
+          2156533
+        ]
+      }
+    },
+    {
+      "title": "Futaboshi no Testament",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Galactic Love",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kimi to Driven Star",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1495067,
+          1506453
+        ]
+      }
+    },
+    {
+      "title": "Kimiyo",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1499629
+        ]
+      }
+    },
+    {
+      "title": "Kyouzou no Canon",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1475603
+        ]
+      }
+    },
+    {
+      "title": "Ripple",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1611193
+        ]
+      }
+    },
+    {
+      "title": "Senjou no Utahime",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1398580
+        ]
+      }
+    },
+    {
+      "title": "Sore wa Sekai o Koete",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1769605
+        ],
+        "osu": [
+          1553883
+        ]
+      }
+    },
+    {
+      "title": "Susume! Lovely Idol * La priere",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1574249
+        ],
+        "taiko": [
+          1400986
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:19:22Z"
+}

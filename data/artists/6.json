@@ -1,0 +1,147 @@
+{
+  "id": 6,
+  "name": "dark cat",
+  "tracks": [
+    {
+      "title": "BANANA STREET",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          560047
+        ]
+      }
+    },
+    {
+      "title": "BLISS (feat. JHACS)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "BREAD DREAMS",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "BUBBLE TEA (feat. juu & cinders)",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          716213,
+          769917
+        ],
+        "fruits": [
+          769917
+        ]
+      }
+    },
+    {
+      "title": "CRAZY MILK 2",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1226253
+        ]
+      }
+    },
+    {
+      "title": "ELINE",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1064394
+        ]
+      }
+    },
+    {
+      "title": "FALLING LOVE (feat. jade hikari)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "hot chocolate",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1061800
+        ],
+        "taiko": [
+          847576
+        ]
+      }
+    },
+    {
+      "title": "LOVERS' OASIS",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MAPLE ADVENTURE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "NO STOPPING US (feat. jenny)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "pursuit of happiness",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1071294
+        ]
+      }
+    },
+    {
+      "title": "SLEEPING WITH YOU",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "STARS ALIGN",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1055938
+        ],
+        "osu": [
+          606998
+        ]
+      }
+    },
+    {
+      "title": "STRAWBERRY ROAD",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "UNDERWATER POOL",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "YOU'RE EVERYTHING (feat. juu)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T12:37:51Z"
+}

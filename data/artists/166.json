@@ -1,0 +1,140 @@
+{
+  "id": 166,
+  "name": "Aiobahn",
+  "tracks": [
+    {
+      "title": "0AM (feat. nayuta)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Aiobahn feat. KOTOKO - INTERNET OVERDOSE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Aiobahn feat. KOTOKO - INTERNET YAMERO",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Aiobahn feat. KOTOKO - MOON-RAINBOW BUTTERFLY",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Burnt Rice (Aiobahn & Jh-Anu Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dressing Pafe",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Famima",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "In My Head",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1466792
+        ]
+      }
+    },
+    {
+      "title": "Islands",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1762835
+        ]
+      }
+    },
+    {
+      "title": "Koko ni Iru (feat. rionos)",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1151233
+        ],
+        "osu": [
+          1129013
+        ]
+      }
+    },
+    {
+      "title": "Medusa (feat. Cozi Zuehlsdorff)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1206268
+        ]
+      }
+    },
+    {
+      "title": "Natsu no Mayonaka (feat. Antenna Girl)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Randomness Ragga",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "resonance (feat. KOCHO)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Satania",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sugiyuku Hi to Kimi e (feat. nayuta)",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1126358
+        ],
+        "taiko": [
+          1124134
+        ],
+        "osu": [
+          1032553,
+          1078570
+        ]
+      }
+    },
+    {
+      "title": "Vignette",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "wish (feat. somunia)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T20:18:28Z"
+}

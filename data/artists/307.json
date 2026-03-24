@@ -1,0 +1,59 @@
+{
+  "id": 307,
+  "name": "Mono.",
+  "tracks": [
+    {
+      "title": "Mono. (feat. Hatsune Miku) - Everlasting Game",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Peaceful+Piece",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1520393
+        ]
+      }
+    },
+    {
+      "title": "ROCKET START",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "skip&step",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Soumatou",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2441208
+        ]
+      }
+    },
+    {
+      "title": "ST4RDUST*XABER",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Susceptible",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tricolor Prizm***",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:33:39Z"
+}

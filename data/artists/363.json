@@ -1,0 +1,73 @@
+{
+  "id": 363,
+  "name": "Andora",
+  "tracks": [
+    {
+      "title": "Dawn (feat. Such)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Delusion (feat. juu)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2443862
+        ]
+      }
+    },
+    {
+      "title": "Euphoria (feat. WaMi)",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2022737
+        ],
+        "osu": [
+          1905874
+        ]
+      }
+    },
+    {
+      "title": "Flashback (feat. RANASOL)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Flicker (feat. RANASOL)",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2260502
+        ],
+        "mania": [
+          1978179
+        ]
+      }
+    },
+    {
+      "title": "Goodbye Yesterday (feat. Jakusansei)",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2385560
+        ],
+        "mania": [
+          2029508
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:24:48Z"
+}

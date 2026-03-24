@@ -1,0 +1,90 @@
+{
+  "id": 398,
+  "name": "Sparxe",
+  "tracks": [
+    {
+      "title": "Archipelago of Ten Trials",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Bad Break!!!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Comma, ~ Imi to Kouzou no Bunri",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2124494
+        ],
+        "taiko": [
+          1785711
+        ]
+      }
+    },
+    {
+      "title": "Doom Grotto",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dream Elevator",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1837865
+        ]
+      }
+    },
+    {
+      "title": "Switcheroo",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2373336
+        ],
+        "mania": [
+          2334669
+        ],
+        "fruits": [
+          2278448
+        ],
+        "taiko": [
+          2163116
+        ]
+      }
+    },
+    {
+      "title": "Zinnober",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2184068
+        ],
+        "osu": [
+          1904860
+        ],
+        "taiko": [
+          1754903
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:17:25Z"
+}

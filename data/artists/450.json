@@ -1,0 +1,79 @@
+{
+  "id": 450,
+  "name": "Zmey Gorynich",
+  "tracks": [
+    {
+      "title": "Aynane",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2363365
+        ]
+      }
+    },
+    {
+      "title": "Ded Moroz",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kapel",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Medveplyas",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Morozoboy",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2077021
+        ]
+      }
+    },
+    {
+      "title": "Sorochinskaya Yarmarka",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1899136
+        ],
+        "taiko": [
+          1399899
+        ],
+        "osu": [
+          1191853
+        ]
+      }
+    },
+    {
+      "title": "Tryasovitsa",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Zmey Gorynych",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2175431
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:49:15Z"
+}

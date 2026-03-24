@@ -1,0 +1,60 @@
+{
+  "id": 337,
+  "name": "WINTERHORDE",
+  "tracks": [
+    {
+      "title": "Antipath",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Chronic Death",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1699956
+        ]
+      }
+    },
+    {
+      "title": "The Greatest Plague of Earth",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Heart of Coryphee",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Shell",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2056247
+        ]
+      }
+    },
+    {
+      "title": "Worms of Soul",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1970965,
+          2398246
+        ],
+        "osu": [
+          1724057
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:42:08Z"
+}

@@ -1,0 +1,326 @@
+{
+  "id": 2,
+  "name": "cYsmix",
+  "tracks": [
+    {
+      "title": "Abandoned Shrine Party",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1267252
+        ]
+      }
+    },
+    {
+      "title": "Arcade Busters",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2361354
+        ],
+        "osu": [
+          601840
+        ]
+      }
+    },
+    {
+      "title": "Babaroque (Short Ver.)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          791667
+        ]
+      }
+    },
+    {
+      "title": "Behind the Walls",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          791798
+        ]
+      }
+    },
+    {
+      "title": "Breeze",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          948523
+        ],
+        "fruits": [
+          840964
+        ],
+        "mania": [
+          629575,
+          632221,
+          638012
+        ]
+      }
+    },
+    {
+      "title": "Classic Pursuit",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          730295,
+          1044881,
+          2360416
+        ],
+        "osu": [
+          488238
+        ],
+        "taiko": [
+          373254
+        ]
+      }
+    },
+    {
+      "title": "Death's Grasp",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Desire Funk",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Disco Bawls",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dovregubben's Hall",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          360950,
+          362451
+        ],
+        "taiko": [
+          362451
+        ]
+      }
+    },
+    {
+      "title": "Eden",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2382921
+        ],
+        "osu": [
+          792241,
+          1273651
+        ]
+      }
+    },
+    {
+      "title": "Escapism",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          801862
+        ]
+      }
+    },
+    {
+      "title": "Final Destination",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fright March",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          486142
+        ]
+      }
+    },
+    {
+      "title": "Ghost Lead",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Haunted House",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1092919
+        ]
+      }
+    },
+    {
+      "title": "House With Legs",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          360680,
+          361785
+        ]
+      }
+    },
+    {
+      "title": "Little Knight",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1932837
+        ],
+        "osu": [
+          791845
+        ]
+      }
+    },
+    {
+      "title": "Manic",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          361175,
+          361214,
+          362460
+        ],
+        "taiko": [
+          360772
+        ]
+      }
+    },
+    {
+      "title": "Moonlight Sonata",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          486535,
+          489524
+        ]
+      }
+    },
+    {
+      "title": "Night Out",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Peer Gynt",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2461763
+        ],
+        "fruits": [
+          1769575
+        ],
+        "osu": [
+          805762,
+          880487
+        ]
+      }
+    },
+    {
+      "title": "Spring",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Take a Stand",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Alchemist",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Ballad of a Mindless Girl",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          792396
+        ]
+      }
+    },
+    {
+      "title": "triangles",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2353380
+        ],
+        "mania": [
+          2153231
+        ],
+        "osu": [
+          1646678,
+          1841845,
+          1841846,
+          1841885,
+          1842041
+        ],
+        "fruits": [
+          1619938
+        ]
+      }
+    },
+    {
+      "title": "Uranaishi",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T12:29:41Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": 512,
+  "name": "WhiteSakata",
+  "tracks": [
+    {
+      "title": "Futurecore 0331",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2499746
+        ]
+      }
+    },
+    {
+      "title": "Outsider Secret Un!on",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "R(eiterat)e",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Stellar Spark (2025 mix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Techniqueued Strife",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:41:36Z"
+}

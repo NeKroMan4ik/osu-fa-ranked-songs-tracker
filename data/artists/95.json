@@ -1,0 +1,276 @@
+{
+  "id": 95,
+  "name": "ARForest",
+  "tracks": [
+    {
+      "title": "Aoba",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1131726
+        ]
+      }
+    },
+    {
+      "title": "Birds of Plague",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1244852
+        ],
+        "taiko": [
+          1241060
+        ]
+      }
+    },
+    {
+      "title": "Clock Atelier",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1823582
+        ]
+      }
+    },
+    {
+      "title": "Colors",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1246521,
+          1257455,
+          1397731
+        ],
+        "mania": [
+          1248173,
+          1369976
+        ],
+        "taiko": [
+          1277476
+        ]
+      }
+    },
+    {
+      "title": "Final Resonance",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          909666
+        ]
+      }
+    },
+    {
+      "title": "Hemisphere",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1253551
+        ],
+        "taiko": [
+          1241825
+        ]
+      }
+    },
+    {
+      "title": "Hidden Ending",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1341980
+        ],
+        "mania": [
+          965827
+        ]
+      }
+    },
+    {
+      "title": "Infection",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2406790
+        ],
+        "osu": [
+          1225001
+        ]
+      }
+    },
+    {
+      "title": "Journey",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          942240,
+          1974347
+        ],
+        "taiko": [
+          1275784
+        ],
+        "osu": [
+          788907
+        ]
+      }
+    },
+    {
+      "title": "Lantinid",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          472269,
+          1264129
+        ],
+        "osu": [
+          1250431
+        ]
+      }
+    },
+    {
+      "title": "Life",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Metheus",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1240233
+        ],
+        "mania": [
+          1123154
+        ]
+      }
+    },
+    {
+      "title": "Prometheus",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1241026
+        ]
+      }
+    },
+    {
+      "title": "Qesia",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1925928
+        ],
+        "osu": [
+          1279020
+        ]
+      }
+    },
+    {
+      "title": "Rainbow Magic!!",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1934686
+        ],
+        "mania": [
+          1508963
+        ]
+      }
+    },
+    {
+      "title": "Regret",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1184228,
+          2204567
+        ],
+        "osu": [
+          1241523,
+          2077439
+        ],
+        "mania": [
+          1254196
+        ]
+      }
+    },
+    {
+      "title": "Relics",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Seisen (feat. nayuta)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shattered",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Last Page",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2198800
+        ],
+        "mania": [
+          1276332,
+          1300398
+        ],
+        "taiko": [
+          1232258,
+          1276509
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T14:57:57Z"
+}

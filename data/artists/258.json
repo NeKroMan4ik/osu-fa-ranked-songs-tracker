@@ -1,0 +1,48 @@
+{
+  "id": 258,
+  "name": "Mage",
+  "tracks": [
+    {
+      "title": "Rave Weapon (Radio Edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Island",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Words I Never Said in D&B",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2414833
+        ],
+        "taiko": [
+          2124033
+        ],
+        "mania": [
+          1590107,
+          1637697,
+          1826637
+        ]
+      }
+    },
+    {
+      "title": "To Paradise",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "You Are Drum & Bass",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:27:24Z"
+}

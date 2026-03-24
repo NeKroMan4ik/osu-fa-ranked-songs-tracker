@@ -1,0 +1,64 @@
+{
+  "id": 245,
+  "name": "City Girl",
+  "tracks": [
+    {
+      "title": "Contour (feat. Christina Shin)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Endless and Artificial",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ji-eun's Sunset",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "L2M (feat. Kelsey Kuan)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1668789
+        ]
+      }
+    },
+    {
+      "title": "LOSING SLEEP (feat. Kelsey Kuan)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1521806
+        ]
+      }
+    },
+    {
+      "title": "PACK IT UP BOY (feat. tiffi)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "RESTART (feat. ry)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "WII DATE (feat. tiffi, highvyn, siopaolo)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "WISHING ON YOU (feat. ry, tiffi)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T20:39:32Z"
+}

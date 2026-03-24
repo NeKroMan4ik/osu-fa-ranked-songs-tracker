@@ -1,0 +1,107 @@
+{
+  "id": 232,
+  "name": "Vansire",
+  "tracks": [
+    {
+      "title": "Angel Youth",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Brown Study",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Central Time (feat. Mick Jenkins)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1922777
+        ]
+      }
+    },
+    {
+      "title": "Every Time Around",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1280657
+        ]
+      }
+    },
+    {
+      "title": "Halcyon Age",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lonely Zone (feat. Mellow Fellow, Ruru & Paul Cherry)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Metamodernity",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1434606
+        ],
+        "osu": [
+          1080204
+        ]
+      }
+    },
+    {
+      "title": "Nice to See You (feat. Floor Cry)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1484447
+        ]
+      }
+    },
+    {
+      "title": "Postal Codes",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Set Piece (feat. Sophie Meiers & Ivy Sole)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Star Catcher (feat. Chester Watson)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "That I Miss You",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1159563,
+          1464519
+        ]
+      }
+    },
+    {
+      "title": "The Latter Teens",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:37:01Z"
+}

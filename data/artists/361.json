@@ -1,0 +1,55 @@
+{
+  "id": 361,
+  "name": "tephe",
+  "tracks": [
+    {
+      "title": "Genjitsu Escape",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2025023
+        ],
+        "osu": [
+          1997470
+        ],
+        "mania": [
+          1994458
+        ]
+      }
+    },
+    {
+      "title": "Neppa feat. Butter",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1789854,
+          1805752,
+          2163321
+        ],
+        "fruits": [
+          1796767,
+          2120935
+        ],
+        "taiko": [
+          1908137,
+          2009899,
+          2024321,
+          2026312
+        ],
+        "mania": [
+          2025281
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:26:41Z"
+}

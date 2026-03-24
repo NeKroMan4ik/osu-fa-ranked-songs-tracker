@@ -1,0 +1,204 @@
+{
+  "id": 67,
+  "name": "Kola Kid",
+  "tracks": [
+    {
+      "title": "2punk2suck",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1112677,
+          2029654
+        ]
+      }
+    },
+    {
+      "title": "broken legs",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1160961
+        ],
+        "taiko": [
+          1125972
+        ],
+        "mania": [
+          1116952
+        ],
+        "fruits": [
+          1108015
+        ]
+      }
+    },
+    {
+      "title": "can't hide your love",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          39732,
+          1099325,
+          1753400
+        ],
+        "taiko": [
+          39732,
+          1134932
+        ]
+      }
+    },
+    {
+      "title": "cash machine go!",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1123501
+        ]
+      }
+    },
+    {
+      "title": "contra88",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1126630
+        ]
+      }
+    },
+    {
+      "title": "cuties",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "good old times",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1290736
+        ],
+        "osu": [
+          95647
+        ]
+      }
+    },
+    {
+      "title": "pizza power",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "press start",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          489383,
+          1107725,
+          1262809
+        ],
+        "taiko": [
+          627664,
+          836701,
+          1126522
+        ],
+        "fruits": [
+          626831,
+          1107501
+        ],
+        "mania": [
+          949646
+        ]
+      }
+    },
+    {
+      "title": "sea shells",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1256716,
+          1259096
+        ],
+        "taiko": [
+          1105356,
+          1128333
+        ],
+        "mania": [
+          1114940
+        ],
+        "fruits": [
+          1107581
+        ]
+      }
+    },
+    {
+      "title": "sniffing stardust on the dancefloor",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1120419
+        ]
+      }
+    },
+    {
+      "title": "spaceman",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1108777
+        ]
+      }
+    },
+    {
+      "title": "the earth is counting on you",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1127568
+        ]
+      }
+    },
+    {
+      "title": "timer",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1089084
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T14:15:21Z"
+}

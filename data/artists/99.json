@@ -1,0 +1,296 @@
+{
+  "id": 99,
+  "name": "Imy",
+  "tracks": [
+    {
+      "title": "Beyond the despair",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1678056
+        ],
+        "osu": [
+          1303945
+        ]
+      }
+    },
+    {
+      "title": "Countdown",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1246683,
+          2443994
+        ],
+        "mania": [
+          2092486
+        ]
+      }
+    },
+    {
+      "title": "Dependence",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Divine's Game",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2003143
+        ],
+        "osu": [
+          1604377
+        ]
+      }
+    },
+    {
+      "title": "Egoist",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2004186
+        ]
+      }
+    },
+    {
+      "title": "Fade",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fake",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1261105
+        ]
+      }
+    },
+    {
+      "title": "Fake -Acoustic ver.-",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Falldown",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1260515,
+          1285798
+        ]
+      }
+    },
+    {
+      "title": "Imy feat. Aitsuki Nakuru - Drowning in you",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Imy feat. Aitsuki Nakuru - Invisible chain",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Imy feat. Aitsuki Nakuru - Lateral Arc",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Imy feat. Aitsuki Nakuru - Mizukagami",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Imy feat. konoko - INGLASS",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Imy feat. konoko - Lost colors",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Imy feat. Natsume Itsuki - Lies playing Truth",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Innovator",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Just believe",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1237988
+        ]
+      }
+    },
+    {
+      "title": "Last words",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1015203
+        ]
+      }
+    },
+    {
+      "title": "Link",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Meteora",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2296917
+        ],
+        "osu": [
+          1062770
+        ]
+      }
+    },
+    {
+      "title": "Over the limit",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1339074
+        ]
+      }
+    },
+    {
+      "title": "Ray of hope",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1227702
+        ]
+      }
+    },
+    {
+      "title": "Seimei no Tomoshibi",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2042767,
+          2296090
+        ]
+      }
+    },
+    {
+      "title": "Shinsou Kairou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sylphia",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1995911
+        ],
+        "osu": [
+          282291
+        ]
+      }
+    },
+    {
+      "title": "Synapse",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1272578
+        ]
+      }
+    },
+    {
+      "title": "Tsuioku no Kakera",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2093265
+        ],
+        "taiko": [
+          1311550
+        ],
+        "osu": [
+          794766,
+          1264862
+        ]
+      }
+    },
+    {
+      "title": "Tsukishigure",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1779160
+        ]
+      }
+    },
+    {
+      "title": "unclear",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Zanshou no Resonance",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1147203
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T15:01:07Z"
+}

@@ -1,0 +1,213 @@
+{
+  "id": 98,
+  "name": "Umeboshi Chazuke",
+  "tracks": [
+    {
+      "title": "\"Hoshi no Ouji-sama\"",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "aa...hisuichazuke... - steganography",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "AJITAMA Adventure OST",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2287331
+        ],
+        "mania": [
+          2283423
+        ],
+        "taiko": [
+          2279364
+        ],
+        "osu": [
+          2274953
+        ]
+      }
+    },
+    {
+      "title": "Ao to Shiro no Hanataba wo",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Banana! DX Choco Crepe!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Bison Charge",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1368447
+        ],
+        "osu": [
+          894701
+        ],
+        "mania": [
+          838465
+        ],
+        "taiko": [
+          739116
+        ]
+      }
+    },
+    {
+      "title": "Cineraria",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1258829
+        ]
+      }
+    },
+    {
+      "title": "Crom Cruach",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2192438
+        ]
+      }
+    },
+    {
+      "title": "Dutch Courage!",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1224146
+        ]
+      }
+    },
+    {
+      "title": "Galaxy in Toybox",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1012123
+        ]
+      }
+    },
+    {
+      "title": "Hacha-Mecha Traveler!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ICHIBANBOSHI*ROCKET",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2181323
+        ],
+        "fruits": [
+          1258751
+        ]
+      }
+    },
+    {
+      "title": "Lollipop*driveR",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Midnight Trickster",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Panic! Pop'n! Picnic!",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          845013
+        ],
+        "mania": [
+          528031
+        ]
+      }
+    },
+    {
+      "title": "ploof",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Re:inG",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Run*2 Run To You!!",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1506614,
+          1788950
+        ],
+        "fruits": [
+          1303201
+        ],
+        "taiko": [
+          1254735,
+          1268517
+        ]
+      }
+    },
+    {
+      "title": "Typhoon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Wakare no Namida wa Mata Au Hi made",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2350855
+        ],
+        "osu": [
+          830444
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T15:00:16Z"
+}

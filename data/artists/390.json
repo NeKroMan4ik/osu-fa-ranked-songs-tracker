@@ -1,0 +1,45 @@
+{
+  "id": 390,
+  "name": "DOT96",
+  "tracks": [
+    {
+      "title": "JETSTICK PT.1.5",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MAKE IT FUNKY NOW",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2346448
+        ],
+        "taiko": [
+          2190868
+        ],
+        "fruits": [
+          2152487
+        ],
+        "mania": [
+          2085685
+        ]
+      }
+    },
+    {
+      "title": "REASONING",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SAMBISTA",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T20:45:16Z"
+}

@@ -1,0 +1,98 @@
+{
+  "id": 481,
+  "name": "Simon Safhalter",
+  "tracks": [
+    {
+      "title": "Always a cycle (GLB Toxic Remix)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2429529
+        ]
+      }
+    },
+    {
+      "title": "Always a cycle (Hyper)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2330718
+        ]
+      }
+    },
+    {
+      "title": "Crowded Mind",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "End of an Era",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "End of an Era (Hyper)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2236904
+        ]
+      }
+    },
+    {
+      "title": "Make or Break",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Me and You",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "More Mistakes",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2381147
+        ]
+      }
+    },
+    {
+      "title": "Not My Dream",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "One Way Only",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2370773
+        ]
+      }
+    },
+    {
+      "title": "System 2.0",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2393200
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:13:02Z"
+}

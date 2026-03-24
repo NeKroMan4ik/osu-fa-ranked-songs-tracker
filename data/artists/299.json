@@ -1,0 +1,39 @@
+{
+  "id": 299,
+  "name": "Nitro Fun",
+  "tracks": [
+    {
+      "title": "Cheat Codes VIP",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          711420
+        ]
+      }
+    },
+    {
+      "title": "Final Boss",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2351719
+        ]
+      }
+    },
+    {
+      "title": "New Game",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nitro Fun & Hyper Potions - Checkpoint",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:41:57Z"
+}

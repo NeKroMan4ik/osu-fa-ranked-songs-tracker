@@ -1,0 +1,84 @@
+{
+  "id": 223,
+  "name": "Tedjimo yomigY",
+  "tracks": [
+    {
+      "title": "Chaos City Niigata - Ukiyoe Yokochou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Edelweiss",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "JezoensiS",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2272348
+        ]
+      }
+    },
+    {
+      "title": "Kageboushi ~Luciola Cruciata~",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2036413
+        ]
+      }
+    },
+    {
+      "title": "Lorikeet",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          539888
+        ]
+      }
+    },
+    {
+      "title": "Lorikeet ~Flat design~",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Quen-san * Government",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tedjimo yomigY vs. Morimori Atsushi - Illusion of Fixity",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Usuva Kagerow",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2221992
+        ],
+        "fruits": [
+          2215796
+        ],
+        "taiko": [
+          2155520
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:25:51Z"
+}

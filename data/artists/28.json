@@ -1,0 +1,57 @@
+{
+  "id": 28,
+  "name": "Virtual Self",
+  "tracks": [
+    {
+      "title": "a.i.ngel (Become God)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Angel Voices",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          939437
+        ],
+        "taiko": [
+          871607
+        ],
+        "osu": [
+          871104
+        ]
+      }
+    },
+    {
+      "title": "EON BREAK",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1138198
+        ]
+      }
+    },
+    {
+      "title": "Ghost Voices",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Key",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Particle Arts",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T13:22:07Z"
+}

@@ -1,0 +1,85 @@
+{
+  "id": 468,
+  "name": "lexycat",
+  "tracks": [
+    {
+      "title": "Abyssal Storm",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2399422
+        ],
+        "mania": [
+          2285560
+        ]
+      }
+    },
+    {
+      "title": "Angelstar",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "atrophy",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2403954
+        ]
+      }
+    },
+    {
+      "title": "Chrysalis",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "crystal forest",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2356909
+        ]
+      }
+    },
+    {
+      "title": "Dark Blossom",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "glitter *",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2300144
+        ]
+      }
+    },
+    {
+      "title": "Hanabi",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "incision",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "kitsune",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:21:47Z"
+}

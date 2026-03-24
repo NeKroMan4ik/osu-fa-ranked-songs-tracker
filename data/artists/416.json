@@ -1,0 +1,79 @@
+{
+  "id": 416,
+  "name": "watering",
+  "tracks": [
+    {
+      "title": "^_^",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2215711
+        ],
+        "mania": [
+          2161191
+        ],
+        "taiko": [
+          1692448
+        ]
+      }
+    },
+    {
+      "title": "Adepressive",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2167805
+        ]
+      }
+    },
+    {
+      "title": "generic emo breakcore",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2190545
+        ]
+      }
+    },
+    {
+      "title": "happy brain",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "leo",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "misuzu",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "tower",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ushio",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1691417
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:40:43Z"
+}

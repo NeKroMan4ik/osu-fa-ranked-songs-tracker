@@ -1,0 +1,230 @@
+{
+  "id": 77,
+  "name": "MIMI",
+  "tracks": [
+    {
+      "title": "Ai no Sukima",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2191437,
+          2451509
+        ],
+        "osu": [
+          952409,
+          1323207,
+          2348754
+        ],
+        "fruits": [
+          1197507
+        ]
+      }
+    },
+    {
+      "title": "Floremie",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2248918
+        ]
+      }
+    },
+    {
+      "title": "Karabako ni Ai",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2445956
+        ],
+        "osu": [
+          2347079
+        ]
+      }
+    },
+    {
+      "title": "Lapis Lazuli",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1123753,
+          2255879
+        ],
+        "mania": [
+          2090056
+        ],
+        "fruits": [
+          1211572
+        ],
+        "taiko": [
+          1167983
+        ]
+      }
+    },
+    {
+      "title": "Le Rouge",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Marshmary",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          962088,
+          1195899,
+          2383092
+        ],
+        "mania": [
+          2323796,
+          2338903
+        ]
+      }
+    },
+    {
+      "title": "Mirai Reflect",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2461806
+        ]
+      }
+    },
+    {
+      "title": "Mizuoto to Curtain",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2114716
+        ],
+        "osu": [
+          968171,
+          1001653,
+          1206296,
+          1529722
+        ],
+        "taiko": [
+          1198060
+        ]
+      }
+    },
+    {
+      "title": "Moment",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2336958,
+          2465644
+        ]
+      }
+    },
+    {
+      "title": "Nanimo nai Youna",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1151466,
+          2110047
+        ],
+        "taiko": [
+          1946994
+        ],
+        "fruits": [
+          1197461
+        ]
+      }
+    },
+    {
+      "title": "Shijima ni Saku",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2274043
+        ],
+        "fruits": [
+          1579680
+        ],
+        "taiko": [
+          1251226
+        ],
+        "osu": [
+          1159718,
+          1205717
+        ]
+      }
+    },
+    {
+      "title": "Soshite Yoruto Tomoru",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Toumeika",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2436127
+        ],
+        "osu": [
+          2299210
+        ],
+        "taiko": [
+          1178559
+        ]
+      }
+    },
+    {
+      "title": "Yoake Maeni Tobinotte",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2389566
+        ],
+        "taiko": [
+          1467651
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T14:43:44Z"
+}

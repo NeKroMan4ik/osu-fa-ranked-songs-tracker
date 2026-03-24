@@ -1,0 +1,178 @@
+{
+  "id": 18,
+  "name": "*namirin",
+  "tracks": [
+    {
+      "title": "Ciel etoile",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          865266,
+          1966225,
+          2449706
+        ],
+        "osu": [
+          901091
+        ]
+      }
+    },
+    {
+      "title": "closing eyes",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1957934
+        ],
+        "taiko": [
+          705499
+        ],
+        "osu": [
+          669437,
+          670579
+        ]
+      }
+    },
+    {
+      "title": "Hitokoto no Kyori",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          919251
+        ],
+        "osu": [
+          609569,
+          667290
+        ]
+      }
+    },
+    {
+      "title": "Irodori Sora",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          971432,
+          1182288
+        ],
+        "mania": [
+          2465080
+        ]
+      }
+    },
+    {
+      "title": "Iscariot no Sakebi",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          902745
+        ],
+        "fruits": [
+          685542
+        ]
+      }
+    },
+    {
+      "title": "Kanzen Shouri*Esper Girl",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          954272
+        ],
+        "taiko": [
+          927206
+        ],
+        "fruits": [
+          2329245
+        ],
+        "mania": [
+          1004416,
+          1994349
+        ]
+      }
+    },
+    {
+      "title": "Koishiteiku Planet",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          916990,
+          2146169
+        ],
+        "mania": [
+          2028034
+        ]
+      }
+    },
+    {
+      "title": "Mizutamari Tobikoete (with Nanahira)",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          981616,
+          2229058
+        ],
+        "taiko": [
+          1095727,
+          1101909
+        ]
+      }
+    },
+    {
+      "title": "Omajinai",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          906565
+        ],
+        "mania": [
+          2000017
+        ],
+        "taiko": [
+          1293085
+        ]
+      }
+    },
+    {
+      "title": "Senaka Awase no Sora (with Kakichoco)",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2001791
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-23T21:39:57Z"
+}

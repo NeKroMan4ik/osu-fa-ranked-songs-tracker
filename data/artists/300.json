@@ -1,0 +1,33 @@
+{
+  "id": 300,
+  "name": "Rezonate",
+  "tracks": [
+    {
+      "title": "The Journey",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          671617
+        ]
+      }
+    },
+    {
+      "title": "The Phoenix",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          808379
+        ],
+        "osu": [
+          711926
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:57:35Z"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 308,
+  "name": "Tokyo.MeltiMelt",
+  "tracks": [
+    {
+      "title": "I ain't need my heart feat. Hatsuki Yura",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2431798
+        ],
+        "osu": [
+          1800571
+        ]
+      }
+    },
+    {
+      "title": "Kiss As A Vanity feat. Hatsuki Yura",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nameless Replica feat. Sennzai",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "the Beautiful Cure (feat. nayuta)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Virgin Mary feat. Sennzai",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1830770
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:28:21Z"
+}

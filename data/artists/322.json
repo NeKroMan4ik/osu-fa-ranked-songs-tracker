@@ -1,0 +1,66 @@
+{
+  "id": 322,
+  "name": "E0ri4",
+  "tracks": [
+    {
+      "title": "Absolute Gate",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2041140
+        ],
+        "fruits": [
+          1897932
+        ]
+      }
+    },
+    {
+      "title": "Destructed Gate",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Emotional Reality",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "HoLy GeneSiS",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "L0V3 4RR0W 5H007",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1889263
+        ],
+        "mania": [
+          1725779
+        ],
+        "taiko": [
+          1718565
+        ]
+      }
+    },
+    {
+      "title": "Last Gate",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rainy Gate",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T20:47:22Z"
+}

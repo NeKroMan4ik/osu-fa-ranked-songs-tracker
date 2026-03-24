@@ -1,0 +1,71 @@
+{
+  "id": 260,
+  "name": "Nile",
+  "tracks": [
+    {
+      "title": "Iskander D'hul Karnon",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1574333
+        ]
+      }
+    },
+    {
+      "title": "Kafir!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kem Khefa Kheshef",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1931115
+        ]
+      }
+    },
+    {
+      "title": "Permitting the Noble Dead to Descend to the Underworld",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Snake Pit Mating Frenzy",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Eye of Ra",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1648677
+        ]
+      }
+    },
+    {
+      "title": "The Inevitable Degradation of Flesh",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1130664
+        ]
+      }
+    },
+    {
+      "title": "Vile Nilotic Rites",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:41:39Z"
+}

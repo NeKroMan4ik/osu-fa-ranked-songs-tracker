@@ -1,0 +1,160 @@
+{
+  "id": 282,
+  "name": "aran",
+  "tracks": [
+    {
+      "title": "aran & Kobaryo - While Shining feat. yukacco",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "aran & lapix - KALACAKLA",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "aran & t+pazolite - Chobit Flavor",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "aran vs USAO - Shizuku",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Back 2 Life",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          884508
+        ]
+      }
+    },
+    {
+      "title": "Decadence 2189",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Emoticon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Graces of Heaven",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2089374
+        ],
+        "osu": [
+          2063140
+        ],
+        "taiko": [
+          1239704
+        ]
+      }
+    },
+    {
+      "title": "GRiDGALAXY (Nhato Remix)",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          804419
+        ]
+      }
+    },
+    {
+      "title": "Hyperdawn",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kobaryo - Eternal Ending (aran Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "May Storm",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moonbound feat. Yukacco",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moonbound feat. Yukacco (USAO Remix)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          610208,
+          616544,
+          986982
+        ]
+      }
+    },
+    {
+      "title": "Old is Gold",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Purge",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ripples (DJ Noriken Remix)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          382686,
+          1898876
+        ]
+      }
+    },
+    {
+      "title": "Sunny After Rain (feat. Kanata N.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Vividness of Memory",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2290647
+        ]
+      }
+    },
+    {
+      "title": "Yoake Mae feat. shully",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1893408
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:27:47Z"
+}

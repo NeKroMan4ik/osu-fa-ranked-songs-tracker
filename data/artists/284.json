@@ -1,0 +1,87 @@
+{
+  "id": 284,
+  "name": "Blind Guardian",
+  "tracks": [
+    {
+      "title": "A Voice In The Dark",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1672400,
+          2407410
+        ]
+      }
+    },
+    {
+      "title": "Battlefield",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2099411
+        ]
+      }
+    },
+    {
+      "title": "Curse My Name",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "I'm Alive",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mirror Mirror",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1810228
+        ]
+      }
+    },
+    {
+      "title": "Nightfall",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2054445
+        ]
+      }
+    },
+    {
+      "title": "Sacred Worlds",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Bard's Song (In The Forest)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Turn The Page",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Wheel Of Time",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "When Sorrow Sang",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T20:34:25Z"
+}

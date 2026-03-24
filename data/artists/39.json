@@ -1,0 +1,122 @@
+{
+  "id": 39,
+  "name": "James Landino",
+  "tracks": [
+    {
+      "title": "Anti Hero",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Aresene's Bazaar",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2325930
+        ],
+        "osu": [
+          1971987,
+          1972749
+        ],
+        "mania": [
+          1972034,
+          1972310
+        ]
+      }
+    },
+    {
+      "title": "Hide And Seek",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          972932
+        ]
+      }
+    },
+    {
+      "title": "Hit That feat. Hentai Dude & Tofuku",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "James Landino & Kabuki - Birdsong",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "James Landino, Funk Fiction, Motoi - Dreaming",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Reaction feat. Slyleaf",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          994104,
+          2059758
+        ],
+        "osu": [
+          972816
+        ]
+      }
+    },
+    {
+      "title": "RUN2ME",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shiba Island",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1061769
+        ],
+        "mania": [
+          983864
+        ]
+      }
+    },
+    {
+      "title": "Shiba Paradise",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1972411
+        ],
+        "taiko": [
+          1971951,
+          1972268
+        ]
+      }
+    },
+    {
+      "title": "Spellbound",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1034041
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T13:55:51Z"
+}

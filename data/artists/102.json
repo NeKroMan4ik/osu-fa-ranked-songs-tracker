@@ -1,0 +1,138 @@
+{
+  "id": 102,
+  "name": "siqlo",
+  "tracks": [
+    {
+      "title": "Dirigeant Decision",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1294867
+        ],
+        "osu": [
+          1240362
+        ]
+      }
+    },
+    {
+      "title": "Forest Haze",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          281695
+        ]
+      }
+    },
+    {
+      "title": "Growth Call",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Laser Mirage",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Me & U",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1235291
+        ],
+        "fruits": [
+          1225300
+        ]
+      }
+    },
+    {
+      "title": "Midnight, Sunrise Sign",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1224186
+        ]
+      }
+    },
+    {
+      "title": "Ogre and Beans",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "One Way Street",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1272851
+        ],
+        "osu": [
+          1269094
+        ],
+        "mania": [
+          688453
+        ]
+      }
+    },
+    {
+      "title": "parsley",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1296126
+        ],
+        "mania": [
+          1270255
+        ],
+        "osu": [
+          1269430
+        ]
+      }
+    },
+    {
+      "title": "Purple Hyacinth (feat. Norico)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Throw Shade",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "U SAiD",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "YInMn Blue",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1233593
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T22:13:23Z"
+}

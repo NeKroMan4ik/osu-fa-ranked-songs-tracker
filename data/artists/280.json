@@ -1,0 +1,23 @@
+{
+  "id": 280,
+  "name": "Rootkit",
+  "tracks": [
+    {
+      "title": "Against The Sun (feat. Anna Yvette)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          340263
+        ]
+      }
+    },
+    {
+      "title": "Do It",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:59:57Z"
+}

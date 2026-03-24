@@ -1,0 +1,73 @@
+{
+  "id": 493,
+  "name": "d0tc0mmie",
+  "tracks": [
+    {
+      "title": "Can You Feel It feat. Hatsune Miku",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Do It Over feat. Kasane Teto",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dokifeel feat. Hanakuma Chifuyu",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Guilty feat. Kasane Teto",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2371889
+        ]
+      }
+    },
+    {
+      "title": "I fell asleep on the train to my destination feat. Hatsune Miku",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mental Illness Injection",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mirai Glide feat. GUMI",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "NekoTeto feat. Kasane Teto",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Strobe Light feat. Kasane Teto",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Traffic Lights feat. Kasane Teto, Adachi Rei & GUMI",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "What Do I Love feat. Kasane Teto",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Will This Work feat. Kasane Teto",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T20:41:48Z"
+}

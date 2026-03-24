@@ -1,0 +1,109 @@
+{
+  "id": 268,
+  "name": "69 de 74",
+  "tracks": [
+    {
+      "title": "69 de 74 a.k.a. Sheena Ed Crow - THE RAVAGE",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "69 de 74 feat. Komiya Mao - Stand Up!! Stand Up!!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Aratanaru Ketsui",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          754704,
+          1771017
+        ]
+      }
+    },
+    {
+      "title": "CHAOTIC DESTRUCTION",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "DESPERATE DEATHPARADE",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2008260
+        ],
+        "taiko": [
+          1774311,
+          1889017
+        ],
+        "osu": [
+          1818753
+        ]
+      }
+    },
+    {
+      "title": "Grievous Fate",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Holy Wind",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          912972,
+          1957515
+        ]
+      }
+    },
+    {
+      "title": "Little Guardian [2019-reworked]",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1472207
+        ]
+      }
+    },
+    {
+      "title": "LWVIIX",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Overdrive Power",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2402211
+        ]
+      }
+    },
+    {
+      "title": "RTTR",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1447300
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:10:41Z"
+}

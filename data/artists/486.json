@@ -1,0 +1,74 @@
+{
+  "id": 486,
+  "name": "Dispel",
+  "tracks": [
+    {
+      "title": "Definitive Remote",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Devotion",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dispel vs. GoGoN- - Vindictive",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dispel vs. Rakakun- - Funkotism",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hyacinth",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2050409
+        ]
+      }
+    },
+    {
+      "title": "KURORYU vs. Dispel - Miserea",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lilium Lacrimae (feat. Mariela Riona)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ming to the Gat",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Monochrome Bouquet",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rakakun- & Dispel - Shitsusei (feat. Altair Aquila)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Weiss Schnabel",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2338118
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:43:34Z"
+}

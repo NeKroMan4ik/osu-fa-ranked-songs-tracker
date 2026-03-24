@@ -1,0 +1,80 @@
+{
+  "id": 27,
+  "name": "KIRA",
+  "tracks": [
+    {
+      "title": "B.B.F (feat. Hatsune Miku & Kagamine Rin)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          955866
+        ]
+      }
+    },
+    {
+      "title": "Circles (feat. GUMI)",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2286771
+        ],
+        "osu": [
+          854098
+        ]
+      }
+    },
+    {
+      "title": "KANKAN☆DANCIN (feat. Kagamine Rin/Len)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Magical Night (feat. Hatsune Miku)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          946771
+        ]
+      }
+    },
+    {
+      "title": "MONSTER (feat. GUMI)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1155614
+        ]
+      }
+    },
+    {
+      "title": "Piece of Art (feat. GUMI)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SAKE*BEAT (feat. Kagamine Rin/Len)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Day I Die (feat. Ruby)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "UNBREAKABLE (feat. Ruby)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T13:21:57Z"
+}

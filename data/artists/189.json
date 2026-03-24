@@ -1,0 +1,165 @@
+{
+  "id": 189,
+  "name": "Natsume Itsuki",
+  "tracks": [
+    {
+      "title": "0-0",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "AI to CodeQ no Hate",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2052729
+        ],
+        "osu": [
+          1515036
+        ]
+      }
+    },
+    {
+      "title": "Alteregoism",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2209565
+        ]
+      }
+    },
+    {
+      "title": "As you wish, My lady",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Beginning",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1173059
+        ]
+      }
+    },
+    {
+      "title": "Checkmate",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2359730
+        ]
+      }
+    },
+    {
+      "title": "Endgame",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hakumei ni Utsu",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2205283,
+          2224120
+        ]
+      }
+    },
+    {
+      "title": "Highlightful Days",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Jail of love",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lev0",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1546256
+        ]
+      }
+    },
+    {
+      "title": "Mayday",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2380715
+        ],
+        "osu": [
+          1506697
+        ]
+      }
+    },
+    {
+      "title": "Miniascape",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1509856
+        ]
+      }
+    },
+    {
+      "title": "Miracle Showtime",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moratorium Daydreamer",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Natsuiro Memory",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tart Lady",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "thouwertmachinery",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2357346
+        ]
+      }
+    },
+    {
+      "title": "Wonder Story",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:40:36Z"
+}

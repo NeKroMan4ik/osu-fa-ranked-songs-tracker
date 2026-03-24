@@ -1,0 +1,44 @@
+{
+  "id": 388,
+  "name": "Solarbear",
+  "tracks": [
+    {
+      "title": "Itchy Trigger Warning Finger",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Pornogoblin (feat. Dr!p)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "See You Later, Emaciator!",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          513563
+        ]
+      }
+    },
+    {
+      "title": "Stick Your Ins Out",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1149112
+        ]
+      }
+    },
+    {
+      "title": "The Ballad of El Gohque",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:14:23Z"
+}

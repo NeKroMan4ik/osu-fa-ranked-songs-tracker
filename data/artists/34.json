@@ -1,0 +1,122 @@
+{
+  "id": 34,
+  "name": "tieff",
+  "tracks": [
+    {
+      "title": "and here am I, forgotten",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "By Holding You Close I'm Pushing You Further",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          958299
+        ]
+      }
+    },
+    {
+      "title": "Dancing in Blue",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Library Girl",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          968055
+        ]
+      }
+    },
+    {
+      "title": "Our Story",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2413757
+        ],
+        "osu": [
+          941085
+        ]
+      }
+    },
+    {
+      "title": "Saturate",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sense of Nostalgia",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          929284
+        ]
+      }
+    },
+    {
+      "title": "Sunflower",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2467043
+        ],
+        "fruits": [
+          985106
+        ],
+        "osu": [
+          949297
+        ]
+      }
+    },
+    {
+      "title": "Take Your Swimsuit",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          940597
+        ]
+      }
+    },
+    {
+      "title": "that love so far away",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Waterflow",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          938370,
+          1491275
+        ]
+      }
+    },
+    {
+      "title": "We Are The Gems",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T13:25:30Z"
+}

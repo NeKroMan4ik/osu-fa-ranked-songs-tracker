@@ -1,0 +1,23 @@
+{
+  "id": 410,
+  "name": "Grabbitz",
+  "tracks": [
+    {
+      "title": "Way Too Deep",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          383070,
+          919243
+        ],
+        "taiko": [
+          888853
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:59:20Z"
+}

@@ -1,0 +1,94 @@
+{
+  "id": 357,
+  "name": "Synthion",
+  "tracks": [
+    {
+      "title": "Aurora",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1290796,
+          2317522
+        ],
+        "osu": [
+          2007718
+        ],
+        "taiko": [
+          2007718
+        ],
+        "mania": [
+          1726352
+        ]
+      }
+    },
+    {
+      "title": "Blossom",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2169793
+        ]
+      }
+    },
+    {
+      "title": "Comet",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Galactic",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hyper Beam",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Konpeito",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Spica",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2412637
+        ]
+      }
+    },
+    {
+      "title": "Synthion, Yuuna Nini - By My Side",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "VIVIDVELOCITY",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2120379
+        ]
+      }
+    },
+    {
+      "title": "Waltz Capriccio",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:22:20Z"
+}

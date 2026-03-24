@@ -1,0 +1,198 @@
+{
+  "id": 9,
+  "name": "S3RL",
+  "tracks": [
+    {
+      "title": "Bass Slut (feat. Tamika)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Candy (feat. Sara)",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          953777
+        ],
+        "osu": [
+          829956
+        ]
+      }
+    },
+    {
+      "title": "Catchit",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Feel The Melody (feat. Sara)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "FriendZoned (feat. Mixe Moon & MC Offside)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Genre Police (feat. Lexi)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "I Will Pick You Up (feat. Tamika)",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2066956
+        ],
+        "fruits": [
+          943876
+        ],
+        "taiko": [
+          919704
+        ]
+      }
+    },
+    {
+      "title": "I'll See You Again (feat. Chi Chi)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          785572
+        ]
+      }
+    },
+    {
+      "title": "Little Kandi Raver 2012 (feat. Sara)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MTC",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Pika Girl",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2442891
+        ],
+        "osu": [
+          40440
+        ]
+      }
+    },
+    {
+      "title": "R4V3 B0Y (feat. Krystal)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rainbow Girl (feat. Tamika)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ravers Mashup",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "S3RL & DJ Satomi feat. Ukiko - Endless Summer",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "S3RL feat. DEFI BRILATOR - Spoiler Alert",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "S3RL feat. Emi - Escape",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "S3RL feat. Harri Rush - Nostalgic",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "S3RL feat. JessKah - T-T-Techno",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "S3RL feat. Kayliana - You Are Mine",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "S3RL feat. Lexi - Earth Bb",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "S3RL feat. Nikolett - Silicon XX",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "S3RL feat. Sara - Dopamine",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "S3RL feat. Sara - Less Than 3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "S3RL x LIDA - My Girlfriend is a Raver",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Scary Movie",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Techno Kitty (feat. Sara)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tell Me What You Want (feat. Tamika)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Well, That Was Awkward",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          660109
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T12:40:37Z"
+}

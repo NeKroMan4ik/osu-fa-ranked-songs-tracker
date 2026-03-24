@@ -1,0 +1,43 @@
+{
+  "id": 237,
+  "name": "Atavistia",
+  "tracks": [
+    {
+      "title": "Beyond The Meadows Of Fire",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "One Within The Sun",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Atavistic Forest",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Forbidden One",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Winter Way",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Through The Hollow Raven's Eyes",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1582048
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:29:22Z"
+}

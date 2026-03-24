@@ -1,0 +1,89 @@
+{
+  "id": 389,
+  "name": "you",
+  "tracks": [
+    {
+      "title": "Hold Angel",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2427337,
+          2445891
+        ],
+        "taiko": [
+          381103,
+          1354083
+        ]
+      }
+    },
+    {
+      "title": "Marble Spray",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Melancholia",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Smile Diary (2015 Update)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sokka",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Wake Up",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2091265,
+          2193006
+        ],
+        "osu": [
+          2121373
+        ],
+        "taiko": [
+          592892,
+          2120753
+        ],
+        "fruits": [
+          2108845
+        ]
+      }
+    },
+    {
+      "title": "you feat. nayuta - Color (2019 Reworks)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "you feat. nayuta - Diamond Smile (2019 Reworks)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "you feat. nayuta - Let's Jump! (2019 Reworks)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "you feat. ugu - PAINTER",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:46:43Z"
+}

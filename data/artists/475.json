@@ -1,0 +1,73 @@
+{
+  "id": 475,
+  "name": "Xeven",
+  "tracks": [
+    {
+      "title": "Become One Again (feat. Hatsune Miku)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2412365
+        ]
+      }
+    },
+    {
+      "title": "Deglaciation",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2395287
+        ],
+        "osu": [
+          2369583
+        ]
+      }
+    },
+    {
+      "title": "DYING WORLD",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fallen.ANGEL",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "HD 211112 (Lightspeed travel through the dyson sphere world.)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MMXVI",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Per Aspera",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Xellum Xentennial",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Xeveir and Xeron vs. Odin - OVER:Acceleration",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Xeven as \"OdiN\" - RAGN/a/ROk",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:44:20Z"
+}

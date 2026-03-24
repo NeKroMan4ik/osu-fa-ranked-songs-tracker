@@ -1,0 +1,105 @@
+{
+  "id": 365,
+  "name": "Junk",
+  "tracks": [
+    {
+      "title": "Aihana",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2023412
+        ]
+      }
+    },
+    {
+      "title": "elegante",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1045019,
+          2414605
+        ]
+      }
+    },
+    {
+      "title": "Kagaribi",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1017972,
+          2227458
+        ],
+        "taiko": [
+          2203649
+        ],
+        "mania": [
+          2130665
+        ]
+      }
+    },
+    {
+      "title": "Life is PIANO",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1304251,
+          2290237
+        ],
+        "osu": [
+          2054500
+        ]
+      }
+    },
+    {
+      "title": "Qualia",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2020320
+        ],
+        "mania": [
+          177155
+        ]
+      }
+    },
+    {
+      "title": "The Formula",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2464556
+        ],
+        "taiko": [
+          2464556
+        ],
+        "mania": [
+          2464556
+        ]
+      }
+    },
+    {
+      "title": "Yellow Smile",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:10:48Z"
+}

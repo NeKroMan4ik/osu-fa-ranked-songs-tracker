@@ -1,0 +1,325 @@
+{
+  "id": 47,
+  "name": "Æther Realm",
+  "tracks": [
+    {
+      "title": "Aether Realm",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Craft and the Creator",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1180700,
+          1212378,
+          2200395
+        ],
+        "taiko": [
+          1364500
+        ]
+      }
+    },
+    {
+      "title": "Cycle",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Death",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Goodbye",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Guardian",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1808263
+        ],
+        "taiko": [
+          1256825
+        ]
+      }
+    },
+    {
+      "title": "Hourglass",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Hunger",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1418349
+        ]
+      }
+    },
+    {
+      "title": "Journey of Discovery",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "King of Cups",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lean Into the Wind",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2289840
+        ],
+        "taiko": [
+          2144495
+        ]
+      }
+    },
+    {
+      "title": "Oak",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1834864
+        ],
+        "osu": [
+          1677257
+        ]
+      }
+    },
+    {
+      "title": "Odin Will Provide",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "One Chosen by the Gods",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1234461
+        ]
+      }
+    },
+    {
+      "title": "One Hollow Word",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1160797,
+          1746146
+        ]
+      }
+    },
+    {
+      "title": "Ravensong",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1985093
+        ]
+      }
+    },
+    {
+      "title": "Redneck Vikings from Hell",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1934473
+        ],
+        "osu": [
+          1621848
+        ]
+      }
+    },
+    {
+      "title": "She's Back",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1676156
+        ]
+      }
+    },
+    {
+      "title": "Slave to the Riff",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Strength",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Swampwitch",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1556131
+        ]
+      }
+    },
+    {
+      "title": "Tarot",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2277450
+        ],
+        "taiko": [
+          1030740
+        ]
+      }
+    },
+    {
+      "title": "Temperance",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Chariot",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Devil",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1715360
+        ],
+        "taiko": [
+          1053572
+        ]
+      }
+    },
+    {
+      "title": "The Emperor",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1047197
+        ]
+      }
+    },
+    {
+      "title": "The Fool",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1209271
+        ]
+      }
+    },
+    {
+      "title": "The Magician",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1939518
+        ],
+        "taiko": [
+          1206242
+        ]
+      }
+    },
+    {
+      "title": "The Sun, The Moon, The Star",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2138675
+        ],
+        "osu": [
+          933630,
+          2062496
+        ],
+        "taiko": [
+          1042815
+        ]
+      }
+    },
+    {
+      "title": "The Tower",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2150260
+        ]
+      }
+    },
+    {
+      "title": "TMHC",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Winter's Grasp",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1411674
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T14:04:53Z"
+}

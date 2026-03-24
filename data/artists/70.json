@@ -1,0 +1,219 @@
+{
+  "id": 70,
+  "name": "Sound Souler",
+  "tracks": [
+    {
+      "title": "3rd Avenue",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Absent Color",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1583461
+        ],
+        "taiko": [
+          1167827
+        ],
+        "osu": [
+          1093465
+        ]
+      }
+    },
+    {
+      "title": "Abyss Racer",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Aqua Stars",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1279947
+        ],
+        "taiko": [
+          1151616,
+          1204476
+        ],
+        "osu": [
+          942425,
+          1085144
+        ]
+      }
+    },
+    {
+      "title": "Blackorient",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1153032
+        ]
+      }
+    },
+    {
+      "title": "Broken Stars",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2045573
+        ]
+      }
+    },
+    {
+      "title": "Bubble Flower",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1152177,
+          1152182
+        ]
+      }
+    },
+    {
+      "title": "Coastral",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cymian (osu! edit)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dead Soul",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1116828
+        ]
+      }
+    },
+    {
+      "title": "Diminitive",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2053466
+        ],
+        "taiko": [
+          1180896
+        ]
+      }
+    },
+    {
+      "title": "Empty Stars",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1240915,
+          2043194
+        ],
+        "osu": [
+          1460370
+        ]
+      }
+    },
+    {
+      "title": "Eternalism 2",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1299190
+        ]
+      }
+    },
+    {
+      "title": "Eternalism 3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1177035,
+          1936398
+        ]
+      }
+    },
+    {
+      "title": "Funky Life",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1139959
+        ]
+      }
+    },
+    {
+      "title": "Gloom After Death",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1168535
+        ],
+        "osu": [
+          980331
+        ]
+      }
+    },
+    {
+      "title": "Out of Sense",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1175331
+        ]
+      }
+    },
+    {
+      "title": "Rebirth",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Reinvent",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1281806
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T14:28:07Z"
+}

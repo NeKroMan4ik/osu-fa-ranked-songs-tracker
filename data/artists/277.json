@@ -1,0 +1,44 @@
+{
+  "id": 277,
+  "name": "Beach Bunny",
+  "tracks": [
+    {
+      "title": "Cloud 9",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1795909
+        ]
+      }
+    },
+    {
+      "title": "Good Girls (Don't Get Used)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Painkiller",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Prom Queen",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sports",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2401682
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T20:30:27Z"
+}

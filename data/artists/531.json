@@ -1,0 +1,33 @@
+{
+  "id": 531,
+  "name": "Juztan",
+  "tracks": [
+    {
+      "title": "Ba11istiC",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2480810
+        ]
+      }
+    },
+    {
+      "title": "CH4-0S",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "This is NOT a Music?!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "To the B3AT!",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T21:11:03Z"
+}

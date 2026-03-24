@@ -1,0 +1,187 @@
+{
+  "id": 79,
+  "name": "PUP",
+  "tracks": [
+    {
+      "title": "Bare Hands",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Can't Win",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Closure",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1175467
+        ]
+      }
+    },
+    {
+      "title": "Dark Days",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1158124
+        ]
+      }
+    },
+    {
+      "title": "Doubts",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "DVP",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          756815,
+          1203098,
+          1442963
+        ],
+        "fruits": [
+          1159828
+        ]
+      }
+    },
+    {
+      "title": "Factories",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1171055
+        ]
+      }
+    },
+    {
+      "title": "Free At Last",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1133317,
+          1630118
+        ]
+      }
+    },
+    {
+      "title": "Full Blown Meltdown",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1171188
+        ]
+      }
+    },
+    {
+      "title": "Guilt Trip",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kids",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1289187
+        ]
+      }
+    },
+    {
+      "title": "Mabu",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          762836
+        ]
+      }
+    },
+    {
+      "title": "Morbid Stuff",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "My Life Is Over And I Couldn't Be Happier",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1177043
+        ]
+      }
+    },
+    {
+      "title": "Old Wounds",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1173552
+        ]
+      }
+    },
+    {
+      "title": "Reservoir",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Scorpion Hill",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1161281,
+          1332592
+        ]
+      }
+    },
+    {
+      "title": "See You At Your Funeral",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sibling Rivalry",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sleep In The Heat",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1141879
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T14:44:31Z"
+}

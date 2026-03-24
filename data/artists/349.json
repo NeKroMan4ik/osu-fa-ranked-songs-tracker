@@ -1,0 +1,118 @@
+{
+  "id": 349,
+  "name": "Minstrel",
+  "tracks": [
+    {
+      "title": "Ano Hi no Shinkirou",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Attractor",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cinderella Cage ~Falling in Love Again~",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2159203
+        ],
+        "osu": [
+          1909142
+        ]
+      }
+    },
+    {
+      "title": "D+D -> T+p",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Fiction",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          975363,
+          1085793
+        ]
+      }
+    },
+    {
+      "title": "frozen.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "futuristic recollection",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1934280
+        ]
+      }
+    },
+    {
+      "title": "Happy End ni Sayonara o",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Heian Alien",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2007941
+        ]
+      }
+    },
+    {
+      "title": "Killing me",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Mix Hors d'Oeuvres",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "today is the day",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2380696
+        ],
+        "osu": [
+          2281434
+        ]
+      }
+    },
+    {
+      "title": "Yotogibanashi no Kamikakushi",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1900605,
+          1907639
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T21:32:13Z"
+}

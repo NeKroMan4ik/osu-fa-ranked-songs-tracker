@@ -1,0 +1,172 @@
+{
+  "id": 273,
+  "name": "SAMString",
+  "tracks": [
+    {
+      "title": "Akarui Taiyo",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1904165
+        ],
+        "fruits": [
+          1897440
+        ]
+      }
+    },
+    {
+      "title": "Aqua Cycle",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ataraxia",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2159928
+        ],
+        "osu": [
+          2057584
+        ]
+      }
+    },
+    {
+      "title": "Bamboo Spring",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "C.H.A.S.E.",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Celestial Solace",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Crystalised Euphoria",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dreams Of Awakening",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Flower Petals",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Forget The Promise",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1002019
+        ]
+      }
+    },
+    {
+      "title": "Impetus",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "La Memoria",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lost In Imagination",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "New Horizon",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Night Fighter",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1787258
+        ],
+        "mania": [
+          1721634
+        ]
+      }
+    },
+    {
+      "title": "NUMA",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1716335
+        ],
+        "osu": [
+          1570528
+        ]
+      }
+    },
+    {
+      "title": "Quamara",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1489335
+        ]
+      }
+    },
+    {
+      "title": "Sakura's Fall",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          886033,
+          1449832
+        ]
+      }
+    },
+    {
+      "title": "Shifting Clouds",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1654451
+        ]
+      }
+    },
+    {
+      "title": "U.N. Owen Was Her (SAMString Remix)",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-03-24T22:02:58Z"
+}
