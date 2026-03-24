@@ -1,0 +1,126 @@
+{
+  "id": 1,
+  "name": "nekodex",
+  "tracks": [
+    {
+      "title": "aureole",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1056354
+        ],
+        "osu": [
+          1037352
+        ]
+      }
+    },
+    {
+      "title": "carol of the circles",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1078322
+        ]
+      }
+    },
+    {
+      "title": "circle the halls",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2295880
+        ],
+        "osu": [
+          2295880
+        ]
+      }
+    },
+    {
+      "title": "circles!",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          355322,
+          2242407
+        ],
+        "mania": [
+          1003217
+        ]
+      }
+    },
+    {
+      "title": "Immaterial Banquet",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Liquid Future",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          898734
+        ]
+      }
+    },
+    {
+      "title": "Little Drummer Girl",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2103787
+        ],
+        "taiko": [
+          1774306
+        ],
+        "osu": [
+          1320298
+        ]
+      }
+    },
+    {
+      "title": "Moonlight Feast",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "skyraver",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "skysoarer",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "welcome to christmas!",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          882106,
+          1292185
+        ]
+      }
+    }
+  ],
+  "updated_at": "2026-03-24T19:38:08Z"
+}

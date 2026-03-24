@@ -14,12 +14,10 @@ from __future__ import annotations
 
 import time
 from datetime import datetime, timezone
-
-from dotenv import load_dotenv
 from ossapi import Ossapi
 
 from parser import HtmlClient
-from config import SEARCH_DELAY, OUT_PATH
+from config import SEARCH_DELAY
 from api_beatmapset_search import find_ranked_beatmapsets
 
 def build_artist_record(

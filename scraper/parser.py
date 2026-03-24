@@ -20,12 +20,17 @@ class HtmlClient:
         soup = self._get_html("/beatmaps/artists")
         artists = []
 
-        for a in soup.select("a.artist__name"):
+        for box in soup.select("div.artist__box"):
+            a = box.select_one("a.artist__name")
+            count_div = box.select_one("div.artist__track-count")
+            if not a or not count_div:
+                continue
             name = a.get_text(strip=True)
             href = a.get("href", "")
             try:
                 artist_id = int(href.rstrip("/").split("/")[-1])
-                artists.append({"id": artist_id, "name": name})
+                song_count = int(count_div.get_text(strip=True).split()[0])
+                artists.append({"id": artist_id, "name": name, "song_count": song_count})
             except (ValueError, IndexError):
                 continue
 

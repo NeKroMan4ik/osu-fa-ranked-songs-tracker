@@ -3,16 +3,45 @@ from __future__ import annotations
 import json
 import os
 import sys
+from datetime import datetime, timezone
 
 from dotenv import load_dotenv
 from ossapi import Ossapi
 
 from parser import HtmlClient
-from config import OUT_PATH
+from config import ARTISTS_DIR, INDEX_PATH
 from build import build_artist_record
 
 
 load_dotenv()
+
+
+def write_artist(artist: dict) -> None:
+    ARTISTS_DIR.mkdir(parents=True, exist_ok=True)
+    path = ARTISTS_DIR / f"{artist['id']}.json"
+    path.write_text(json.dumps(artist, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def write_index(artists: list[dict]) -> None:
+    index = {
+        "metadata": {
+            "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "total_artists": len(artists),
+            "total_songs": sum(len(a["tracks"]) for a in artists),
+        },
+        "artists": [
+            {
+                "id": a["id"],
+                "name": a["name"],
+                "song_count": len(a["tracks"]),
+                "ranked_count": sum(1 for t in a["tracks"] if t.get("ranked_modes")),
+                "updated_at": a["updated_at"],
+            }
+            for a in sorted(artists, key=lambda x: x["name"].lower())
+        ],
+    }
+    INDEX_PATH.parent.mkdir(parents=True, exist_ok=True)
+    INDEX_PATH.write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
 def run() -> None:
@@ -35,33 +64,15 @@ def run() -> None:
     for i, raw in enumerate(raw_artists, 1):
         print(f"[{i}/{len(raw_artists)}] ", end="", flush=True)
         try:
-            results.append(build_artist_record(html_client, api, raw))
+            artist = build_artist_record(html_client, api, raw)
+            write_artist(artist)
+            results.append(artist)
         except Exception as exc:
             print(f"✗ {raw['name']} → {exc}", file=sys.stderr)
 
-    OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    write_index(results)
 
-    # merge with the existing file by id
-    existing = {}
-    if OUT_PATH.exists():
-        try:
-            data = json.loads(OUT_PATH.read_text(encoding="utf-8"))
-            existing = {a["id"]: a for a in data if isinstance(a, dict) and "id" in a}
-        except Exception:
-            pass
-
-    for new in results:
-        existing[new["id"]] = new
-
-    final_list = list(existing.values())
-
-    OUT_PATH.write_text(
-        json.dumps(final_list, ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
-
-
-    print(f"\n✓ Wrote {OUT_PATH}")
+    print(f"\n✓ Wrote {len(results)} artist files + {INDEX_PATH}")
 
 
 if __name__ == "__main__":

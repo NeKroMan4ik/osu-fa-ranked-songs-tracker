@@ -1,5 +1,7 @@
 from pathlib import Path
 
 SEARCH_DELAY = 1.25
-OUT_PATH     = Path(__file__).parent.parent / "data" / "artists.json"
+DATA_DIR     = Path(__file__).parent.parent / "data"
+ARTISTS_DIR  = DATA_DIR / "artists"
+INDEX_PATH   = DATA_DIR / "index.json"
 BASE_URL     = "https://osu.ppy.sh"
