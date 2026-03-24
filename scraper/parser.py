@@ -1,0 +1,53 @@
+from __future__ import annotations
+
+import json
+import requests
+from bs4 import BeautifulSoup
+
+from config import BASE_URL
+
+class HtmlClient:
+    def __init__(self) -> None:
+        self._session = requests.Session()
+        self._session.headers.update({"Accept": "text/html,application/json"})
+
+    def _get_html(self, path: str) -> BeautifulSoup:
+        resp = self._session.get(f"{BASE_URL}{path}", timeout=15)
+        resp.raise_for_status()
+        return BeautifulSoup(resp.text, "html.parser")
+
+    def get_featured_artists(self) -> list[dict]:
+        soup = self._get_html("/beatmaps/artists")
+        artists = []
+
+        for a in soup.select("a.artist__name"):
+            name = a.get_text(strip=True)
+            href = a.get("href", "")
+            try:
+                artist_id = int(href.rstrip("/").split("/")[-1])
+                artists.append({"id": artist_id, "name": name})
+            except (ValueError, IndexError):
+                continue
+
+        if not artists:
+            raise RuntimeError("Parsed 0 artists — HTML structure changed?")
+        return artists
+
+    def get_artist_tracks(self, artist_id: int) -> list[str]:
+        soup = self._get_html(f"/beatmaps/artists/{artist_id}")
+        titles = set()  # using set to avoid the dupes
+        for script in soup.find_all("script", {"type": "application/json"}):
+            sid = script.get("id", "")
+            if not (sid.startswith("album-json-") or sid.startswith("singles-json-")):
+                continue
+            try:
+                data = json.loads(script.string or "")
+
+                tracks = data if isinstance(data, list) else data.get("tracks", [])
+                for t in tracks:
+                    title = (t or {}).get("title", "").strip()
+                    if title:
+                        titles.add(title)
+            except (json.JSONDecodeError, AttributeError, TypeError):
+                continue
+        return sorted(titles)
