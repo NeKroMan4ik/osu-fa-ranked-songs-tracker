@@ -236,6 +236,424 @@
     "updated_at": "2026-03-23T20:55:50Z"
   },
   {
+    "id": 179,
+    "name": "ABSOLUTE CASTAWAY",
+    "tracks": [
+      {
+        "title": "Al Tarf no Ginmaku",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Aldebaran no Jouen",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Alhena no Doukei",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Alrescha no Seizu",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ame Nochi Hare",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "ANTICLOCK TEA-PARTY",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "ASTRO=HOPE",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "ASTRO=PHERE",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "ASTRO=SIGN",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Chigiri Oni",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Cielo Azul",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Don no Koe",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1516142
+          ]
+        }
+      },
+      {
+        "title": "Doukoku no Mori",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2194674
+          ]
+        }
+      },
+      {
+        "title": "En Mi Ka",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Epitaph",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1825110
+          ]
+        }
+      },
+      {
+        "title": "Gobanme no Kisetsu",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Halloween Night Parade",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1055224
+          ]
+        }
+      },
+      {
+        "title": "Hamal no Koufuku",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Hana no Saku Basho",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Hana Uta",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "In the MIRROR",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kajin Issen",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kaleido Parade",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kamidanomi Etcetera",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kanjou no Namae",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2002409
+          ]
+        }
+      },
+      {
+        "title": "Ki No Hazama",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kiffa no Kyoukai",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kimi ni dake Himitsu",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "KIRMES",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kofuku Biyori",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Konpeitou Retrotica",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1522511
+          ]
+        }
+      },
+      {
+        "title": "Kuro Neko Ron",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Last chapter.",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "LAST MAGIC",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lost chapter.",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Machigami Shoujo",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1534767
+          ]
+        }
+      },
+      {
+        "title": "Mayoi Tsuru",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Mukyuu Meiyaku",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1524407
+          ]
+        }
+      },
+      {
+        "title": "Musubime",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2088521
+          ]
+        }
+      },
+      {
+        "title": "Natsu no Kaze",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Nazo Kake Manten ~Uramenyuu",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Nazokake Alice",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Nunki no Morito",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Oni no Hanashi.",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ouka Enbu",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Regulus no Kodoku",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Sadachbia no Himitsu",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            984777
+          ]
+        }
+      },
+      {
+        "title": "Sekai ga Kiraina Kimi e",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Shaula no Bara",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2233358
+          ]
+        }
+      },
+      {
+        "title": "Shinsou Shintouron",
+        "ranked_modes": [
+          "fruits",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            1901154
+          ],
+          "fruits": [
+            1286508
+          ],
+          "osu": [
+            827743
+          ]
+        }
+      },
+      {
+        "title": "Shiroi Tsuki, Hohoenda Taiyou",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2200412
+          ]
+        }
+      },
+      {
+        "title": "Sirius no Yuuen -Hacka-",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "So Hi De no Aji",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Spica no Yakusoku",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "step by step",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2298768
+          ],
+          "mania": [
+            2255571,
+            2255741
+          ],
+          "fruits": [
+            2191164
+          ]
+        }
+      },
+      {
+        "title": "Tooi Anata e",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Tooryanse",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Toushin Gengi",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            2277273
+          ],
+          "osu": [
+            2049859
+          ]
+        }
+      },
+      {
+        "title": "Toushin Romantica",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "TRUTH",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T12:31:27Z"
+  },
+  {
     "id": 294,
     "name": "Abuse",
     "tracks": [
@@ -450,6 +868,4289 @@
     "updated_at": "2026-03-23T22:47:42Z"
   },
   {
+    "id": 31,
+    "name": "Camellia",
+    "tracks": [
+      {
+        "title": "#include",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "(The) Immortal Scream",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "(The) Red * Room",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1715552
+          ]
+        }
+      },
+      {
+        "title": "(This track is)NOT EPIC",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "+ERABY+E CONNEC+10N",
+        "ranked_modes": [
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1498655
+          ],
+          "mania": [
+            1266552
+          ]
+        }
+      },
+      {
+        "title": "///Under Construxion///",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "/dev/null",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "1nput This 2 Y0ur Spine",
+        "ranked_modes": [
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2011220,
+            2184241
+          ],
+          "osu": [
+            1266639
+          ]
+        }
+      },
+      {
+        "title": "[ BLEED BLOOD ]",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "[diffraction]",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            1312052
+          ],
+          "osu": [
+            851430,
+            1039179
+          ]
+        }
+      },
+      {
+        "title": "[e-]",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "[ns]",
+        "ranked_modes": [
+          "mania",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2418209
+          ],
+          "taiko": [
+            1045786
+          ]
+        }
+      },
+      {
+        "title": "Alone intelligence",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1235533
+          ]
+        }
+      },
+      {
+        "title": "amorphous",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "ANOMALY (Camellia's \"MUTATION\" Schranz Remix)",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            932446
+          ]
+        }
+      },
+      {
+        "title": "Another Xronixle",
+        "ranked_modes": [
+          "fruits",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1842792
+          ],
+          "taiko": [
+            1178916
+          ]
+        }
+      },
+      {
+        "title": "Arche",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1630951
+          ],
+          "taiko": [
+            1325076
+          ],
+          "mania": [
+            1189075
+          ],
+          "osu": [
+            1019291
+          ]
+        }
+      },
+      {
+        "title": "Arcology On Permafrost",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            2072681
+          ],
+          "osu": [
+            977977
+          ]
+        }
+      },
+      {
+        "title": "Artificial Snow",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1026319
+          ]
+        }
+      },
+      {
+        "title": "ATTACK FROM MANDRAKE",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            673373
+          ]
+        }
+      },
+      {
+        "title": "B L A C K - R A Y",
+        "ranked_modes": [
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1656978
+          ],
+          "osu": [
+            1020387
+          ]
+        }
+      },
+      {
+        "title": "Backbeat Maniac",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "BAD ACCESS (FROM A MOE MAID)",
+        "ranked_modes": [
+          "mania",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            1908855
+          ],
+          "mania": [
+            1483944
+          ]
+        }
+      },
+      {
+        "title": "Bass Bomb",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Bass In Da House",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Bermuda Triangle (feat. The8BitDrummer)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Beyond the Geostationary Orbit Level",
+        "ranked_modes": [
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1011337
+          ],
+          "taiko": [
+            972244
+          ],
+          "osu": [
+            908006
+          ]
+        }
+      },
+      {
+        "title": "BLACK JACK",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Blackmagik Blazing",
+        "ranked_modes": [
+          "mania",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            2469452
+          ],
+          "mania": [
+            1309565,
+            1755294,
+            1863494
+          ]
+        }
+      },
+      {
+        "title": "Blast your headz with the railgun",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Blast your headz with the railgun (BassHouse VIP)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Bloody Kiss",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "BLOWN WITH THE GLARE",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Body F10ating in the Zero Gravity Space",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1266354,
+            1511778
+          ]
+        }
+      },
+      {
+        "title": "BRACE FOR FRICKING IMPACT",
+        "ranked_modes": [
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            2490936
+          ],
+          "mania": [
+            2119168
+          ],
+          "osu": [
+            1385541
+          ]
+        }
+      },
+      {
+        "title": "Break The Silence",
+        "ranked_modes": [
+          "mania",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2051831
+          ],
+          "taiko": [
+            1032778
+          ]
+        }
+      },
+      {
+        "title": "bug collection",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia & DJ Genki - Feelin Sky",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Camellia - AREA 52",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Animal Land",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Bassline Yatteru? w",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Bikkurisasetara Okoru yo!",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Energy * Drin-ko * Fein-chan! (Camellia's \"MONSTERISTIC\" D. M. P. Remix)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Energy * Drin-ko Fein-chan!",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Force!",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Hakuraku",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Hea~rt Bea~t O~ver~Hea~~~~t!!!!",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Honey Trap",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - IoT (Internet of Things) no Megami * Mononon *",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Kansoku Eisei",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Kizuitara Shunkashuutou",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Looking For A New Adventure",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Meira~ Daemon * Damon",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - NEKO * CHEF",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Ningen vs Kyuunage Robot Tama-chan no Catch Ball Taiketsu",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Petals",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Pink Panik!!",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Replay!",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Saikyou Mushiba Koujishi Kussaku Chu",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Sekai Seifuku! Choukou Juutsu Ryoku Denpasou Shinkichi Kyoku",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - senpai, notice me!",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Shakunetsu Candle Master Tomoshii",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Sleep!",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Ta-Ti-Tu-Teatime!",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Tetsudou Meikyuu (TRAIN LABYRINTH) ~Nekudase, Chou Shukueki ~",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Touryouka",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Tsukitourou",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Usakick!",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - Versus!",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Nanahira - You Make My Life 1UP (x127 Long ver.)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia feat. Yukacco - Be Wild",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia, Tsuko feat. Nanahira - Present",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Camellia, Tsuko feat. Nanahira - Touhiron",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "CICADA3302",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            2097061
+          ],
+          "osu": [
+            1528877,
+            2090933
+          ],
+          "mania": [
+            1890147
+          ],
+          "taiko": [
+            1637599
+          ]
+        }
+      },
+      {
+        "title": "Circles of Death",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1846046,
+            2177223
+          ]
+        }
+      },
+      {
+        "title": "Clouds in the Blue",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            995539
+          ]
+        }
+      },
+      {
+        "title": "Compute It With Some Devilish Alcoholic Steampunk Engines",
+        "ranked_modes": [
+          "fruits",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            2143996
+          ],
+          "osu": [
+            1268030,
+            1280590
+          ]
+        }
+      },
+      {
+        "title": "Controlled Dive",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            2361960
+          ]
+        }
+      },
+      {
+        "title": "crystallized",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            399151,
+            747778,
+            2235787
+          ],
+          "mania": [
+            890013
+          ],
+          "fruits": [
+            751290
+          ]
+        }
+      },
+      {
+        "title": "D0 U K|/|0VV D0|/|K3\\ K0|/|6?",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "d:for the DELTA",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            373240,
+            396370,
+            709946,
+            2477885
+          ],
+          "taiko": [
+            2477885
+          ],
+          "mania": [
+            2477885
+          ],
+          "fruits": [
+            416308,
+            2477885
+          ]
+        }
+      },
+      {
+        "title": "d:for the DELTA (Camellia's \"PLANETARY//DUBSTEP\" Remix)",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            2132406
+          ],
+          "mania": [
+            928491
+          ],
+          "osu": [
+            1432093,
+            2377403
+          ],
+          "taiko": [
+            857324,
+            868513
+          ]
+        }
+      },
+      {
+        "title": "Dance on the Mars",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Dance with Silence",
+        "ranked_modes": [
+          "mania",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1405229,
+            1710650,
+            2317469,
+            2391603
+          ],
+          "taiko": [
+            1266934
+          ]
+        }
+      },
+      {
+        "title": "Danger Drug",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1435861
+          ]
+        }
+      },
+      {
+        "title": "Dans la mer de son",
+        "ranked_modes": [
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2197536,
+            2420203
+          ],
+          "taiko": [
+            834765
+          ],
+          "osu": [
+            654313
+          ]
+        }
+      },
+      {
+        "title": "DARK THUNDER",
+        "ranked_modes": [
+          "fruits",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            1358344
+          ],
+          "fruits": [
+            485700
+          ]
+        }
+      },
+      {
+        "title": "Darkness Overload",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Distorted Space",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Do The Big Kick",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Doven",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "dream transfer",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "dreamless wanderer",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            286414,
+            376075,
+            417492,
+            620981,
+            2281269
+          ],
+          "mania": [
+            1580929,
+            2075891
+          ],
+          "taiko": [
+            1093959
+          ],
+          "fruits": [
+            286414
+          ]
+        }
+      },
+      {
+        "title": "Electromagnetic Stealth Girl Born In Philadelphia",
+        "ranked_modes": [
+          "mania",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1525729,
+            1608630,
+            2016163
+          ],
+          "taiko": [
+            1726058
+          ]
+        }
+      },
+      {
+        "title": "Embracing intelligences",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1055424
+          ]
+        }
+      },
+      {
+        "title": "End of this nightmare",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ethnik Khemikal Teknologi",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            678415,
+            1766532,
+            2440376
+          ],
+          "osu": [
+            1642533
+          ],
+          "fruits": [
+            959112
+          ],
+          "mania": [
+            678415
+          ]
+        }
+      },
+      {
+        "title": "Exit This Earth's Atomosphere",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1794725
+          ],
+          "osu": [
+            424600,
+            517474,
+            1060325
+          ],
+          "mania": [
+            575053
+          ],
+          "taiko": [
+            567916
+          ]
+        }
+      },
+      {
+        "title": "Exit This Earth's Atomosphere (Camellia's \"PLANETARY//200STEP\" Remix)",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1735796,
+            1824189
+          ],
+          "osu": [
+            912680
+          ],
+          "taiko": [
+            832997,
+            833923,
+            843576,
+            1079786
+          ],
+          "fruits": [
+            1825951
+          ]
+        }
+      },
+      {
+        "title": "farewell to today",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            765623
+          ]
+        }
+      },
+      {
+        "title": "Fastest Crash",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            2147976
+          ],
+          "mania": [
+            1725902
+          ],
+          "taiko": [
+            394025
+          ],
+          "osu": [
+            331025
+          ]
+        }
+      },
+      {
+        "title": "fastest crash (Camellia's \"paroxysmal\" Energetic Hitech Remix)",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1317690
+          ]
+        }
+      },
+      {
+        "title": "feel my conscious",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Feelin Sky (Camellia's 200step Self-remix)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "FINAL BLENDERMAN APPEARED. (feat. RichaadEB)",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1900729,
+            2019520,
+            2244982
+          ]
+        }
+      },
+      {
+        "title": "First Town Of This Journey",
+        "ranked_modes": [
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2372221
+          ],
+          "osu": [
+            888513
+          ]
+        }
+      },
+      {
+        "title": "Flamewall",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            2241735
+          ],
+          "taiko": [
+            1370694,
+            1540868,
+            1842825
+          ],
+          "osu": [
+            1533028
+          ],
+          "mania": [
+            1270879,
+            1380007
+          ]
+        }
+      },
+      {
+        "title": "flower of wilderness",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1809311
+          ],
+          "taiko": [
+            1154691
+          ],
+          "mania": [
+            1131426
+          ],
+          "osu": [
+            366928,
+            399727
+          ]
+        }
+      },
+      {
+        "title": "Fly to night, tonight",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1119638
+          ]
+        }
+      },
+      {
+        "title": "Fly Wit Me",
+        "ranked_modes": [
+          "fruits",
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1613644
+          ],
+          "mania": [
+            1267752
+          ]
+        }
+      },
+      {
+        "title": "flying in the flow of deep-sea",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1497574,
+            1952975,
+            2414004
+          ],
+          "osu": [
+            347556,
+            347898,
+            353203,
+            701625,
+            1889313,
+            2322235
+          ],
+          "fruits": [
+            808574,
+            861357
+          ],
+          "taiko": [
+            397682
+          ]
+        }
+      },
+      {
+        "title": "FM Synthesis Experiment",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            1104178,
+            2430393
+          ],
+          "osu": [
+            920474,
+            2002011
+          ],
+          "fruits": [
+            1517608
+          ],
+          "mania": [
+            914341,
+            1132164,
+            1132659
+          ]
+        }
+      },
+      {
+        "title": "Furry Cannon",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2333109
+          ]
+        }
+      },
+      {
+        "title": "GHOST",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            1591256
+          ],
+          "osu": [
+            1050556
+          ]
+        }
+      },
+      {
+        "title": "GHOST (2020 Halloween+++++++++ VIP)",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            2484830
+          ],
+          "osu": [
+            1279354,
+            1438177,
+            1527006
+          ],
+          "fruits": [
+            1301991
+          ],
+          "mania": [
+            1265570
+          ]
+        }
+      },
+      {
+        "title": "GHOUL",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            2007971
+          ]
+        }
+      },
+      {
+        "title": "Heart of Android : Even If It's Only By Mechanism",
+        "ranked_modes": [
+          "mania",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1072415
+          ],
+          "taiko": [
+            1015817
+          ]
+        }
+      },
+      {
+        "title": "HELIXFOSSIL",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Hello (BPM) 2021",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Hello to the your first video game",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Hi-beam",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "HINODE (Basscore VIP)",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1463090
+          ]
+        }
+      },
+      {
+        "title": "I think, it's kind of like the Some Squad",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "ill intelligence",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            675642,
+            1459275
+          ]
+        }
+      },
+      {
+        "title": "illegal trap",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "In Black & White",
+        "ranked_modes": [
+          "mania",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            1040093
+          ],
+          "mania": [
+            1020196
+          ]
+        }
+      },
+      {
+        "title": "INSANE INFLAME",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "into the lava",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "introduction - ENTRANS OF DA JUNGLE",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "introduction - INSANE INFLAME",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1081920
+          ]
+        }
+      },
+      {
+        "title": "Introduction - PLANET//SHAPER",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Introduction - Relic In Letters",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "introduction - SCRAMBLE SUMMARY",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ironmouse & Camellia - Waifu Jam",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ironmouse & Camellia - Waifu Jam (osu! edit)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ironmouse & Camellia - Waifu Jam (Short ver.)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "JDM (Jungle Dance Music)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "K.Y.A.F.A. (Kill You All Fucking Asshole)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kamah (Scythe)",
+        "ranked_modes": [
+          "mania",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            1908845
+          ],
+          "mania": [
+            1314013
+          ]
+        }
+      },
+      {
+        "title": "KASAI HARCORES - CYCLE HIT",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "KASAI HARCORES - Moeagare! HARCORES",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "KASAI HARCORES - TRIPLE PLAY",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Key of timepieces",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            712825
+          ],
+          "osu": [
+            534800,
+            602119
+          ]
+        }
+      },
+      {
+        "title": "KillerBeast",
+        "ranked_modes": [
+          "fruits",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1478459
+          ],
+          "taiko": [
+            1069639
+          ],
+          "osu": [
+            1019290
+          ]
+        }
+      },
+      {
+        "title": "KillerToy",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1719946
+          ]
+        }
+      },
+      {
+        "title": "Kimi ga Shinu no o Nagamete Iru yo",
+        "ranked_modes": [
+          "fruits",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            945476,
+            2244436
+          ],
+          "fruits": [
+            1295992
+          ],
+          "taiko": [
+            1033067
+          ]
+        }
+      },
+      {
+        "title": "Kisaragi",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2112649,
+            2402191
+          ],
+          "taiko": [
+            1882660,
+            2375619
+          ],
+          "osu": [
+            2005745
+          ],
+          "fruits": [
+            1550926
+          ]
+        }
+      },
+      {
+        "title": "Kokoro no Shitsuryou",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Labyrinth in Kowloon: Walled World",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1614473,
+            1929319
+          ]
+        }
+      },
+      {
+        "title": "LET'S JUMP",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            384263,
+            1023679
+          ],
+          "taiko": [
+            688928
+          ]
+        }
+      },
+      {
+        "title": "LET'S JUMP (Camellia's \"diffractive\" Hardcore Remix)",
+        "ranked_modes": [
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1052797
+          ],
+          "mania": [
+            851107
+          ],
+          "taiko": [
+            982468
+          ]
+        }
+      },
+      {
+        "title": "Light it up",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            514601,
+            650738,
+            1165549
+          ],
+          "taiko": [
+            670905,
+            735526,
+            1015345
+          ]
+        }
+      },
+      {
+        "title": "liquated",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Looking for Edge of Ground",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1560424,
+            1823805,
+            2401578
+          ],
+          "taiko": [
+            1678197,
+            2363104
+          ],
+          "osu": [
+            1175337,
+            1653606,
+            1723568,
+            2011170,
+            2350791
+          ],
+          "fruits": [
+            1496473
+          ]
+        }
+      },
+      {
+        "title": "Love yiff!",
+        "ranked_modes": [
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            1122409
+          ]
+        }
+      },
+      {
+        "title": "Luin of Celtchar",
+        "ranked_modes": [
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1845998
+          ],
+          "mania": [
+            1095471,
+            1281422
+          ],
+          "taiko": [
+            1025635
+          ]
+        }
+      },
+      {
+        "title": "M1LLI0N PP",
+        "ranked_modes": [
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1290161,
+            1651905,
+            2399839
+          ],
+          "osu": [
+            1277657
+          ]
+        }
+      },
+      {
+        "title": "Maze of Vignere Square",
+        "ranked_modes": [
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            976690
+          ]
+        }
+      },
+      {
+        "title": "memoryleak",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Mithril",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Mystery Circles Ultra / U.U.F.O.",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2094665
+          ]
+        }
+      },
+      {
+        "title": "Myths You Forgot (feat. Toby Fox)",
+        "ranked_modes": [
+          "fruits",
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1553339,
+            1821893
+          ],
+          "fruits": [
+            1518838
+          ]
+        }
+      },
+      {
+        "title": "Nasty * Nasty * Spell",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "NEURO-CLOUD-9",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1883182,
+            2420930
+          ]
+        }
+      },
+      {
+        "title": "New Era",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Newspapers for Magicians",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            1726022
+          ],
+          "mania": [
+            929143,
+            1645306,
+            1715032
+          ],
+          "fruits": [
+            1521771
+          ],
+          "osu": [
+            938426
+          ]
+        }
+      },
+      {
+        "title": "Night Raid with a Dragon",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "NIGHTMARE CITY",
+        "ranked_modes": [
+          "fruits",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1943533
+          ],
+          "taiko": [
+            1081656
+          ]
+        }
+      },
+      {
+        "title": "No kidding?",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Nuclear drive",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "NUCLEAR-STAR",
+        "ranked_modes": [
+          "mania",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1454619
+          ],
+          "taiko": [
+            968297
+          ]
+        }
+      },
+      {
+        "title": "ONE BITE",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "OOPARTS",
+        "ranked_modes": [
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1505323,
+            1608837,
+            2322183,
+            2406710
+          ],
+          "taiko": [
+            1647162
+          ],
+          "osu": [
+            1312143
+          ]
+        }
+      },
+      {
+        "title": "Operation: Zenithfall",
+        "ranked_modes": [
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            2299969,
+            2432240
+          ],
+          "mania": [
+            2293949,
+            2425003
+          ],
+          "osu": [
+            2287992
+          ]
+        }
+      },
+      {
+        "title": "Orbital Strike",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "overkill (Schranz VIP)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Paleolithic Period Wobble Bass",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Parallel Universe Shifter",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2062263,
+            2076634,
+            2086467,
+            2416672
+          ],
+          "osu": [
+            2186249,
+            2337483
+          ],
+          "taiko": [
+            2128550
+          ],
+          "fruits": [
+            2062422
+          ]
+        }
+      },
+      {
+        "title": "paroxysm",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            463583,
+            2093101
+          ]
+        }
+      },
+      {
+        "title": "Peaceful invading",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Phatty Influencers",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "PLANET//SHAPER",
+        "ranked_modes": [
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            376293,
+            2417462
+          ],
+          "taiko": [
+            921130
+          ],
+          "osu": [
+            346853
+          ]
+        }
+      },
+      {
+        "title": "Poison Mushroom",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "POLYBIUS GB SPEEDRUN (Glitchless 100% WR in 0:03:57)",
+        "ranked_modes": [
+          "mania",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1940246,
+            2400066,
+            2438737
+          ],
+          "taiko": [
+            1726042
+          ]
+        }
+      },
+      {
+        "title": "POWA OF DA WILDANES",
+        "ranked_modes": [
+          "mania",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            693222,
+            1938286
+          ],
+          "mania": [
+            1098578
+          ]
+        }
+      },
+      {
+        "title": "Primitive Pump",
+        "ranked_modes": [
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            712424
+          ]
+        }
+      },
+      {
+        "title": "Purge My Existence Out Of This World (feat. BTMC)",
+        "ranked_modes": [
+          "fruits",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            2032925
+          ],
+          "fruits": [
+            1633355
+          ]
+        }
+      },
+      {
+        "title": "put' l'da",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            1013694
+          ],
+          "osu": [
+            580828,
+            632972,
+            722744
+          ]
+        }
+      },
+      {
+        "title": "Quantum Entanglement",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            584991
+          ]
+        }
+      },
+      {
+        "title": "Quaoar",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1082753
+          ],
+          "taiko": [
+            931741
+          ],
+          "osu": [
+            829646,
+            836856
+          ],
+          "mania": [
+            812418
+          ]
+        }
+      },
+      {
+        "title": "Qyoh (Nine Stars)",
+        "ranked_modes": [
+          "mania",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            2101810
+          ],
+          "mania": [
+            1824429,
+            1833301
+          ]
+        }
+      },
+      {
+        "title": "R U Still xxxx?",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            2430086
+          ]
+        }
+      },
+      {
+        "title": "R.A.D.I.U.S. (Techdance VIP)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Racemization",
+        "ranked_modes": [
+          "fruits",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            1071559
+          ],
+          "fruits": [
+            2136432
+          ],
+          "osu": [
+            347765,
+            742170,
+            1052199,
+            1389904
+          ]
+        }
+      },
+      {
+        "title": "Rain of Amethyst",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "reach the deepest one",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ring",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "rohga",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ryuuseigun",
+        "ranked_modes": [
+          "fruits",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1188437,
+            2221097
+          ],
+          "fruits": [
+            1810556
+          ]
+        }
+      },
+      {
+        "title": "S.A.T.E.L.L.I.T.E.",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            2082231
+          ],
+          "taiko": [
+            1794458
+          ],
+          "mania": [
+            1773012
+          ]
+        }
+      },
+      {
+        "title": "SAMPLING REVOLVER",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "SECRET BOSS",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "shadows of cats",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1644032,
+            2311665,
+            2435368
+          ]
+        }
+      },
+      {
+        "title": "SLIME INCIDENT",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Stealth-Dash",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            908451,
+            910031,
+            1106021,
+            2368998
+          ],
+          "fruits": [
+            1115790,
+            2354808
+          ],
+          "taiko": [
+            938080,
+            1931324
+          ],
+          "mania": [
+            1490725,
+            1679792
+          ]
+        }
+      },
+      {
+        "title": "STEELFUCK (Dubstep VIP)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "sudden shower",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Sulfide",
+        "ranked_modes": [
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            736594
+          ]
+        }
+      },
+      {
+        "title": "t/a/n/a/s/i/n/n",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1930417
+          ]
+        }
+      },
+      {
+        "title": "Tentaclar Aliens' Epic Extraterretterrestrial Jungle Dance Party...",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1557981
+          ]
+        }
+      },
+      {
+        "title": "Tera I/O",
+        "ranked_modes": [
+          "fruits",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            1832846
+          ],
+          "fruits": [
+            1693907
+          ]
+        }
+      },
+      {
+        "title": "The Cat Evolved Into The Microwave-proof Cat!",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2211610
+          ]
+        }
+      },
+      {
+        "title": "The King Of Lions",
+        "ranked_modes": [
+          "fruits",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            2107464
+          ],
+          "osu": [
+            885923
+          ]
+        }
+      },
+      {
+        "title": "The Night Is On Fire",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "This Future (we didn't expect)",
+        "ranked_modes": [
+          "mania",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2018820,
+            2221620,
+            2421444
+          ],
+          "taiko": [
+            1374914
+          ]
+        }
+      },
+      {
+        "title": "This is Rock n Roll maybe",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "toby fox - Spider Dance (Camellia Remix)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Together forever, my lovely lovely video game cartridges",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1047316
+          ]
+        }
+      },
+      {
+        "title": "Tojita Sekai",
+        "ranked_modes": [
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            1199802,
+            2179989
+          ],
+          "mania": [
+            1150451,
+            1313438,
+            2110867
+          ],
+          "osu": [
+            1009031,
+            1032718,
+            1368704
+          ]
+        }
+      },
+      {
+        "title": "Treaty of Peace between GlitchHop and Moombahcore",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Turning up!",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "TYPHOON 8",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Upload Your Mind :: Download My Soul",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2051840
+          ]
+        }
+      },
+      {
+        "title": "WE ARE *NOT* CURZED",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "We Could Get More Machinegun Psystyle! (And More Genre Switches)",
+        "ranked_modes": [
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1034114,
+            1927406,
+            2150979,
+            2211806,
+            2399709
+          ],
+          "osu": [
+            1282842
+          ],
+          "taiko": [
+            1022545
+          ]
+        }
+      },
+      {
+        "title": "We Magicians Still Alive in 2021",
+        "ranked_modes": [
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1516120,
+            2403366,
+            2415756
+          ],
+          "mania": [
+            1517582
+          ],
+          "taiko": [
+            1517336
+          ]
+        }
+      },
+      {
+        "title": "Welcome To The Cyphisonia",
+        "ranked_modes": [
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2254325
+          ],
+          "osu": [
+            631705,
+            887008
+          ]
+        }
+      },
+      {
+        "title": "welcome to wobbling field",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "WHAT THE CAT!?",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1063740
+          ]
+        }
+      },
+      {
+        "title": "Why do you hate me?",
+        "ranked_modes": [
+          "mania",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1854074
+          ],
+          "taiko": [
+            1064873
+          ]
+        }
+      },
+      {
+        "title": "WYSI (When You See It)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "yesterday",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Zhuzhzhalka76",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1931038
+          ]
+        }
+      },
+      {
+        "title": "ZOMBIE CIRCUS",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1518740
+          ]
+        }
+      }
+    ],
+    "updated_at": "2026-03-24T12:11:25Z"
+  },
+  {
+    "id": 23,
+    "name": "Cranky",
+    "tracks": [
+      {
+        "title": "07xx1999",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "101 kittens",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "1970",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "1st Anniversary",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "260",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Amanojaku",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            978694
+          ]
+        }
+      },
+      {
+        "title": "Ash",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Bestrafung",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Canon",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Car Sax",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Chandelier - King",
+        "ranked_modes": [
+          "fruits",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            833259
+          ],
+          "osu": [
+            751785
+          ]
+        }
+      },
+      {
+        "title": "CHASER",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            751972
+          ]
+        }
+      },
+      {
+        "title": "Crocus",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            847764
+          ]
+        }
+      },
+      {
+        "title": "crystal glass",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "D.D.C.",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Danger & Danger",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            279063
+          ]
+        }
+      },
+      {
+        "title": "El Do ra do",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Emerald",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "EMPEROR",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            979438
+          ]
+        }
+      },
+      {
+        "title": "EVERGREEN",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            11219,
+            2428134
+          ],
+          "taiko": [
+            11219
+          ]
+        }
+      },
+      {
+        "title": "Feline, the White...",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            751773
+          ],
+          "taiko": [
+            847253,
+            981005,
+            1996278
+          ]
+        }
+      },
+      {
+        "title": "Flugel",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1280436,
+            2390759
+          ]
+        }
+      },
+      {
+        "title": "For Your Love",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Forza Azzurri",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Gekkabijin",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Hanaarashi",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            751771
+          ]
+        }
+      },
+      {
+        "title": "Holy Winter #3",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "I CAN'T BELIEVE",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Into the Unknown",
+        "ranked_modes": [
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            738600
+          ]
+        }
+      },
+      {
+        "title": "J219",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2011490
+          ]
+        }
+      },
+      {
+        "title": "JULIAN",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1008310
+          ]
+        }
+      },
+      {
+        "title": "Kirakira",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "La fuite des jours",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            751932
+          ]
+        }
+      },
+      {
+        "title": "La Promesse",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "LAPPISCH",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Libera me",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            21178,
+            757813,
+            1085726
+          ],
+          "taiko": [
+            21178,
+            757813
+          ]
+        }
+      },
+      {
+        "title": "Luvin' You",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            8923
+          ]
+        }
+      },
+      {
+        "title": "Maharaja Trance",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "MATADOR",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "MILLION DOLLAR",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "MIMOZA",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Moonlight Sonata",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Nagi=Raving-Heart",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "NaNa kirakira",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Neon & Light",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Never Forever",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "P.A.L.",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "PAL,36",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Party 4U",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Phantom Pianist -session #1",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "positive 3rd",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "positive dance '2nd RAVE'",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "positive dance 'Final RAVE'",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "power of love",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Printemps",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Puppe",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "pure my heart",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "PWRPFF RAVES",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "R176",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            31367,
+            2117864
+          ],
+          "osu": [
+            31367
+          ]
+        }
+      },
+      {
+        "title": "Ran",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            789553
+          ],
+          "osu": [
+            751772
+          ]
+        }
+      },
+      {
+        "title": "Rave 2 Rave",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            751896
+          ]
+        }
+      },
+      {
+        "title": "Reimai",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rosone",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "SALON & CHALON",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "save the music",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Save the Page",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "siromaru + cranky - conflict",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Snow",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "STRANGER LOVE",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "SUPER JACKPOT",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Survival Game",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "T&J",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            752022,
+            2417429
+          ],
+          "taiko": [
+            949737
+          ]
+        }
+      },
+      {
+        "title": "The Five",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            18339
+          ]
+        }
+      },
+      {
+        "title": "The God of Beauty",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Time Alter",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            847900
+          ]
+        }
+      },
+      {
+        "title": "to the heaven",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "une brise d'automne",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "V.L.S.I.",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Wolly no Natsuyasumi",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "X-Y-Z",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            150649
+          ]
+        }
+      },
+      {
+        "title": "Zeijakunaru Inori - Aganai no Chinkonka",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1076872
+          ]
+        }
+      }
+    ],
+    "updated_at": "2026-03-24T12:17:54Z"
+  },
+  {
+    "id": 29,
+    "name": "Culprate",
+    "tracks": [
+      {
+        "title": "Acid Rain",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Culprate & Au5 - Impulse",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Culprate & Bloom - Aurora",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Culprate & Dictate - Pencilina",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Culprate & Joe Ford - Gaucho",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Culprate & Roger Wilco - Mutant",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Culprate & Signal - Hydraulic",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Culprate & Skorpion - Jester",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Culprate & Zenji - Ghostmachine",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Culprate, Keota & Sophie Meiers - Mechanic Heartbeat",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Florn",
+        "ranked_modes": [
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2322253
+          ],
+          "osu": [
+            851543
+          ]
+        }
+      },
+      {
+        "title": "Jalaana (osu! ver.)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Junglist Acid (osu! Edit)",
+        "ranked_modes": [
+          "mania",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            2317907
+          ],
+          "mania": [
+            2287873
+          ]
+        }
+      },
+      {
+        "title": "Lightfold",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Relucent",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Whispers (Part II)",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            848837
+          ]
+        }
+      },
+      {
+        "title": "Yin",
+        "ranked_modes": [
+          "fruits",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1939038
+          ],
+          "osu": [
+            351403
+          ]
+        }
+      }
+    ],
+    "updated_at": "2026-03-24T12:23:48Z"
+  },
+  {
+    "id": 359,
+    "name": "cygnus",
+    "tracks": [
+      {
+        "title": "2007clocktower",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2441153
+          ]
+        }
+      },
+      {
+        "title": "2008darkwind",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Aishuu Ningyo",
+        "ranked_modes": [
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2407557
+          ],
+          "taiko": [
+            2213752
+          ],
+          "osu": [
+            2121174
+          ]
+        }
+      },
+      {
+        "title": "Akuma no Ningyou",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ancient Sun",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Angel Ring",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Anti-Light System",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Anvilia",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2056846
+          ]
+        }
+      },
+      {
+        "title": "Asphodel Meadows",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2466277
+          ]
+        }
+      },
+      {
+        "title": "Asylum Seeker",
+        "ranked_modes": [
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2486976
+          ],
+          "osu": [
+            2453495
+          ]
+        }
+      },
+      {
+        "title": "Axa",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "AxoqLixil",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Bernkastel's Sanctuary",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            2292114
+          ],
+          "osu": [
+            2134400
+          ]
+        }
+      },
+      {
+        "title": "Black Church",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Bloody Darkness",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2462148
+          ]
+        }
+      },
+      {
+        "title": "Bloody Mary",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Book of Dark Magic",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2127556
+          ]
+        }
+      },
+      {
+        "title": "Butterfly Killer",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Conception of The World",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Cry for the Infinity",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Dark Ring System",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Darkness Parade",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2078577
+          ]
+        }
+      },
+      {
+        "title": "Daylight Scar",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Dec. 31st, 1999",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Deep Sea Labyrinth",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Distorted SunLight",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Doll of Anguish",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Doll's Epitaph",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Dream Emulation",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Dream Machine",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "eternal punishment",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Fatality Machine",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Gesshoku Butou",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Graduation from The World",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Hakai no Shinzou",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Heaven Punisher",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Horologium",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ibitsu no Ki",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Iris sanguinea",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Jyoubachi no Danmatsuma",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kan'ei Tsuho",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ksitigarbha",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Kunai",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lamentation",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Last Survivor",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Lavis Moon",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2224399,
+            2236398
+          ]
+        }
+      },
+      {
+        "title": "loppi_complex",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "LuNa99998",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "M U T A T i O N (((((9^9)^9)^9)^9)^9)",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2235017
+          ]
+        }
+      },
+      {
+        "title": "magic rock \"Moola\"",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2105573
+          ]
+        }
+      },
+      {
+        "title": "magic stone \"Iristia\"",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Magnetic Eye",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Malformed Candelabra",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Metamorphism",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Midnight Sacrifice",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Miserable Children",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Mnemosyne",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Moon Atomizer",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2214952
+          ]
+        }
+      },
+      {
+        "title": "Moon Flower",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2026068
+          ]
+        }
+      },
+      {
+        "title": "Mortem Oppetere",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2435855
+          ]
+        }
+      },
+      {
+        "title": "Mr. Kurzweil",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Mr. Psychopath",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Mystery Doll",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2399469
+          ]
+        }
+      },
+      {
+        "title": "Omaju",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Oxyropsis",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Parasite Circus",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Parasitic Cell Type D",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1968108
+          ]
+        }
+      },
+      {
+        "title": "Poisonous Mind",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Prophecy of the Black Sun",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2467033
+          ]
+        }
+      },
+      {
+        "title": "Psycho Gene",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1884657
+          ]
+        }
+      },
+      {
+        "title": "Realm of The Dead",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Red Hourglass",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rengoku Mania",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1980586
+          ]
+        }
+      },
+      {
+        "title": "Revolution to the Origin",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Romantic Killers",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Sacred Connection",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Sanctimony",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Shinseki Yomotsu Hirasaka Ifuyasaka Densetsu",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1947301
+          ]
+        }
+      },
+      {
+        "title": "Shinshoku",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Silver Mutation",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2067206
+          ]
+        }
+      },
+      {
+        "title": "Silver Orbit",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2411802
+          ]
+        }
+      },
+      {
+        "title": "Six King Carnival",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Sky Lantern",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "sodium ethyl xanthate",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2023131
+          ],
+          "taiko": [
+            1992407
+          ]
+        }
+      },
+      {
+        "title": "Solitary Flower Maiden",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Sorrow Mania",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "St. Ophelia",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "STRIKER+",
+        "ranked_modes": [
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2065079
+          ],
+          "osu": [
+            1966073
+          ]
+        }
+      },
+      {
+        "title": "Sun Flower",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "SunMalice",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Tasogare no Megami",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "The Devil's Mirror",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "The Evolution of War",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1987180
+          ]
+        }
+      },
+      {
+        "title": "The Heart of Genesis",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "The Mind in Twilight",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "The Rose of Sorrow",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "The Ruby of Twilight",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2471980
+          ]
+        }
+      },
+      {
+        "title": "Total Annihilation of The Mind",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Total Eclipse of The Moon",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Tree of Misery",
+        "ranked_modes": [
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2258696
+          ],
+          "mania": [
+            2242640
+          ]
+        }
+      },
+      {
+        "title": "Twilight Ceremony",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Violet SunLight",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2152760
+          ]
+        }
+      },
+      {
+        "title": "White Ring",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2413075
+          ]
+        }
+      }
+    ],
+    "updated_at": "2026-03-24T12:27:44Z"
+  },
+  {
+    "id": 2,
+    "name": "cYsmix",
+    "tracks": [
+      {
+        "title": "Abandoned Shrine Party",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1267252
+          ]
+        }
+      },
+      {
+        "title": "Arcade Busters",
+        "ranked_modes": [
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2361354
+          ],
+          "osu": [
+            601840
+          ]
+        }
+      },
+      {
+        "title": "Babaroque (Short Ver.)",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            791667
+          ]
+        }
+      },
+      {
+        "title": "Behind the Walls",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            791798
+          ]
+        }
+      },
+      {
+        "title": "Breeze",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            948523
+          ],
+          "fruits": [
+            840964
+          ],
+          "mania": [
+            629575,
+            632221,
+            638012
+          ]
+        }
+      },
+      {
+        "title": "Classic Pursuit",
+        "ranked_modes": [
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            730295,
+            1044881,
+            2360416
+          ],
+          "osu": [
+            488238
+          ],
+          "taiko": [
+            373254
+          ]
+        }
+      },
+      {
+        "title": "Death's Grasp",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Desire Funk",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Disco Bawls",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Dovregubben's Hall",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            360950,
+            362451
+          ],
+          "taiko": [
+            362451
+          ]
+        }
+      },
+      {
+        "title": "Eden",
+        "ranked_modes": [
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2382921
+          ],
+          "osu": [
+            792241,
+            1273651
+          ]
+        }
+      },
+      {
+        "title": "Escapism",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            801862
+          ]
+        }
+      },
+      {
+        "title": "Final Destination",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Fright March",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            486142
+          ]
+        }
+      },
+      {
+        "title": "Ghost Lead",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Haunted House",
+        "ranked_modes": [
+          "mania"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1092919
+          ]
+        }
+      },
+      {
+        "title": "House With Legs",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            360680,
+            361785
+          ]
+        }
+      },
+      {
+        "title": "Little Knight",
+        "ranked_modes": [
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1932837
+          ],
+          "osu": [
+            791845
+          ]
+        }
+      },
+      {
+        "title": "Manic",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            361175,
+            361214,
+            362460
+          ],
+          "taiko": [
+            360772
+          ]
+        }
+      },
+      {
+        "title": "Moonlight Sonata",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            486535,
+            489524
+          ]
+        }
+      },
+      {
+        "title": "Night Out",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Peer Gynt",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2461763
+          ],
+          "fruits": [
+            1769575
+          ],
+          "osu": [
+            805762,
+            880487
+          ]
+        }
+      },
+      {
+        "title": "Spring",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Take a Stand",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "The Alchemist",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "The Ballad of a Mindless Girl",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            792396
+          ]
+        }
+      },
+      {
+        "title": "triangles",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            2353380
+          ],
+          "mania": [
+            2153231
+          ],
+          "osu": [
+            1646678,
+            1841845,
+            1841846,
+            1841885,
+            1842041
+          ],
+          "fruits": [
+            1619938
+          ]
+        }
+      },
+      {
+        "title": "Uranaishi",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T12:29:41Z"
+  },
+  {
     "id": 267,
     "name": "JOYLESS",
     "tracks": [
@@ -578,6 +5279,272 @@
       }
     ],
     "updated_at": "2026-03-23T20:58:59Z"
+  },
+  {
+    "id": 1,
+    "name": "nekodex",
+    "tracks": [
+      {
+        "title": "aureole",
+        "ranked_modes": [
+          "fruits",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1056354
+          ],
+          "osu": [
+            1037352
+          ]
+        }
+      },
+      {
+        "title": "carol of the circles",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1078322
+          ]
+        }
+      },
+      {
+        "title": "circle the halls",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            2295880
+          ],
+          "osu": [
+            2295880
+          ]
+        }
+      },
+      {
+        "title": "circles!",
+        "ranked_modes": [
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            355322,
+            2242407
+          ],
+          "mania": [
+            1003217
+          ]
+        }
+      },
+      {
+        "title": "Immaterial Banquet",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Liquid Future",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            898734
+          ]
+        }
+      },
+      {
+        "title": "Little Drummer Girl",
+        "ranked_modes": [
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2103787
+          ],
+          "taiko": [
+            1774306
+          ],
+          "osu": [
+            1320298
+          ]
+        }
+      },
+      {
+        "title": "Moonlight Feast",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "skyraver",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "skysoarer",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "welcome to christmas!",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            882106,
+            1292185
+          ]
+        }
+      }
+    ],
+    "updated_at": "2026-03-24T12:28:46Z"
+  },
+  {
+    "id": 137,
+    "name": "SECONDWALL",
+    "tracks": [
+      {
+        "title": "Beautiful Lie",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1337432
+          ]
+        }
+      },
+      {
+        "title": "Boku wa Boku de shika Nakute",
+        "ranked_modes": [
+          "fruits",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1356447
+          ],
+          "fruits": [
+            1334097
+          ]
+        }
+      },
+      {
+        "title": "Fragile",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Freedom",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            2235880
+          ],
+          "osu": [
+            2039403
+          ]
+        }
+      },
+      {
+        "title": "Light",
+        "ranked_modes": [
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2031239
+          ],
+          "osu": [
+            1373974
+          ],
+          "taiko": [
+            1318825
+          ]
+        }
+      },
+      {
+        "title": "Merry Christmas",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1630072,
+            2259733
+          ]
+        }
+      },
+      {
+        "title": "Natsu no Owari",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2075254
+          ],
+          "taiko": [
+            1404425
+          ]
+        }
+      },
+      {
+        "title": "Shizuka na Yoru ni",
+        "ranked_modes": [
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2304762
+          ],
+          "osu": [
+            2217371
+          ],
+          "taiko": [
+            1729416
+          ]
+        }
+      },
+      {
+        "title": "Shooting Star",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1368054
+          ]
+        }
+      },
+      {
+        "title": "Susume",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            2183607
+          ]
+        }
+      }
+    ],
+    "updated_at": "2026-03-24T12:19:47Z"
   },
   {
     "id": 727,
