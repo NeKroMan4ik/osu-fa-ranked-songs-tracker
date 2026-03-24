@@ -5151,6 +5151,414 @@
     "updated_at": "2026-03-24T12:29:41Z"
   },
   {
+    "id": 6,
+    "name": "dark cat",
+    "tracks": [
+      {
+        "title": "BANANA STREET",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            560047
+          ]
+        }
+      },
+      {
+        "title": "BLISS (feat. JHACS)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "BREAD DREAMS",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "BUBBLE TEA (feat. juu & cinders)",
+        "ranked_modes": [
+          "fruits",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            716213,
+            769917
+          ],
+          "fruits": [
+            769917
+          ]
+        }
+      },
+      {
+        "title": "CRAZY MILK 2",
+        "ranked_modes": [
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            1226253
+          ]
+        }
+      },
+      {
+        "title": "ELINE",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1064394
+          ]
+        }
+      },
+      {
+        "title": "FALLING LOVE (feat. jade hikari)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "hot chocolate",
+        "ranked_modes": [
+          "fruits",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1061800
+          ],
+          "taiko": [
+            847576
+          ]
+        }
+      },
+      {
+        "title": "LOVERS' OASIS",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "MAPLE ADVENTURE",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "NO STOPPING US (feat. jenny)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "pursuit of happiness",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1071294
+          ]
+        }
+      },
+      {
+        "title": "SLEEPING WITH YOU",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "STARS ALIGN",
+        "ranked_modes": [
+          "fruits",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1055938
+          ],
+          "osu": [
+            606998
+          ]
+        }
+      },
+      {
+        "title": "STRAWBERRY ROAD",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "UNDERWATER POOL",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "YOU'RE EVERYTHING (feat. juu)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T12:37:51Z"
+  },
+  {
+    "id": 5,
+    "name": "Helblinde",
+    "tracks": [
+      {
+        "title": "Beyond Life",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Call of the Void",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Devourer of All",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Elder Hymn",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Herald of Dissonance",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Memoria Reborn",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Mortal Coil",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Nastrond",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            2490142
+          ],
+          "mania": [
+            2473390
+          ],
+          "osu": [
+            2465411
+          ]
+        }
+      },
+      {
+        "title": "Omnia Vanitas",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Our Everlasting Dream",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rewrite Nightmare",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1304759
+          ]
+        }
+      },
+      {
+        "title": "Summer Lights",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "The Solace of Oblivion",
+        "ranked_modes": [
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            778140
+          ]
+        }
+      },
+      {
+        "title": "Unconquered",
+        "ranked_modes": [
+          "fruits",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            1052250
+          ],
+          "fruits": [
+            975136
+          ]
+        }
+      },
+      {
+        "title": "When Time Sleeps",
+        "ranked_modes": [
+          "fruits",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            800946
+          ],
+          "fruits": [
+            554256
+          ]
+        }
+      }
+    ],
+    "updated_at": "2026-03-24T12:36:41Z"
+  },
+  {
+    "id": 3,
+    "name": "IAHN",
+    "tracks": [
+      {
+        "title": "All in One",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Burn out",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ducks",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Feel It",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            757498,
+            1017701
+          ]
+        }
+      },
+      {
+        "title": "Fly",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            1019853
+          ]
+        }
+      },
+      {
+        "title": "Happy Birthday",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Happy Welus",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "M Saeng",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Mad Halloween",
+        "ranked_modes": [
+          "fruits"
+        ],
+        "beatmapset_ids_by_mode": {
+          "fruits": [
+            1280183
+          ]
+        }
+      },
+      {
+        "title": "Melody of Heaven",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Parasite",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Pink Love (feat. Lency)",
+        "ranked_modes": [
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            667043,
+            934265
+          ],
+          "mania": [
+            548030
+          ]
+        }
+      },
+      {
+        "title": "Run",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Snowdrop",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            716219
+          ]
+        }
+      },
+      {
+        "title": "Summer Vacation",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Transform",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Uppity Cat",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Welcome",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T12:35:59Z"
+  },
+  {
     "id": 267,
     "name": "JOYLESS",
     "tracks": [
@@ -5281,6 +5689,404 @@
     "updated_at": "2026-03-23T20:58:59Z"
   },
   {
+    "id": 7,
+    "name": "Loki / Thaehan",
+    "tracks": [
+      {
+        "title": "Loki - A New King Is Born",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Loki - Birth of a Hero",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Loki - Interlude",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Loki - Lad with a Destiny",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Loki - Once Upon a Time",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Loki - Path of Honor",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Loki - Quiet Village",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Loki - Rise Against the Tyrant",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Loki - The Fall of a Hero",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Loki - The Flip Side of the Coin",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Loki - The Victory is Ours",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Loki - Troll of the Forsaken Cave",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Loki - When a Nation Calls for Help",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Loki - With Fire and Sword (2013)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Loki - Wizard's Tower",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - 12151109",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - All or Nothing",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Angry Birds Epic (Remix)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Awakening",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Bwa !",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Chapo Chapo",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Chiptune & Baroque",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Clown",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Constellations",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Dark Castle",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Despair",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Doki-Doki",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Final Boss",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Final Boss II",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Final Boss III",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Flying",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Forcefield",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Fox Attacks !",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Help",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Hey",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Hospital",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Infinity",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Insert Coin",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Intro",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Kawaii",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Leprechaun",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Mega Man 2 Medley",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Meow !",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Neko",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Never Give Up",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Ohayou !",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Orchid",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Overpowered",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Overworld",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Pixelated",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Play",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Requiem",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Rise Up",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Saiyajin",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Sunrise",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Superpower",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - You're Joking (feat. Oogie Boogie)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Thaehan - Yuujou",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      }
+    ],
+    "updated_at": "2026-03-24T12:39:23Z"
+  },
+  {
+    "id": 10,
+    "name": "nanobii",
+    "tracks": [
+      {
+        "title": "astral blast",
+        "ranked_modes": [
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            946540
+          ]
+        }
+      },
+      {
+        "title": "bumblebee bazooka",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "fizzy pop",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "HYPERDRIVE",
+        "ranked_modes": [
+          "fruits",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            883505
+          ],
+          "fruits": [
+            639991,
+            737866
+          ]
+        }
+      },
+      {
+        "title": "Neverland",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Pinky Promise",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Pixie Dust",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "popsicle beach",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            973173
+          ],
+          "osu": [
+            848068
+          ]
+        }
+      },
+      {
+        "title": "rainbow road",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            375073
+          ]
+        }
+      },
+      {
+        "title": "sugar rush",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "sugar rush (vocal mix)",
+        "ranked_modes": [
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            973336
+          ]
+        }
+      }
+    ],
+    "updated_at": "2026-03-24T12:40:56Z"
+  },
+  {
     "id": 1,
     "name": "nekodex",
     "tracks": [
@@ -5405,6 +6211,204 @@
       }
     ],
     "updated_at": "2026-03-24T12:28:46Z"
+  },
+  {
+    "id": 9,
+    "name": "S3RL",
+    "tracks": [
+      {
+        "title": "Bass Slut (feat. Tamika)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Candy (feat. Sara)",
+        "ranked_modes": [
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            953777
+          ],
+          "osu": [
+            829956
+          ]
+        }
+      },
+      {
+        "title": "Catchit",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Feel The Melody (feat. Sara)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "FriendZoned (feat. Mixe Moon & MC Offside)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Genre Police (feat. Lexi)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "I Will Pick You Up (feat. Tamika)",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2066956
+          ],
+          "fruits": [
+            943876
+          ],
+          "taiko": [
+            919704
+          ]
+        }
+      },
+      {
+        "title": "I'll See You Again (feat. Chi Chi)",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            785572
+          ]
+        }
+      },
+      {
+        "title": "Little Kandi Raver 2012 (feat. Sara)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "MTC",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Pika Girl",
+        "ranked_modes": [
+          "mania",
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            2442891
+          ],
+          "osu": [
+            40440
+          ]
+        }
+      },
+      {
+        "title": "R4V3 B0Y (feat. Krystal)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Rainbow Girl (feat. Tamika)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Ravers Mashup",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "S3RL & DJ Satomi feat. Ukiko - Endless Summer",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "S3RL feat. DEFI BRILATOR - Spoiler Alert",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "S3RL feat. Emi - Escape",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "S3RL feat. Harri Rush - Nostalgic",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "S3RL feat. JessKah - T-T-Techno",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "S3RL feat. Kayliana - You Are Mine",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "S3RL feat. Lexi - Earth Bb",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "S3RL feat. Nikolett - Silicon XX",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "S3RL feat. Sara - Dopamine",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "S3RL feat. Sara - Less Than 3",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "S3RL x LIDA - My Girlfriend is a Raver",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Scary Movie",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Techno Kitty (feat. Sara)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Tell Me What You Want (feat. Tamika)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Well, That Was Awkward",
+        "ranked_modes": [
+          "osu"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            660109
+          ]
+        }
+      }
+    ],
+    "updated_at": "2026-03-24T12:40:37Z"
   },
   {
     "id": 137,
@@ -6184,5 +7188,96 @@
       }
     ],
     "updated_at": "2026-03-23T21:05:55Z"
+  },
+  {
+    "id": 4,
+    "name": "yuki.",
+    "tracks": [
+      {
+        "title": "Be Your Light",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "taiko": [
+            878344,
+            1118896
+          ],
+          "osu": [
+            590152
+          ]
+        }
+      },
+      {
+        "title": "Candy Girl",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "daft",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "forget you",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Have it All",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Hello! World (feat. setsunan)",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Nadeshiko Sensation",
+        "ranked_modes": [
+          "fruits",
+          "mania",
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "mania": [
+            1375449
+          ],
+          "osu": [
+            1003554
+          ],
+          "fruits": [
+            693123
+          ],
+          "taiko": [
+            558569
+          ]
+        }
+      },
+      {
+        "title": "Polaris",
+        "ranked_modes": [],
+        "beatmapset_ids_by_mode": {}
+      },
+      {
+        "title": "Spring Signal",
+        "ranked_modes": [
+          "osu",
+          "taiko"
+        ],
+        "beatmapset_ids_by_mode": {
+          "osu": [
+            716211
+          ],
+          "taiko": [
+            632888
+          ]
+        }
+      }
+    ],
+    "updated_at": "2026-03-24T12:36:16Z"
   }
 ]
