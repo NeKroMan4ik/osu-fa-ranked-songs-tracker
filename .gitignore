@@ -1,4 +1,4 @@
-scraper/.venv/
-scraper/tests/
+main/.venv/
+main/tests/
 .env
-scraper/__pycache__
+main/__pycache__
