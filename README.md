@@ -1,7 +1,5 @@
 a thing I ~~vibecoded~~ made in 3 days to track ranked featured songs in osu! using [ossapi](https://github.com/Liam-DeVoe/ossapi) to search beatmaps and bs4 to scrap fa pages 
 
-as of I'm writing this information about many artists is to be filled but I will get to this in the future
-
 **notes**
 - supports all modes
 
