@@ -3,6 +3,80 @@
   "name": "litmus* / Ester",
   "tracks": [
     {
+      "title": "Ester - Dizzolve",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          817528
+        ]
+      }
+    },
+    {
+      "title": "Ester - Krave",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1827497
+        ],
+        "osu": [
+          1551054
+        ],
+        "fruits": [
+          1524173
+        ]
+      }
+    },
+    {
+      "title": "Ester - Krave (Extended Ver.)",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1656354
+        ]
+      }
+    },
+    {
+      "title": "litmus* - Bliss",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1741009
+        ]
+      }
+    },
+    {
+      "title": "litmus* - Flux",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1613259
+        ]
+      }
+    },
+    {
+      "title": "litmus* - Rush-More",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1505336
+        ]
+      }
+    },
+    {
       "title": "Ester - Abandoned Planet",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -13,32 +87,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Ester - Dizzolve",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Ester - Dizzolve (Extended Ver.)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Ester - Krave",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ester - Krave (Extended Ver.)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "litmus* - B612",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "litmus* - Bliss",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -49,11 +103,6 @@
     },
     {
       "title": "litmus* - Flashdance",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "litmus* - Flux",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -69,11 +118,6 @@
     },
     {
       "title": "litmus* - iterated",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "litmus* - Rush-More",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -113,5 +157,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:24:24Z"
+  "updated_at": "2026-03-26T21:06:31Z"
 }

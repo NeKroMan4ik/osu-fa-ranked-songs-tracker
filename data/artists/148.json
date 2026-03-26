@@ -3,6 +3,28 @@
   "name": "RYUJIN / GYZE",
   "tracks": [
     {
+      "title": "GYZE - HONESTY",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1379745
+        ],
+        "osu": [
+          586121,
+          905621,
+          1108263
+        ],
+        "taiko": [
+          746993,
+          853163
+        ]
+      }
+    },
+    {
       "title": "GYZE - A DYNASTY",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -19,11 +41,6 @@
     },
     {
       "title": "GYZE - GOD SAMURAI NINJA",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "GYZE - HONESTY",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -73,5 +90,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:02:07Z"
+  "updated_at": "2026-03-26T21:33:11Z"
 }

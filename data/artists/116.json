@@ -3,6 +3,203 @@
   "name": "Lime / Kankitsu",
   "tracks": [
     {
+      "title": "Lime - 8bit Adventurer",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1225007
+        ]
+      }
+    },
+    {
+      "title": "Lime - 8bit Voyager",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1408692,
+          1570640
+        ],
+        "fruits": [
+          1340010
+        ],
+        "taiko": [
+          1326923
+        ],
+        "osu": [
+          1225869
+        ]
+      }
+    },
+    {
+      "title": "Lime - Aurora",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2418655
+        ],
+        "mania": [
+          2375072
+        ]
+      }
+    },
+    {
+      "title": "Lime - Campanella",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2373989
+        ],
+        "mania": [
+          2146184,
+          2248490,
+          2286223
+        ]
+      }
+    },
+    {
+      "title": "Lime - Chronomia",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2290019
+        ],
+        "fruits": [
+          1471328
+        ],
+        "mania": [
+          885596
+        ]
+      }
+    },
+    {
+      "title": "Lime - Harmony",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1231601
+        ]
+      }
+    },
+    {
+      "title": "Lime - Pixel Planet",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2388871,
+          2438566
+        ],
+        "fruits": [
+          2212386
+        ],
+        "taiko": [
+          2098105
+        ],
+        "osu": [
+          2095123
+        ]
+      }
+    },
+    {
+      "title": "Lime - Renai Syndrome",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1338215
+        ],
+        "osu": [
+          166062,
+          1295855
+        ],
+        "taiko": [
+          1012988
+        ]
+      }
+    },
+    {
+      "title": "Lime - Replica",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1524441
+        ],
+        "mania": [
+          1253230
+        ]
+      }
+    },
+    {
+      "title": "Lime - Smiling",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1837955
+        ],
+        "mania": [
+          810911
+        ]
+      }
+    },
+    {
+      "title": "Lime - Smiling (long ver.)",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2479175
+        ],
+        "fruits": [
+          2469713
+        ]
+      }
+    },
+    {
+      "title": "Lime - Tsukuyomi",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2338292
+        ]
+      }
+    },
+    {
       "title": "Kankitsu - Magik Motion",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -13,70 +210,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Lime - 8bit Adventurer",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lime - 8bit Voyager",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lime - Aurora",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lime - Campanella",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lime - Chronomia",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lime - Harmony",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lime - Pixel Planet",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lime - Renai Syndrome",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lime - Replica",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lime - Smiling",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lime - Smiling (long ver.)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Lime - Stargazer",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lime - Tsukuyomi",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:23:25Z"
+  "updated_at": "2026-03-26T21:21:05Z"
 }

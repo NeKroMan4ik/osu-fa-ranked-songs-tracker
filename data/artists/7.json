@@ -4,18 +4,445 @@
   "tracks": [
     {
       "title": "Loki - A New King Is Born",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1158282
+        ],
+        "osu": [
+          760694,
+          773369
+        ]
+      }
     },
     {
       "title": "Loki - Birth of a Hero",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          580802
+        ]
+      }
     },
     {
       "title": "Loki - Interlude",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          659093,
+          1091243
+        ]
+      }
+    },
+    {
+      "title": "Loki - Quiet Village",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          963871,
+          1050693
+        ]
+      }
+    },
+    {
+      "title": "Loki - The Victory is Ours",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1108470
+        ],
+        "osu": [
+          1066365
+        ]
+      }
+    },
+    {
+      "title": "Loki - Troll of the Forsaken Cave",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1052028
+        ]
+      }
+    },
+    {
+      "title": "Loki - With Fire and Sword (2013)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          963872,
+          1088528
+        ]
+      }
+    },
+    {
+      "title": "Loki - Wizard's Tower",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1769773
+        ],
+        "osu": [
+          985788,
+          1064248
+        ]
+      }
+    },
+    {
+      "title": "Thaehan - 12151109",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1571437
+        ],
+        "mania": [
+          1425685
+        ],
+        "osu": [
+          1051408
+        ],
+        "fruits": [
+          1045512
+        ]
+      }
+    },
+    {
+      "title": "Thaehan - All or Nothing",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1880625
+        ]
+      }
+    },
+    {
+      "title": "Thaehan - Angry Birds Epic (Remix)",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1172500,
+          2122318
+        ],
+        "taiko": [
+          876648
+        ],
+        "osu": [
+          864748
+        ]
+      }
+    },
+    {
+      "title": "Thaehan - Bwa !",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1155594
+        ],
+        "mania": [
+          1120790
+        ],
+        "osu": [
+          1014936
+        ],
+        "fruits": [
+          767346
+        ]
+      }
+    },
+    {
+      "title": "Thaehan - Chiptune & Baroque",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1021450
+        ],
+        "mania": [
+          590323
+        ]
+      }
+    },
+    {
+      "title": "Thaehan - Doki-Doki",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2125740
+        ],
+        "fruits": [
+          1650003
+        ],
+        "osu": [
+          713926
+        ],
+        "taiko": [
+          626006
+        ]
+      }
+    },
+    {
+      "title": "Thaehan - Final Boss",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          622417
+        ]
+      }
+    },
+    {
+      "title": "Thaehan - Forcefield",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1362365
+        ]
+      }
+    },
+    {
+      "title": "Thaehan - Help",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          630407,
+          766939,
+          977631
+        ],
+        "taiko": [
+          887013
+        ]
+      }
+    },
+    {
+      "title": "Thaehan - Insert Coin",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1015169,
+          2122261
+        ],
+        "fruits": [
+          1357790,
+          2121944
+        ],
+        "osu": [
+          1906746,
+          2121687
+        ],
+        "taiko": [
+          961335,
+          965146
+        ]
+      }
+    },
+    {
+      "title": "Thaehan - Kawaii",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1000338
+        ]
+      }
+    },
+    {
+      "title": "Thaehan - Leprechaun",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          609290,
+          877496
+        ],
+        "osu": [
+          729808
+        ]
+      }
+    },
+    {
+      "title": "Thaehan - Never Give Up",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1048705
+        ]
+      }
+    },
+    {
+      "title": "Thaehan - Ohayou !",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          725806,
+          1030093,
+          1525573
+        ],
+        "taiko": [
+          792231
+        ]
+      }
+    },
+    {
+      "title": "Thaehan - Overpowered",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          877935
+        ]
+      }
+    },
+    {
+      "title": "Thaehan - Play",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2440353
+        ],
+        "fruits": [
+          1785125
+        ],
+        "osu": [
+          1291874
+        ],
+        "taiko": [
+          1154580
+        ]
+      }
+    },
+    {
+      "title": "Thaehan - Rise Up",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          603915
+        ]
+      }
+    },
+    {
+      "title": "Thaehan - Saiyajin",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          866557
+        ],
+        "osu": [
+          656764
+        ],
+        "mania": [
+          591074
+        ]
+      }
+    },
+    {
+      "title": "Thaehan - Sunrise",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          818360
+        ]
+      }
+    },
+    {
+      "title": "Thaehan - Superpower",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          779173
+        ]
+      }
+    },
+    {
+      "title": "Thaehan - Yuujou",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1249928
+        ],
+        "taiko": [
+          935732
+        ]
+      }
     },
     {
       "title": "Loki - Lad with a Destiny",
@@ -29,11 +456,6 @@
     },
     {
       "title": "Loki - Path of Honor",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Loki - Quiet Village",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -53,42 +475,7 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Loki - The Victory is Ours",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Loki - Troll of the Forsaken Cave",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Loki - When a Nation Calls for Help",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Loki - With Fire and Sword (2013)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Loki - Wizard's Tower",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Thaehan - 12151109",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Thaehan - All or Nothing",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Thaehan - Angry Birds Epic (Remix)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -98,17 +485,7 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Thaehan - Bwa !",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Thaehan - Chapo Chapo",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Thaehan - Chiptune & Baroque",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -133,16 +510,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Thaehan - Doki-Doki",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Thaehan - Final Boss",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Thaehan - Final Boss II",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -158,17 +525,7 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Thaehan - Forcefield",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Thaehan - Fox Attacks !",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Thaehan - Help",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -188,22 +545,7 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Thaehan - Insert Coin",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Thaehan - Intro",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Thaehan - Kawaii",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Thaehan - Leprechaun",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -223,22 +565,7 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Thaehan - Never Give Up",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Thaehan - Ohayou !",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Thaehan - Orchid",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Thaehan - Overpowered",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -253,32 +580,7 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Thaehan - Play",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Thaehan - Requiem",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Thaehan - Rise Up",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Thaehan - Saiyajin",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Thaehan - Sunrise",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Thaehan - Superpower",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -286,12 +588,7 @@
       "title": "Thaehan - You're Joking (feat. Oogie Boogie)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Thaehan - Yuujou",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T12:39:23Z"
+  "updated_at": "2026-03-26T21:10:03Z"
 }

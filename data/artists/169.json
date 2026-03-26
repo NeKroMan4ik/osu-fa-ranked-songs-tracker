@@ -3,32 +3,69 @@
   "name": "Sewerslvt / Cynthoni",
   "tracks": [
     {
+      "title": "Cyberia Lyr1",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2330232
+        ]
+      }
+    },
+    {
+      "title": "Cyberia Lyr3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1501870,
+          2443939
+        ],
+        "fruits": [
+          2443939
+        ],
+        "osu": [
+          2443939
+        ],
+        "mania": [
+          2367582
+        ]
+      }
+    },
+    {
+      "title": "Lexapro Delirium",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2207164
+        ]
+      }
+    },
+    {
+      "title": "Newlove",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1442626
+        ]
+      }
+    },
+    {
       "title": "Blacklight",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Cyberia Lyr1",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Cyberia Lyr2",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Cyberia Lyr3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lexapro Delirium",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Newlove",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -48,5 +85,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:10:25Z"
+  "updated_at": "2026-03-26T21:33:39Z"
 }

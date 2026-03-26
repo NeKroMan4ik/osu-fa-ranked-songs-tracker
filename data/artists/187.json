@@ -3,17 +3,46 @@
   "name": "3R2 / DJ Mashiro",
   "tracks": [
     {
-      "title": "3R2 & DJ Mashiro - Sweetness and Love",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "DJ Mashiro - Prismatic Lollipops",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          120289,
+          317255,
+          2185227
+        ],
+        "osu": [
+          179288,
+          1948365
+        ],
+        "taiko": [
+          69308,
+          120289,
+          1577826
+        ],
+        "fruits": [
+          1544857
+        ]
+      }
     },
     {
       "title": "Interlude (feat. SOOTHEMILY & Xinevsky)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2285079
+        ]
+      }
+    },
+    {
+      "title": "3R2 & DJ Mashiro - Sweetness and Love",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -53,5 +82,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:09:54Z"
+  "updated_at": "2026-03-26T21:14:06Z"
 }

@@ -4,8 +4,456 @@
   "tracks": [
     {
       "title": "Algebra",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          654033
+        ],
+        "fruits": [
+          468281
+        ],
+        "osu": [
+          300195
+        ]
+      }
+    },
+    {
+      "title": "Amanojaku set 02 ~ Midnight Spell Card",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          974872
+        ]
+      }
+    },
+    {
+      "title": "Amanojaku set 03 ~ Romantic Escape Flight",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1022358
+        ]
+      }
+    },
+    {
+      "title": "Ayakashi set 08 ~ Yuurei Gakudan",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1495495
+        ]
+      }
+    },
+    {
+      "title": "Ayakashi set 12 Another ~ Border of Life",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1001360
+        ]
+      }
+    },
+    {
+      "title": "Daishibyo set 07 ~ Desire Drive",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1248686
+        ]
+      }
+    },
+    {
+      "title": "Daishibyo set 08 ~ Furuki Yuanxian",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1113120
+        ]
+      }
+    },
+    {
+      "title": "Daishibyo set 14 ~ Sado no Futatsuiwa",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          751779
+        ]
+      }
+    },
+    {
+      "title": "Eientewi set 08 A ~ Maiden's Capriccio",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1037725
+        ],
+        "osu": [
+          647571
+        ]
+      }
+    },
+    {
+      "title": "Eientewi set 13 ~ Extend Ash",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1262466
+        ]
+      }
+    },
+    {
+      "title": "Eientewi set 15 ~ Evening Primrose",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1014593
+        ]
+      }
+    },
+    {
+      "title": "Euclid",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          941145
+        ],
+        "fruits": [
+          729321
+        ],
+        "osu": [
+          419614
+        ]
+      }
+    },
+    {
+      "title": "Kishinjou set 01 ~ Mist Lake",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          948844
+        ]
+      }
+    },
+    {
+      "title": "Kishinjou set 02 ~ Mermaid from the Uncharted Land",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          951618
+        ]
+      }
+    },
+    {
+      "title": "Kishinjou set 03 ~ Humans and Youkai Traversing the Canal",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          959705
+        ]
+      }
+    },
+    {
+      "title": "Kishinjou set 07 ~ Magical Storm",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          968147
+        ],
+        "mania": [
+          893195
+        ]
+      }
+    },
+    {
+      "title": "Kishinjou set 10 ~ Reverse Ideology",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1019506
+        ]
+      }
+    },
+    {
+      "title": "Koumakan set 16 ~ Kourou",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1006601
+        ]
+      }
+    },
+    {
+      "title": "Lunatic set 02 ~ Usagi wa Maiorita",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1309846
+        ]
+      }
+    },
+    {
+      "title": "Lunatic set 03 ~ The Lake Reflects the Cleansed Moonlight",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1924253
+        ]
+      }
+    },
+    {
+      "title": "Lunatic set 09 ~ Faraway 380,000-Kilometer Voyage",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          725769
+        ]
+      }
+    },
+    {
+      "title": "Lunatic set 15 ~ The Moon as Seen from the Shrine",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1622104
+        ],
+        "osu": [
+          1267975
+        ],
+        "fruits": [
+          968232
+        ]
+      }
+    },
+    {
+      "title": "Lunatic set 16 ~ The Space Shrine Maiden Returns Home",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          996256
+        ],
+        "taiko": [
+          957412
+        ]
+      }
+    },
+    {
+      "title": "Moriya set 04 ReEdit ~ Unmei no Dark Side",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1374578
+        ]
+      }
+    },
+    {
+      "title": "Moriya set 08 ReEdit ~ Youkai no Yama",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          751866
+        ]
+      }
+    },
+    {
+      "title": "Moriya set 11 ReEdit ~ Onbashira no Hakaba",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2389297
+        ],
+        "taiko": [
+          1126173
+        ]
+      }
+    },
+    {
+      "title": "Moriya set 14 ReEdit ~ Native Faith",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1235239
+        ]
+      }
+    },
+    {
+      "title": "Muenzuka set 02 ~ Oriental Dark Flight",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2240721
+        ],
+        "osu": [
+          2240721
+        ]
+      }
+    },
+    {
+      "title": "Muenzuka set 09 ~ Hana wa Gensou no Mama ni",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1270291
+        ],
+        "taiko": [
+          1151630
+        ]
+      }
+    },
+    {
+      "title": "Neuronecia",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          827822
+        ],
+        "osu": [
+          186911
+        ]
+      }
+    },
+    {
+      "title": "Rin - Ayakashi set 14 Another ~ Yoru ga Oritekuru",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1988612
+        ]
+      }
+    },
+    {
+      "title": "Rin - Daishibyo set 10 ~ Oomiwa Shinwaden",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2306433
+        ]
+      }
+    },
+    {
+      "title": "Rin - Eientewi set 06 ~ Plain Asia",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          993507
+        ]
+      }
+    },
+    {
+      "title": "Rin - Mythic set ~ Hanahazama no Battlefield",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1013620
+        ]
+      }
+    },
+    {
+      "title": "Rin - Mythic set ~ Heart-Stirring Urban Legends",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          935699
+        ],
+        "osu": [
+          676064,
+          729705
+        ]
+      }
+    },
+    {
+      "title": "Variable",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          751774
+        ]
+      }
     },
     {
       "title": "Amanojaku set 00 ~ Raise the Signal Fire of Cheating",
@@ -14,16 +462,6 @@
     },
     {
       "title": "Amanojaku set 01 ~ Cheat Against the Impossible Danmaku",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Amanojaku set 02 ~ Midnight Spell Card",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Amanojaku set 03 ~ Romantic Escape Flight",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -63,17 +501,7 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Ayakashi set 08 ~ Yuurei Gakudan",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Ayakashi set 11 ~ Ultimate Truth",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ayakashi set 12 Another ~ Border of Life",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -183,22 +611,7 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Daishibyo set 07 ~ Desire Drive",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Daishibyo set 08 ~ Furuki Yuanxian",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Daishibyo set 11 ~ Chiisana Yokubou no Hoshizora",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Daishibyo set 14 ~ Sado no Futatsuiwa",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -243,11 +656,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Eientewi set 08 A ~ Maiden's Capriccio",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Eientewi set 08 B ~ Love-Colored Master Spark",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -288,22 +696,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Eientewi set 13 ~ Extend Ash",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Eientewi set 14  Another",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eientewi set 14 ~ Reach for the Moon, Immortal Smoke",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Eientewi set 15 ~ Evening Primrose",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -318,27 +716,7 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Euclid",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Kishinjou set 00 ~ Mysterious Purification Rod",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kishinjou set 01 ~ Mist Lake",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kishinjou set 02 ~ Mermaid from the Uncharted Land",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kishinjou set 03 ~ Humans and Youkai Traversing the Canal",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -358,22 +736,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Kishinjou set 07 ~ Magical Storm",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Kishinjou set 08 ~ Illusionary Joururi",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kishinjou set 09 ~ The Shining Needle Castle Sinking in the Air",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kishinjou set 10 ~ Reverse Ideology",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -488,27 +856,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Koumakan set 16 ~ Kourou",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Lunatic set 00 ~ The Space Shrine Maiden Appears",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lunatic set 01 ~ Unforgettable, the Nostalgic Greenery",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lunatic set 02 ~ Usagi wa Maiorita",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lunatic set 03 ~ The Lake Reflects the Cleansed Moonlight",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -538,11 +891,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Lunatic set 09 ~ Faraway 380,000-Kilometer Voyage",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Lunatic set 10 ~ The Pierrot of the Star-Spangled Banner",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -568,16 +916,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Lunatic set 15 ~ The Moon as Seen from the Shrine",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lunatic set 16 ~ The Space Shrine Maiden Returns Home",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Moriya set 00 ReEdit ~ Fuuin Sareshi Kamigami",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -589,11 +927,6 @@
     },
     {
       "title": "Moriya set 02 ReEdit ~ Inada Himesama ni Shikararerukara",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Moriya set 04 ReEdit ~ Unmei no Dark Side",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -613,27 +946,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Moriya set 08 ReEdit ~ Youkai no Yama",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Moriya set 10 ReEdit ~ Shinkou wa Hakanai Ningen no Tame ni",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Moriya set 11 ReEdit ~ Onbashira no Hakaba",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Moriya set 13 ReEdit ~ Ashita Hare no hi, ke no Kino",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Moriya set 14 ReEdit ~ Native Faith",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -649,11 +967,6 @@
     },
     {
       "title": "Moriya set 16 ReEdit ~ Kami wa Megumi no Ame wo Furasa",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Muenzuka set 02 ~ Oriental Dark Flight",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -683,17 +996,7 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Muenzuka set 09 ~ Hana wa Gensou no Mama ni",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Muenzuka set 10 ~ Tamashii no Hana",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Neuronecia",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -738,11 +1041,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Rin - Ayakashi set 14 Another ~ Yoru ga Oritekuru",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Rin - Chireiden set 01 ~ Kurayami no Fuuketsu",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -783,22 +1081,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Rin - Daishibyo set 10 ~ Oomiwa Shinwaden",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Rin - Daishibyo set 12 ~ Shoutoku Densetsu",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Daishibyo set 13 ~ Youkai Urasandou",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Rin - Eientewi set 06 ~ Plain Asia",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -858,16 +1146,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Rin - Mythic set ~ Hanahazama no Battlefield",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Rin - Mythic set ~ Heart-Stirring Urban Legends",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Rin - Mythic set ~ Last Occultism ~ Esotericist of the Present World",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -881,12 +1159,7 @@
       "title": "Rin - Shinkirou set ~ The Lost Emotion",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Variable",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T13:09:44Z"
+  "updated_at": "2026-03-26T21:32:26Z"
 }

@@ -4,28 +4,193 @@
   "tracks": [
     {
       "title": "Emerald Galaxy",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          682286
+        ]
+      }
     },
     {
       "title": "Gerbera",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          897583,
+          1077459,
+          1694915
+        ]
+      }
     },
     {
       "title": "Hidamari no Uta",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2505838
+        ],
+        "mania": [
+          2505838
+        ],
+        "fruits": [
+          2505838
+        ],
+        "osu": [
+          334050,
+          831242,
+          831322,
+          875916,
+          966324
+        ]
+      }
     },
     {
       "title": "Kimi Iro, Yami ni, Tokete.",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          573700
+        ]
+      }
     },
     {
       "title": "PYONTA",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1770974
+        ]
+      }
+    },
+    {
+      "title": "Yuyoyuppe - 7/8",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1389954
+        ],
+        "osu": [
+          872314
+        ]
+      }
+    },
+    {
+      "title": "Yuyoyuppe - ALONE",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1394799
+        ]
+      }
+    },
+    {
+      "title": "Yuyoyuppe - Hope",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1082090
+        ],
+        "taiko": [
+          362784
+        ]
+      }
+    },
+    {
+      "title": "Yuyoyuppe - Kami no Kotoba",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2127886
+        ],
+        "osu": [
+          1357330
+        ]
+      }
+    },
+    {
+      "title": "Yuyoyuppe - Leia",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1764157
+        ]
+      }
+    },
+    {
+      "title": "Yuyoyuppe - Palette",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          15951,
+          1110400
+        ]
+      }
+    },
+    {
+      "title": "Yuyoyuppe - Reon",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          55980,
+          1370255
+        ],
+        "taiko": [
+          55980
+        ]
+      }
+    },
+    {
+      "title": "Yuyoyuppe - Story of Hope",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2137583
+        ]
+      }
+    },
+    {
+      "title": "Yuyoyuppe - You and beautiful world",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1353122
+        ]
+      }
     },
     {
       "title": "You Need Fxxkin' Anthem",
@@ -48,55 +213,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Yuyoyuppe - 7/8",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Yuyoyuppe - ALONE",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Yuyoyuppe - Hope",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Yuyoyuppe - Kami no Kotoba",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Yuyoyuppe - Leia",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Yuyoyuppe - Lost Story",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Yuyoyuppe - Palette",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Yuyoyuppe - Reon",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Yuyoyuppe - Story of Hope",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Yuyoyuppe - You and beautiful world",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T22:48:34Z"
+  "updated_at": "2026-03-26T21:36:42Z"
 }

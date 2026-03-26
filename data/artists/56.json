@@ -4,8 +4,179 @@
   "tracks": [
     {
       "title": "Celldweller - A Matter of Time",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1246314
+        ]
+      }
+    },
+    {
+      "title": "Celldweller - End of an Empire",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1107086
+        ],
+        "osu": [
+          404844
+        ]
+      }
+    },
+    {
+      "title": "Celldweller - Good L_ck (Yo_'re F_cked)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1069112
+        ]
+      }
+    },
+    {
+      "title": "Celldweller - Goodbye (Remixed by Klayton)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1157287
+        ]
+      }
+    },
+    {
+      "title": "Celldweller - I Can't Wait",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          170148,
+          1152531
+        ],
+        "osu": [
+          170148
+        ]
+      }
+    },
+    {
+      "title": "Celldweller - Just Like You",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          423884
+        ]
+      }
+    },
+    {
+      "title": "Celldweller - Lost In Time",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1991630
+        ],
+        "osu": [
+          1068163
+        ]
+      }
+    },
+    {
+      "title": "Celldweller - My Disintegration",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1069919
+        ]
+      }
+    },
+    {
+      "title": "Celldweller - Pulsar",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          272785,
+          1081119
+        ],
+        "taiko": [
+          272785
+        ],
+        "mania": [
+          272785
+        ]
+      }
+    },
+    {
+      "title": "Celldweller - Senorita Bonita",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1143756
+        ],
+        "osu": [
+          353368,
+          1077345
+        ],
+        "mania": [
+          1071016
+        ]
+      }
+    },
+    {
+      "title": "Celldweller - Shapeshifter (feat. Styles of Beyond)",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1124906
+        ]
+      }
+    },
+    {
+      "title": "Celldweller - Switchback",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          29290,
+          1085105
+        ]
+      }
+    },
+    {
+      "title": "Celldweller - The Best It's Gonna Get",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          36529,
+          1079727
+        ]
+      }
     },
     {
       "title": "Celldweller - Against The Tide",
@@ -23,11 +194,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Celldweller - End of an Empire",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Celldweller - Eon",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -38,37 +204,7 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Celldweller - Good L_ck (Yo_'re F_cked)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Celldweller - Goodbye (Remixed by Klayton)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Celldweller - I Believe You",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Celldweller - I Can't Wait",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Celldweller - Just Like You",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Celldweller - Lost In Time",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Celldweller - My Disintegration",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -78,37 +214,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Celldweller - Pulsar",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Celldweller - Retros",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Celldweller - Senorita Bonita",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Celldweller - Shapeshifter (feat. Styles of Beyond)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Celldweller - So Long Sentiment",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Celldweller - Switchback",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Celldweller - The Best It's Gonna Get",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -148,5 +259,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:14:57Z"
+  "updated_at": "2026-03-26T21:20:18Z"
 }

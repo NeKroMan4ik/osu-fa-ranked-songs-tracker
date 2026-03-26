@@ -4,61 +4,212 @@
   "tracks": [
     {
       "title": "AETHERSONG",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1052481
+        ]
+      }
     },
     {
       "title": "anticrystal",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "biodome",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1062804
+        ],
+        "taiko": [
+          1055189
+        ]
+      }
     },
     {
       "title": "cherry blossoms explode across the dying horizon",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          464485,
+          497552,
+          946801,
+          1667697
+        ],
+        "taiko": [
+          868624,
+          878621
+        ]
+      }
     },
     {
       "title": "data corruption symphony",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1308099
+        ],
+        "osu": [
+          897724
+        ]
+      }
     },
     {
       "title": "deconstructing nature",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1289473
+        ]
+      }
     },
     {
       "title": "descent",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1817816
+        ]
+      }
     },
     {
       "title": "dragonlands",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          882439,
+          1009637
+        ],
+        "taiko": [
+          935765
+        ]
+      }
     },
     {
       "title": "dungeon music",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1056653
+        ]
+      }
     },
     {
       "title": "forest of the spirits",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2421618
+        ],
+        "taiko": [
+          1053433,
+          1141344
+        ],
+        "mania": [
+          667246
+        ],
+        "osu": [
+          595796
+        ]
+      }
     },
     {
       "title": "GLACIERFALL",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2381464
+        ],
+        "taiko": [
+          1060449
+        ]
+      }
     },
     {
       "title": "GLASS RIVER",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1061218
+        ]
+      }
+    },
+    {
+      "title": "SELF DESTRUCT",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1033562,
+          1411188
+        ],
+        "mania": [
+          1283599
+        ],
+        "taiko": [
+          963193
+        ]
+      }
+    },
+    {
+      "title": "serotonin",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1063724
+        ]
+      }
+    },
+    {
+      "title": "sha",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          866694,
+          1057855
+        ],
+        "osu": [
+          716390
+        ]
+      }
+    },
+    {
+      "title": "biodome",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -68,25 +219,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "SELF DESTRUCT",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "serotonin",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "sha",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "THE SKIES OPEN",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:25:48Z"
+  "updated_at": "2026-03-26T21:35:43Z"
 }

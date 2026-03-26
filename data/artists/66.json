@@ -3,6 +3,82 @@
   "name": "Station Earth / Blue Marble",
   "tracks": [
     {
+      "title": "Blue Marble - Darkest Heights",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1220874
+        ]
+      }
+    },
+    {
+      "title": "Station Earth - Age Of Reason",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          437544
+        ]
+      }
+    },
+    {
+      "title": "Station Earth - Cold Green Eyes feat. Roos Denayer",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          871837,
+          1102973,
+          1789610
+        ],
+        "fruits": [
+          1499536
+        ],
+        "osu": [
+          986813,
+          1101976,
+          1104312,
+          1129303
+        ],
+        "mania": [
+          1102973
+        ]
+      }
+    },
+    {
+      "title": "Station Earth - Starcaller",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1106133
+        ]
+      }
+    },
+    {
+      "title": "Station Earth - Summer Soulstice",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1103826
+        ],
+        "mania": [
+          1103826
+        ]
+      }
+    },
+    {
       "title": "Ayah Marar & Blue Marble - Invincible",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -24,11 +100,6 @@
     },
     {
       "title": "Blue Marble - Awakenings",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Blue Marble - Darkest Heights",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -83,11 +154,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Station Earth - Age Of Reason",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Station Earth - Astral Walker",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -98,25 +164,10 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Station Earth - Cold Green Eyes feat. Roos Denayer",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Station Earth - Myth Of Er",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Station Earth - Starcaller",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Station Earth - Summer Soulstice",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T14:24:18Z"
+  "updated_at": "2026-03-26T21:34:50Z"
 }

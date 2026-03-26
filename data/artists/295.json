@@ -3,6 +3,144 @@
   "name": "DJ Genki / Gram",
   "tracks": [
     {
+      "title": "DJ Genki - GAME 0VER",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2370273
+        ],
+        "taiko": [
+          1850746
+        ]
+      }
+    },
+    {
+      "title": "DJ Genki - Introduction",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2149813
+        ],
+        "osu": [
+          2121355
+        ],
+        "taiko": [
+          1850862
+        ],
+        "mania": [
+          1386859
+        ]
+      }
+    },
+    {
+      "title": "DJ Genki - Opening",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2247000
+        ],
+        "osu": [
+          2142885
+        ]
+      }
+    },
+    {
+      "title": "Gram - ARCADIA",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1918910
+        ]
+      }
+    },
+    {
+      "title": "Gram - Nibelungen",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1553319,
+          1858535,
+          2305280
+        ],
+        "osu": [
+          2151831
+        ]
+      }
+    },
+    {
+      "title": "Gram - Odin",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2435495
+        ],
+        "mania": [
+          1981845
+        ],
+        "osu": [
+          1981078
+        ]
+      }
+    },
+    {
+      "title": "Gram - Sigrdrifa",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1981053,
+          2211805
+        ],
+        "mania": [
+          2007015
+        ]
+      }
+    },
+    {
+      "title": "Gram - THE END",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1838271
+        ]
+      }
+    },
+    {
+      "title": "Gram - Thor",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2243512
+        ]
+      }
+    },
+    {
       "title": "C-Show vs. DJ Genki - BLACK LABEL",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -29,21 +167,6 @@
     },
     {
       "title": "DJ Genki - First Remote",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "DJ Genki - GAME 0VER",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "DJ Genki - Introduction",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "DJ Genki - Opening",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -128,42 +251,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Gram - ARCADIA",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Gram - Introduction",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Gram - Nibelungen",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Gram - Odin",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Gram - Sigrdrifa",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Gram - THE END",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Gram - The GamerS",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Gram - Thor",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -198,5 +291,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T20:44:38Z"
+  "updated_at": "2026-03-26T21:16:09Z"
 }

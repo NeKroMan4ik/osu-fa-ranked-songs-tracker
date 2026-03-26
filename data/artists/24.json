@@ -3,12 +3,64 @@
   "name": "antiPLUR / Internet Death Machine",
   "tracks": [
     {
-      "title": "A Whisper In My Ghost (osu! edit)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "title": "Clockwork Spooks",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          943516
+        ]
+      }
     },
     {
-      "title": "Clockwork Spooks",
+      "title": "One Life Left to Live",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          966408
+        ],
+        "osu": [
+          962141
+        ],
+        "fruits": [
+          957842
+        ]
+      }
+    },
+    {
+      "title": "Runengon",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          971561
+        ]
+      }
+    },
+    {
+      "title": "Speed of Link",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1142127,
+          1152933
+        ],
+        "osu": [
+          359173
+        ]
+      }
+    },
+    {
+      "title": "A Whisper In My Ghost (osu! edit)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -48,22 +100,7 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "One Life Left to Live",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Patriot",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Runengon",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Speed of Link",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -78,5 +115,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T13:20:04Z"
+  "updated_at": "2026-03-26T20:27:31Z"
 }

@@ -3,12 +3,198 @@
   "name": "HyuN / INFX",
   "tracks": [
     {
-      "title": "Acceleration (feat. heejing#)",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "title": "Amatium",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2416729
+        ]
+      }
     },
     {
-      "title": "Amatium",
+      "title": "Dance With Nightsky",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1139370
+        ]
+      }
+    },
+    {
+      "title": "Encounter",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1301193
+        ]
+      }
+    },
+    {
+      "title": "Fuyu no Hime",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1202956
+        ]
+      }
+    },
+    {
+      "title": "Grin",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          923488,
+          1923546,
+          1980480
+        ],
+        "taiko": [
+          1402385
+        ],
+        "fruits": [
+          1065368
+        ],
+        "osu": [
+          947770
+        ]
+      }
+    },
+    {
+      "title": "Guitian",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          891348
+        ]
+      }
+    },
+    {
+      "title": "Illusion of Inflict",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          972887
+        ],
+        "osu": [
+          891366,
+          968923
+        ]
+      }
+    },
+    {
+      "title": "Infinity Heaven",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2028108
+        ],
+        "fruits": [
+          1074464
+        ],
+        "osu": [
+          891345
+        ]
+      }
+    },
+    {
+      "title": "Legend of Genesis",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          891356
+        ]
+      }
+    },
+    {
+      "title": "The Apocalypse",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1075603
+        ]
+      }
+    },
+    {
+      "title": "Tokyo's Starlight",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2413825
+        ],
+        "osu": [
+          891712,
+          1011055
+        ]
+      }
+    },
+    {
+      "title": "White Aura",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2010834
+        ],
+        "osu": [
+          891333,
+          996898
+        ]
+      }
+    },
+    {
+      "title": "Wild Card",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          891334
+        ]
+      }
+    },
+    {
+      "title": "You'Re aRleAdY dEAd",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          891441
+        ]
+      }
+    },
+    {
+      "title": "Acceleration (feat. heejing#)",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -23,11 +209,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Dance With Nightsky",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Devil's Weapon",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -38,32 +219,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Encounter",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "FORBIDDEN ARENA",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Fuyu no Hime",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Girl Embracing the Dark for Light",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Grin",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Guitian",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -138,17 +299,7 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Illusion of Inflict",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Inferno Force",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Infinity Heaven",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -159,11 +310,6 @@
     },
     {
       "title": "KANONEFLIEGERFAUST",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Legend of Genesis",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -213,16 +359,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "The Apocalypse",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Tokyo's Starlight",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Utsukushi Memories",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
@@ -236,22 +372,7 @@
       "title": "WE ARE NEVER FUCKING BACK OFF",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "White Aura",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Wild Card",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "You'Re aRleAdY dEAd",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T13:25:10Z"
+  "updated_at": "2026-03-26T21:18:47Z"
 }

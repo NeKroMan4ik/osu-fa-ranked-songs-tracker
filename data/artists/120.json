@@ -4,13 +4,164 @@
   "tracks": [
     {
       "title": "A Tree Without A Branch",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1463778
+        ],
+        "osu": [
+          1037902,
+          1044584
+        ]
+      }
     },
     {
       "title": "Catastrophe",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2313020
+        ],
+        "taiko": [
+          72740
+        ],
+        "osu": [
+          72740
+        ]
+      }
+    },
+    {
+      "title": "Epimetheus",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1363975
+        ]
+      }
+    },
+    {
+      "title": "Frey's Philosophy",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1348881
+        ],
+        "osu": [
+          550588
+        ]
+      }
+    },
+    {
+      "title": "Frozen World",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          417317,
+          1568340,
+          1863134
+        ],
+        "taiko": [
+          1360636
+        ],
+        "mania": [
+          94504,
+          693381,
+          1095283
+        ]
+      }
+    },
+    {
+      "title": "hypnoSpirA",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          57908,
+          1371448
+        ],
+        "osu": [
+          57908,
+          847415
+        ]
+      }
+    },
+    {
+      "title": "Overture",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1351158
+        ],
+        "osu": [
+          122520
+        ]
+      }
+    },
+    {
+      "title": "Soleil",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          773708
+        ]
+      }
+    },
+    {
+      "title": "Todestrieb",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1792060
+        ]
+      }
+    },
+    {
+      "title": "Unrequited",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1442147
+        ]
+      }
+    },
+    {
+      "title": "Vanity",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          651712,
+          1411404
+        ]
+      }
     },
     {
       "title": "Core",
@@ -23,32 +174,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Epimetheus",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Fortuna",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Frey's Philosophy",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Frozen World",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Hour of Execution",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "hypnoSpirA",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -78,17 +209,7 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Overture",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Re-Bright",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Soleil",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -96,22 +217,7 @@
       "title": "Still,",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Todestrieb",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Unrequited",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Vanity",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-24T21:38:18Z"
+  "updated_at": "2026-03-26T21:22:13Z"
 }
