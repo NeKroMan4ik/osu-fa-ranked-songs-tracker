@@ -1,6 +1,9 @@
 /** @type {{ id: number, name: string, song_count: number, ranked_count: number, updated_at: string }[]} */
 let artistIndex = [];
 
+/** @type {{ total_artists: number, total_songs: number }} */
+let metadata = {};
+
 /** @type {Map<number, Artist>} */
 const artistCache = new Map();
 
@@ -19,9 +22,23 @@ async function init() {
   if (!res.ok) throw new Error(`Failed to load index.json: ${res.status}`);
   const data = await res.json();
   artistIndex = data.artists;
+  metadata = data.metadata;
 
   setupSearch();
   setupModeFilter();
+
+  const params = new URLSearchParams(window.location.search);
+  const q = params.get('artist');
+  if (q) {
+    const entry = artistIndex.find(a => a.name.toLowerCase() === q.toLowerCase());
+    if (entry) {
+      document.getElementById('search').value = entry.name;
+      const artist = await loadArtist(entry.id);
+      if (artist) renderArtist(artist);
+      return;
+    }
+  }
+
   showPlaceholder();
 }
 
@@ -33,9 +50,8 @@ function setupModeFilter() {
     selectedMode = select.value || null;
     const card = document.querySelector('.artist-card');
     if (card) {
-      const name = card.querySelector('.artist-name').textContent;
-      const entry = artistIndex.find(a => a.name === name);
-      if (entry && artistCache.has(entry.id)) renderArtist(artistCache.get(entry.id));
+      const id = Number(card.dataset.artistId);
+      if (artistCache.has(id)) renderArtist(artistCache.get(id));
     }
   });
 }
@@ -88,8 +104,9 @@ function setupSearch() {
       e.preventDefault();
       activeIndex = Math.max(activeIndex - 1, 0);
       updateActive(items, activeIndex);
-    } else if (e.key === 'Enter' && activeIndex >= 0) {
-      items[activeIndex].click();
+    } else if (e.key === 'Enter') {
+      const target = activeIndex >= 0 ? items[activeIndex] : items[0];
+      if (target) target.click();
     } else if (e.key === 'Escape') {
       hideSuggestions();
     }
@@ -168,15 +185,19 @@ function isRankedInMode(track) {
 function renderArtist(artist) {
   const resultsEl = document.getElementById('results');
 
+  const params = new URLSearchParams({ artist: artist.name });
+  history.replaceState(null, '', `?${params}`);
+
   const ranked = artist.tracks.filter(t => isRankedInMode(t)).length;
   const total  = artist.tracks.length;
 
   const card = document.createElement('div');
   card.className = 'artist-card';
+  card.dataset.artistId = artist.id;
 
   card.innerHTML = `
     <div class="artist-header">
-      <span class="artist-name">${escHtml(artist.name)}</span>
+      <a class="artist-name" href="https://osu.ppy.sh/beatmaps/artists/${artist.id}" target="_blank" rel="noopener">${escHtml(artist.name)}</a>
       <span class="artist-stats">
         <span class="hit">${ranked}</span> ranked / <span class="miss">${total - ranked}</span> unranked
       </span>
@@ -241,7 +262,7 @@ function renderTrack(track) {
 // ── States ───────────────────────────────────────────────────────────────────
 
 function showPlaceholder() {
-  showMessage(`${artistIndex.length} featured artists loaded — start typing`);
+  showMessage(`${metadata.total_artists} artists, ${metadata.total_songs} songs — start typing`);
 }
 
 /** @param {string} msg */
