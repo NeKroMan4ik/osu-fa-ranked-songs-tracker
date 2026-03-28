@@ -19,7 +19,7 @@ jobs:
 
       - run: pip install -r main/requirements.txt
 
-      - run: python main/main.py --rebuild all
+      - run: python main/main.py --rebuild 400
         env:
           OSU_CLIENT_ID: ${{ secrets.OSU_CLIENT_ID }}
           OSU_CLIENT_SECRET: ${{ secrets.OSU_CLIENT_SECRET }}
@@ -34,7 +34,7 @@ jobs:
 
       - name: Merge dev → main
         run: |
-          git fetch origin main
+          git fetch origin main:main
           git checkout main
           git merge dev --no-edit
           git push
