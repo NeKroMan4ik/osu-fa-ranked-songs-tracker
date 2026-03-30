@@ -2,6 +2,7 @@
 Output format per track:
 {
   "title": "...",
+  "preview": "https://assets.ppy.sh/artists/...",
   "ranked_modes": ["mania", "osu"],
   "beatmapset_ids_by_mode": {
     "mania": [2449706],
@@ -33,6 +34,7 @@ def build_artist_record(
 
     search_names = ARTIST_SEARCH_ALIASES.get(artist_id, [artist_name])
     track_titles = html_client.get_artist_tracks(artist_id)
+    track_previews = html_client.get_artist_track_previews(artist_id)
     tracks: list[dict] = []
 
     for title in track_titles:
@@ -59,6 +61,7 @@ def build_artist_record(
 
         tracks.append({
             "title": title,
+            "preview": track_previews.get(title, ""),
             "ranked_modes": ranked_modes,
             "beatmapset_ids_by_mode": mode_to_ids,
         })

@@ -56,3 +56,22 @@ class HtmlClient:
             except (json.JSONDecodeError, AttributeError, TypeError):
                 continue
         return sorted(titles)
+
+    def get_artist_track_previews(self, artist_id: int) -> dict[str, str]:
+        soup = self._get_html(f"/beatmaps/artists/{artist_id}")
+        previews = {}
+        for script in soup.find_all("script", {"type": "application/json"}):
+            sid = script.get("id", "")
+            if not (sid.startswith("album-json-") or sid.startswith("singles-json-")):
+                continue
+            try:
+                data = json.loads(script.string or "")
+                tracks = data if isinstance(data, list) else data.get("tracks", [])
+                for t in tracks:
+                    title = (t or {}).get("title", "").strip()
+                    preview = (t or {}).get("preview", "").strip()
+                    if title and preview:
+                        previews[title] = preview
+            except (json.JSONDecodeError, AttributeError, TypeError):
+                continue
+        return previews
