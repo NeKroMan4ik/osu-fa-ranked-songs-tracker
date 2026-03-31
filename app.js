@@ -358,11 +358,18 @@ function makeDraggable(el) {
 }
 
 function showToast(msg) {
+  const player = document.getElementById('audio-player');
+  const rect = player.getBoundingClientRect();
+
   let toast = document.querySelector('.copy-toast');
   if (toast) toast.remove();
   toast = document.createElement('div');
   toast.className = 'copy-toast';
   toast.textContent = msg;
+  toast.style.left = rect.left + 'px';
+  toast.style.top = (rect.top - 40) + 'px';
+  toast.style.bottom = 'auto';
+  toast.style.right = 'auto';
   document.body.appendChild(toast);
   setTimeout(() => toast.classList.add('show'), 10);
   setTimeout(() => { toast.classList.remove('show'); setTimeout(() => toast.remove(), 200); }, 2000);
