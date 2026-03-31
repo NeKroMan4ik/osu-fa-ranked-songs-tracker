@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Deep Dream",
+      "preview": "https://assets.ppy.sh/artists/386/SUPERNATURAL/Dustvoxx - Deep Dream.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -21,6 +22,7 @@
     },
     {
       "title": "Switchback",
+      "preview": "https://assets.ppy.sh/artists/386/HAUNT/Dustvoxx - Switchback.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -32,6 +34,7 @@
     },
     {
       "title": "Trigger (Zekk Remix)",
+      "preview": "https://assets.ppy.sh/artists/386/SUPERNATURAL/Dustvoxx - Trigger (Zekk Remix).mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -51,54 +54,64 @@
     },
     {
       "title": "Disconnect Me (from saturator)",
+      "preview": "https://assets.ppy.sh/artists/386/Songs/Dustvoxx_-_Disconnect_Me_from_saturator.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dustvoxx & Savage States - Prism",
+      "preview": "https://assets.ppy.sh/artists/386/Portal/Dustvoxx _ Savage States - Prism.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dustvoxx, Laur - FireLight",
+      "preview": "https://assets.ppy.sh/artists/386/SUPERNATURAL/Dustvoxx%2C Laur - FireLight.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dustvoxx, Laur - FireLight (Neokontrol Remix)",
+      "preview": "https://assets.ppy.sh/artists/386/HAUNT/Dustvoxx%2C Laur - FireLight (Neokontrol Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dustvoxx, Loctek - Labyrinth of Mind",
+      "preview": "https://assets.ppy.sh/artists/386/SUPERNATURAL/Dustvoxx%2C Loctek - Labyrinth of Mind.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dustvoxx, USAO - Divergence",
+      "preview": "https://assets.ppy.sh/artists/386/SUPERNATURAL/Dustvoxx%2C USAO - Divergence.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Terrorist",
+      "preview": "https://assets.ppy.sh/artists/386/SUPERNATURAL/Dustvoxx - The Terrorist.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Trigger",
+      "preview": "https://assets.ppy.sh/artists/386/SUPERNATURAL/Dustvoxx - Trigger.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "White Portal",
+      "preview": "https://assets.ppy.sh/artists/386/Portal/Dustvoxx - White Portal.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "XTC Stab",
+      "preview": "https://assets.ppy.sh/artists/386/Songs/Dustvoxx - XTC Stab.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:19:37Z"
+  "updated_at": "2026-03-30T23:57:26Z"
 }

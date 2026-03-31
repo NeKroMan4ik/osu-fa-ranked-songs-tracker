@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Aishite Aishite Aishite",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 3/Kikuo - Aishite Aishite Aishite.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -11,10 +12,10 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "fruits": [
+        "mania": [
           2230743
         ],
-        "mania": [
+        "fruits": [
           2230743
         ],
         "taiko": [
@@ -27,6 +28,7 @@
     },
     {
       "title": "Boku o Sonna Me de Minaide",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku/Kikuo - Boku o Sonna Me de Minaide.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -38,6 +40,7 @@
     },
     {
       "title": "Chiri Chiri Juso",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 3/Kikuo - Chiri Chiri Juso.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -53,6 +56,7 @@
     },
     {
       "title": "Cotton Candy",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 6/Kikuo - Cotton Candy.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -64,6 +68,7 @@
     },
     {
       "title": "Gakkou o Yasunda Hi no Koto",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 6/Kikuo - Gakkou o Yasunda Hi no Koto.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -75,6 +80,7 @@
     },
     {
       "title": "Histrionic (Vocaloid ver.)",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 6/Kikuo - Histrionic (Vocaloid ver.).mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -86,6 +92,7 @@
     },
     {
       "title": "Hole Dwelling",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 6/Kikuo - Hole Dwelling.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -100,17 +107,18 @@
         "fruits": [
           2214844
         ],
-        "taiko": [
-          1187911,
+        "mania": [
           2195081
         ],
-        "mania": [
+        "taiko": [
+          1187911,
           2195081
         ]
       }
     },
     {
       "title": "Kara Kara Kara no Kara",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 5/Kikuo_-_Kara_Kara_Kara_no_Kara.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -122,6 +130,7 @@
     },
     {
       "title": "Maigo no Haien",
+      "preview": "https://assets.ppy.sh/artists/314/KIKUOWORLD/Kikuo - Maigo no Haien.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -141,6 +150,7 @@
     },
     {
       "title": "Mono wo Parapara Kowasu",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku/Kikuo - Mono wo Parapara Kowasu.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -152,6 +162,7 @@
     },
     {
       "title": "Neko no Shokutaku",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 6/Kikuo - Neko no Shokutaku.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -171,6 +182,7 @@
     },
     {
       "title": "Oboreru Uchuu Neko",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 0/Kikuo - Oboreru Uchuu Neko.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -186,6 +198,7 @@
     },
     {
       "title": "Pokkan Color",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 2/Kikuo_-_Pokkan_Color.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -206,6 +219,7 @@
     },
     {
       "title": "Searching for your love",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 6/Kikuo - Searching for your love.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -222,6 +236,7 @@
     },
     {
       "title": "Shikabane no Odori",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 3/Kikuo - Shikabane no Odori.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -233,6 +248,7 @@
     },
     {
       "title": "Sight, Noise, Life and the Earth",
+      "preview": "https://assets.ppy.sh/artists/314/KIKUOWORLD 3/Kikuo - Sight%2C Noise%2C Life and the Earth.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -244,6 +260,7 @@
     },
     {
       "title": "Soshite Kimi wa Tsuki ni Natta",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 2/Kikuo - Soshite Kimi wa Tsuki ni Natta.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -259,6 +276,7 @@
     },
     {
       "title": "Ten Sho Sho Ten Sho",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 3/Kikuo - Ten Sho Sho Ten Sho.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -274,6 +292,7 @@
     },
     {
       "title": "Yousei no Kiri",
+      "preview": "https://assets.ppy.sh/artists/314/KIKUOWORLD/Kikuo - Yousei no Kiri.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -289,34 +308,40 @@
     },
     {
       "title": "Gomenne Gomenne",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 2/Kikuo - Gomenne Gomenne.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kikuo feat. Shiraishi Nagomu - Strict Secrecy Sweet Love",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 0/Kikuo feat. Shiraishi Nagomu - Strict Secrecy Sweet Love.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kimi wa Dekinai Ko",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 3/Kikuo - Kimi wa Dekinai Ko.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Natsu no Ame no Hi no Omoide",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 6/Kikuo - Natsu no Ame no Hi no Omoide.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tengoku e Ikou",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku/Kikuo - Tengoku e Ikou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Warui koto wa Shicha Ikenai yo",
+      "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku/Kikuo - Warui koto wa Shicha Ikenai yo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:56:03Z"
+  "updated_at": "2026-03-31T00:33:57Z"
 }

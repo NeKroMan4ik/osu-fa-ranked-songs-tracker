@@ -4,49 +4,58 @@
   "tracks": [
     {
       "title": "Aspect & Gardens - Sunken Forest",
+      "preview": "https://assets.ppy.sh/artists/487/Songs/Aspect %26 Gardens - Sunken Forest.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aspect & Viznode - Astral Grove (Viznode Remix) [Aspect 2023 Live Edit]",
+      "preview": "https://assets.ppy.sh/artists/487/Songs/Aspect %26 Viznode - Astral Grove (Viznode Remix) %5BAspect 2023 Live Edit%5D.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aspect & Viznode - Gateway",
+      "preview": "https://assets.ppy.sh/artists/487/Songs/Aspect %26 Viznode - Gateway.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aspect & Viznode - Permafrost",
+      "preview": "https://assets.ppy.sh/artists/487/Songs/Aspect %26 Viznode - Permafrost.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aspect & Viznode - The Land of Dreams",
+      "preview": "https://assets.ppy.sh/artists/487/Songs/Aspect %26 Viznode - The Land of Dreams.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aspect, Viznode & sleepless - Lavender",
+      "preview": "https://assets.ppy.sh/artists/487/Songs/Aspect%2C Viznode %26 sleepless - Lavender.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Astral Grove",
+      "preview": "https://assets.ppy.sh/artists/487/Songs/Aspect - Astral Grove.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mist Columns",
+      "preview": "https://assets.ppy.sh/artists/487/Songs/Aspect - Mist Columns.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Viznode, acloudyskye & Aspect - Dead End Station",
+      "preview": "https://assets.ppy.sh/artists/487/Songs/Viznode%2C acloudyskye %26 Aspect - Dead End Station.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:46:51Z"
+  "updated_at": "2026-03-30T23:24:51Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "B.B.K.K.B.K.K.",
+      "preview": "https://assets.ppy.sh/artists/141/Songs/nora2r - B.B.K.K.B.K.K..mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -23,6 +24,7 @@
     },
     {
       "title": "Dreadnought",
+      "preview": "https://assets.ppy.sh/artists/141/Songs/Mastermind (xi+nora2r) - Dreadnought.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -49,6 +51,7 @@
     },
     {
       "title": "Memory Of Sunrise",
+      "preview": "https://assets.ppy.sh/artists/141/Songs/nora2r - Memory Of Sunrise.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -64,6 +67,7 @@
     },
     {
       "title": "New World",
+      "preview": "https://assets.ppy.sh/artists/141/Songs/nora2r - New World.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -76,64 +80,76 @@
     },
     {
       "title": "Best Smile",
+      "preview": "https://assets.ppy.sh/artists/141/Energy Of The Sun/nora2r vs. BlackY - Best Smile.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Brave Your Mind feat. Takeda Eruru",
+      "preview": "https://assets.ppy.sh/artists/141/My Little Secret/nora2r - Brave Your Mind feat. Takeda Eruru.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Daybreak Trustshot",
+      "preview": "https://assets.ppy.sh/artists/141/DAYBREAK TRUSTSHOT/nora2r - Daybreak Trustshot.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Energy Of The Sun",
+      "preview": "https://assets.ppy.sh/artists/141/Energy Of The Sun/nora2r vs. BlackY - Energy Of The Sun.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Frozen System",
+      "preview": "https://assets.ppy.sh/artists/141/My Little Secret/nora2r - Frozen System.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "GO BACK 2 YOUR RAVE",
+      "preview": "https://assets.ppy.sh/artists/141/Songs/nora2r - GO BACK 2 YOUR RAVE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Modern Dream",
+      "preview": "https://assets.ppy.sh/artists/141/Sparkling Day!/nora2r - Modern Dream.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "My Little Secret feat. Kazunari Ruse",
+      "preview": "https://assets.ppy.sh/artists/141/My Little Secret/nora2r - My Little Secret feat. Kazunari Ruse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "My World feat. Kazunari Ruse",
+      "preview": "https://assets.ppy.sh/artists/141/Borderline named the fate/nora2r - My World feat. Kazunari Ruse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Regain Blue feat. Sennzai",
+      "preview": "https://assets.ppy.sh/artists/141/Borderline named the fate/nora2r - Regain Blue feat. Sennzai.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Trick Stick",
+      "preview": "https://assets.ppy.sh/artists/141/DAYBREAK TRUSTSHOT/nora2r - Trick Stick.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "WINGS",
+      "preview": "https://assets.ppy.sh/artists/141/Songs/nora2r vs ginkiha - WINGS.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:36:28Z"
+  "updated_at": "2026-03-31T01:14:40Z"
 }

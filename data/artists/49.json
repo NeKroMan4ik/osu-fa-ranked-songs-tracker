@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Chilli Daddy",
+      "preview": "https://assets.ppy.sh/artists/49/Polychrome/KOAN Sound - Chilli Daddy.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Hydroplane",
+      "preview": "https://assets.ppy.sh/artists/49/Polychrome/KOAN Sound - Hydroplane.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Strike",
+      "preview": "https://assets.ppy.sh/artists/49/Forgotten Myths/KOAN Sound - Strike.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Vibrant",
+      "preview": "https://assets.ppy.sh/artists/49/Intervals Above/KOAN Sound - Vibrant.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -56,6 +60,7 @@
     },
     {
       "title": "Virtual Light",
+      "preview": "https://assets.ppy.sh/artists/49/Polychrome/KOAN Sound - Virtual Light.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -67,119 +72,142 @@
     },
     {
       "title": "Boundless",
+      "preview": "https://assets.ppy.sh/artists/49/Intervals Above/KOAN Sound - Boundless.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chalk It Out",
+      "preview": "https://assets.ppy.sh/artists/49/Polychrome/KOAN Sound - Chalk It Out.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chronos",
+      "preview": "https://assets.ppy.sh/artists/49/Songs/KOAN_Sound_-_Chronos.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cobalt",
+      "preview": "https://assets.ppy.sh/artists/49/Polychrome/KOAN Sound - Cobalt.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Drift",
+      "preview": "https://assets.ppy.sh/artists/49/Polychrome/KOAN Sound - Drift.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Forgotten Myths",
+      "preview": "https://assets.ppy.sh/artists/49/Forgotten Myths/KOAN Sound - Forgotten Myths.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hustle Hammer",
+      "preview": "https://assets.ppy.sh/artists/49/Polychrome/KOAN Sound - Hustle Hammer.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Jongmyo",
+      "preview": "https://assets.ppy.sh/artists/49/Polychrome/KOAN Sound - Jongmyo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "KOAN Sound & Asa - Fuego",
+      "preview": "https://assets.ppy.sh/artists/49/Sanctuary EP/KOAN_Sound__Asa_-_Fuego.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "KOAN Sound & Asa - Sanctuary feat. Alicia Kiah",
+      "preview": "https://assets.ppy.sh/artists/49/Sanctuary EP/KOAN_Sound__Asa_-_Sanctuary_feat._Alicia_Kiah.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "KOAN Sound & Asa - Starlite",
+      "preview": "https://assets.ppy.sh/artists/49/Sanctuary EP/KOAN_Sound__Asa_-_Starlite.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "KOAN Sound & Asa - Tetsuo's Redemption",
+      "preview": "https://assets.ppy.sh/artists/49/Sanctuary EP/KOAN Sound _ Asa - Tetsuo_s Redemption.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "KOAN Sound & Asa - This Time Around (feat. Koo)",
+      "preview": "https://assets.ppy.sh/artists/49/Sanctuary EP/KOAN Sound _ Asa - This Time Around (feat. Koo).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "KOAN Sound x Culprate x Asa x Gemini - Beyond The Shadows",
+      "preview": "https://assets.ppy.sh/artists/49/Movember EP/KOAN Sound x Culprate x Asa x Gemini - Beyond The Shadows.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "KOAN Sound x Culprate x Asa x Opiuo - If You Hadn't",
+      "preview": "https://assets.ppy.sh/artists/49/Movember EP/KOAN Sound x Culprate x Asa x Opiuo - If You Hadn_t.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "KOAN Sound x Culprate x Asa x Sorrow - Mosaic",
+      "preview": "https://assets.ppy.sh/artists/49/Movember EP/KOAN Sound x Culprate x Asa x Sorrow - Mosaic.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "KOAN Sound x Culprate x Reso x Asa - Cascade",
+      "preview": "https://assets.ppy.sh/artists/49/Movember EP/KOAN Sound x Culprate x Reso x Asa - Cascade.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Prism Pulse",
+      "preview": "https://assets.ppy.sh/artists/49/Polychrome/KOAN Sound - Prism Pulse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Radiant",
+      "preview": "https://assets.ppy.sh/artists/49/Intervals Above/KOAN Sound - Radiant.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Strident",
+      "preview": "https://assets.ppy.sh/artists/49/Intervals Above/KOAN Sound - Strident.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Zulla",
+      "preview": "https://assets.ppy.sh/artists/49/Polychrome/KOAN Sound - The Zulla.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Viridian Dream",
+      "preview": "https://assets.ppy.sh/artists/49/Polychrome/KOAN Sound - Viridian Dream.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Vivid",
+      "preview": "https://assets.ppy.sh/artists/49/Intervals Above/KOAN Sound - Vivid.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:59:51Z"
+  "updated_at": "2026-03-31T00:37:47Z"
 }

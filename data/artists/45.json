@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Adore Your Pain",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1104.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Bloodthirsty Nightmare Lullaby",
+      "preview": "https://assets.ppy.sh/artists/45/TOHO Complete Box - GOLD/UNDEAD_CORPORATION_-_Bloodthirsty_Nightmare_Lullaby.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -30,6 +32,7 @@
     },
     {
       "title": "Blow",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1155.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -41,6 +44,7 @@
     },
     {
       "title": "Datura",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1157.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -52,6 +56,7 @@
     },
     {
       "title": "Death is just the beginning",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1106.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -72,6 +77,7 @@
     },
     {
       "title": "Embraced by the Flame",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1181.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -92,6 +98,7 @@
     },
     {
       "title": "Everything will freeze",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1075.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -113,6 +120,7 @@
     },
     {
       "title": "Flowering Night Fever",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1182.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -128,6 +136,7 @@
     },
     {
       "title": "Frozen",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1123.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -139,6 +148,7 @@
     },
     {
       "title": "Gleaming",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1176.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -150,6 +160,7 @@
     },
     {
       "title": "Hafuri",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1089.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -161,6 +172,7 @@
     },
     {
       "title": "Kaeri wa Kowai",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1092.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -172,6 +184,7 @@
     },
     {
       "title": "Karakurenai",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1094.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -187,6 +200,7 @@
     },
     {
       "title": "MEGALOMANIA",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1183.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -208,6 +222,7 @@
     },
     {
       "title": "Murasa",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1096.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -219,6 +234,7 @@
     },
     {
       "title": "No Filter",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1169.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -230,6 +246,7 @@
     },
     {
       "title": "Put curse on you",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1082.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -241,6 +258,7 @@
     },
     {
       "title": "Sad Dream",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1159.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -260,6 +278,7 @@
     },
     {
       "title": "Setsugetsu Ouka no Kuni",
+      "preview": "https://assets.ppy.sh/artists/45/TOHO Complete Box - SILVER/UNDEAD_CORPORATION_-_Setsugetsu_Ouka_no_Kuni.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -286,6 +305,7 @@
     },
     {
       "title": "Sunny Miracle no Benigiri Ihen",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1133.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -295,16 +315,17 @@
         "osu": [
           1166609
         ],
-        "taiko": [
+        "mania": [
           1091179
         ],
-        "mania": [
+        "taiko": [
           1091179
         ]
       }
     },
     {
       "title": "Tengai",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1098.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -316,6 +337,7 @@
     },
     {
       "title": "The Empress",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1084.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -335,6 +357,7 @@
     },
     {
       "title": "The Throne",
+      "preview": "https://assets.ppy.sh/artists/45/Songs/UNDEAD CORPORATION - The Throne.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -350,6 +373,7 @@
     },
     {
       "title": "Tokoyo Omohikane no Kami",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1099.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -361,6 +385,7 @@
     },
     {
       "title": "Under the scarlet sky pt. 2",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1138.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -380,6 +405,7 @@
     },
     {
       "title": "Under the scarlet sky pt. 3",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1139.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -391,6 +417,7 @@
     },
     {
       "title": "Uzu",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1100.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -402,6 +429,7 @@
     },
     {
       "title": "White Reflection",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1162.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -413,6 +441,7 @@
     },
     {
       "title": "Without the end",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1118.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -437,6 +466,7 @@
     },
     {
       "title": "Xing Noises",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1163.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -456,6 +486,7 @@
     },
     {
       "title": "Yogoto no Yami no Okusoko de",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1101.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -471,6 +502,7 @@
     },
     {
       "title": "Yoru Naku Usagi wa Yume o Miru",
+      "preview": "https://assets.ppy.sh/artists/45/TOHO Complete Box - ONI/UNDEAD_CORPORATION_-_Yoru_Naku_Usagi_wa_Yume_o_Miru.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -488,6 +520,7 @@
     },
     {
       "title": "Yume",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1103.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -512,499 +545,598 @@
     },
     {
       "title": "1,2,3,4",
+      "preview": "https://assets.ppy.sh/artists/45/J.O.I.N.T/UNDEAD CORPORATION - 1%2C2%2C3%2C4.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Access Me",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1174.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "and Say Good Bye...",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1120.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Another Me",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1164.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Behind the Wall",
+      "preview": "https://assets.ppy.sh/artists/45/J.O.I.N.T/UNDEAD CORPORATION - Behind the Wall.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blaze",
+      "preview": "https://assets.ppy.sh/artists/45/Fragments/UNDEAD CORPORATION - Blaze.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blaze (Instrumental)",
+      "preview": "https://assets.ppy.sh/artists/45/Fragments/UNDEAD CORPORATION - Blaze (Instrumental).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Bleak Land",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1105.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Bleed, hate, curse, and die",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1121.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Bloodstained Nocturne",
+      "preview": "https://assets.ppy.sh/artists/45/Songs/UNDEAD_CORPORATION_-_Bloodstained_Nocturne.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Bloodstained Nocturne (Instrumental)",
+      "preview": "https://assets.ppy.sh/artists/45/Songs/UNDEAD_CORPORATION_-_Bloodstained_Nocturne_Instrumental.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chain heart girl",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1074.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chase The Rabbit",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1156.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Double helix",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1107.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eitsukiyo",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1088.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "END NEVER END",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1145.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "End Of My Pain",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1158.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Everything Will Freeze II",
+      "preview": "https://assets.ppy.sh/artists/45/Everything Will Freeze II/UNDEAD CORPORATION - Everything Will Freeze II.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Everything Will Freeze II (Instrumental)",
+      "preview": "https://assets.ppy.sh/artists/45/Everything Will Freeze II/UNDEAD CORPORATION - Everything Will Freeze II (Instrumental).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Evil But Innocent",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1076.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eyes of the dead",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1122.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Face The Fate",
+      "preview": "https://assets.ppy.sh/artists/45/previews/2642.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fake",
+      "preview": "https://assets.ppy.sh/artists/45/J.O.I.N.T/UNDEAD CORPORATION - Fake.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fascinated by the Flames",
+      "preview": "https://assets.ppy.sh/artists/45/J.O.I.N.T/UNDEAD CORPORATION - Fascinated by the Flames.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fear Me",
+      "preview": "https://assets.ppy.sh/artists/45/Songs/UNDEAD_CORPORATION_-_Fear_Me.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fear Me (Instrumental)",
+      "preview": "https://assets.ppy.sh/artists/45/Songs/UNDEAD_CORPORATION_-_Fear_Me_Instrumental.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Forgive your insanity",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1108.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fragments",
+      "preview": "https://assets.ppy.sh/artists/45/Fragments/UNDEAD CORPORATION - Fragments.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fragments (Instrumental)",
+      "preview": "https://assets.ppy.sh/artists/45/Fragments/UNDEAD CORPORATION - Fragments (Instrumental).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Futatsu no Sekai",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1124.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Get Em Up",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1165.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Get It (feat. Benji Webbe of Skindred)",
+      "preview": "https://assets.ppy.sh/artists/45/J.O.I.N.T/UNDEAD CORPORATION - Get It (feat. Benji Webbe of Skindred).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Get Lost",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1166.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Get Mine",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1175.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "God of Leaf",
+      "preview": "https://assets.ppy.sh/artists/45/Songs/UNDEAD_CORPORATION_-_God_of_Leaf.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "God of Leaf (Instrumental)",
+      "preview": "https://assets.ppy.sh/artists/45/Songs/UNDEAD_CORPORATION_-_God_of_Leaf_Instrumental.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gone With The Blast",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1177.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gravity",
+      "preview": "https://assets.ppy.sh/artists/45/J.O.I.N.T/UNDEAD CORPORATION - Gravity.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hate 2 love",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1125.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Haul me up",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1077.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Heian no Blast",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1126.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hyakki Yakou",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1090.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Iki wa Yoi Yoi",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1091.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "In This Beautiful World",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1178.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kami Kakushi",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1093.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kasokeshi Mono e",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1109.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kawaii Dai Sensou no Refrain",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1127.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kushinada-Hime",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1095.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Love 2 hate",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1078.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Made me insane",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1079.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Magus night fever",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1080.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Magus night fever brutal scream version",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1148.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Make Me Crazy",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1167.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Maniac",
+      "preview": "https://assets.ppy.sh/artists/45/J.O.I.N.T/UNDEAD CORPORATION - Maniac.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "My fading days",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1110.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Necromanticism",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1128.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "No Antidote",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1168.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Obituaries We(')rE None...",
+      "preview": "https://assets.ppy.sh/artists/45/Songs/UNDEAD_CORPORATION_-_Obituaries_WerE_None....mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Obituaries We(')rE None... (Instrumental)",
+      "preview": "https://assets.ppy.sh/artists/45/Songs/UNDEAD_CORPORATION_-_Obituaries_WerE_None..._Instrumental.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Oblivion",
+      "preview": "https://assets.ppy.sh/artists/45/Fragments/UNDEAD CORPORATION - Oblivion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Oblivion (Instrumental)",
+      "preview": "https://assets.ppy.sh/artists/45/Fragments/UNDEAD CORPORATION - Oblivion (Instrumental).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "One Second",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1170.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Phantom Ensemble",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1081.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Piledriver",
+      "preview": "https://assets.ppy.sh/artists/45/J.O.I.N.T/UNDEAD CORPORATION - Piledriver.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Put all bitch to death",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1129.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ready to take off",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1111.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Revived",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1112.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ryoume Hirakeba Kikyou Saku",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1097.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ryoume hirakeba kikyou saku",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1150.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Seven Colors",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1083.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shove It",
+      "preview": "https://assets.ppy.sh/artists/45/J.O.I.N.T/UNDEAD CORPORATION - Shove It.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sirens",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1171.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Slash your mind",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1130.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sputnik Maboroshi Yoru",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1131.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Star Voyage",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1132.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sunny Rutile Flection",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1134.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Beginning",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1113.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Chainsaw (feat. Tom Barber of Chelsea Grin)",
+      "preview": "https://assets.ppy.sh/artists/45/J.O.I.N.T/UNDEAD CORPORATION - The Chainsaw (feat. Tom Barber of Chelsea Grin).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Cold Sun",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1160.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The core",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1115.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The End",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1114.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Revolution",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1161.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The silent world",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1085.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Sinner",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1172.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The world no hope remains",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1086.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The world no hope remains (Ver. 2)",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1135.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "This is war",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1136.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Through Your Optic",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1179.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Too Sweet",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1180.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tsuki Made Todoke, Waga Urami",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1116.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Under the scarlet sky pt. 1",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1137.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Utsuro-bune",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1153.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "What breaks the gloomy sky isn't the sunlight",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1087.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "What million fireflies flashed",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1140.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "When the silver light brings...",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1117.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yoru Dakara Nemurenai",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1141.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yoru dakara Nemurenai (Aka Ankou ver.)",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1119.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Your Voices",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1173.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yousei Sansan Toshite",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1142.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:47:31Z"
+  "updated_at": "2026-03-31T02:26:14Z"
 }

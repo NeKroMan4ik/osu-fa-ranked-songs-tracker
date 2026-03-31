@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Fairy-tale Planetarium",
+      "preview": "https://assets.ppy.sh/artists/193/EXPRESS/technoplanet - Fairy-tale Planetarium.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Insomnia",
+      "preview": "https://assets.ppy.sh/artists/193/Songs/technoplanet_-_Insomnia.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -30,6 +32,7 @@
     },
     {
       "title": "Intuition",
+      "preview": "https://assets.ppy.sh/artists/193/Strange Story/technoplanet - Intuition.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -50,6 +53,7 @@
     },
     {
       "title": "Megastructure [Extended Mix]",
+      "preview": "https://assets.ppy.sh/artists/193/Senritsu Sekai/technoplanet - Megastructure.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -66,6 +70,7 @@
     },
     {
       "title": "Secret of the Moon",
+      "preview": "https://assets.ppy.sh/artists/193/Songs/technoplanet - Secret of the Moon.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -77,6 +82,7 @@
     },
     {
       "title": "Tepic Tepoch",
+      "preview": "https://assets.ppy.sh/artists/193/MAGIC/technoplanet - Tepic Tepoch.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -88,6 +94,7 @@
     },
     {
       "title": "Vomit",
+      "preview": "https://assets.ppy.sh/artists/193/Songs/technoplanet_-_Vomit.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -104,39 +111,46 @@
     },
     {
       "title": "Come with me...",
+      "preview": "https://assets.ppy.sh/artists/193/Senritsu Sekai/technoplanet - Come with me....mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "IndicatoR",
+      "preview": "https://assets.ppy.sh/artists/193/Senritsu Sekai/technoplanet - IndicatoR.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Madoibito",
+      "preview": "https://assets.ppy.sh/artists/193/Strange Story/technoplanet - Madoibito.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "technoplanet feat. Haruno - End of Fairytale",
+      "preview": "https://assets.ppy.sh/artists/193/Strange Story/technoplanet feat. Haruno - End of Fairytale.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "technoplanet feat. Haruno - Insanely heart",
+      "preview": "https://assets.ppy.sh/artists/193/Strange Story/technoplanet feat. Haruno - Insanely heart.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Vision",
+      "preview": "https://assets.ppy.sh/artists/193/Senritsu Sekai/technoplanet - Vision.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Warp Flyer 2",
+      "preview": "https://assets.ppy.sh/artists/193/RAPiD MODE/technoplanet - Warp Flyer 2.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:36:15Z"
+  "updated_at": "2026-03-31T02:14:50Z"
 }

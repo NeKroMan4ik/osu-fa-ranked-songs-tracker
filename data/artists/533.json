@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "VOLTOX",
+      "preview": "https://assets.ppy.sh/artists/533/VOLTOX/Ariz Kayaba - VOLTOX.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,19 +16,22 @@
     },
     {
       "title": "Destination.",
+      "preview": "https://assets.ppy.sh/artists/533/Destination/Ariz Kayaba - Destination..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Pandora's Voyage",
+      "preview": "https://assets.ppy.sh/artists/533/Pandora%27s Voyage/Ariz Kayaba - Pandora%27s Voyage.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Vector Kontrol",
+      "preview": "https://assets.ppy.sh/artists/533/Vector Kontrol/Ariz Kayaba - Vector Kontrol.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:46:11Z"
+  "updated_at": "2026-03-30T23:24:10Z"
 }

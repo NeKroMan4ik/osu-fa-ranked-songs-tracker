@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Anchor",
+      "preview": "https://assets.ppy.sh/artists/83/previews/2182.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Birdwatching",
+      "preview": "https://assets.ppy.sh/artists/83/previews/2183.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Caverns",
+      "preview": "https://assets.ppy.sh/artists/83/previews/2175.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "FXMLDR",
+      "preview": "https://assets.ppy.sh/artists/83/previews/2186.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -52,6 +56,7 @@
     },
     {
       "title": "Life of Vermin",
+      "preview": "https://assets.ppy.sh/artists/83/previews/2188.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -63,6 +68,7 @@
     },
     {
       "title": "Mr. Invisible",
+      "preview": "https://assets.ppy.sh/artists/83/previews/2176.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -75,6 +81,7 @@
     },
     {
       "title": "My Famed Disappearing Act",
+      "preview": "https://assets.ppy.sh/artists/83/previews/2171.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -86,6 +93,7 @@
     },
     {
       "title": "Psychopomp",
+      "preview": "https://assets.ppy.sh/artists/83/previews/2178.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -97,6 +105,7 @@
     },
     {
       "title": "Rube Goldberg Variations",
+      "preview": "https://assets.ppy.sh/artists/83/previews/2179.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -108,6 +117,7 @@
     },
     {
       "title": "Son of a Serpent",
+      "preview": "https://assets.ppy.sh/artists/83/previews/2189.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -119,6 +129,7 @@
     },
     {
       "title": "Swarm",
+      "preview": "https://assets.ppy.sh/artists/83/previews/2190.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -130,6 +141,7 @@
     },
     {
       "title": "The Amateur Arsonist's Handbook",
+      "preview": "https://assets.ppy.sh/artists/83/previews/2180.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -150,6 +162,7 @@
     },
     {
       "title": "The Somnambulist",
+      "preview": "https://assets.ppy.sh/artists/83/previews/2181.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -161,6 +174,7 @@
     },
     {
       "title": "Wrinkle",
+      "preview": "https://assets.ppy.sh/artists/83/previews/2192.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -172,39 +186,46 @@
     },
     {
       "title": "A Wolf In Cheap Clothing",
+      "preview": "https://assets.ppy.sh/artists/83/previews/2173.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blue Automatic",
+      "preview": "https://assets.ppy.sh/artists/83/previews/2174.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chromology",
+      "preview": "https://assets.ppy.sh/artists/83/previews/2184.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Everyday Ghosts",
+      "preview": "https://assets.ppy.sh/artists/83/previews/2185.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Geronimo",
+      "preview": "https://assets.ppy.sh/artists/83/previews/2187.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Need More Input",
+      "preview": "https://assets.ppy.sh/artists/83/previews/2177.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Terraformer",
+      "preview": "https://assets.ppy.sh/artists/83/previews/2191.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:39:15Z"
+  "updated_at": "2026-03-31T02:17:54Z"
 }

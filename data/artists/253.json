@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "KAGUTSUCHI",
+      "preview": "https://assets.ppy.sh/artists/253/Songs/A.SAKA_-_KAGUTSUCHI.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -23,6 +24,7 @@
     },
     {
       "title": "Kannagi",
+      "preview": "https://assets.ppy.sh/artists/253/Songs/A.SAKA - Kannagi.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -34,6 +36,7 @@
     },
     {
       "title": "Mutsuki Akari no Yuki",
+      "preview": "https://assets.ppy.sh/artists/253/Songs/A.SAKA - Mutsuki Akari no Yuki.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -45,6 +48,7 @@
     },
     {
       "title": "Nanatsu Hiiragisuikou (scenic mix)",
+      "preview": "https://assets.ppy.sh/artists/253/Songs/A.SAKA - Nanatsu Hiiragisuikou (scenic mix).mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -56,6 +60,7 @@
     },
     {
       "title": "Nanatsu Issenzakura",
+      "preview": "https://assets.ppy.sh/artists/253/Songs/A.SAKA - Nanatsu Issenzakura.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -80,6 +85,7 @@
     },
     {
       "title": "Nanatsu Momijiakari",
+      "preview": "https://assets.ppy.sh/artists/253/Songs/A.SAKA_-_Nanatsu_Momijiakari.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -91,6 +97,7 @@
     },
     {
       "title": "Nanatsu Myoukakitsubata",
+      "preview": "https://assets.ppy.sh/artists/253/Songs/A.SAKA - Nanatsu Myoukakitsubata.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -109,6 +116,7 @@
     },
     {
       "title": "REIMEI",
+      "preview": "https://assets.ppy.sh/artists/253/Songs/A.SAKA - REIMEI.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -124,6 +132,7 @@
     },
     {
       "title": "Yosakura Fubuki",
+      "preview": "https://assets.ppy.sh/artists/253/Songs/A.SAKA - Yosakura Fubuki.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -145,24 +154,28 @@
     },
     {
       "title": "AYAKASHI",
+      "preview": "https://assets.ppy.sh/artists/253/Songs/A.SAKA - AYAKASHI.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "KAGURA",
+      "preview": "https://assets.ppy.sh/artists/253/Songs/A.SAKA - KAGURA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "KARAKURI",
+      "preview": "https://assets.ppy.sh/artists/253/Songs/A.SAKA - KARAKURI.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MIYABI",
+      "preview": "https://assets.ppy.sh/artists/253/Songs/A.SAKA - MIYABI.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:29:46Z"
+  "updated_at": "2026-03-30T23:07:47Z"
 }

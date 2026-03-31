@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "MAKE IT FUNKY NOW",
+      "preview": "https://assets.ppy.sh/artists/390/NINETYSIX/DOT96 - MAKE IT FUNKY NOW.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -27,19 +28,22 @@
     },
     {
       "title": "JETSTICK PT.1.5",
+      "preview": "https://assets.ppy.sh/artists/390/NEW CONTINUE/DOT96 - JETSTICK PT.1.5.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "REASONING",
+      "preview": "https://assets.ppy.sh/artists/390/CFD - Reasoning/DOT96 - REASONING.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SAMBISTA",
+      "preview": "https://assets.ppy.sh/artists/390/NINETYSIX/DOT96 - SAMBISTA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:18:13Z"
+  "updated_at": "2026-03-30T23:56:00Z"
 }

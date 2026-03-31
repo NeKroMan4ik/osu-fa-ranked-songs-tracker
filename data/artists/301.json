@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Bokutachi no Tabi to Epilogue.[Long ver.]",
+      "preview": "https://assets.ppy.sh/artists/301/Stardusts in my Memory Card/AAAA - Bokutachi no Tabi to Epilogue.%5BLong ver.%5D.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -23,6 +24,7 @@
     },
     {
       "title": "carnation",
+      "preview": "https://assets.ppy.sh/artists/301/Stardusts in my Memory Card/AAAA - carnation.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -44,6 +46,7 @@
     },
     {
       "title": "Hazukashigariya no Toy Soldier",
+      "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA - Hazukashigariya no Toy Soldier.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -64,6 +67,7 @@
     },
     {
       "title": "Hiyokko Santa to Yuki no Machi",
+      "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA - Hiyokko Santa to Yuki no Machi.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -75,6 +79,7 @@
     },
     {
       "title": "Hiyokko Santa to Yuki no Machi (Dear A Remix)",
+      "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA - Hiyokko Santa to Yuki no Machi (Dear A Remix).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -86,6 +91,7 @@
     },
     {
       "title": "Hoshi no Otoshimono",
+      "preview": "https://assets.ppy.sh/artists/301/Stardusts in my Memory Card/AAAA - Hoshi no Otoshimono.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -97,6 +103,7 @@
     },
     {
       "title": "Hoshizora no Kanransha",
+      "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA - Hoshizora no Kanransha.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -112,6 +119,7 @@
     },
     {
       "title": "parallel skydive",
+      "preview": "https://assets.ppy.sh/artists/301/parallel skydive/AAAA - parallel skydive.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -124,6 +132,7 @@
     },
     {
       "title": "pastel planet",
+      "preview": "https://assets.ppy.sh/artists/301/pastel planet/AAAA - pastel planet.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -135,6 +144,7 @@
     },
     {
       "title": "rainbow",
+      "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA - rainbow.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -146,6 +156,7 @@
     },
     {
       "title": "w = addict",
+      "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA - w %3D addict.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -161,59 +172,70 @@
     },
     {
       "title": "8bit Shooting Star*",
+      "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA - 8bit Shooting Star.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "aa...hisuichazuke... - steganography",
+      "preview": "https://assets.ppy.sh/artists/301/Songs/aa...hisuichazuke..._-_steganography.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "AAAA + Hino Isuka - ha@ppy s@mmer v@c@tion!! (Long ver.)",
+      "preview": "https://assets.ppy.sh/artists/301/Stardusts in my Memory Card/AAAA %2B Hino Isuka - ha%40ppy s%40mmer v%40c%40tion!! (Long ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "AAAA + Hino Isuka - Keep smiling.",
+      "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA %2B Hino Isuka - Keep smiling..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "AAAA + Umeboshi Chazuke - Cait Sith",
+      "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA %2B Umeboshi Chazuke - Cait Sith.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "AAAA + yadrigg - Sakase Natsuzora, Koi no Hana.",
+      "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA %2B yadrigg - Sakase Natsuzora%2C Koi no Hana..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "AAAA Chazuke - Myosotis no Hanataba",
+      "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA Chazuke - Myosotis no Hanataba.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "AAAA Chazuke - Sayonara Cosmonaut [Long ver.]",
+      "preview": "https://assets.ppy.sh/artists/301/Stardusts in my Memory Card/AAAA Chazuke - Sayonara Cosmonaut %5BLong ver.%5D.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "AAAA vs. Frums - beepbit * futures",
+      "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA vs. Frums - beepbit  futures.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hoshi o Kakeru Adventure ~ we are forever friends! ~ (Long ver.)",
+      "preview": "https://assets.ppy.sh/artists/301/Stardusts in my Memory Card/AAAA_-_Hoshi_o_Kakeru_Adventure__we_are_forever_friends__Long_ver..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lobelia",
+      "preview": "https://assets.ppy.sh/artists/301/Stardusts in my Memory Card/AAAA - Lobelia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:30:17Z"
+  "updated_at": "2026-03-30T23:08:18Z"
 }

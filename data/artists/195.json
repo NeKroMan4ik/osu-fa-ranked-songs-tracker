@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "BR4V3 W1ND",
+      "preview": "https://assets.ppy.sh/artists/195/oriental breeze 2/Alkome - BR4V3 W1ND.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Mind Disorder",
+      "preview": "https://assets.ppy.sh/artists/195/Mind Disorder/Alkome - Mind Disorder.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Run to You",
+      "preview": "https://assets.ppy.sh/artists/195/I'll Be EP/Alkome - Run to You.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Your Voice",
+      "preview": "https://assets.ppy.sh/artists/195/Songs/Alkome - Your Voice.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -48,39 +52,46 @@
     },
     {
       "title": "Clown Dance",
+      "preview": "https://assets.ppy.sh/artists/195/Songs/Alkome - Clown Dance.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "floating",
+      "preview": "https://assets.ppy.sh/artists/195/Songs/Alkome - floating.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "I'll Be",
+      "preview": "https://assets.ppy.sh/artists/195/I'll Be EP/Alkome - I%27ll Be.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "In Mad Dreams",
+      "preview": "https://assets.ppy.sh/artists/195/Nights EP/Alkome - In Mad Dreams.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "orange osmanthus",
+      "preview": "https://assets.ppy.sh/artists/195/Songs/Alkome - orange osmanthus.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Trust It",
+      "preview": "https://assets.ppy.sh/artists/195/I'll Be EP/Alkome - Trust It.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Voyage",
+      "preview": "https://assets.ppy.sh/artists/195/Songs/Alkome - Voyage.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:38:32Z"
+  "updated_at": "2026-03-30T23:16:32Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Station",
+      "preview": "https://assets.ppy.sh/artists/296/Songs/Aiyru - Station.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -19,39 +20,46 @@
     },
     {
       "title": "Doll",
+      "preview": "https://assets.ppy.sh/artists/296/Songs/Aiyru - Doll.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Elevator",
+      "preview": "https://assets.ppy.sh/artists/296/Songs/Aiyru - Elevator.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fiction",
+      "preview": "https://assets.ppy.sh/artists/296/Songs/Aiyru - Fiction.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Highway",
+      "preview": "https://assets.ppy.sh/artists/296/Songs/Aiyru - Highway.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hopeless",
+      "preview": "https://assets.ppy.sh/artists/296/Songs/Aiyru - Hopeless.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Inventor",
+      "preview": "https://assets.ppy.sh/artists/296/Songs/Aiyru - Inventor.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Observer",
+      "preview": "https://assets.ppy.sh/artists/296/Songs/Aiyru - Observer.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:34:16Z"
+  "updated_at": "2026-03-30T23:12:17Z"
 }

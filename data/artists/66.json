@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Blue Marble - Darkest Heights",
+      "preview": "https://assets.ppy.sh/artists/66/previews/1847.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Station Earth - Age Of Reason",
+      "preview": "https://assets.ppy.sh/artists/66/previews/1858.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Station Earth - Cold Green Eyes feat. Roos Denayer",
+      "preview": "https://assets.ppy.sh/artists/66/previews/1860.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -54,6 +57,7 @@
     },
     {
       "title": "Station Earth - Starcaller",
+      "preview": "https://assets.ppy.sh/artists/66/previews/1862.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -65,109 +69,128 @@
     },
     {
       "title": "Station Earth - Summer Soulstice",
+      "preview": "https://assets.ppy.sh/artists/66/previews/1863.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "mania": [
           1103826
         ],
-        "mania": [
+        "taiko": [
           1103826
         ]
       }
     },
     {
       "title": "Ayah Marar & Blue Marble - Invincible",
+      "preview": "https://assets.ppy.sh/artists/66/previews/2202.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blue Marble & Axeela - Without Hue",
+      "preview": "https://assets.ppy.sh/artists/66/previews/1843.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blue Marble & Gennady Tkachenko-Papizh - Genesis",
+      "preview": "https://assets.ppy.sh/artists/66/previews/1844.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blue Marble & Harveys Maker - Dreamers",
+      "preview": "https://assets.ppy.sh/artists/66/previews/1845.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blue Marble - Awakenings",
+      "preview": "https://assets.ppy.sh/artists/66/previews/1846.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blue Marble - Faith",
+      "preview": "https://assets.ppy.sh/artists/66/previews/1848.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blue Marble - Flora",
+      "preview": "https://assets.ppy.sh/artists/66/previews/1849.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blue Marble - Love",
+      "preview": "https://assets.ppy.sh/artists/66/previews/1850.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blue Marble - Parhelia",
+      "preview": "https://assets.ppy.sh/artists/66/previews/1851.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blue Marble - Sweetest Sin",
+      "preview": "https://assets.ppy.sh/artists/66/previews/1852.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blue Marble - Take Me Away",
+      "preview": "https://assets.ppy.sh/artists/66/previews/1853.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blue Marble - Tribes",
+      "preview": "https://assets.ppy.sh/artists/66/previews/1854.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blue Marble - Visions",
+      "preview": "https://assets.ppy.sh/artists/66/previews/1855.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Manoeuvres - Mad World (Station Earth Remix)",
+      "preview": "https://assets.ppy.sh/artists/66/previews/1857.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Roos Denayer - The Style of Evermore (Blue Marble Remix)",
+      "preview": "https://assets.ppy.sh/artists/66/previews/1856.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Station Earth - Astral Walker",
+      "preview": "https://assets.ppy.sh/artists/66/previews/1859.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Station Earth - Cold Green Eyes (Blue Marble VIP)",
+      "preview": "https://assets.ppy.sh/artists/66/Station Earth/Station Earth - Cold Green Eyes (Blue Marble VIP).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Station Earth - Myth Of Er",
+      "preview": "https://assets.ppy.sh/artists/66/previews/1861.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:26:14Z"
+  "updated_at": "2026-03-31T02:04:44Z"
 }

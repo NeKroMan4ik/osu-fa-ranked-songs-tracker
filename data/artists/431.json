@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Dust Powered Sniper Rifle",
+      "preview": "https://assets.ppy.sh/artists/431/Dust Powered Sniper Rifle/Candle - Dust Powered Sniper Rifle.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,39 +16,46 @@
     },
     {
       "title": "Lied To Me",
+      "preview": "https://assets.ppy.sh/artists/431/Lied To Me/Candle - Lied To Me.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Light/Speed",
+      "preview": "https://assets.ppy.sh/artists/431/Light-Speed/Candle - LightSpeed.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MultiTasker",
+      "preview": "https://assets.ppy.sh/artists/431/MultiTasker/Candle - MultiTasker.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ripple",
+      "preview": "https://assets.ppy.sh/artists/431/Ripple/Candle - Ripple.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tagged Up",
+      "preview": "https://assets.ppy.sh/artists/431/Tagged Up/Candle - Tagged Up.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Weekend Swim",
+      "preview": "https://assets.ppy.sh/artists/431/Weekend Swim/Candle - Weekend Swim.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Worry About Me",
+      "preview": "https://assets.ppy.sh/artists/431/Worry About Me/Candle - Worry About Me.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:03:02Z"
+  "updated_at": "2026-03-30T23:40:53Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "aterlbus",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi - aterlbus.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -19,6 +20,7 @@
     },
     {
       "title": "c.s.q.n.",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi - c.s.q.n..mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -31,6 +33,7 @@
     },
     {
       "title": "excez",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi - excez.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -42,6 +45,7 @@
     },
     {
       "title": "Quartzshaper",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi_-_Quartzshaper.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -61,6 +65,7 @@
     },
     {
       "title": "Welkius",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi_-_Welkius.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -72,79 +77,94 @@
     },
     {
       "title": "Agapitos",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi_-_Agapitos.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aoi a.k.a. ALFOU - Fluctuate",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi a.k.a. ALFOU - Fluctuate.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aoi vs. siqlo - Hacktivism",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi vs. siqlo - Hacktivism.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aoi with mAoA9 - to soar",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi with mAoA9 - to soar.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "azure iris",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi - azure iris.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Caelum",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi - Caelum.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hoshiimama",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi - Hoshiimama.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "kanemiko & Kyutatsuki & Aoi - Fractal Vertex",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/kanemiko__Kyutatsuki__Aoi_-_Fractal_Vertex.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "King of Galaxy",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi - King of Galaxy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Neighbour's Blueish Garden (NIWASHI+Aoi) - Deklowaz, the Allchemist",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/Neighbours_Blueish_Garden_NIWASHIAoi_-_Deklowaz_the_Allchemist.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Neverlast",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi_-_Neverlast.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Permafrost",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi - Permafrost.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "soar to phi",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi - soar to phi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "tezuka x Aoi feat. Momohina Nano - Sunset Toybox",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/tezuka x Aoi feat. Momohina Nano - Sunset Toybox.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tonari no Niwa wa Aoi (NIWASHI+Aoi) - Polacro",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/Tonari no Niwa wa Aoi (NIWASHI%2BAoi) - Polacro.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:42:24Z"
+  "updated_at": "2026-03-30T23:20:24Z"
 }

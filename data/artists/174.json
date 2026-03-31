@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Atonement Twins",
+      "preview": "https://assets.ppy.sh/artists/174/Gemini Syndrome/La priere - Atonement Twins.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Eiketsu no Gemini",
+      "preview": "https://assets.ppy.sh/artists/174/Gemini Syndrome/La priere - Eiketsu no Gemini.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -34,6 +36,7 @@
     },
     {
       "title": "Kimi to Driven Star",
+      "preview": "https://assets.ppy.sh/artists/174/Galaxy Triangle/La priere - Kimi to Driven Star.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -46,6 +49,7 @@
     },
     {
       "title": "Kimiyo",
+      "preview": "https://assets.ppy.sh/artists/174/Gemini Syndrome/La priere - Kimiyo.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -57,6 +61,7 @@
     },
     {
       "title": "Kyouzou no Canon",
+      "preview": "https://assets.ppy.sh/artists/174/Gemini Syndrome/La priere - Kyouzou no Canon.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -68,6 +73,7 @@
     },
     {
       "title": "Ripple",
+      "preview": "https://assets.ppy.sh/artists/174/Galaxy Triangle/La priere - Ripple.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -79,6 +85,7 @@
     },
     {
       "title": "Senjou no Utahime",
+      "preview": "https://assets.ppy.sh/artists/174/Galaxy Triangle/La priere - Senjou no Utahime.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -90,6 +97,7 @@
     },
     {
       "title": "Sore wa Sekai o Koete",
+      "preview": "https://assets.ppy.sh/artists/174/Gemini Syndrome/La priere - Sore wa Sekai o Koete.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -105,6 +113,7 @@
     },
     {
       "title": "Susume! Lovely Idol * La priere",
+      "preview": "https://assets.ppy.sh/artists/174/Songs/La priere - Susume! Lovely Idol  La priere.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -120,14 +129,16 @@
     },
     {
       "title": "Futaboshi no Testament",
+      "preview": "https://assets.ppy.sh/artists/174/Galaxy Triangle/La priere - Futaboshi no Testament.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Galactic Love",
+      "preview": "https://assets.ppy.sh/artists/174/Galaxy Triangle/La priere - Galactic Love.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:03:48Z"
+  "updated_at": "2026-03-31T00:41:47Z"
 }

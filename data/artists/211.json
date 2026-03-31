@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Cinderella Maker",
+      "preview": "https://assets.ppy.sh/artists/211/Replique/Risa Yuzuki - Cinderella Maker.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Honogurai Tsuioku",
+      "preview": "https://assets.ppy.sh/artists/211/Furin Kagerou/Risa Yuzuki - Honogurai Tsuioku.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Shuuen e no Keifu",
+      "preview": "https://assets.ppy.sh/artists/211/Furin Kagerou/Risa Yuzuki - Shuuen e no Keifu.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Transparent ZERO",
+      "preview": "https://assets.ppy.sh/artists/211/Stellalude/Risa Yuzuki - Transparent ZERO.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "Umbilical",
+      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Risa Yuzuki - Umbilical.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -59,6 +64,7 @@
     },
     {
       "title": "Yumemiru Milky Way feat. Aitsuki Nakuru",
+      "preview": "https://assets.ppy.sh/artists/211/Stellalude/Risa_Yuzuki_-_Yumemiru_Milky_Way_feat._Aitsuki_Nakuru.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -74,124 +80,148 @@
     },
     {
       "title": "Amatsu Sumizome",
+      "preview": "https://assets.ppy.sh/artists/211/Furin Kagerou/Risa Yuzuki - Amatsu Sumizome.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Black Winged Variation",
+      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Risa Yuzuki - Black Winged Variation.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY feat. Risa Yuzuki - Hyouhon",
+      "preview": "https://assets.ppy.sh/artists/211/PARAD%C3%98XY/BlackY feat. Risa Yuzuki - Hyouhon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY feat. Risa Yuzuki - Imitator",
+      "preview": "https://assets.ppy.sh/artists/211/Imitator/BlackY_feat._Risa_Yuzuki_-_Imitator.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY feat. Risa Yuzuki - PARADOXY",
+      "preview": "https://assets.ppy.sh/artists/211/PARAD%C3%98XY/BlackY feat. Risa Yuzuki - PARADOXY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY feat. Risa Yuzuki - Tadashisa ni Michizure",
+      "preview": "https://assets.ppy.sh/artists/211/PARAD%C3%98XY/BlackY feat. Risa Yuzuki - Tadashisa ni Michizure.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY feat. Risa Yuzuki - UNLEASHED",
+      "preview": "https://assets.ppy.sh/artists/211/PARAD%C3%98XY/BlackY feat. Risa Yuzuki - UNLEASHED.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dear Marionette",
+      "preview": "https://assets.ppy.sh/artists/211/Stellalude/Risa Yuzuki - Dear Marionette.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "End Roll Syndrome",
+      "preview": "https://assets.ppy.sh/artists/211/Replique/Risa Yuzuki - End Roll Syndrome.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Filia no Rashinban",
+      "preview": "https://assets.ppy.sh/artists/211/Replique/Risa Yuzuki - Filia no Rashinban.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hyakkiyakoujun",
+      "preview": "https://assets.ppy.sh/artists/211/Furin Kagerou/Risa Yuzuki - Hyakkiyakoujun.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ironical Parade",
+      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Risa Yuzuki - Ironical Parade.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Laur feat. Risa Yuzuki - Megaera",
+      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Laur_feat._Risa_Yuzuki_-_Megaera.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lemonade Fizz",
+      "preview": "https://assets.ppy.sh/artists/211/Imitator/Risa Yuzuki - Lemonade Fizz.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mihanada",
+      "preview": "https://assets.ppy.sh/artists/211/Replique/Risa Yuzuki - Mihanada.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PEAKY FREAKY",
+      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Risa Yuzuki - PEAKY FREAKY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Phyllness",
+      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Risa Yuzuki - Phyllness.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Replayer",
+      "preview": "https://assets.ppy.sh/artists/211/Stellalude/Risa Yuzuki - Replayer.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Replique",
+      "preview": "https://assets.ppy.sh/artists/211/Replique/Risa Yuzuki - Replique.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Seisen no Tori",
+      "preview": "https://assets.ppy.sh/artists/211/Replique/Risa Yuzuki - Seisen no Tori.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shumatsu Kinema",
+      "preview": "https://assets.ppy.sh/artists/211/Imitator/Risa Yuzuki - Shumatsu Kinema.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Subekaraku Senrei",
+      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Risa Yuzuki - Subekaraku Senrei.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tarantella",
+      "preview": "https://assets.ppy.sh/artists/211/Replique/Risa Yuzuki - Tarantella.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yamatonadeshiko Dance Floor",
+      "preview": "https://assets.ppy.sh/artists/211/Furin Kagerou/Risa Yuzuki - Yamatonadeshiko Dance Floor.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:03:23Z"
+  "updated_at": "2026-03-31T01:41:49Z"
 }

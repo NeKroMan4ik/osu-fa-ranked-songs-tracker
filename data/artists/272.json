@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "#be_fortunate",
+      "preview": "https://assets.ppy.sh/artists/272/Songs/Hino Isuka - %23be_fortunate.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -16,6 +17,7 @@
     },
     {
       "title": "Delightness Brightness",
+      "preview": "https://assets.ppy.sh/artists/272/Songs/Hino Isuka - Delightness Brightness.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -27,6 +29,7 @@
     },
     {
       "title": "Wonderful Paradise",
+      "preview": "https://assets.ppy.sh/artists/272/Songs/Hino Isuka - Wonderful Paradise.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -38,54 +41,64 @@
     },
     {
       "title": "aa...hisuichazuke... - steganography",
+      "preview": "https://assets.ppy.sh/artists/272/Songs/aa...hisuichazuke..._-_steganography.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chocolat a la menthe",
+      "preview": "https://assets.ppy.sh/artists/272/Songs/Hino Isuka - Chocolat a la menthe.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cosmogazer",
+      "preview": "https://assets.ppy.sh/artists/272/Songs/Hino Isuka - Cosmogazer.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DJ HoppingRabbit - Jumping Leaping!",
+      "preview": "https://assets.ppy.sh/artists/272/Songs/DJ HoppingRabbit - Jumping Leaping!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dreamin' attraction!! (Extended)",
+      "preview": "https://assets.ppy.sh/artists/272/Songs/Hino Isuka - Dreamin%27 attraction!! (Extended).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hino Isuka vs. s-don - Glooorious!!",
+      "preview": "https://assets.ppy.sh/artists/272/Songs/Hino Isuka vs. s-don - Glooorious!!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!!",
+      "preview": "https://assets.ppy.sh/artists/272/Songs/Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hisui Chazuke - Bomb Bang Bound!!!",
+      "preview": "https://assets.ppy.sh/artists/272/Songs/Hisui Chazuke - Bomb Bang Bound!!!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mechanical Jager",
+      "preview": "https://assets.ppy.sh/artists/272/Songs/Hino Isuka - Mechanical Jager.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Memories of Chasers",
+      "preview": "https://assets.ppy.sh/artists/272/Songs/Hino Isuka - Memories of Chasers.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:41:13Z"
+  "updated_at": "2026-03-31T00:19:06Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Aresene's Bazaar",
+      "preview": "https://assets.ppy.sh/artists/39/Songs/James_Landino_-_Aresenes_Bazaar.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -25,6 +26,7 @@
     },
     {
       "title": "Hide And Seek",
+      "preview": "https://assets.ppy.sh/artists/39/Songs/James Landino - Hide And Seek.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -36,6 +38,7 @@
     },
     {
       "title": "Reaction feat. Slyleaf",
+      "preview": "https://assets.ppy.sh/artists/39/Songs/James Landino - Reaction feat. Slyleaf.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -52,6 +55,7 @@
     },
     {
       "title": "Shiba Island",
+      "preview": "https://assets.ppy.sh/artists/39/Songs/James Landino - Shiba Island.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -67,6 +71,7 @@
     },
     {
       "title": "Shiba Paradise",
+      "preview": "https://assets.ppy.sh/artists/39/Songs/James Landino - Shiba Paradise.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -83,6 +88,7 @@
     },
     {
       "title": "Spellbound",
+      "preview": "https://assets.ppy.sh/artists/39/Songs/James Landino - Spellbound.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -94,29 +100,34 @@
     },
     {
       "title": "Anti Hero",
+      "preview": "https://assets.ppy.sh/artists/39/Songs/James Landino - Anti Hero.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hit That feat. Hentai Dude & Tofuku",
+      "preview": "https://assets.ppy.sh/artists/39/previews/939.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "James Landino & Kabuki - Birdsong",
+      "preview": "https://assets.ppy.sh/artists/39/Songs/James Landino %26 Kabuki - Birdsong.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "James Landino, Funk Fiction, Motoi - Dreaming",
+      "preview": "https://assets.ppy.sh/artists/39/Songs/James_Landino_Funk_Fiction_Motoi_-_Dreaming.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "RUN2ME",
+      "preview": "https://assets.ppy.sh/artists/39/Songs/James Landino - RUN2ME.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:50:06Z"
+  "updated_at": "2026-03-31T00:27:57Z"
 }

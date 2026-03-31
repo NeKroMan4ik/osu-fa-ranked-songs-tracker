@@ -4,39 +4,46 @@
   "tracks": [
     {
       "title": "Boba",
+      "preview": "https://assets.ppy.sh/artists/351/Boba/Kenneyon - Boba.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cutie",
+      "preview": "https://assets.ppy.sh/artists/351/Cutie/Kenneyon - Cutie.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "High",
+      "preview": "https://assets.ppy.sh/artists/351/High/Kenneyon - High.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kenneyon & NY~ON! - Espresso",
+      "preview": "https://assets.ppy.sh/artists/351/Espresso/Kenneyon %26 NY%7EON! - Espresso.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kenneyon and Kara - Wildflower",
+      "preview": "https://assets.ppy.sh/artists/351/Wildflower/Kenneyon_and_Kara_-_Wildflower.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Taiko",
+      "preview": "https://assets.ppy.sh/artists/351/Taiko/Kenneyon - Taiko.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Triumph",
+      "preview": "https://assets.ppy.sh/artists/351/Triumph/Kenneyon - Triumph.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:55:18Z"
+  "updated_at": "2026-03-31T00:33:12Z"
 }

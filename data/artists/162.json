@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "miraie - heal",
+      "preview": "https://assets.ppy.sh/artists/162/heal/miraie - heal.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "miraie - high school romance",
+      "preview": "https://assets.ppy.sh/artists/162/high school romance/miraie - high school romance.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -30,6 +32,7 @@
     },
     {
       "title": "miraie - peace",
+      "preview": "https://assets.ppy.sh/artists/162/heal/miraie - peace.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -41,6 +44,7 @@
     },
     {
       "title": "miraie - stella",
+      "preview": "https://assets.ppy.sh/artists/162/heal/miraie - stella.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -52,69 +56,82 @@
     },
     {
       "title": "cute girls doing cute things - I like cute girls (with Miraie)",
+      "preview": "https://assets.ppy.sh/artists/162/i like cute girls/cute girls doing cute things - I like cute girls (with Miraie).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "kuru x miraie - re:start",
+      "preview": "https://assets.ppy.sh/artists/162/Songs/kuru%20x%20miraie%20-%20restart%20%28space%20%2B%20kuru%29.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Milkoi & miraie - Solemnity",
+      "preview": "https://assets.ppy.sh/artists/162/Somnolent/Milkoi & miraie - Solemnity.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "miraie & blackwinterwells - facade",
+      "preview": "https://assets.ppy.sh/artists/162/facade/miraie & blackwinterwells - facade.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "miraie & miaww - suzua",
+      "preview": "https://assets.ppy.sh/artists/162/suzua/miraie & miaww - suzua.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "miraie - with you (feat. yuca)",
+      "preview": "https://assets.ppy.sh/artists/162/with you/miraie - with you (feat. yuca).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "miraie x kid sora - dimension shift",
+      "preview": "https://assets.ppy.sh/artists/162/dimension shift/miraie x kid sora - dimension shift.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "miraie x kid sora - fantasy world",
+      "preview": "https://assets.ppy.sh/artists/162/fantasy world/miraie x kid sora - fantasy world.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "miraie x mitsu - cold winter nights",
+      "preview": "https://assets.ppy.sh/artists/162/cold winter nights/miraie x mitsu - cold winter nights.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "miraie x YUJU x blackwinterwells - memories",
+      "preview": "https://assets.ppy.sh/artists/162/memories/miraie x YUJU x blackwinterwells - memories.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "mitsu x miraie x kuru - fate/endless line",
+      "preview": "https://assets.ppy.sh/artists/162/Songs/mitsu%20x%20miraie%20x%20kuru%20-%20fateendless%20line%20%28lb66%20%2B%20skoolio%29.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "yandere feat. miraie & kid sora - for real world *",
+      "preview": "https://assets.ppy.sh/artists/162/for real world/yandere feat. miraie & kid sora - for real world .mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "yuju, kid sora, colton, & miraie - feelings",
+      "preview": "https://assets.ppy.sh/artists/162/feelings/yuju_kid_sora_colton__miraie_-_feelings.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:23:43Z"
+  "updated_at": "2026-03-31T01:01:50Z"
 }

@@ -4,29 +4,34 @@
   "tracks": [
     {
       "title": "By Your Side",
+      "preview": "https://assets.ppy.sh/artists/532/Songs/LaXal - By Your Side.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dam Dadi Doo",
+      "preview": "https://assets.ppy.sh/artists/532/Songs/LaXal - Dam Dadi Doo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "LaXal feat. Find The Rabbit - Eeveelution",
+      "preview": "https://assets.ppy.sh/artists/532/Songs/LaXal feat. Find The Rabbit - Eeveelution.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "LaXal feat. Melissa Brooks - Horizons",
+      "preview": "https://assets.ppy.sh/artists/532/Songs/LaXal feat. Melissa Brooks - Horizons.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sans On The Move",
+      "preview": "https://assets.ppy.sh/artists/532/Songs/LaXal - Sans On The Move.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:04:48Z"
+  "updated_at": "2026-03-31T00:42:48Z"
 }

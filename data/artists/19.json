@@ -4,49 +4,58 @@
   "tracks": [
     {
       "title": "baker - Kimi ga Kimi ga -vocanico remix-",
+      "preview": "https://assets.ppy.sh/artists/19/baker/baker_-_Kimi_ga_Kimi_ga_-vocanico_remix-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Emerald Galaxy",
+      "preview": "https://assets.ppy.sh/artists/19/previews/363.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "For a Dead Girl+",
+      "preview": "https://assets.ppy.sh/artists/19/previews/356.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hidamari no Uta",
+      "preview": "https://assets.ppy.sh/artists/19/previews/364.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "I Wanna Feel Your Love (feat shully)",
+      "preview": "https://assets.ppy.sh/artists/19/previews/359.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Miracle Sugite Yabai (feat. shully)",
+      "preview": "https://assets.ppy.sh/artists/19/previews/360.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "nailnailnailnail",
+      "preview": "https://assets.ppy.sh/artists/19/previews/362.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Oh Yeah! [Singapore MIX]",
+      "preview": "https://assets.ppy.sh/artists/19/previews/358.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Palette",
+      "preview": "https://assets.ppy.sh/artists/19/previews/361.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:28:17Z"
+  "updated_at": "2026-03-31T01:06:25Z"
 }

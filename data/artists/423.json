@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "got a compliment today",
+      "preview": "https://assets.ppy.sh/artists/423/xiiiac13 Collection Volume %231/xiiiac13 - got a compliment today.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "pov: it's 2016 and you're watching the intro of a travel vlog",
+      "preview": "https://assets.ppy.sh/artists/423/Catvillain/xiiiac13 - pov it%27s 2016 and you%27re watching the intro of a travel vlog.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,64 +28,74 @@
     },
     {
       "title": "who let him cook",
+      "preview": "https://assets.ppy.sh/artists/423/xiiiac13 Collection Volume %231/xiiiac13 - who let him cook.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "osu": [
           2169368
         ],
-        "osu": [
+        "taiko": [
           2169368
         ]
       }
     },
     {
       "title": "birthday party melancholy",
+      "preview": "https://assets.ppy.sh/artists/423/xiiiac13 Collection Volume %231/xiiiac13 - birthday party melancholy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "closer to you (than ever before)",
+      "preview": "https://assets.ppy.sh/artists/423/xiiiac13 Collection Volume %231/xiiiac13 - closer to you (than ever before).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "in eternal bliss may rest my unspoken words",
+      "preview": "https://assets.ppy.sh/artists/423/xiiiac13 Collection Volume %231/xiiiac13 - in eternal bliss may rest my unspoken words.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "me when the and the",
+      "preview": "https://assets.ppy.sh/artists/423/xiiiac13 Collection Volume %231/xiiiac13 - me when the and the.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "stepping on your cat's tail be like",
+      "preview": "https://assets.ppy.sh/artists/423/xiiiac13 Collection Volume %231/xiiiac13 - stepping on your cat%27s tail be like.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "the core is breaking or something idk i've never seen the anime",
+      "preview": "https://assets.ppy.sh/artists/423/xiiiac13 Collection Volume %231/xiiiac13 - the core is breaking or something idk i%27ve never seen the anime.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "untitled unmeowstered",
+      "preview": "https://assets.ppy.sh/artists/423/xiiiac13 Collection Volume %231/xiiiac13 - untitled unmeowstered.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "waking up at 4am be like (you get to sleep more)",
+      "preview": "https://assets.ppy.sh/artists/423/xiiiac13 Collection Volume %231/xiiiac13 - waking up at 4am be like (you get to sleep more).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "what if we held hands at mcdonald's",
+      "preview": "https://assets.ppy.sh/artists/423/xiiiac13 Collection Volume %231/xiiiac13 - what if we held hands at mcdonald%27s.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T23:01:40Z"
+  "updated_at": "2026-03-31T02:40:28Z"
 }

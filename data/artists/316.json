@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Effluxion feat. Ririsya",
+      "preview": "https://assets.ppy.sh/artists/316/Songs/Zenpaku - Effluxion feat. Ririsya.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Enkindle feat. vally.exe",
+      "preview": "https://assets.ppy.sh/artists/316/Songs/Zenpaku - Enkindle feat. vally.exe.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -34,6 +36,7 @@
     },
     {
       "title": "Resplendent Black",
+      "preview": "https://assets.ppy.sh/artists/316/Odyssey Cycle/Zenpaku - Resplendent Black.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -45,24 +48,28 @@
     },
     {
       "title": "Amelioration",
+      "preview": "https://assets.ppy.sh/artists/316/Odyssey Cycle/Zenpaku - Amelioration.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blast+ (feat. DEMONDICE)",
+      "preview": "https://assets.ppy.sh/artists/316/Odyssey Cycle/Zenpaku - Blast%2B (feat. DEMONDICE).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Passage",
+      "preview": "https://assets.ppy.sh/artists/316/Odyssey Cycle/Zenpaku - Passage.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Pilgrims (feat. JubyPhonic)",
+      "preview": "https://assets.ppy.sh/artists/316/Odyssey Cycle/Zenpaku - Pilgrims (feat. JubyPhonic).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T23:07:06Z"
+  "updated_at": "2026-03-31T02:45:58Z"
 }

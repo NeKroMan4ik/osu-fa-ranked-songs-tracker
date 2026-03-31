@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Absolute Gate",
+      "preview": "https://assets.ppy.sh/artists/322/Songs/E0ri4 - Absolute Gate.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "L0V3 4RR0W 5H007",
+      "preview": "https://assets.ppy.sh/artists/322/Emotional Reality/E0ri4 - L0V3 4RR0W 5H007.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -38,29 +40,34 @@
     },
     {
       "title": "Destructed Gate",
+      "preview": "https://assets.ppy.sh/artists/322/Songs/E0ri4 - Destructed Gate.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Emotional Reality",
+      "preview": "https://assets.ppy.sh/artists/322/Emotional Reality/E0ri4 - Emotional Reality.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HoLy GeneSiS",
+      "preview": "https://assets.ppy.sh/artists/322/Songs/E0ri4 - HoLy GeneSiS.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Last Gate",
+      "preview": "https://assets.ppy.sh/artists/322/Songs/E0ri4 - Last Gate.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rainy Gate",
+      "preview": "https://assets.ppy.sh/artists/322/Songs/E0ri4 - Rainy Gate.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:20:04Z"
+  "updated_at": "2026-03-30T23:57:53Z"
 }

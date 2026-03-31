@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Alteregoism",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - Alteregoism.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Euphoria",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - Euphoria.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Executioner",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - Executioner.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -39,6 +42,7 @@
     },
     {
       "title": "Koto no Ha",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - Koto no Ha.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -50,6 +54,7 @@
     },
     {
       "title": "PRISTINE",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - PRISTINE.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -67,6 +72,7 @@
     },
     {
       "title": "Rebuff",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - Rebuff.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -79,6 +85,7 @@
     },
     {
       "title": "SEV-26",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur_-_SEV-26.mp3",
       "ranked_modes": [
         "fruits",
         "mania"
@@ -94,6 +101,7 @@
     },
     {
       "title": "Sound Chimera",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - Sound Chimera.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -120,6 +128,7 @@
     },
     {
       "title": "SYSTEM ERROR",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - SYSTEM ERROR.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -137,6 +146,7 @@
     },
     {
       "title": "Viyella's Destiny",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - Viyella%27s Destiny.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -148,6 +158,7 @@
     },
     {
       "title": "Viyella's Nightmare",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - Viyella%27s Nightmare.mp3",
       "ranked_modes": [
         "fruits",
         "mania"
@@ -163,94 +174,112 @@
     },
     {
       "title": "Attractor Dimension",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - Attractor Dimension.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Calamity of the Mystic Garden : Doom",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - Calamity of the Mystic Garden  Doom.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cosmic Blaster",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - Cosmic Blaster.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "cry of viyella",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - cry of viyella.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dustvoxx, Laur - FireLight",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Dustvoxx_Laur_-_FireLight.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dustvoxx, Laur - FireLight (Neokontrol Remix)",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Dustvoxx_Laur_-_FireLight_Neokontrol_Remix.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kokushi Musou",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - Kokushi Musou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lash Out",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - Lash Out.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Laur feat. Aitsuki Nakuru - Collapse",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur feat. Aitsuki Nakuru - Collapse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Laur feat. Mishamo - Let's! Miracle * HARDCORE!",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur feat. Mishamo - Let%27s! Miracle  HARDCORE!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Laur feat. Risa Yuzuki - Afflict",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur feat. Risa Yuzuki - Afflict.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Laur feat. Risa Yuzuki - Megaera",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur_feat._Risa_Yuzuki_-_Megaera.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Laur feat. Sennzai - Lure",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur_feat._Sennzai_-_Lure.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Laur vs. CK - Lost Civilization",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur vs. CK - Lost Civilization.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Laur vs. M1shamo - Deceiver",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur vs. M1shamo - Deceiver.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Quaerite Veritatis",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - Quaerite Veritatis.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Venomous Virus",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - Venomous Virus.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Viyella's Memory",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - Viyella%27s Memory.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:04:41Z"
+  "updated_at": "2026-03-31T00:42:41Z"
 }

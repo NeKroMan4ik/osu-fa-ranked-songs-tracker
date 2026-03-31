@@ -4,44 +4,52 @@
   "tracks": [
     {
       "title": "Nakanojojo & Farhan Sarasin - Vanilla",
+      "preview": "https://assets.ppy.sh/artists/25/Songs/Nakanojojo__Farhan_Sarasin_-_Vanilla.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nakanojojo, Tsuta - Parararara (feat. Amekoya)",
+      "preview": "https://assets.ppy.sh/artists/25/Songs/Nakanojojo_Tsuta_-_Parararara_feat._Amekoya.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nakanojojo, Yunomi - Bittersweet (feat. Kuishinboakachan a.k.a. Kiato)",
+      "preview": "https://assets.ppy.sh/artists/25/Songs/Nakanojojo_Yunomi_-_Bittersweet_feat._Kuishinboakachan_a.k.a._Kiato.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nakanojojo, Yunomi - Bittersweet (feat. Kuishinboakachan) w/ Nakarin Remix [Game Mix]",
+      "preview": "https://assets.ppy.sh/artists/25/Songs/Nakanojojo_Yunomi_-_Bittersweet_feat._Kuishinboakachan_w_Nakarin_Remix_Game_Mix.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nakanojojo, Yunomi - Honeyginger (TV Size Instrumental)",
+      "preview": "https://assets.ppy.sh/artists/25/Songs/Nakanojojo_Yunomi_-_Honeyginger_TV_Size_Instrumental.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "rai. x Nakanojojo - Tsukijin",
+      "preview": "https://assets.ppy.sh/artists/25/Songs/rai._x_Nakanojojo_-_Tsukijin.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Toccoyaki & Nakanojojo - Chounouryokusha Dakedo Mirai Nante Yomenai",
+      "preview": "https://assets.ppy.sh/artists/25/Songs/Toccoyaki__Nakanojojo_-_Chounouryokusha_Dakedo_Mirai_Nante_Yomenai.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Toccoyaki & Nakanojojo - Kagami",
+      "preview": "https://assets.ppy.sh/artists/25/Songs/Toccoyaki__Nakanojojo_-_Kagami.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:31:11Z"
+  "updated_at": "2026-03-31T01:09:19Z"
 }

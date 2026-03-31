@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Eyes Half Closed",
+      "preview": "https://assets.ppy.sh/artists/321/Angels/Crywolf - Eyes Half Closed.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -16,6 +17,7 @@
     },
     {
       "title": "Swimming in the Flood",
+      "preview": "https://assets.ppy.sh/artists/321/Ghosts/Crywolf - Swimming in the Flood.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -27,6 +29,7 @@
     },
     {
       "title": "Whisper (feat. emalyn)",
+      "preview": "https://assets.ppy.sh/artists/321/Angels/Crywolf - Whisper (feat. emalyn).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -38,19 +41,22 @@
     },
     {
       "title": "Crywolf & Aylen - Silence, Pt. II",
+      "preview": "https://assets.ppy.sh/artists/321/Ghosts/Crywolf__Aylen_-_Silence_Pt._II.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Home We Made Pt. II",
+      "preview": "https://assets.ppy.sh/artists/321/Ghosts/Crywolf - The Home We Made Pt. II.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Moon Is Falling Down",
+      "preview": "https://assets.ppy.sh/artists/321/Ghosts/Crywolf - The Moon Is Falling Down.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:08:55Z"
+  "updated_at": "2026-03-30T23:46:44Z"
 }

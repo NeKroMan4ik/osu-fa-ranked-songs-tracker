@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Blaze",
+      "preview": "https://assets.ppy.sh/artists/136/Songs/Masahiro Godspeed Aoki - Blaze.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Lost in the maze",
+      "preview": "https://assets.ppy.sh/artists/136/Songs/Masahiro Godspeed Aoki - Lost in the maze.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -30,39 +32,46 @@
     },
     {
       "title": "busy come, busy go (instrumental version)",
+      "preview": "https://assets.ppy.sh/artists/136/The Game Changer/Masahiro Godspeed Aoki - busy come, busy go (instrumental version).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Frostbite",
+      "preview": "https://assets.ppy.sh/artists/136/Veiled/Masahiro Godspeed Aoki - Frostbite.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "LOUDER THAN EPIC",
+      "preview": "https://assets.ppy.sh/artists/136/LOUDER THAN EPIC/Masahiro Godspeed Aoki - LOUDER THAN EPIC.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Spirits",
+      "preview": "https://assets.ppy.sh/artists/136/Songs/Masahiro Godspeed Aoki - Spirits.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Surge",
+      "preview": "https://assets.ppy.sh/artists/136/The Game Changer/Masahiro Godspeed Aoki - Surge.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Game Changer",
+      "preview": "https://assets.ppy.sh/artists/136/Songs/Masahiro Godspeed Aoki - The Game Changer.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Twister",
+      "preview": "https://assets.ppy.sh/artists/136/The Game Changer/Masahiro Godspeed Aoki - Twister.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:19:02Z"
+  "updated_at": "2026-03-31T00:57:07Z"
 }

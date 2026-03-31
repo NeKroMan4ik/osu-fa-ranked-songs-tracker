@@ -4,25 +4,27 @@
   "tracks": [
     {
       "title": "Ashita e tobutameni (Short Ver.)",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Ashita e tobutameni (Short Ver.).mp3",
       "ranked_modes": [
         "fruits",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "fruits": [
           2461797
         ],
         "osu": [
           2461797
         ],
-        "fruits": [
+        "taiko": [
           2461797
         ]
       }
     },
     {
       "title": "Ashita e tobutameni (TV Size)",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Ashita e tobutameni (TV Size).mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -34,6 +36,7 @@
     },
     {
       "title": "DAI*TAN SENSATION feat. Hatsune Miku (Short Ver.)",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - DAITAN SENSATION feat. Hatsune Miku (Short Ver.).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -45,6 +48,7 @@
     },
     {
       "title": "DREAMING COLOR (Short Ver.)",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - DREAMING COLOR (Short Ver.).mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -61,6 +65,7 @@
     },
     {
       "title": "Hitori ja... Issho nara! (TV Size)",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Hitori ja... Issho nara! (TV Size).mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -80,6 +85,7 @@
     },
     {
       "title": "Hoshizora Touhikou feat. Hatsune Miku",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Hoshizora Touhikou feat. Hatsune Miku.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -95,6 +101,7 @@
     },
     {
       "title": "MYxFLAVORxDAYS! feat. GUMI (Short Ver.)",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - MYxFLAVORxDAYS! feat. GUMI (Short Ver.).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -106,6 +113,7 @@
     },
     {
       "title": "Sore ga Zenbu, Yume ni Tsunagaru (Short Ver.)",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Sore ga Zenbu%2C Yume ni Tsunagaru (Short Ver.).mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -121,6 +129,7 @@
     },
     {
       "title": "Taiatari*Romance feat. Ayuru Ouhashi (Short Ver.)",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - TaiatariRomance feat. Ayuru Ouhashi (Short Ver.).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -132,6 +141,7 @@
     },
     {
       "title": "Tokoyami no Keiyaku KEGARETA-SHOUJO feat. GUMI",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Tokoyami no Keiyaku KEGARETA-SHOUJO feat. GUMI.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -147,6 +157,7 @@
     },
     {
       "title": "Tokoyami no Keiyaku KEGARETA-SHOUJO feat. GUMI (Short Ver.)",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Tokoyami no Keiyaku KEGARETA-SHOUJO feat. GUMI (Short Ver.).mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -164,134 +175,160 @@
     },
     {
       "title": "Ashita e tobutameni",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Ashita e tobutameni.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ashita e tobutameni (Instrumental Mix)",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Ashita e tobutameni (Instrumental Mix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ashita e tobutameni (Instrumental Mix) (Short Ver.)",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Ashita e tobutameni (Instrumental Mix) (Short Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ashita e tobutameni (Instrumental Mix) (TV Size)",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Ashita e tobutameni (Instrumental Mix) (TV Size).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DAI*TAN SENSATION feat. Hatsune Miku",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - DAITAN SENSATION feat. Hatsune Miku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DAI*TAN Sensation feat. Nanahira, Mii, Nakuru Aitsuki",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - DAITAN Sensation feat. Nanahira%2C Mii%2C Nakuru Aitsuki.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DAI*TAN Sensation feat. Nanahira, Mii, Nakuru Aitsuki (Short Ver.)",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - DAITAN Sensation feat. Nanahira%2C Mii%2C Nakuru Aitsuki (Short Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DREAMING COLOR",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - DREAMING COLOR.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "hex feat. Aya Hatori",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - hex feat. Aya Hatori.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "hex feat. Aya Hatori (Short Ver.)",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - hex feat. Aya Hatori (Short Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hitori ja... Issho nara!",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Hitori ja... Issho nara!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hitori ja... Issho nara! (Short ver.)",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Hitori ja... Issho nara! (Short ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hoshizora Touhikou feat. Hatsune Miku (Short Ver.)",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Hoshizora Touhikou feat. Hatsune Miku (Short Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Houkai no Hate No Ishi feat. GUMI",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Houkai no Hate No Ishi feat. GUMI.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Houkai no Hate No Ishi feat. GUMI (Short Ver.)",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Houkai no Hate No Ishi feat. GUMI (Short Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MYxFLAVORxDAYS! feat. GUMI",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - MYxFLAVORxDAYS! feat. GUMI.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shuuen no Reboot",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Shuuen no Reboot.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shuuen no Reboot (Instrumental Mix)",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Shuuen no Reboot (Instrumental Mix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sore ga Zenbu, Yume ni Tsunagaru",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Sore ga Zenbu%2C Yume ni Tsunagaru.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sorezore no Tabiji",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Sorezore no Tabiji.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sorezore no Tabiji (Short Ver.)",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Sorezore no Tabiji (Short Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Taiatari*Romance feat. Ayuru Ouhashi",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - TaiatariRomance feat. Ayuru Ouhashi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yoru wo Kakeru feat. ming-zi",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Yoru wo Kakeru feat. ming-zi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yoru wo Kakeru feat. ming-zi (Short Ver.)",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Yoru wo Kakeru feat. ming-zi (Short Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ZESSAN*UNMEI-CHU feat. GUMI",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - ZESSANUNMEI-CHU feat. GUMI.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ZESSAN*UNMEI-CHU feat. GUMI (Short Ver.)",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - ZESSANUNMEI-CHU feat. GUMI (Short Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:43:28Z"
+  "updated_at": "2026-03-31T02:22:10Z"
 }

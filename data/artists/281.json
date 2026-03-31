@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Starship",
+      "preview": "https://assets.ppy.sh/artists/281/Starship/Grant - Starship.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -19,19 +20,22 @@
     },
     {
       "title": "Are We Still Young (feat. Jessi Mason)",
+      "preview": "https://assets.ppy.sh/artists/281/Are We Still Young/Grant - Are We Still Young (feat. Jessi Mason).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Grant Bowtie - Cloud Nine",
+      "preview": "https://assets.ppy.sh/artists/281/Cloud Nine/Grant Bowtie - Cloud Nine.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Weapon (feat. Baum)",
+      "preview": "https://assets.ppy.sh/artists/281/Weapon/Grant - Weapon (feat. Baum).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:35:20Z"
+  "updated_at": "2026-03-31T00:13:14Z"
 }

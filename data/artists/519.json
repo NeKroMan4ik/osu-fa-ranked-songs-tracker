@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "FLOP ERA",
+      "preview": "https://assets.ppy.sh/artists/519/FLOP ERA/ePiaeon - FLOP ERA.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,19 +16,22 @@
     },
     {
       "title": "DIAL LOOP",
+      "preview": "https://assets.ppy.sh/artists/519/DIAL LOOP/ePiaeon - DIAL LOOP.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "FAKE UP",
+      "preview": "https://assets.ppy.sh/artists/519/FAKE UP/ePiaeon - FAKE UP.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Wonder, and",
+      "preview": "https://assets.ppy.sh/artists/519/Wonder%2C and/ePiaeon - Wonder%2C and.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:23:40Z"
+  "updated_at": "2026-03-31T00:01:30Z"
 }

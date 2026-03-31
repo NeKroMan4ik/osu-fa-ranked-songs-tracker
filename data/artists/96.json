@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Cartoon Candy",
+      "preview": "https://assets.ppy.sh/artists/96/previews/2542.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Cross The Finish Line [feat. Nanahira]",
+      "preview": "https://assets.ppy.sh/artists/96/previews/2543.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -42,6 +44,7 @@
     },
     {
       "title": "Glitched Character",
+      "preview": "https://assets.ppy.sh/artists/96/previews/2546.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -53,6 +56,7 @@
     },
     {
       "title": "HUG AND KILL",
+      "preview": "https://assets.ppy.sh/artists/96/Songs/Kobaryo_-_HUG_AND_KILL.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -64,6 +68,7 @@
     },
     {
       "title": "Kick To The Sky",
+      "preview": "https://assets.ppy.sh/artists/96/previews/2548.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -75,6 +80,7 @@
     },
     {
       "title": "Magical Sanctuary",
+      "preview": "https://assets.ppy.sh/artists/96/previews/2550.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -86,6 +92,7 @@
     },
     {
       "title": "Necrophagiatoast",
+      "preview": "https://assets.ppy.sh/artists/96/previews/2551.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -97,6 +104,7 @@
     },
     {
       "title": "New Game Plus",
+      "preview": "https://assets.ppy.sh/artists/96/previews/2552.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -110,6 +118,7 @@
     },
     {
       "title": "northern_limit [feat. Sennzai]",
+      "preview": "https://assets.ppy.sh/artists/96/previews/2562.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -121,6 +130,7 @@
     },
     {
       "title": "Perfect Neglect",
+      "preview": "https://assets.ppy.sh/artists/96/previews/2553.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -136,6 +146,7 @@
     },
     {
       "title": "Sulyvahn [feat. USAO]",
+      "preview": "https://assets.ppy.sh/artists/96/previews/2555.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -151,6 +162,7 @@
     },
     {
       "title": "SUPER MEMORIES",
+      "preview": "https://assets.ppy.sh/artists/96/previews/2563.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -166,6 +178,7 @@
     },
     {
       "title": "The Lightning Sword",
+      "preview": "https://assets.ppy.sh/artists/96/previews/2556.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -177,6 +190,7 @@
     },
     {
       "title": "Theme for Psychopath Justice",
+      "preview": "https://assets.ppy.sh/artists/96/previews/2557.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -193,6 +207,7 @@
     },
     {
       "title": "Tool-Assisted Speedcore (TQBF Frame Advance RMX)",
+      "preview": "https://assets.ppy.sh/artists/96/previews/2558.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -204,6 +219,7 @@
     },
     {
       "title": "Transceiver FX",
+      "preview": "https://assets.ppy.sh/artists/96/previews/2559.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -215,6 +231,7 @@
     },
     {
       "title": "Villain Virus [feat. Camellia]",
+      "preview": "https://assets.ppy.sh/artists/96/previews/2560.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -234,6 +251,7 @@
     },
     {
       "title": "Zero-Risk Syndrome",
+      "preview": "https://assets.ppy.sh/artists/96/previews/2561.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -245,44 +263,52 @@
     },
     {
       "title": "Aozora Gradation [feat. you]",
+      "preview": "https://assets.ppy.sh/artists/96/previews/2541.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Evolution Canceler",
+      "preview": "https://assets.ppy.sh/artists/96/previews/2544.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Galaxy Friends",
+      "preview": "https://assets.ppy.sh/artists/96/previews/2545.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gram vs. Kobaryo - Yggdrasil",
+      "preview": "https://assets.ppy.sh/artists/96/Songs/Gram_vs._Kobaryo_-_Yggdrasil.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kobaryo & Matatabi Sound System + DJ NECOJITA + Shinonome I/F + blaxervant - HARD-COREMATA (HVS VER.)",
+      "preview": "https://assets.ppy.sh/artists/96/Songs/Kobaryo__Matatabi_Sound_System__DJ_NECOJITA__Shinonome_IF__blaxervant_-_HARD-COREMATA_HVS_VER..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kobaryo feat. blaxervant - Spark of Mayhem",
+      "preview": "https://assets.ppy.sh/artists/96/Songs/Kobaryo_feat._blaxervant_-_Spark_of_Mayhem.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kumo No Kireme [feat. kourin]",
+      "preview": "https://assets.ppy.sh/artists/96/previews/2549.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Speedcore Psytama",
+      "preview": "https://assets.ppy.sh/artists/96/previews/2554.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:00:27Z"
+  "updated_at": "2026-03-31T00:38:23Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Maple Trick",
+      "preview": "https://assets.ppy.sh/artists/377/renew memory/beignet_-_Maple_Trick.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Mint Comet",
+      "preview": "https://assets.ppy.sh/artists/377/renew memory/beignet - Mint Comet.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "MOMO SYRUP (Intro Ver.)",
+      "preview": "https://assets.ppy.sh/artists/377/renew memory/beignet_-_MOMO_SYRUP_Intro_Ver..mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "S'more",
+      "preview": "https://assets.ppy.sh/artists/377/renew memory/beignet - S_more.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "Sign",
+      "preview": "https://assets.ppy.sh/artists/377/Stevia/beignet - Sign.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -59,19 +64,22 @@
     },
     {
       "title": "Asterism",
+      "preview": "https://assets.ppy.sh/artists/377/renew memory/beignet - Asterism.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mizutama",
+      "preview": "https://assets.ppy.sh/artists/377/renew memory/beignet - Mizutama.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tulala Story",
+      "preview": "https://assets.ppy.sh/artists/377/renew memory/beignet - Tulala Story.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:48:14Z"
+  "updated_at": "2026-03-30T23:26:15Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "benzo (with me eternal)",
+      "preview": "https://assets.ppy.sh/artists/57/semantics- the benzo chronicles/goreshit - benzo (with me eternal).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "broken promises/shattered dreams",
+      "preview": "https://assets.ppy.sh/artists/57/semantics- the benzo chronicles/goreshit - broken promisesshattered dreams.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "come find me",
+      "preview": "https://assets.ppy.sh/artists/57/rituals/goreshit - come find me.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "one way to hannover",
+      "preview": "https://assets.ppy.sh/artists/57/semantics- the benzo chronicles/goreshit - one way to hannover.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "resynth",
+      "preview": "https://assets.ppy.sh/artists/57/wish i was here (or how things went wrong)/goreshit - resynth.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -59,6 +64,7 @@
     },
     {
       "title": "the devil's work",
+      "preview": "https://assets.ppy.sh/artists/57/rituals/goreshit - the devil%27s work.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -70,6 +76,7 @@
     },
     {
       "title": "the pain of relief (we have our vices one and all)",
+      "preview": "https://assets.ppy.sh/artists/57/semantics- the benzo chronicles/goreshit - the pain of relief (we have our vices one and all).mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -85,6 +92,7 @@
     },
     {
       "title": "there are no angels here.",
+      "preview": "https://assets.ppy.sh/artists/57/semantics- the benzo chronicles/goreshit - there are no angels here..mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -96,6 +104,7 @@
     },
     {
       "title": "waste",
+      "preview": "https://assets.ppy.sh/artists/57/loather/goreshit - waste.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -108,6 +117,7 @@
     },
     {
       "title": "xenobeat",
+      "preview": "https://assets.ppy.sh/artists/57/rituals/goreshit - xenobeat.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -119,69 +129,82 @@
     },
     {
       "title": "arp4joy",
+      "preview": "https://assets.ppy.sh/artists/57/Misdirection/goreshit - arp4joy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "game over",
+      "preview": "https://assets.ppy.sh/artists/57/rituals/goreshit - game over.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "gravy All Over Him",
+      "preview": "https://assets.ppy.sh/artists/57/Misdirection/goreshit - gravy All Over Him.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "haunter",
+      "preview": "https://assets.ppy.sh/artists/57/loather/goreshit - haunter.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "held",
+      "preview": "https://assets.ppy.sh/artists/57/loather/goreshit - held.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "her eyes roll way back",
+      "preview": "https://assets.ppy.sh/artists/57/loather/goreshit - her eyes roll way back.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "higher",
+      "preview": "https://assets.ppy.sh/artists/57/lorazepam resonance EP/goreshit - higher.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "hurt to the core",
+      "preview": "https://assets.ppy.sh/artists/57/loather/goreshit - hurt to the core.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ligwiybd",
+      "preview": "https://assets.ppy.sh/artists/57/Misdirection/goreshit - ligwiybd.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "limbic",
+      "preview": "https://assets.ppy.sh/artists/57/lorazepam resonance EP/goreshit - limbic.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "loather",
+      "preview": "https://assets.ppy.sh/artists/57/loather/goreshit - loather.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "skin like leather",
+      "preview": "https://assets.ppy.sh/artists/57/loather/goreshit - skin like leather.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "tension",
+      "preview": "https://assets.ppy.sh/artists/57/loather/goreshit - tension.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:35:13Z"
+  "updated_at": "2026-03-31T00:13:07Z"
 }

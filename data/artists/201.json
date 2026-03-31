@@ -4,10 +4,15 @@
   "tracks": [
     {
       "title": "Ester - Dizzolve",
+      "preview": "https://assets.ppy.sh/artists/201/Good Life/Ester - Dizzolve.mp3",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          1867657
+        ],
         "taiko": [
           817528
         ]
@@ -15,6 +20,7 @@
     },
     {
       "title": "Ester - Krave",
+      "preview": "https://assets.ppy.sh/artists/201/Good Life/Ester - Krave.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -34,6 +40,7 @@
     },
     {
       "title": "Ester - Krave (Extended Ver.)",
+      "preview": "https://assets.ppy.sh/artists/201/Good Life/Ester - Krave (Extended Ver.).mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -45,6 +52,7 @@
     },
     {
       "title": "litmus* - Bliss",
+      "preview": "https://assets.ppy.sh/artists/201/Bliss/litmus - Bliss.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -56,6 +64,7 @@
     },
     {
       "title": "litmus* - Flux",
+      "preview": "https://assets.ppy.sh/artists/201/Songs/litmus - Flux.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -67,6 +76,7 @@
     },
     {
       "title": "litmus* - Rush-More",
+      "preview": "https://assets.ppy.sh/artists/201/Good Life/litmus - Rush-More.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -78,84 +88,100 @@
     },
     {
       "title": "Ester - Abandoned Planet",
+      "preview": "https://assets.ppy.sh/artists/201/Good Life/Ester - Abandoned Planet.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ester - Abandoned Planet (Extended Ver.)",
+      "preview": "https://assets.ppy.sh/artists/201/Good Life/Ester - Abandoned Planet (Extended Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ester - Dizzolve (Extended Ver.)",
+      "preview": "https://assets.ppy.sh/artists/201/Good Life/Ester - Dizzolve (Extended Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "litmus* - B612",
+      "preview": "https://assets.ppy.sh/artists/201/Songs/litmus - B612.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "litmus* - Bliss (Extended Ver.)",
+      "preview": "https://assets.ppy.sh/artists/201/Bliss/litmus - Bliss (Extended Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "litmus* - Flashdance",
+      "preview": "https://assets.ppy.sh/artists/201/Good Life/litmus - Flashdance.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "litmus* - Good Life",
+      "preview": "https://assets.ppy.sh/artists/201/Good Life/litmus - Good Life.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "litmus* - Good Life (Extended Ver.)",
+      "preview": "https://assets.ppy.sh/artists/201/Good Life/litmus - Good Life (Extended Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "litmus* - iterated",
+      "preview": "https://assets.ppy.sh/artists/201/Songs/litmus - iterated.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "litmus* - Rush-More (Extended Ver.)",
+      "preview": "https://assets.ppy.sh/artists/201/Good Life/litmus - Rush-More (Extended Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "litmus* - Scorpion Dance",
+      "preview": "https://assets.ppy.sh/artists/201/Songs/litmus - Scorpion Dance.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "litmus* - Scorpion Dance (Extended Ver.)",
+      "preview": "https://assets.ppy.sh/artists/201/Songs/litmus - Scorpion Dance (Extended Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "litmus* - The NightScape",
+      "preview": "https://assets.ppy.sh/artists/201/Songs/litmus - The NightScape.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "litmus* - The NightScape (Extended Ver.)",
+      "preview": "https://assets.ppy.sh/artists/201/Songs/litmus - The NightScape (Extended Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "litmus* - Tokamak",
+      "preview": "https://assets.ppy.sh/artists/201/Songs/litmus - Tokamak.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "litmus* vs Ester - Requiem for the Aura",
+      "preview": "https://assets.ppy.sh/artists/201/Songs/litmus__vs_Ester_-_Requiem_for_the_Aura.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:09:57Z"
+  "updated_at": "2026-03-31T00:47:58Z"
 }

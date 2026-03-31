@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Ideal",
+      "preview": "https://assets.ppy.sh/artists/105/previews/2767.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Main Heroine",
+      "preview": "https://assets.ppy.sh/artists/105/previews/2769.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -26,39 +28,46 @@
     },
     {
       "title": "Bad Attitude",
+      "preview": "https://assets.ppy.sh/artists/105/previews/2763.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Farewell",
+      "preview": "https://assets.ppy.sh/artists/105/previews/2764.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Friends",
+      "preview": "https://assets.ppy.sh/artists/105/previews/2765.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "I like cute girls (with Miraie)",
+      "preview": "https://assets.ppy.sh/artists/105/previews/2766.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Let's Go",
+      "preview": "https://assets.ppy.sh/artists/105/previews/2768.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Too Spicy",
+      "preview": "https://assets.ppy.sh/artists/105/previews/2770.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Unexplored Dungeon",
+      "preview": "https://assets.ppy.sh/artists/105/previews/2771.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:09:31Z"
+  "updated_at": "2026-03-30T23:47:20Z"
 }

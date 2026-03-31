@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Cast Away",
+      "preview": "https://assets.ppy.sh/artists/335/Songs/Etherwood - Cast Away.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Fall Awake",
+      "preview": "https://assets.ppy.sh/artists/335/Songs/Etherwood - Fall Awake.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -26,19 +28,22 @@
     },
     {
       "title": "Begin By Letting Go",
+      "preview": "https://assets.ppy.sh/artists/335/Songs/Etherwood - Begin By Letting Go.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Clouds (feat. Phoebe Freya)",
+      "preview": "https://assets.ppy.sh/artists/335/Songs/Etherwood - Clouds (feat. Phoebe Freya).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fire Lit Sky",
+      "preview": "https://assets.ppy.sh/artists/335/Songs/Etherwood - Fire Lit Sky.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:24:30Z"
+  "updated_at": "2026-03-31T00:02:20Z"
 }

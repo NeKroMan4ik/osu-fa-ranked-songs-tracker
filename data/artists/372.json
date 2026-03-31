@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Cinderella Syndrome",
+      "preview": "https://assets.ppy.sh/artists/372/Future Candy/YUC%27e - Cinderella Syndrome.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -23,6 +24,7 @@
     },
     {
       "title": "Cinnamon Symphony",
+      "preview": "https://assets.ppy.sh/artists/372/Cinnamon Symphony/YUC%27e - Cinnamon Symphony.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -34,6 +36,7 @@
     },
     {
       "title": "Future Candy",
+      "preview": "https://assets.ppy.sh/artists/372/Future Candy/YUC%27e - Future Candy.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -53,6 +56,7 @@
     },
     {
       "title": "intro-duck-tion!!",
+      "preview": "https://assets.ppy.sh/artists/372/Future Cake/YUC%27e - intro-duck-tion!!.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -64,6 +68,7 @@
     },
     {
       "title": "macaron moon",
+      "preview": "https://assets.ppy.sh/artists/372/macaron moon/YUC%27e - macaron moon.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -75,6 +80,7 @@
     },
     {
       "title": "Magical Mixer",
+      "preview": "https://assets.ppy.sh/artists/372/Magical Mixer/YUC%27e - Magical Mixer.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -94,6 +100,7 @@
     },
     {
       "title": "MUDPIE",
+      "preview": "https://assets.ppy.sh/artists/372/Future Cake/YUC%27e - MUDPIE.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -105,6 +112,7 @@
     },
     {
       "title": "POISON",
+      "preview": "https://assets.ppy.sh/artists/372/Future Candy/YUC%27e - POISON.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -116,6 +124,7 @@
     },
     {
       "title": "POISON -KO3 Remix-",
+      "preview": "https://assets.ppy.sh/artists/372/Magical Mixer/YUC%27e - POISON -KO3 Remix-.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -127,6 +136,7 @@
     },
     {
       "title": "PUMP",
+      "preview": "https://assets.ppy.sh/artists/372/Future Cake/YUC%27e - PUMP.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -138,6 +148,7 @@
     },
     {
       "title": "Sengoku HOP",
+      "preview": "https://assets.ppy.sh/artists/372/Future Cake/YUC%27e - Sengoku HOP.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -153,6 +164,7 @@
     },
     {
       "title": "SPACE INVADER",
+      "preview": "https://assets.ppy.sh/artists/372/Sugary Galaxy/YUC%27e - SPACE INVADER.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -172,6 +184,7 @@
     },
     {
       "title": "Sugary Galaxy",
+      "preview": "https://assets.ppy.sh/artists/372/Sugary Galaxy/YUC_e_-_Sugary_Galaxy.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -191,6 +204,7 @@
     },
     {
       "title": "Summer Lover!!",
+      "preview": "https://assets.ppy.sh/artists/372/Toy Frappe/YUCe_-_Summer_Lover.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -202,6 +216,7 @@
     },
     {
       "title": "Sunset Tea Cup",
+      "preview": "https://assets.ppy.sh/artists/372/Songs/YUC_e_-_Sunset_Tea_Cup.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -217,64 +232,76 @@
     },
     {
       "title": "Aiobahn - Shinen no Mermaid (w/ YUC'e)",
+      "preview": "https://assets.ppy.sh/artists/372/Songs/Aiobahn - Shinen no Mermaid (w YUC%27e).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aiobahn - Towa no Utage (w/ YUC'e)",
+      "preview": "https://assets.ppy.sh/artists/372/Songs/Aiobahn - Towa no Utage (w YUC%27e).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cappuccino -DJ Noriken Remix-",
+      "preview": "https://assets.ppy.sh/artists/372/Magical Mixer/YUC%27e - Cappuccino -DJ Noriken Remix-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cappuchino",
+      "preview": "https://assets.ppy.sh/artists/372/macaron moon/YUC%27e - Cappuchino.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cotton Candy Parade",
+      "preview": "https://assets.ppy.sh/artists/372/Future Cake/YUC%27e - Cotton Candy Parade.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Future Cake",
+      "preview": "https://assets.ppy.sh/artists/372/Future Cake/YUC%27e - Future Cake.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Night Club Junkie",
+      "preview": "https://assets.ppy.sh/artists/372/macaron moon/YUC%27e - Night Club Junkie.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Purple Planet",
+      "preview": "https://assets.ppy.sh/artists/372/Sugary Galaxy/YUC%27e - Purple Planet.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Secret Eve",
+      "preview": "https://assets.ppy.sh/artists/372/Secret Eve/YUC%27e - Secret Eve.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SOS",
+      "preview": "https://assets.ppy.sh/artists/372/CHERRY CUBE/YUC%27e - SOS.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Summer Night Hiking",
+      "preview": "https://assets.ppy.sh/artists/372/Summer Night Hiking/YUC%27e - Summer Night Hiking.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tick Tock",
+      "preview": "https://assets.ppy.sh/artists/372/Future Candy/YUC%27e - Tick Tock.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T23:04:04Z"
+  "updated_at": "2026-03-31T02:42:54Z"
 }

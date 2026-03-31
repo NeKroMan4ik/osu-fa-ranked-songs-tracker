@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "By Holding You Close I'm Pushing You Further",
+      "preview": "https://assets.ppy.sh/artists/34/previews/834.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Library Girl",
+      "preview": "https://assets.ppy.sh/artists/34/previews/836.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Our Story",
+      "preview": "https://assets.ppy.sh/artists/34/previews/837.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -41,6 +44,7 @@
     },
     {
       "title": "Sense of Nostalgia",
+      "preview": "https://assets.ppy.sh/artists/34/previews/839.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -52,6 +56,7 @@
     },
     {
       "title": "Sunflower",
+      "preview": "https://assets.ppy.sh/artists/34/previews/840.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -71,6 +76,7 @@
     },
     {
       "title": "Take Your Swimsuit",
+      "preview": "https://assets.ppy.sh/artists/34/previews/841.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -82,6 +88,7 @@
     },
     {
       "title": "Waterflow",
+      "preview": "https://assets.ppy.sh/artists/34/previews/842.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -94,29 +101,34 @@
     },
     {
       "title": "and here am I, forgotten",
+      "preview": "https://assets.ppy.sh/artists/34/previews/844.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dancing in Blue",
+      "preview": "https://assets.ppy.sh/artists/34/previews/835.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Saturate",
+      "preview": "https://assets.ppy.sh/artists/34/previews/838.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "that love so far away",
+      "preview": "https://assets.ppy.sh/artists/34/previews/845.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "We Are The Gems",
+      "preview": "https://assets.ppy.sh/artists/34/previews/843.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:40:32Z"
+  "updated_at": "2026-03-31T02:19:12Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "NEVER GONNA GIVE YOU UP",
+      "preview": "https://assets.ppy.sh/artists/490/UWU EP/Juwubi - NEVER GONNA GIVE YOU UP.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,29 +16,34 @@
     },
     {
       "title": "H1GH D!VE",
+      "preview": "https://assets.ppy.sh/artists/490/Songs/Juwubi_-_H1GH_DVE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HYPER C#M",
+      "preview": "https://assets.ppy.sh/artists/490/HYPER C%23M/Juwubi - HYPER C%23M.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "JAZZY C#M",
+      "preview": "https://assets.ppy.sh/artists/490/UWU EP/Juwubi - JAZZY C%23M.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Prima Luce ~ The Last Light of Revelation ~",
+      "preview": "https://assets.ppy.sh/artists/490/Juwubi - Prima Luce %7E The Last Light of Revelation/Juwubi - Prima Luce %7E The Last Light of Revelation %7E.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Primordial Reflection ~A Retrograde Adventure~",
+      "preview": "https://assets.ppy.sh/artists/490/Juwubi - Primordial Reflection  %7EA Retrogade Adventure%7E/Juwubi - Primordial Reflection %7EA Retrograde Adventure%7E.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:52:33Z"
+  "updated_at": "2026-03-31T00:30:24Z"
 }

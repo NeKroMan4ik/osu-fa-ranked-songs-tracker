@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Shawn Wasabi - HALO HALO (feat. Chevy)",
+      "preview": "https://assets.ppy.sh/artists/139/MANGOTALE/Shawn Wasabi - HALO HALO (feat. Chevy).mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Shawn Wasabi - Otter Pop (feat. Hollis)",
+      "preview": "https://assets.ppy.sh/artists/139/Otter Pop (feat. Hollis)/Shawn Wasabi - Otter Pop (feat. Hollis).mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -34,44 +36,52 @@
     },
     {
       "title": "Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY)",
+      "preview": "https://assets.ppy.sh/artists/139/Burnt Rice (feat. Yung GEMMY)/Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix)",
+      "preview": "https://assets.ppy.sh/artists/139/Burnt Rice (feat. Yung GEMMY)/Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shawn Wasabi - IGLOO",
+      "preview": "https://assets.ppy.sh/artists/139/MANGOTALE/Shawn Wasabi - IGLOO.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shawn Wasabi - LEMONS (feat. kennedi)",
+      "preview": "https://assets.ppy.sh/artists/139/MANGOTALE/Shawn Wasabi - LEMONS feat. kennedi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shawn Wasabi - LOVE POTION (feat. raychel jay)",
+      "preview": "https://assets.ppy.sh/artists/139/MANGOTALE/Shawn Wasabi - LOVE POTION (feat. raychel jay).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shawn Wasabi - SPICY BOYFRIEND",
+      "preview": "https://assets.ppy.sh/artists/139/SPICY BOYFRIEND/Shawn Wasabi - SPICY BOYFRIEND.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shawn Wasabi - SQUEEZ (feat. raychel jay)",
+      "preview": "https://assets.ppy.sh/artists/139/Squeez/Shawn Wasabi - SQUEEZ (feat. raychel jay).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shawn Wasabi - the snack that smiles back (feat. raychel jay)",
+      "preview": "https://assets.ppy.sh/artists/139/MANGOTALE/Shawn Wasabi - the snack that smiles back (feat. raychel jay).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:17:37Z"
+  "updated_at": "2026-03-31T01:56:06Z"
 }

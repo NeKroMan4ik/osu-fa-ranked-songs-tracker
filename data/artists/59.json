@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Alive",
+      "preview": "https://assets.ppy.sh/artists/59/previews/1675.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Closer",
+      "preview": "https://assets.ppy.sh/artists/59/previews/1676.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Sparks",
+      "preview": "https://assets.ppy.sh/artists/59/previews/1680.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Survival League",
+      "preview": "https://assets.ppy.sh/artists/59/previews/1681.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "Wolves",
+      "preview": "https://assets.ppy.sh/artists/59/previews/1684.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -59,29 +64,34 @@
     },
     {
       "title": "Loop",
+      "preview": "https://assets.ppy.sh/artists/59/previews/1677.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Prayer",
+      "preview": "https://assets.ppy.sh/artists/59/previews/1678.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "So Clear",
+      "preview": "https://assets.ppy.sh/artists/59/previews/1679.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Telepathetic",
+      "preview": "https://assets.ppy.sh/artists/59/previews/1682.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "W4573",
+      "preview": "https://assets.ppy.sh/artists/59/previews/1683.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:54:21Z"
+  "updated_at": "2026-03-31T02:33:06Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Mesheer",
+      "preview": "https://assets.ppy.sh/artists/239/Songs/MisoilePunch - Mesheer.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -23,6 +24,7 @@
     },
     {
       "title": "Overrrload!!",
+      "preview": "https://assets.ppy.sh/artists/239/Songs/MisoilePunch - Overrrload!!.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -34,44 +36,52 @@
     },
     {
       "title": "Connect feeling",
+      "preview": "https://assets.ppy.sh/artists/239/Songs/MisoilePunch - Connect feeling.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MisoilePunch feat. KIRARI - I Re:s",
+      "preview": "https://assets.ppy.sh/artists/239/Songs/MisoilePunch feat. KIRARI - I Res.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MisoilePunch ~Harumaki Soe~ - DisXloss",
+      "preview": "https://assets.ppy.sh/artists/239/Songs/MisoilePunch %7EHarumaki Soe%7E - DisXloss.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MisoilePunch ~Mikan Shirugake~ - Whyte pain",
+      "preview": "https://assets.ppy.sh/artists/239/Songs/MisoilePunch %7EMikan Shirugake%7E - Whyte pain.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MisoilePunch ~pan soe~ - MeTear'n TruX",
+      "preview": "https://assets.ppy.sh/artists/239/Songs/MisoilePunch %7Epan soe%7E - MeTear%27n TruX.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MisoilePunch ~Shiratama soe~ - LosTear'n HeriX",
+      "preview": "https://assets.ppy.sh/artists/239/Songs/MisoilePunch %7EShiratama soe%7E - LosTear%27n HeriX.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MisoilePunch ~Takenoko Soe~ - Jack Out KIllER",
+      "preview": "https://assets.ppy.sh/artists/239/Songs/MisoilePunch %7ETakenoko Soe%7E - Jack Out KIllER.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Re:union",
+      "preview": "https://assets.ppy.sh/artists/239/Songs/MisoilePunch - Reunion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:23:57Z"
+  "updated_at": "2026-03-31T01:02:04Z"
 }

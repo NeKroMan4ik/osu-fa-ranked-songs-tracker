@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "AImee feat. Aitsuki Nakuru",
+      "preview": "https://assets.ppy.sh/artists/378/Make Some Noise for Mr%E2%80%8B.%E2%80%8BC/C-Show - AImee feat. Aitsuki Nakuru.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -16,6 +17,7 @@
     },
     {
       "title": "Border Line",
+      "preview": "https://assets.ppy.sh/artists/378/Songs/C-Show - Border Line.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -27,6 +29,7 @@
     },
     {
       "title": "Make Some Noise for Mr.C",
+      "preview": "https://assets.ppy.sh/artists/378/Make Some Noise for Mr%E2%80%8B.%E2%80%8BC/C-Show - Make Some Noise for Mr.C.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -38,6 +41,7 @@
     },
     {
       "title": "Rocking to the Beat",
+      "preview": "https://assets.ppy.sh/artists/378/Songs/C-Show - Rocking to the Beat.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -49,6 +53,7 @@
     },
     {
       "title": "WorkaHolic",
+      "preview": "https://assets.ppy.sh/artists/378/Songs/C-Show - WorkaHolic.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -60,94 +65,112 @@
     },
     {
       "title": "Between the Stars feat. Ishizawa Yukari",
+      "preview": "https://assets.ppy.sh/artists/378/Songs/C-Show - Between the Stars feat. Ishizawa Yukari.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Black Blood",
+      "preview": "https://assets.ppy.sh/artists/378/Songs/C-Show - Black Blood.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "C-Show feat. Aitsuki Nakuru - Kimi Konomi flavor",
+      "preview": "https://assets.ppy.sh/artists/378/Songs/C-Show feat. Aitsuki Nakuru - Kimi Konomi flavor.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "CHASING The ENEMY feat. Ishizawa Yukari",
+      "preview": "https://assets.ppy.sh/artists/378/Make Some Noise for Mr%E2%80%8B.%E2%80%8BC/C-Show - CHASING The ENEMY feat. Ishizawa Yukari.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DROP THE RAVE",
+      "preview": "https://assets.ppy.sh/artists/378/Songs/C-Show - DROP THE RAVE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fall in Love with Seaside Mermaid",
+      "preview": "https://assets.ppy.sh/artists/378/Songs/C-Show - Fall in Love with Seaside Mermaid.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "FUSHI ANA",
+      "preview": "https://assets.ppy.sh/artists/378/Songs/C-Show - FUSHI ANA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kugenumakaigen-eki no Toire kara Detara Hakushu ga Okotta Wake Da ga",
+      "preview": "https://assets.ppy.sh/artists/378/Songs/C-Show - Kugenumakaigen-eki no Toire kara Detara Hakushu ga Okotta Wake Da ga.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Minna de Jump Shitai Toki no Theme Song ~UK Hardcore o Soete~",
+      "preview": "https://assets.ppy.sh/artists/378/Songs/C-Show - Minna de Jump Shitai Toki no Theme Song %7EUK Hardcore o Soete%7E.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mother Ship Destruct",
+      "preview": "https://assets.ppy.sh/artists/378/Songs/C-Show - Mother Ship Destruct.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Never Cry Again",
+      "preview": "https://assets.ppy.sh/artists/378/Songs/C-Show - Never Cry Again.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Panic Pandemic",
+      "preview": "https://assets.ppy.sh/artists/378/Songs/C-Show - Panic Pandemic.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Partition Trouble",
+      "preview": "https://assets.ppy.sh/artists/378/Songs/C-Show - Partition Trouble.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shiny Mirrorball",
+      "preview": "https://assets.ppy.sh/artists/378/Songs/C-Show - Shiny Mirrorball.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SHOCK",
+      "preview": "https://assets.ppy.sh/artists/378/Songs/C-Show - SHOCK.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "sideflip",
+      "preview": "https://assets.ppy.sh/artists/378/Songs/C-Show - sideflip.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "U",
+      "preview": "https://assets.ppy.sh/artists/378/Songs/C-Show - U.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "War Machine",
+      "preview": "https://assets.ppy.sh/artists/378/Songs/C-Show - War Machine.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:57:26Z"
+  "updated_at": "2026-03-30T23:35:22Z"
 }

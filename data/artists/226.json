@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Imperial Prime Aggression",
+      "preview": "https://assets.ppy.sh/artists/226/Reverse Clock/siromaru - Imperial Prime Aggression.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,109 +16,130 @@
     },
     {
       "title": "Actual Reverse",
+      "preview": "https://assets.ppy.sh/artists/226/Reverse Clock/siromaru - Actual Reverse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Beyond the Horizon",
+      "preview": "https://assets.ppy.sh/artists/226/Beyond the Horizon/siromaru - Beyond the Horizon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Bring it back now",
+      "preview": "https://assets.ppy.sh/artists/226/Reverse Clock/siromaru - Bring it back now.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chocolate Murder",
+      "preview": "https://assets.ppy.sh/artists/226/Daizy Cutter/siromaru - Chocolate Murder.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Contractual Release",
+      "preview": "https://assets.ppy.sh/artists/226/Reverse Clock/siromaru - Contractual Release.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "D-D-Dice vs. siromaru - Catch the Glory",
+      "preview": "https://assets.ppy.sh/artists/226/Songs/D-D-Dice_vs._siromaru_-_Catch_the_Glory.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Factual Rebirth",
+      "preview": "https://assets.ppy.sh/artists/226/Reverse Clock/siromaru - Factual Rebirth.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gensou Kaiki no Omochabako",
+      "preview": "https://assets.ppy.sh/artists/226/Songs/siromaru - Gensou Kaiki no Omochabako.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hollow Glitter",
+      "preview": "https://assets.ppy.sh/artists/226/THE HEKATONCHEIRES 2/siromaru - Hollow Glitter.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "INNOCENT NOIZE - Gravity Fallout",
+      "preview": "https://assets.ppy.sh/artists/226/Reverse Clock/INNOCENT NOIZE - Gravity Fallout.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "INNOCENT NOIZE - Last Noble Flame",
+      "preview": "https://assets.ppy.sh/artists/226/Reverse Clock/INNOCENT NOIZE - Last Noble Flame.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "INNOCENT NOIZE - Reverse Clock",
+      "preview": "https://assets.ppy.sh/artists/226/Reverse Clock/INNOCENT NOIZE - Reverse Clock.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Scarlet Volition",
+      "preview": "https://assets.ppy.sh/artists/226/Reverse Clock/siromaru - Scarlet Volition.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sirius-742-E",
+      "preview": "https://assets.ppy.sh/artists/226/Beyond the Horizon/siromaru - Sirius-742-E.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "siromaru (Support: yujurie) - Crafty Fact",
+      "preview": "https://assets.ppy.sh/artists/226/Reverse Clock/siromaru (Support yujurie) - Crafty Fact.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "siromaru + cranky - conflict",
+      "preview": "https://assets.ppy.sh/artists/226/Songs/siromaru %2B cranky - conflict.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Stribog",
+      "preview": "https://assets.ppy.sh/artists/226/Reverse Clock/siromaru - Stribog.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Team Grimoire vs. siromaru - Glasya-Labolas",
+      "preview": "https://assets.ppy.sh/artists/226/Monochrome Rainbow/Team Grimoire vs. siromaru - Glasya-Labolas.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tsuzumi",
+      "preview": "https://assets.ppy.sh/artists/226/Beyond the Horizon/siromaru - Tsuzumi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Warp Drive",
+      "preview": "https://assets.ppy.sh/artists/226/Beyond the Horizon/siromaru - Warp Drive.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Xiphoid Sphere (xi + siromaru) - Keraunos",
+      "preview": "https://assets.ppy.sh/artists/226/Monochrome Rainbow/Xiphoid Sphere (xi %2B siromaru) - Keraunos.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:20:44Z"
+  "updated_at": "2026-03-31T01:59:14Z"
 }

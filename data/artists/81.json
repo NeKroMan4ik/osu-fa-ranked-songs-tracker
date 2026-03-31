@@ -4,21 +4,23 @@
   "tracks": [
     {
       "title": "Adrift",
+      "preview": "https://assets.ppy.sh/artists/81/previews/2151.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "osu": [
           1171207
         ],
-        "osu": [
+        "taiko": [
           1171207
         ]
       }
     },
     {
       "title": "Home",
+      "preview": "https://assets.ppy.sh/artists/81/previews/2147.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -39,6 +41,7 @@
     },
     {
       "title": "Jump Error",
+      "preview": "https://assets.ppy.sh/artists/81/previews/2157.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -50,6 +53,7 @@
     },
     {
       "title": "Love",
+      "preview": "https://assets.ppy.sh/artists/81/previews/2148.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -69,6 +73,7 @@
     },
     {
       "title": "Sync",
+      "preview": "https://assets.ppy.sh/artists/81/previews/2150.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -80,59 +85,70 @@
     },
     {
       "title": "Adventure",
+      "preview": "https://assets.ppy.sh/artists/81/previews/2146.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Beta's Brilliancy",
+      "preview": "https://assets.ppy.sh/artists/81/previews/2152.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Club Wolf",
+      "preview": "https://assets.ppy.sh/artists/81/previews/2153.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Counter of the Cumulus",
+      "preview": "https://assets.ppy.sh/artists/81/previews/2154.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Day of Reflection",
+      "preview": "https://assets.ppy.sh/artists/81/previews/2155.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ensis",
+      "preview": "https://assets.ppy.sh/artists/81/previews/2156.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nature",
+      "preview": "https://assets.ppy.sh/artists/81/previews/2149.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Prologue",
+      "preview": "https://assets.ppy.sh/artists/81/previews/2158.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Submerciful",
+      "preview": "https://assets.ppy.sh/artists/81/previews/2159.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The New Formation",
+      "preview": "https://assets.ppy.sh/artists/81/previews/2160.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Wagering Lights",
+      "preview": "https://assets.ppy.sh/artists/81/previews/2161.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:14:53Z"
+  "updated_at": "2026-03-30T23:52:40Z"
 }

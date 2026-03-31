@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Another",
+      "preview": "https://assets.ppy.sh/artists/341/Another/Cinamoro - Another.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "linen",
+      "preview": "https://assets.ppy.sh/artists/341/linen/Cinamoro - linen.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -30,6 +32,7 @@
     },
     {
       "title": "Mare Tranquillitatis",
+      "preview": "https://assets.ppy.sh/artists/341/Mare Tranquillitatis/Cinamoro - Mare Tranquillitatis.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -41,6 +44,7 @@
     },
     {
       "title": "Paleturquoise",
+      "preview": "https://assets.ppy.sh/artists/341/Paleturquoise/Cinamoro - Paleturquoise.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -52,14 +56,16 @@
     },
     {
       "title": "Cinamoro - Variations on D Minor (feat. PLORALD)",
+      "preview": "https://assets.ppy.sh/artists/341/Variations on D Minor/Cinamoro - Variations on D Minor (feat. PLORALD).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Crimson (\"Blood Red\" Long Ver.)",
+      "preview": "https://assets.ppy.sh/artists/341/Crimson/Cinamoro - Crimson (Blood Red Long Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:04:45Z"
+  "updated_at": "2026-03-30T23:42:36Z"
 }

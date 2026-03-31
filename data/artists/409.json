@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "AmbidextrouS ~The Alchemist of The Left x The Sage of The Right~",
+      "preview": "https://assets.ppy.sh/artists/409/AmbidextrouS %7EThe Alchemist of The Left x The Sage of The Right%7E/ptar124 - AmbidextrouS %7EThe Alchemist of The Left x The Sage of The Right%7E.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -15,49 +16,58 @@
     },
     {
       "title": "A Platter of Primes",
+      "preview": "https://assets.ppy.sh/artists/409/Songs/ptar124_-_A_Platter_of_Primes.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "aqua regia",
+      "preview": "https://assets.ppy.sh/artists/409/aqua regia/ptar124 - aqua regia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "aqua vitae feat. Kagamine Rin & Kagamine Len",
+      "preview": "https://assets.ppy.sh/artists/409/aqua vitae/ptar124 - aqua vitae feat. Kagamine Rin %26 Kagamine Len.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Insurrection",
+      "preview": "https://assets.ppy.sh/artists/409/Songs/ptar124 - Insurrection.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "OCTAGRAM ~Dai Happyaku Hachijuu Hachi Ji Makai Taisen~",
+      "preview": "https://assets.ppy.sh/artists/409/OCTAGRAM %7EDai Happyaku Hachijuu Hachi Ji Makai Taisen%7E/ptar124 - OCTAGRAM %7EDai Happyaku Hachijuu Hachi Ji Makai Taisen%7E.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Premonition",
+      "preview": "https://assets.ppy.sh/artists/409/Songs/ptar124 - Premonition.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ptar124 feat. SEKAI vs. takehirotei - The Arcanists' Heist of 739 Magia Era",
+      "preview": "https://assets.ppy.sh/artists/409/The Arcanists_ Heist of 739 Magia Era/ptar124 feat. SEKAI vs. takehirotei - The Arcanists_ Heist of 739 Magia Era.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Solitude In Shadow feat. Ethereal_Winter",
+      "preview": "https://assets.ppy.sh/artists/409/Songs/ptar124_-_Solitude_In_Shadow_feat._Ethereal_Winter.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Viatores Nebulae (ptar124 & SiLiS) - Ad infinitum ~ein sof~",
+      "preview": "https://assets.ppy.sh/artists/409/Ad infinitum %7Eein sof%7E/Viatores Nebulae (ptar124 %26 SiLiS) - Ad infinitum %7Eein sof%7E.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:48:46Z"
+  "updated_at": "2026-03-31T01:27:02Z"
 }

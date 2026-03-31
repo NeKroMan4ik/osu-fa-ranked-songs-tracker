@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Cold Fusion",
+      "preview": "https://assets.ppy.sh/artists/367/Cold Fusion/kanemiko - Cold Fusion.mp3",
       "ranked_modes": [
         "fruits",
         "mania"
@@ -22,6 +23,7 @@
     },
     {
       "title": "comet casting capsule (\"catching celestial clusters\" Long Version)",
+      "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko_-_comet_casting_capsule_catching_celestial_clusters_Long_Version.mp3",
       "ranked_modes": [
         "fruits",
         "mania"
@@ -38,6 +40,7 @@
     },
     {
       "title": "Electrolytes",
+      "preview": "https://assets.ppy.sh/artists/367/HARDCORE UTOPIA 3/kanemiko - Electrolytes.mp3",
       "ranked_modes": [
         "fruits",
         "mania"
@@ -54,6 +57,7 @@
     },
     {
       "title": "Ruin in Cascade",
+      "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko_-_Ruin_in_Cascade.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -74,6 +78,7 @@
     },
     {
       "title": "Twilight of the Abyss",
+      "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko_-_Twilight_of_the_Abyss.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -85,49 +90,58 @@
     },
     {
       "title": "comet casting capsule",
+      "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko_-_comet_casting_capsule.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dream Escapism Fantasia",
+      "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko_-_Dream_Escapism_Fantasia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fragment:Unsaved",
+      "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko_-_FragmentUnsaved.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "kanemiko & Kyutatsuki & Aoi - Fractal Vertex",
+      "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko__Kyutatsuki__Aoi_-_Fractal_Vertex.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "kanemiko feat. usagidenki - Impermanence",
+      "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko_feat._usagidenki_-_Impermanence.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kurokotei x kanemiko - astranelique",
+      "preview": "https://assets.ppy.sh/artists/367/Songs/Kurokotei_x_kanemiko_-_astranelique.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Stellar Proximity Shift",
+      "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko_-_Stellar_Proximity_Shift.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Curse Of The Lovely Fox",
+      "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko_-_The_Curse_Of_The_Lovely_Fox.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Us4KKi - Aria for Lepus",
+      "preview": "https://assets.ppy.sh/artists/367/Songs/Us4KKi_-_Aria_for_Lepus.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:53:46Z"
+  "updated_at": "2026-03-31T00:31:39Z"
 }

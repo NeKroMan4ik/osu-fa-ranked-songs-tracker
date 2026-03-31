@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Amanojaku",
+      "preview": "https://assets.ppy.sh/artists/23/previews/502.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Chandelier - King",
+      "preview": "https://assets.ppy.sh/artists/23/previews/516.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -30,6 +32,7 @@
     },
     {
       "title": "CHASER",
+      "preview": "https://assets.ppy.sh/artists/23/previews/495.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -41,6 +44,7 @@
     },
     {
       "title": "Crocus",
+      "preview": "https://assets.ppy.sh/artists/23/previews/483.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -52,6 +56,7 @@
     },
     {
       "title": "Danger & Danger",
+      "preview": "https://assets.ppy.sh/artists/23/previews/453.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -63,6 +68,7 @@
     },
     {
       "title": "EMPEROR",
+      "preview": "https://assets.ppy.sh/artists/23/previews/496.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -74,6 +80,7 @@
     },
     {
       "title": "EVERGREEN",
+      "preview": "https://assets.ppy.sh/artists/23/previews/470.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -90,6 +97,7 @@
     },
     {
       "title": "Feline, the White...",
+      "preview": "https://assets.ppy.sh/artists/23/previews/508.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -107,6 +115,7 @@
     },
     {
       "title": "Flugel",
+      "preview": "https://assets.ppy.sh/artists/23/previews/2094.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -119,6 +128,7 @@
     },
     {
       "title": "Hanaarashi",
+      "preview": "https://assets.ppy.sh/artists/23/previews/497.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -130,6 +140,7 @@
     },
     {
       "title": "Into the Unknown",
+      "preview": "https://assets.ppy.sh/artists/23/previews/443.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -141,6 +152,7 @@
     },
     {
       "title": "J219",
+      "preview": "https://assets.ppy.sh/artists/23/previews/444.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -152,6 +164,7 @@
     },
     {
       "title": "JULIAN",
+      "preview": "https://assets.ppy.sh/artists/23/previews/445.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -163,6 +176,7 @@
     },
     {
       "title": "La fuite des jours",
+      "preview": "https://assets.ppy.sh/artists/23/previews/488.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -174,6 +188,7 @@
     },
     {
       "title": "Libera me",
+      "preview": "https://assets.ppy.sh/artists/23/previews/526.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -192,6 +207,7 @@
     },
     {
       "title": "Luvin' You",
+      "preview": "https://assets.ppy.sh/artists/23/previews/456.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -203,6 +219,7 @@
     },
     {
       "title": "R176",
+      "preview": "https://assets.ppy.sh/artists/23/previews/462.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -219,6 +236,7 @@
     },
     {
       "title": "Ran",
+      "preview": "https://assets.ppy.sh/artists/23/previews/501.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -234,6 +252,7 @@
     },
     {
       "title": "Rave 2 Rave",
+      "preview": "https://assets.ppy.sh/artists/23/previews/463.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -245,6 +264,7 @@
     },
     {
       "title": "T&J",
+      "preview": "https://assets.ppy.sh/artists/23/previews/504.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -261,6 +281,7 @@
     },
     {
       "title": "The Five",
+      "preview": "https://assets.ppy.sh/artists/23/previews/449.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -272,6 +293,7 @@
     },
     {
       "title": "Time Alter",
+      "preview": "https://assets.ppy.sh/artists/23/previews/503.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -283,6 +305,7 @@
     },
     {
       "title": "X-Y-Z",
+      "preview": "https://assets.ppy.sh/artists/23/previews/513.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -294,6 +317,7 @@
     },
     {
       "title": "Zeijakunaru Inori - Aganai no Chinkonka",
+      "preview": "https://assets.ppy.sh/artists/23/previews/507.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -305,289 +329,346 @@
     },
     {
       "title": "07xx1999",
+      "preview": "https://assets.ppy.sh/artists/23/previews/466.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "101 kittens",
+      "preview": "https://assets.ppy.sh/artists/23/previews/437.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "1970",
+      "preview": "https://assets.ppy.sh/artists/23/previews/467.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "1st Anniversary",
+      "preview": "https://assets.ppy.sh/artists/23/previews/438.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "260",
+      "preview": "https://assets.ppy.sh/artists/23/previews/451.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ash",
+      "preview": "https://assets.ppy.sh/artists/23/previews/452.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Bestrafung",
+      "preview": "https://assets.ppy.sh/artists/23/previews/494.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Canon",
+      "preview": "https://assets.ppy.sh/artists/23/previews/512.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Car Sax",
+      "preview": "https://assets.ppy.sh/artists/23/previews/482.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "crystal glass",
+      "preview": "https://assets.ppy.sh/artists/23/previews/484.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "D.D.C.",
+      "preview": "https://assets.ppy.sh/artists/23/previews/439.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "El Do ra do",
+      "preview": "https://assets.ppy.sh/artists/23/previews/468.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Emerald",
+      "preview": "https://assets.ppy.sh/artists/23/previews/469.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "For Your Love",
+      "preview": "https://assets.ppy.sh/artists/23/previews/442.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Forza Azzurri",
+      "preview": "https://assets.ppy.sh/artists/23/previews/455.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gekkabijin",
+      "preview": "https://assets.ppy.sh/artists/23/previews/485.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Holy Winter #3",
+      "preview": "https://assets.ppy.sh/artists/23/previews/471.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "I CAN'T BELIEVE",
+      "preview": "https://assets.ppy.sh/artists/23/previews/486.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kirakira",
+      "preview": "https://assets.ppy.sh/artists/23/previews/487.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "La Promesse",
+      "preview": "https://assets.ppy.sh/artists/23/previews/509.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "LAPPISCH",
+      "preview": "https://assets.ppy.sh/artists/23/previews/489.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Maharaja Trance",
+      "preview": "https://assets.ppy.sh/artists/23/previews/472.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MATADOR",
+      "preview": "https://assets.ppy.sh/artists/23/previews/457.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MILLION DOLLAR",
+      "preview": "https://assets.ppy.sh/artists/23/previews/473.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MIMOZA",
+      "preview": "https://assets.ppy.sh/artists/23/previews/510.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moonlight Sonata",
+      "preview": "https://assets.ppy.sh/artists/23/previews/514.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nagi=Raving-Heart",
+      "preview": "https://assets.ppy.sh/artists/23/previews/440.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "NaNa kirakira",
+      "preview": "https://assets.ppy.sh/artists/23/previews/490.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Neon & Light",
+      "preview": "https://assets.ppy.sh/artists/23/previews/474.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Never Forever",
+      "preview": "https://assets.ppy.sh/artists/23/previews/475.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "P.A.L.",
+      "preview": "https://assets.ppy.sh/artists/23/previews/511.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PAL,36",
+      "preview": "https://assets.ppy.sh/artists/23/previews/458.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Party 4U",
+      "preview": "https://assets.ppy.sh/artists/23/previews/459.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Phantom Pianist -session #1",
+      "preview": "https://assets.ppy.sh/artists/23/previews/498.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "positive 3rd",
+      "preview": "https://assets.ppy.sh/artists/23/previews/446.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "positive dance '2nd RAVE'",
+      "preview": "https://assets.ppy.sh/artists/23/previews/499.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "positive dance 'Final RAVE'",
+      "preview": "https://assets.ppy.sh/artists/23/previews/476.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "power of love",
+      "preview": "https://assets.ppy.sh/artists/23/previews/477.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Printemps",
+      "preview": "https://assets.ppy.sh/artists/23/previews/478.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Puppe",
+      "preview": "https://assets.ppy.sh/artists/23/previews/500.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "pure my heart",
+      "preview": "https://assets.ppy.sh/artists/23/previews/460.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PWRPFF RAVES",
+      "preview": "https://assets.ppy.sh/artists/23/previews/461.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Reimai",
+      "preview": "https://assets.ppy.sh/artists/23/previews/447.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rosone",
+      "preview": "https://assets.ppy.sh/artists/23/previews/515.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SALON & CHALON",
+      "preview": "https://assets.ppy.sh/artists/23/previews/491.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "save the music",
+      "preview": "https://assets.ppy.sh/artists/23/previews/448.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Save the Page",
+      "preview": "https://assets.ppy.sh/artists/23/previews/441.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "siromaru + cranky - conflict",
+      "preview": "https://assets.ppy.sh/artists/23/previews/525.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Snow",
+      "preview": "https://assets.ppy.sh/artists/23/previews/464.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "STRANGER LOVE",
+      "preview": "https://assets.ppy.sh/artists/23/previews/454.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SUPER JACKPOT",
+      "preview": "https://assets.ppy.sh/artists/23/previews/465.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Survival Game",
+      "preview": "https://assets.ppy.sh/artists/23/previews/492.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The God of Beauty",
+      "preview": "https://assets.ppy.sh/artists/23/previews/479.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "to the heaven",
+      "preview": "https://assets.ppy.sh/artists/23/previews/505.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "une brise d'automne",
+      "preview": "https://assets.ppy.sh/artists/23/previews/506.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "V.L.S.I.",
+      "preview": "https://assets.ppy.sh/artists/23/previews/480.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Wolly no Natsuyasumi",
+      "preview": "https://assets.ppy.sh/artists/23/previews/493.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:08:03Z"
+  "updated_at": "2026-03-30T23:45:52Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Digital",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst - Digital.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Droplet",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst - Droplet.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Fate",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst - Fate.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Pagoda",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Xomu & Amidst - Pagoda.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "Phantasy",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst - Phantasy.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -59,109 +64,130 @@
     },
     {
       "title": "Awake",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst - Awake.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Carousel",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst x Sacry - Carousel.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Change",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst - Change.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Condor",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Glascade & Amidst - Condor.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Crane",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst - Crane.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Curse",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst - Curse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Destination",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst - Destination.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dreamin'",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst - Dreamin'.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Drive",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst - Drive.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Escapism",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst - Escapism.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fall With Me",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst - Fall With Me.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Flight",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst - Flight.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Flutter",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst - Flutter.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hana",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst - Hana.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hunter",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst x OIU x D I V I N I T Y - Hunter.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kendama",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst - Kendama.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moment",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst - Moment.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Need U",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst & OHEY - Need U.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Our Love (feat. Jaime Deraz)",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst - Our Love (feat. Jaime Deraz).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Touch",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst - Touch.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Treat",
+      "preview": "https://assets.ppy.sh/artists/151/Songs/Amidst - Treat.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:39:31Z"
+  "updated_at": "2026-03-30T23:17:31Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "alpine blue",
+      "preview": "https://assets.ppy.sh/artists/234/Nylon Town/Annabel - alpine blue.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Call Me",
+      "preview": "https://assets.ppy.sh/artists/234/caracol/Annabel - Call Me.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "caracol",
+      "preview": "https://assets.ppy.sh/artists/234/caracol/Annabel - caracol.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Enrai",
+      "preview": "https://assets.ppy.sh/artists/234/slow light%2C slow glass/Annabel - Enrai.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "glimmer",
+      "preview": "https://assets.ppy.sh/artists/234/caracol/Annabel - glimmer.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -63,6 +68,7 @@
     },
     {
       "title": "howl",
+      "preview": "https://assets.ppy.sh/artists/234/melt stars in vanilla haze/Annabel - howl.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -75,6 +81,7 @@
     },
     {
       "title": "Kareru",
+      "preview": "https://assets.ppy.sh/artists/234/slow light%2C slow glass/Annabel - Kareru.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -86,6 +93,7 @@
     },
     {
       "title": "lilac slumber -cosmic ver.-",
+      "preview": "https://assets.ppy.sh/artists/234/cosmic gardener/Annabel - lilac slumber -cosmic ver.-.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -101,6 +109,7 @@
     },
     {
       "title": "little voice",
+      "preview": "https://assets.ppy.sh/artists/234/caracol/Annabel - little voice.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -112,6 +121,7 @@
     },
     {
       "title": "Palermo",
+      "preview": "https://assets.ppy.sh/artists/234/caracol/Annabel - Palermo.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -124,6 +134,7 @@
     },
     {
       "title": "pedalnote",
+      "preview": "https://assets.ppy.sh/artists/234/caracol/Annabel - pedalnote.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -137,6 +148,7 @@
     },
     {
       "title": "Slow Light Bird",
+      "preview": "https://assets.ppy.sh/artists/234/slow light%2C slow glass/Annabel - Slow Light Bird.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -148,6 +160,7 @@
     },
     {
       "title": "Transient",
+      "preview": "https://assets.ppy.sh/artists/234/caracol/Annabel - Transient.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -164,6 +177,7 @@
     },
     {
       "title": "wormhole",
+      "preview": "https://assets.ppy.sh/artists/234/fall into a lilac slumber/Annabel - wormhole.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -183,49 +197,58 @@
     },
     {
       "title": "aphelion point",
+      "preview": "https://assets.ppy.sh/artists/234/cosmic gardener/Annabel - aphelion point.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "cosmic gardener",
+      "preview": "https://assets.ppy.sh/artists/234/cosmic gardener/Annabel - cosmic gardener.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "helical symmetry",
+      "preview": "https://assets.ppy.sh/artists/234/caracol/Annabel - helical symmetry.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "lettre",
+      "preview": "https://assets.ppy.sh/artists/234/caracol/Annabel - lettre.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Muishiki no Machi",
+      "preview": "https://assets.ppy.sh/artists/234/Nylon Town/Annabel - Muishiki no Machi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Natsu no Awa",
+      "preview": "https://assets.ppy.sh/artists/234/slow light%2C slow glass/Annabel - Natsu no Awa.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "steam driven girl",
+      "preview": "https://assets.ppy.sh/artists/234/cosmic gardener/Annabel - steam driven girl.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tabi ni Deru",
+      "preview": "https://assets.ppy.sh/artists/234/caracol/Annabel - Tabi ni Deru.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "takeoff climb",
+      "preview": "https://assets.ppy.sh/artists/234/slow light%2C slow glass/Annabel - takeoff climb.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:41:05Z"
+  "updated_at": "2026-03-30T23:19:05Z"
 }

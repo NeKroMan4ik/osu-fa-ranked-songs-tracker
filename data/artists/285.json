@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Ping! 2",
+      "preview": "https://assets.ppy.sh/artists/285/Ping! 2/Exyl - Ping! 2.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,39 +16,46 @@
     },
     {
       "title": "A Rare Call in Winter",
+      "preview": "https://assets.ppy.sh/artists/285/A Rare Call in Winter/Exyl - A Rare Call in Winter.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Egg",
+      "preview": "https://assets.ppy.sh/artists/285/Egg/Exyl - Egg.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Exyl and Dalux - Nice Logo",
+      "preview": "https://assets.ppy.sh/artists/285/Nice Logo/Exyl and Dalux - Nice Logo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moai",
+      "preview": "https://assets.ppy.sh/artists/285/Moai/Exyl - Moai.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Never Letting Go",
+      "preview": "https://assets.ppy.sh/artists/285/Songs/Exyl - Never Letting Go.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ping!",
+      "preview": "https://assets.ppy.sh/artists/285/Ping!/Exyl - Ping!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Terraria",
+      "preview": "https://assets.ppy.sh/artists/285/Terraria/Exyl - Terraria.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:25:08Z"
+  "updated_at": "2026-03-31T00:02:58Z"
 }

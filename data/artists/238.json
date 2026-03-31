@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Everything Has Changed",
+      "preview": "https://assets.ppy.sh/artists/238/Realize/HEAD PHONES PRESIDENT - Everything Has Changed.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Until I Die",
+      "preview": "https://assets.ppy.sh/artists/238/Respawn/HEAD PHONES PRESIDENT - Until I Die.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,44 +28,52 @@
     },
     {
       "title": "Alive",
+      "preview": "https://assets.ppy.sh/artists/238/Realize/HEAD PHONES PRESIDENT - Alive.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Devil Inside Me",
+      "preview": "https://assets.ppy.sh/artists/238/Respawn/HEAD PHONES PRESIDENT - Devil Inside Me.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Echo",
+      "preview": "https://assets.ppy.sh/artists/238/Respawn/HEAD PHONES PRESIDENT - Echo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "For You",
+      "preview": "https://assets.ppy.sh/artists/238/Respawn/HEAD PHONES PRESIDENT - For You.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fucking Day",
+      "preview": "https://assets.ppy.sh/artists/238/Respawn/HEAD PHONES PRESIDENT - Fucking Day.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "I'm Not You",
+      "preview": "https://assets.ppy.sh/artists/238/Respawn/HEAD PHONES PRESIDENT - I%27m Not You.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Life Goes On",
+      "preview": "https://assets.ppy.sh/artists/238/Respawn/HEAD PHONES PRESIDENT - Life Goes On.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Respawn",
+      "preview": "https://assets.ppy.sh/artists/238/Respawn/HEAD PHONES PRESIDENT - Respawn.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:38:24Z"
+  "updated_at": "2026-03-31T00:16:18Z"
 }

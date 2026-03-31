@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Aquaphilia",
+      "preview": "https://assets.ppy.sh/artists/373/Songs/Supire - Aquaphilia.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Borderline Of The Moon",
+      "preview": "https://assets.ppy.sh/artists/373/Twilight EP/Supire - Borderline Of The Moon.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Dead Aire",
+      "preview": "https://assets.ppy.sh/artists/373/Songs/Supire_-_Dead_Aire.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Forgotten Hate",
+      "preview": "https://assets.ppy.sh/artists/373/Howling EP/Supire - Forgotten Hate.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -53,6 +57,7 @@
     },
     {
       "title": "Helios",
+      "preview": "https://assets.ppy.sh/artists/373/Songs/Supire - Helios.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -64,6 +69,7 @@
     },
     {
       "title": "KUKRI",
+      "preview": "https://assets.ppy.sh/artists/373/Songs/Supire_-_KUKRI.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -76,6 +82,7 @@
     },
     {
       "title": "Nebula",
+      "preview": "https://assets.ppy.sh/artists/373/Songs/Supire_-_Nebula.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -91,6 +98,7 @@
     },
     {
       "title": "Sabbath",
+      "preview": "https://assets.ppy.sh/artists/373/Songs/Supire - Sabbath.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -102,6 +110,7 @@
     },
     {
       "title": "The Last Man",
+      "preview": "https://assets.ppy.sh/artists/373/Twilight EP/Supire - The Last Man.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -113,34 +122,40 @@
     },
     {
       "title": "DJKurara & Supire - Search And Destroy",
+      "preview": "https://assets.ppy.sh/artists/373/Twilight EP/DJKurara %26 Supire - Search And Destroy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "kaitendaentai - Toki no Ryousen (Supire Remix)",
+      "preview": "https://assets.ppy.sh/artists/373/Songs/kaitendaentai - Toki no Ryousen (Supire Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Spire - Evening Sky Force",
+      "preview": "https://assets.ppy.sh/artists/373/Old Works/Spire - Evening Sky Force.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Spire - Libidinem",
+      "preview": "https://assets.ppy.sh/artists/373/Old Works/Spire - Libidinem.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Spire - Sayounara",
+      "preview": "https://assets.ppy.sh/artists/373/Old Works/Spire - Sayounara.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Spire - Somnambulism",
+      "preview": "https://assets.ppy.sh/artists/373/otonikki vol. 3/Spire - Somnambulism.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:28:24Z"
+  "updated_at": "2026-03-31T02:06:56Z"
 }

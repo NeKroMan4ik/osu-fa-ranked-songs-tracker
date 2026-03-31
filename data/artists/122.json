@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Angel",
+      "preview": "https://assets.ppy.sh/artists/122/Daisy/Lifetheory - Angel.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Daisy",
+      "preview": "https://assets.ppy.sh/artists/122/Daisy/Lifetheory - Daisy.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -41,6 +43,7 @@
     },
     {
       "title": "Defervescence",
+      "preview": "https://assets.ppy.sh/artists/122/Songs/Lifetheory - Defervescence.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -52,6 +55,7 @@
     },
     {
       "title": "Fairy",
+      "preview": "https://assets.ppy.sh/artists/122/Daisy/Lifetheory - Fairy.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -63,6 +67,7 @@
     },
     {
       "title": "Lullaby For A Tough Guy",
+      "preview": "https://assets.ppy.sh/artists/122/Daisy/Lifetheory - Lullaby For A Tough Guy.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -74,6 +79,7 @@
     },
     {
       "title": "Sakura",
+      "preview": "https://assets.ppy.sh/artists/122/Daisy/Lifetheory - Sakura.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -85,6 +91,7 @@
     },
     {
       "title": "The Showdown",
+      "preview": "https://assets.ppy.sh/artists/122/Songs/Lifetheory - The Showdown.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -96,64 +103,76 @@
     },
     {
       "title": "Battlefield",
+      "preview": "https://assets.ppy.sh/artists/122/Daisy/Lifetheory - Battlefield.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Beginning",
+      "preview": "https://assets.ppy.sh/artists/122/Songs/Lifetheory - Beginning.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Evening Blues",
+      "preview": "https://assets.ppy.sh/artists/122/Songs/Lifetheory - Evening Blues.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Heart of Stone",
+      "preview": "https://assets.ppy.sh/artists/122/Daisy/Lifetheory - Heart of Stone.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Help Is On The Way",
+      "preview": "https://assets.ppy.sh/artists/122/Songs/Lifetheory - Help Is On The Way.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Orchestra Boom",
+      "preview": "https://assets.ppy.sh/artists/122/Songs/Lifetheory - Orchestra Boom.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Smile",
+      "preview": "https://assets.ppy.sh/artists/122/Daisy/Lifetheory - Smile.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Spring Is Coming",
+      "preview": "https://assets.ppy.sh/artists/122/Daisy/Lifetheory - Spring Is Coming.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "This Is Not The End",
+      "preview": "https://assets.ppy.sh/artists/122/Daisy/Lifetheory - This Is Not The End.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Twilight Part 1",
+      "preview": "https://assets.ppy.sh/artists/122/Songs/Lifetheory - Twilight Part 1.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Twilight Part 2",
+      "preview": "https://assets.ppy.sh/artists/122/Songs/Lifetheory - Twilight Part 2.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Zinnia",
+      "preview": "https://assets.ppy.sh/artists/122/Zinnia/Lifetheory - Zinnia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:07:33Z"
+  "updated_at": "2026-03-31T00:45:34Z"
 }

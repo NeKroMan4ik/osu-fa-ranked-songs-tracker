@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Chromatic Aberration",
+      "preview": "https://assets.ppy.sh/artists/50/previews/1494.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Chromatic Lights",
+      "preview": "https://assets.ppy.sh/artists/50/previews/1495.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -30,6 +32,7 @@
     },
     {
       "title": "Come Hell or High Water",
+      "preview": "https://assets.ppy.sh/artists/50/previews/1496.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -46,6 +49,7 @@
     },
     {
       "title": "Mute",
+      "preview": "https://assets.ppy.sh/artists/50/previews/1497.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -62,6 +66,7 @@
     },
     {
       "title": "The Spark of the Archon",
+      "preview": "https://assets.ppy.sh/artists/50/previews/1499.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -73,6 +78,7 @@
     },
     {
       "title": "Your Familiar Face",
+      "preview": "https://assets.ppy.sh/artists/50/previews/1500.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -84,9 +90,10 @@
     },
     {
       "title": "Passage",
+      "preview": "https://assets.ppy.sh/artists/50/previews/1498.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:31:51Z"
+  "updated_at": "2026-03-31T01:10:01Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Bismuth",
+      "preview": "https://assets.ppy.sh/artists/459/HARDCORE UTOPIA IV/Ludicin - Bismuth.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -28,6 +29,7 @@
     },
     {
       "title": "Clinozoisite",
+      "preview": "https://assets.ppy.sh/artists/459/HARDCORE UTOPIA V/Ludicin - Clinozoisite.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -52,6 +54,7 @@
     },
     {
       "title": "Echoes of Memoria",
+      "preview": "https://assets.ppy.sh/artists/459/Echoes of Memoria/Ludicin - Echoes of Memoria.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -82,6 +85,7 @@
     },
     {
       "title": "Everlasting Eternity",
+      "preview": "https://assets.ppy.sh/artists/459/Everlasting Eternity/Ludicin - Everlasting Eternity.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -106,6 +110,7 @@
     },
     {
       "title": "Fallen Symphony",
+      "preview": "https://assets.ppy.sh/artists/459/Fallen Symphony/Ludicin - Fallen Symphony.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -127,6 +132,7 @@
     },
     {
       "title": "Lost Requiem",
+      "preview": "https://assets.ppy.sh/artists/459/Songs/Ludicin - Lost Requiem.mp3",
       "ranked_modes": [
         "fruits",
         "mania"
@@ -146,6 +152,7 @@
     },
     {
       "title": "Onus Regulus",
+      "preview": "https://assets.ppy.sh/artists/459/Onus Regulus/Ludicin - Onus Regulus.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -157,6 +164,7 @@
     },
     {
       "title": "Signal",
+      "preview": "https://assets.ppy.sh/artists/459/Signal/Ludicin - Signal.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -168,19 +176,22 @@
     },
     {
       "title": "Luminency",
+      "preview": "https://assets.ppy.sh/artists/459/Luminenecy/Ludicin - Luminency.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Obliterate",
+      "preview": "https://assets.ppy.sh/artists/459/Obliterate/Ludicin - Obliterate.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "State of Mind",
+      "preview": "https://assets.ppy.sh/artists/459/State of Mind/Ludicin - State of Mind.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:13:05Z"
+  "updated_at": "2026-03-31T00:51:07Z"
 }

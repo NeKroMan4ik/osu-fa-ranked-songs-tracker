@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Dream Leaf",
+      "preview": "https://assets.ppy.sh/artists/292/Midori no Tegami/Mitsukiyo - Dream Leaf.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Juu Rokuji no Hitoritabi",
+      "preview": "https://assets.ppy.sh/artists/292/yumebako/Mitsukiyo - Juu Rokuji no Hitoritabi.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -30,6 +32,7 @@
     },
     {
       "title": "Kimi to Boku no Sekai (feat. *namirin)",
+      "preview": "https://assets.ppy.sh/artists/292/Balloon Party/Mitsukiyo - Kimi to Boku no Sekai (feat. namirin).mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -46,6 +49,7 @@
     },
     {
       "title": "Mikansei Romantic (feat. Kotono)",
+      "preview": "https://assets.ppy.sh/artists/292/Mikansei Romantic/Mitsukiyo - Mikansei Romantic (feat. Kotonoha).mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -58,6 +62,7 @@
     },
     {
       "title": "Mutual Panorama (feat. Aitsuki Nakuru)",
+      "preview": "https://assets.ppy.sh/artists/292/Balloon Party/Mitsukiyo - Mutual Panorama (feat. Aitsuki Nakuru).mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -73,25 +78,27 @@
     },
     {
       "title": "Snow Stardust (feat. hynaxis)",
+      "preview": "https://assets.ppy.sh/artists/292/Balloon Party/Mitsukiyo - Snow Stardust (feat. hynaxis).mp3",
       "ranked_modes": [
         "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          2481117
-        ],
         "osu": [
           2481117
         ],
         "mania": [
+          2481117
+        ],
+        "taiko": [
           2481117
         ]
       }
     },
     {
       "title": "YU.ME.NO !",
+      "preview": "https://assets.ppy.sh/artists/292/Yume no Kissaten/Mitsukiyo - YU.ME.NO !.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -103,6 +110,7 @@
     },
     {
       "title": "Yume no Kissaten",
+      "preview": "https://assets.ppy.sh/artists/292/Yume no Kissaten/Mitsukiyo - Yume no Kissaten.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -114,6 +122,7 @@
     },
     {
       "title": "Yume no Potential (feat. *namirin)",
+      "preview": "https://assets.ppy.sh/artists/292/Balloon Party/Mitsukiyo - Yume no Potential (feat. namirin).mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -125,19 +134,22 @@
     },
     {
       "title": "Balloon Party (feat. *namirin)",
+      "preview": "https://assets.ppy.sh/artists/292/Balloon Party/Mitsukiyo - Balloon Party (feat. namirin).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Koiiro Tsubasa (feat. kiichigo)",
+      "preview": "https://assets.ppy.sh/artists/292/Balloon Party/Mitsukiyo - Koiiro Tsubasa (feat. kiichigo).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Souzou Odyssey (feat. Hiina)",
+      "preview": "https://assets.ppy.sh/artists/292/Balloon Party/Mitsukiyo - Souzou Odyssey (feat. Hiina).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:24:23Z"
+  "updated_at": "2026-03-31T01:02:31Z"
 }

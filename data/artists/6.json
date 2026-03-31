@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "BANANA STREET",
+      "preview": "https://assets.ppy.sh/artists/6/previews/33.mp3?20161104",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "BUBBLE TEA (feat. juu & cinders)",
+      "preview": "https://assets.ppy.sh/artists/6/previews/34.mp3?20161104",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -31,6 +33,7 @@
     },
     {
       "title": "CRAZY MILK 2",
+      "preview": "https://assets.ppy.sh/artists/6/previews/1258.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -42,6 +45,7 @@
     },
     {
       "title": "ELINE",
+      "preview": "https://assets.ppy.sh/artists/6/previews/1259.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -53,6 +57,7 @@
     },
     {
       "title": "hot chocolate",
+      "preview": "https://assets.ppy.sh/artists/6/previews/405.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -68,6 +73,7 @@
     },
     {
       "title": "pursuit of happiness",
+      "preview": "https://assets.ppy.sh/artists/6/previews/35.mp3?20161104",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -83,6 +89,7 @@
     },
     {
       "title": "STARS ALIGN",
+      "preview": "https://assets.ppy.sh/artists/6/previews/36.mp3?20161104",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -98,54 +105,64 @@
     },
     {
       "title": "BLISS (feat. JHACS)",
+      "preview": "https://assets.ppy.sh/artists/6/previews/1256.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BREAD DREAMS",
+      "preview": "https://assets.ppy.sh/artists/6/previews/1257.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "FALLING LOVE (feat. jade hikari)",
+      "preview": "https://assets.ppy.sh/artists/6/previews/1260.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "LOVERS' OASIS",
+      "preview": "https://assets.ppy.sh/artists/6/previews/1261.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MAPLE ADVENTURE",
+      "preview": "https://assets.ppy.sh/artists/6/previews/1262.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "NO STOPPING US (feat. jenny)",
+      "preview": "https://assets.ppy.sh/artists/6/previews/1263.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SLEEPING WITH YOU",
+      "preview": "https://assets.ppy.sh/artists/6/previews/1264.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "STRAWBERRY ROAD",
+      "preview": "https://assets.ppy.sh/artists/6/previews/1265.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "UNDERWATER POOL",
+      "preview": "https://assets.ppy.sh/artists/6/previews/1266.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "YOU'RE EVERYTHING (feat. juu)",
+      "preview": "https://assets.ppy.sh/artists/6/previews/1267.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:13:12Z"
+  "updated_at": "2026-03-30T23:51:00Z"
 }

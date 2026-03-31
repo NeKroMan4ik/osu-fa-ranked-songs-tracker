@@ -4,25 +4,27 @@
   "tracks": [
     {
       "title": ".357 Magnum",
+      "preview": "https://assets.ppy.sh/artists/727/Songs/xi - .357 Magnum.mp3",
       "ranked_modes": [
         "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          155749
-        ],
         "osu": [
           155749
         ],
         "mania": [
+          155749
+        ],
+        "taiko": [
           155749
         ]
       }
     },
     {
       "title": "Akasha",
+      "preview": "https://assets.ppy.sh/artists/727/Songs/xi - Akasha.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -44,6 +46,7 @@
     },
     {
       "title": "Angelic Party",
+      "preview": "https://assets.ppy.sh/artists/727/Songs/xi - Angelic Party.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -55,6 +58,7 @@
     },
     {
       "title": "Aragami",
+      "preview": "https://assets.ppy.sh/artists/727/World Fragments/xi - Aragami.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -68,16 +72,17 @@
         "fruits": [
           609324
         ],
-        "taiko": [
+        "osu": [
           225377
         ],
-        "osu": [
+        "taiko": [
           225377
         ]
       }
     },
     {
       "title": "Ascension to Heaven",
+      "preview": "https://assets.ppy.sh/artists/727/Parousia/xi - Ascension to Heaven.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -113,6 +118,7 @@
     },
     {
       "title": "Bad Elixir",
+      "preview": "https://assets.ppy.sh/artists/727/Quietus Ray/xi - Bad Elixir.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -136,6 +142,7 @@
     },
     {
       "title": "Beatrice",
+      "preview": "https://assets.ppy.sh/artists/727/Parousia/xi - Beatrice.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -148,6 +155,7 @@
     },
     {
       "title": "Blue Zenith",
+      "preview": "https://assets.ppy.sh/artists/727/Parousia/xi - Blue Zenith.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -172,6 +180,7 @@
     },
     {
       "title": "Breakthrough Atmosphere",
+      "preview": "https://assets.ppy.sh/artists/727/Songs/xi - Breakthrough Atmosphere.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -187,6 +196,7 @@
     },
     {
       "title": "d e a t h  p i a n o ~for four pianos~",
+      "preview": "https://assets.ppy.sh/artists/727/Songs/xi - d e a t h  p i a n o %7Efor four pianos%7E.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -199,6 +209,7 @@
     },
     {
       "title": "Double Helix",
+      "preview": "https://assets.ppy.sh/artists/727/World Fragments/xi - Double Helix.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -223,6 +234,7 @@
     },
     {
       "title": "Evolve Cybernation",
+      "preview": "https://assets.ppy.sh/artists/727/Parousia/xi - Evolve Cybernation.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -234,6 +246,7 @@
     },
     {
       "title": "Finder keepers",
+      "preview": "https://assets.ppy.sh/artists/727/Parousia/xi - Finder keepers.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -249,6 +262,7 @@
     },
     {
       "title": "FREEDOM DiVE",
+      "preview": "https://assets.ppy.sh/artists/727/Parousia/xi - FREEDOM DiVE.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -256,16 +270,16 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          39804,
-          1613246,
-          2237410
-        ],
         "osu": [
           39804,
           761041,
           1074758,
           1667560,
+          2237410
+        ],
+        "taiko": [
+          39804,
+          1613246,
           2237410
         ],
         "fruits": [
@@ -281,6 +295,7 @@
     },
     {
       "title": "Garyou Tensei",
+      "preview": "https://assets.ppy.sh/artists/727/Songs/xi - Garyou Tensei.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -301,6 +316,7 @@
     },
     {
       "title": "Halcyon",
+      "preview": "https://assets.ppy.sh/artists/727/Parousia/xi - Halcyon.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -317,6 +333,7 @@
     },
     {
       "title": "Halcyon -Long Version-",
+      "preview": "https://assets.ppy.sh/artists/727/Parousia/xi - Halcyon -Long Version-.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -333,6 +350,7 @@
     },
     {
       "title": "Happy End of the World",
+      "preview": "https://assets.ppy.sh/artists/727/Agartha/xi - Happy End of the World.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -358,6 +376,7 @@
     },
     {
       "title": "Jackknife",
+      "preview": "https://assets.ppy.sh/artists/727/Evolved Chronicles/xi - Jackknife.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -373,6 +392,7 @@
     },
     {
       "title": "Longinus",
+      "preview": "https://assets.ppy.sh/artists/727/Quietus Ray/xi - Longinus.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -392,6 +412,7 @@
     },
     {
       "title": "Mirage Garden",
+      "preview": "https://assets.ppy.sh/artists/727/Parousia/xi - Mirage Garden.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -412,6 +433,7 @@
     },
     {
       "title": "Mjolnir",
+      "preview": "https://assets.ppy.sh/artists/727/Songs/xi_-_Mjolnir.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -423,6 +445,7 @@
     },
     {
       "title": "over the top",
+      "preview": "https://assets.ppy.sh/artists/727/World Fragments/xi - over the top.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -439,6 +462,7 @@
     },
     {
       "title": "Parousia",
+      "preview": "https://assets.ppy.sh/artists/727/Parousia/xi - Parousia.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -466,6 +490,7 @@
     },
     {
       "title": "Sedap Malam",
+      "preview": "https://assets.ppy.sh/artists/727/Parousia/xi - Sedap Malam.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -478,6 +503,7 @@
     },
     {
       "title": "Time files",
+      "preview": "https://assets.ppy.sh/artists/727/Songs/xi - Time files.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -498,6 +524,7 @@
     },
     {
       "title": "Valhalla",
+      "preview": "https://assets.ppy.sh/artists/727/Agartha/xi - Valhalla.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -509,6 +536,7 @@
     },
     {
       "title": "Vanitas",
+      "preview": "https://assets.ppy.sh/artists/727/Songs/xi - Vanitas.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -520,6 +548,7 @@
     },
     {
       "title": "White Peak",
+      "preview": "https://assets.ppy.sh/artists/727/Evolved Chronicles/xi - White Peak.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -532,6 +561,7 @@
     },
     {
       "title": "World Fragments II",
+      "preview": "https://assets.ppy.sh/artists/727/World Fragments/xi - World Fragments II.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -543,6 +573,7 @@
     },
     {
       "title": "World Fragments III",
+      "preview": "https://assets.ppy.sh/artists/727/World Fragments/xi - World Fragments III.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -558,6 +589,7 @@
     },
     {
       "title": "Zephyros",
+      "preview": "https://assets.ppy.sh/artists/727/AD-Nearly 180/xi - Zephyros.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -569,54 +601,64 @@
     },
     {
       "title": "Agartha",
+      "preview": "https://assets.ppy.sh/artists/727/Agartha/xi - Agartha.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ancient Relics",
+      "preview": "https://assets.ppy.sh/artists/727/Quietus Ray/xi - Ancient Relics.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Azalea",
+      "preview": "https://assets.ppy.sh/artists/727/Songs/xi - Azalea.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Information Transmission",
+      "preview": "https://assets.ppy.sh/artists/727/Agartha/xi - Information Transmission.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Iolite",
+      "preview": "https://assets.ppy.sh/artists/727/Quietus Ray/xi - Iolite.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tenimuhou",
+      "preview": "https://assets.ppy.sh/artists/727/Agartha/xi - Tenimuhou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "To Live",
+      "preview": "https://assets.ppy.sh/artists/727/Quietus Ray/xi - To Live.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "wild card",
+      "preview": "https://assets.ppy.sh/artists/727/Agartha/xi - wild card.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "World Fragments I",
+      "preview": "https://assets.ppy.sh/artists/727/World Fragments/xi - World Fragments I.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "xi respect for F.F.Chopin - F",
+      "preview": "https://assets.ppy.sh/artists/727/Songs/xi respect for F.F.Chopin - F.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T23:01:23Z"
+  "updated_at": "2026-03-31T02:40:11Z"
 }

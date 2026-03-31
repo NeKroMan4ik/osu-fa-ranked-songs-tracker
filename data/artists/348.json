@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Asmodeus",
+      "preview": "https://assets.ppy.sh/artists/348/Beyond the Darkness/SWORD OF JUSTICE - Asmodeus.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Beyond the Darkness",
+      "preview": "https://assets.ppy.sh/artists/348/Beyond the Darkness/SWORD OF JUSTICE - Beyond the Darkness.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -30,6 +32,7 @@
     },
     {
       "title": "Glacial Blaze",
+      "preview": "https://assets.ppy.sh/artists/348/Silver Wings/SWORD OF JUSTICE - Glacial Blaze.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -41,6 +44,7 @@
     },
     {
       "title": "Happy Birthday to You",
+      "preview": "https://assets.ppy.sh/artists/348/Songs/SWORD OF JUSTICE - Happy Birthday to You.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -53,19 +57,22 @@
     },
     {
       "title": "Lake of Tears",
+      "preview": "https://assets.ppy.sh/artists/348/Silver Wings/SWORD OF JUSTICE - Lake of Tears.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Messiah",
+      "preview": "https://assets.ppy.sh/artists/348/Beyond the Darkness/SWORD OF JUSTICE - Messiah.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sword of Justice",
+      "preview": "https://assets.ppy.sh/artists/348/Beyond the Darkness/SWORD OF JUSTICE - Sword of Justice.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:28:34Z"
+  "updated_at": "2026-03-31T02:07:06Z"
 }

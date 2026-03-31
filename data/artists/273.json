@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Akarui Taiyo",
+      "preview": "https://assets.ppy.sh/artists/273/Akarui Taiyo/SAMString - Akarui Taiyo.mp3",
       "ranked_modes": [
         "fruits",
         "mania"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Ataraxia",
+      "preview": "https://assets.ppy.sh/artists/273/Ataraxia/SAMString - Ataraxia.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -34,6 +36,7 @@
     },
     {
       "title": "Forget The Promise",
+      "preview": "https://assets.ppy.sh/artists/273/Sakura/SAMString - Forget The Promise.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -45,6 +48,7 @@
     },
     {
       "title": "Night Fighter",
+      "preview": "https://assets.ppy.sh/artists/273/Night Figther/SAMString - Night Fighter.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -60,6 +64,7 @@
     },
     {
       "title": "NUMA",
+      "preview": "https://assets.ppy.sh/artists/273/NUMA/SAMString - NUMA.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -75,6 +80,7 @@
     },
     {
       "title": "Quamara",
+      "preview": "https://assets.ppy.sh/artists/273/Songs/SAMString - Quamara.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -86,6 +92,7 @@
     },
     {
       "title": "Sakura's Fall",
+      "preview": "https://assets.ppy.sh/artists/273/Sakura/SAMString - Sakura%27s Fall.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -98,6 +105,7 @@
     },
     {
       "title": "Shifting Clouds",
+      "preview": "https://assets.ppy.sh/artists/273/Sakura/SAMString - Shifting Clouds.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -109,64 +117,76 @@
     },
     {
       "title": "Aqua Cycle",
+      "preview": "https://assets.ppy.sh/artists/273/Sakura/SAMString - Aqua Cycle.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Bamboo Spring",
+      "preview": "https://assets.ppy.sh/artists/273/Sakura/SAMString - Bamboo Spring.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "C.H.A.S.E.",
+      "preview": "https://assets.ppy.sh/artists/273/Sakura/SAMString - C.H.A.S.E..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Celestial Solace",
+      "preview": "https://assets.ppy.sh/artists/273/Celestial Solace/SAMString - Celestial Solace.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Crystalised Euphoria",
+      "preview": "https://assets.ppy.sh/artists/273/Crystalised Euphoria/SAMString - Crystalised Euphoria.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dreams Of Awakening",
+      "preview": "https://assets.ppy.sh/artists/273/Sakura/SAMString - Dreams Of Awakening.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Flower Petals",
+      "preview": "https://assets.ppy.sh/artists/273/Sakura/SAMString - Flower Petals.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Impetus",
+      "preview": "https://assets.ppy.sh/artists/273/Impetus/SAMString - Impetus.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "La Memoria",
+      "preview": "https://assets.ppy.sh/artists/273/Sakura/SAMString - La Memoria.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lost In Imagination",
+      "preview": "https://assets.ppy.sh/artists/273/Sakura/SAMString - Lost In Imagination.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "New Horizon",
+      "preview": "https://assets.ppy.sh/artists/273/Songs/SAMString - New Horizon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "U.N. Owen Was Her (SAMString Remix)",
+      "preview": "https://assets.ppy.sh/artists/273/Songs/SAMString - U.N. Owen Was Her (SAMString Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:10:04Z"
+  "updated_at": "2026-03-31T01:48:33Z"
 }

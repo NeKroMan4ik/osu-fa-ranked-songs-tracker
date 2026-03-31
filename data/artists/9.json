@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Candy (feat. Sara)",
+      "preview": "https://assets.ppy.sh/artists/9/previews/89.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -19,6 +20,7 @@
     },
     {
       "title": "I Will Pick You Up (feat. Tamika)",
+      "preview": "https://assets.ppy.sh/artists/9/previews/95.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -38,6 +40,7 @@
     },
     {
       "title": "I'll See You Again (feat. Chi Chi)",
+      "preview": "https://assets.ppy.sh/artists/9/previews/94.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -49,6 +52,7 @@
     },
     {
       "title": "Pika Girl",
+      "preview": "https://assets.ppy.sh/artists/9/previews/98.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -64,6 +68,7 @@
     },
     {
       "title": "Ravers Mashup",
+      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_-_Ravers_Mashup.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -79,6 +84,7 @@
     },
     {
       "title": "Well, That Was Awkward",
+      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_-_Well_That_Was_Awkward.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -90,119 +96,142 @@
     },
     {
       "title": "Bass Slut (feat. Tamika)",
+      "preview": "https://assets.ppy.sh/artists/9/previews/88.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Catchit",
+      "preview": "https://assets.ppy.sh/artists/9/previews/90.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Feel The Melody (feat. Sara)",
+      "preview": "https://assets.ppy.sh/artists/9/previews/91.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "FriendZoned (feat. Mixe Moon & MC Offside)",
+      "preview": "https://assets.ppy.sh/artists/9/previews/92.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Genre Police (feat. Lexi)",
+      "preview": "https://assets.ppy.sh/artists/9/previews/93.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Little Kandi Raver 2012 (feat. Sara)",
+      "preview": "https://assets.ppy.sh/artists/9/previews/96.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MTC",
+      "preview": "https://assets.ppy.sh/artists/9/previews/97.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "R4V3 B0Y (feat. Krystal)",
+      "preview": "https://assets.ppy.sh/artists/9/previews/99.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rainbow Girl (feat. Tamika)",
+      "preview": "https://assets.ppy.sh/artists/9/previews/100.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "S3RL & DJ Satomi feat. Ukiko - Endless Summer",
+      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL__DJ_Satomi_feat._Ukiko_-_Endless_Summer.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "S3RL feat. DEFI BRILATOR - Spoiler Alert",
+      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._DEFI_BRILATOR_-_Spoiler_Alert.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "S3RL feat. Emi - Escape",
+      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Emi_-_Escape.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "S3RL feat. Harri Rush - Nostalgic",
+      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Harri_Rush_-_Nostalgic.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "S3RL feat. JessKah - T-T-Techno",
+      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._JessKah_-_T-T-Techno.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "S3RL feat. Kayliana - You Are Mine",
+      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Kayliana_-_You_Are_Mine.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "S3RL feat. Lexi - Earth Bb",
+      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Lexi_-_Earth_Bb.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "S3RL feat. Nikolett - Silicon XX",
+      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Nikolett_-_Silicon_XX.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "S3RL feat. Sara - Dopamine",
+      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Sara_-_Dopamine.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "S3RL feat. Sara - Less Than 3",
+      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_feat._Sara_-_Less_Than_3.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "S3RL x LIDA - My Girlfriend is a Raver",
+      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_x_LIDA_-_My_Girlfriend_is_a_Raver.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Scary Movie",
+      "preview": "https://assets.ppy.sh/artists/9/Songs/S3RL_-_Scary_Movie.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Techno Kitty (feat. Sara)",
+      "preview": "https://assets.ppy.sh/artists/9/previews/101.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tell Me What You Want (feat. Tamika)",
+      "preview": "https://assets.ppy.sh/artists/9/previews/102.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:09:19Z"
+  "updated_at": "2026-03-31T01:47:47Z"
 }

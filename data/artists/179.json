@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Don no Koe",
+      "preview": "https://assets.ppy.sh/artists/179/11th Album 「Kaleido Parade」/ABSOLUTE CASTAWAY - Don no Koe.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Doukoku no Mori",
+      "preview": "https://assets.ppy.sh/artists/179/7th Album 「Youkai story -Doyokitan-」/ABSOLUTE CASTAWAY - Doukoku no Mori.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Epitaph",
+      "preview": "https://assets.ppy.sh/artists/179/3rd Album 「Arco-Iris」/ABSOLUTE CASTAWAY - Epitaph.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Halloween Night Parade",
+      "preview": "https://assets.ppy.sh/artists/179/8th Single 「Halloween Night Parade」/ABSOLUTE CASTAWAY - Halloween Night Parade.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "Kanjou no Namae",
+      "preview": "https://assets.ppy.sh/artists/179/12th Album 「Toushin Gengi」/ABSOLUTE CASTAWAY - Kanjou no Namae.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -59,6 +64,7 @@
     },
     {
       "title": "Konpeitou Retrotica",
+      "preview": "https://assets.ppy.sh/artists/179/9th Album %E3%80%8CConfetti Retrotica%E3%80%8D/ABSOLUTE_CASTAWAY_-_Konpeitou_Retrotica.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -70,6 +76,7 @@
     },
     {
       "title": "Machigami Shoujo",
+      "preview": "https://assets.ppy.sh/artists/179/7th Single 「Machigami Shoujo」/ABSOLUTE CASTAWAY - Machigami Shoujo.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -81,6 +88,7 @@
     },
     {
       "title": "Mukyuu Meiyaku",
+      "preview": "https://assets.ppy.sh/artists/179/9th Album 「Confetti Retrotica」/ABSOLUTE CASTAWAY - Mukyuu Meiyaku.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -92,6 +100,7 @@
     },
     {
       "title": "Musubime",
+      "preview": "https://assets.ppy.sh/artists/179/12th Album 「Toushin Gengi」/ABSOLUTE CASTAWAY - Musubime.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -103,6 +112,7 @@
     },
     {
       "title": "Sadachbia no Himitsu",
+      "preview": "https://assets.ppy.sh/artists/179/16th Album 「ASTRO=SIGN」/ABSOLUTE CASTAWAY - Sadachbia no Himitsu.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -114,6 +124,7 @@
     },
     {
       "title": "Shaula no Bara",
+      "preview": "https://assets.ppy.sh/artists/179/15th Album 「ASTRO=FILMS」/ABSOLUTE CASTAWAY - Shaula no Bara.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -125,6 +136,7 @@
     },
     {
       "title": "Shinsou Shintouron",
+      "preview": "https://assets.ppy.sh/artists/179/12th Album 「Toushin Gengi」/ABSOLUTE CASTAWAY - Shinsou Shintouron.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -144,6 +156,7 @@
     },
     {
       "title": "Shiroi Tsuki, Hohoenda Taiyou",
+      "preview": "https://assets.ppy.sh/artists/179/6th Album 「Cielo Azul」/ABSOLUTE CASTAWAY - Shiroi Tsuki%2C Hohoenda Taiyou.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -155,6 +168,7 @@
     },
     {
       "title": "step by step",
+      "preview": "https://assets.ppy.sh/artists/179/Songs/ABSOLUTE_CASTAWAY_-_step_by_step.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -175,6 +189,7 @@
     },
     {
       "title": "Toushin Gengi",
+      "preview": "https://assets.ppy.sh/artists/179/12th Album 「Toushin Gengi」/ABSOLUTE CASTAWAY - Toushin Maboroshi Odoke.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -190,229 +205,274 @@
     },
     {
       "title": "Al Tarf no Ginmaku",
+      "preview": "https://assets.ppy.sh/artists/179/15th Album 「ASTRO=FILMS」/ABSOLUTE CASTAWAY - Al Tarf no Ginmaku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aldebaran no Jouen",
+      "preview": "https://assets.ppy.sh/artists/179/14th Album 「ASTRO=GRAPH」/ABSOLUTE CASTAWAY - Aldebaran no Jouen.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Alhena no Doukei",
+      "preview": "https://assets.ppy.sh/artists/179/14th Album 「ASTRO=GRAPH」/ABSOLUTE CASTAWAY - Alhena no Doukei.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Alrescha no Seizu",
+      "preview": "https://assets.ppy.sh/artists/179/14th Album 「ASTRO=GRAPH」/ABSOLUTE CASTAWAY - Alrescha no Seizu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ame Nochi Hare",
+      "preview": "https://assets.ppy.sh/artists/179/11th Album %E3%80%8CKaleido Parade%E3%80%8D/ABSOLUTE_CASTAWAY_-_Ame_Nochi_Hare.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ANTICLOCK TEA-PARTY",
+      "preview": "https://assets.ppy.sh/artists/179/10th Album 「Nazokake Alice」/ABSOLUTE CASTAWAY - ANTICLOCK TEA-PARTY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ASTRO=HOPE",
+      "preview": "https://assets.ppy.sh/artists/179/10th Single 「ASTRO=HOPE」/ABSOLUTE CASTAWAY - ASTRO%3DHOPE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ASTRO=PHERE",
+      "preview": "https://assets.ppy.sh/artists/179/9th Single 「ASTRO=PHERE」/ABSOLUTE CASTAWAY - ASTRO%3DPHERE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ASTRO=SIGN",
+      "preview": "https://assets.ppy.sh/artists/179/16th Album 「ASTRO=SIGN」/ABSOLUTE CASTAWAY - ASTRO%3DSIGN.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chigiri Oni",
+      "preview": "https://assets.ppy.sh/artists/179/5th Album 「Caffe Riddle」/ABSOLUTE CASTAWAY - Chigiri Oni.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cielo Azul",
+      "preview": "https://assets.ppy.sh/artists/179/6th Album 「Cielo Azul」/ABSOLUTE CASTAWAY - Cielo Azul.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "En Mi Ka",
+      "preview": "https://assets.ppy.sh/artists/179/11th Album 「Kaleido Parade」/ABSOLUTE CASTAWAY - En Mi Ka.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gobanme no Kisetsu",
+      "preview": "https://assets.ppy.sh/artists/179/2nd Album 「Automatic Roman」/ABSOLUTE CASTAWAY - Gobanme no Kisetsu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hamal no Koufuku",
+      "preview": "https://assets.ppy.sh/artists/179/14th Album 「ASTRO=GRAPH」/ABSOLUTE CASTAWAY - Hamal no Koufuku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hana no Saku Basho",
+      "preview": "https://assets.ppy.sh/artists/179/4th Album 「Nazokake Kanten」/ABSOLUTE CASTAWAY - Hana no Saku Basho.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hana Uta",
+      "preview": "https://assets.ppy.sh/artists/179/2nd Single 「Hana Uta」/ABSOLUTE CASTAWAY - Hana Uta.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "In the MIRROR",
+      "preview": "https://assets.ppy.sh/artists/179/19th Album 「KIRMES」/ABSOLUTE CASTAWAY - In the MIRROR.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kajin Issen",
+      "preview": "https://assets.ppy.sh/artists/179/12th Album 「Toushin Gengi」/ABSOLUTE CASTAWAY - Hana Jin Issen.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kaleido Parade",
+      "preview": "https://assets.ppy.sh/artists/179/11th Album 「Kaleido Parade」/ABSOLUTE CASTAWAY - Kaleido Parade.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kamidanomi Etcetera",
+      "preview": "https://assets.ppy.sh/artists/179/11th Album 「Kaleido Parade」/ABSOLUTE CASTAWAY - Kamidanomi Etcetera.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ki No Hazama",
+      "preview": "https://assets.ppy.sh/artists/179/2nd Album 「Automatic Roman」/ABSOLUTE CASTAWAY - Ki No Hazama.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kiffa no Kyoukai",
+      "preview": "https://assets.ppy.sh/artists/179/15th Album 「ASTRO=FILMS」/ABSOLUTE CASTAWAY - Kiffa no Kyoukai.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kimi ni dake Himitsu",
+      "preview": "https://assets.ppy.sh/artists/179/12th Album 「Toushin Gengi」/ABSOLUTE CASTAWAY - Kimi ni dake Himitsu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "KIRMES",
+      "preview": "https://assets.ppy.sh/artists/179/19th Album 「KIRMES」/ABSOLUTE CASTAWAY - KIRMES.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kofuku Biyori",
+      "preview": "https://assets.ppy.sh/artists/179/11th Single 「Toushin Gengi Jo」/ABSOLUTE CASTAWAY - Kofuku Biyori.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kuro Neko Ron",
+      "preview": "https://assets.ppy.sh/artists/179/7th Album 「Youkai story -Doyokitan-」/ABSOLUTE CASTAWAY - Kuro Neko Ron.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Last chapter.",
+      "preview": "https://assets.ppy.sh/artists/179/3rd Album 「Arco-Iris」/ABSOLUTE CASTAWAY - Last chapter..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "LAST MAGIC",
+      "preview": "https://assets.ppy.sh/artists/179/19th Album 「KIRMES」/ABSOLUTE CASTAWAY - LAST MAGIC.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lost chapter.",
+      "preview": "https://assets.ppy.sh/artists/179/6th Album 「Cielo Azul」/ABSOLUTE CASTAWAY - Lost chapter..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mayoi Tsuru",
+      "preview": "https://assets.ppy.sh/artists/179/11th Single 「Toushin Gengi Jo」/ABSOLUTE CASTAWAY - Mayoi Tsuru.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Natsu no Kaze",
+      "preview": "https://assets.ppy.sh/artists/179/9th Album 「Confetti Retrotica」/ABSOLUTE CASTAWAY - Natsu no Kaze.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nazo Kake Manten ~Uramenyuu",
+      "preview": "https://assets.ppy.sh/artists/179/5th Album 「Caffe Riddle」/ABSOLUTE CASTAWAY - Nazo Kake Manten %7EUramenyuu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nazokake Alice",
+      "preview": "https://assets.ppy.sh/artists/179/10th Album %E3%80%8CNazokake Alice%E3%80%8D/ABSOLUTE_CASTAWAY_-_Nazokake_Alice.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nunki no Morito",
+      "preview": "https://assets.ppy.sh/artists/179/16th Album 「ASTRO=SIGN」/ABSOLUTE CASTAWAY - Nunki no Morito.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Oni no Hanashi.",
+      "preview": "https://assets.ppy.sh/artists/179/5th Album 「Caffe Riddle」/ABSOLUTE CASTAWAY - Oni no Hanashi..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ouka Enbu",
+      "preview": "https://assets.ppy.sh/artists/179/13th Album 「Toushin Gengi Oku」/ABSOLUTE CASTAWAY - Ouka Enbu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Regulus no Kodoku",
+      "preview": "https://assets.ppy.sh/artists/179/10th Single 「ASTRO=HOPE」/ABSOLUTE CASTAWAY - Regulus no Kodoku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sekai ga Kiraina Kimi e",
+      "preview": "https://assets.ppy.sh/artists/179/6th Album 「Cielo Azul」/ABSOLUTE CASTAWAY - Sekai ga Kiraina Kimi e.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sirius no Yuuen -Hacka-",
+      "preview": "https://assets.ppy.sh/artists/179/15th Album 「ASTRO=FILMS」/ABSOLUTE CASTAWAY - Sirius no Yuuen -Hacka-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "So Hi De no Aji",
+      "preview": "https://assets.ppy.sh/artists/179/4th Album 「Nazokake Kanten」/ABSOLUTE CASTAWAY - So Hi De no Aji.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Spica no Yakusoku",
+      "preview": "https://assets.ppy.sh/artists/179/15th Album 「ASTRO=FILMS」/ABSOLUTE CASTAWAY - Spica no Yakusoku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tooi Anata e",
+      "preview": "https://assets.ppy.sh/artists/179/7th Single 「Machigami Shoujo」/ABSOLUTE CASTAWAY - Tooi Anata e.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tooryanse",
+      "preview": "https://assets.ppy.sh/artists/179/1st Album 「Dokaikitan」/ABSOLUTE CASTAWAY - Tooryanse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Toushin Romantica",
+      "preview": "https://assets.ppy.sh/artists/179/11th Single 「Toushin Gengi Jo」/ABSOLUTE CASTAWAY - Toushin Romantica.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "TRUTH",
+      "preview": "https://assets.ppy.sh/artists/179/10th Album 「Nazokake Alice」/ABSOLUTE CASTAWAY - TRUTH.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:31:40Z"
+  "updated_at": "2026-03-30T23:09:40Z"
 }

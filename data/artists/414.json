@@ -4,44 +4,52 @@
   "tracks": [
     {
       "title": "Break It Down",
+      "preview": "https://assets.ppy.sh/artists/414/Break It Down/PaceMKR - Break It Down.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Doomsday",
+      "preview": "https://assets.ppy.sh/artists/414/Doomsday/PaceMKR - Doomsday.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Frankenstein",
+      "preview": "https://assets.ppy.sh/artists/414/Frankenstein/PaceMKR - Frankenstein.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "King of the Monsters",
+      "preview": "https://assets.ppy.sh/artists/414/King of the Monsters/PaceMKR - King of the Monsters.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Murder House",
+      "preview": "https://assets.ppy.sh/artists/414/Murder House/PaceMKR - Murder House.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "No Good",
+      "preview": "https://assets.ppy.sh/artists/414/No Good/PaceMKR - No Good.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Swamp Thing",
+      "preview": "https://assets.ppy.sh/artists/414/Swamp Thing/PaceMKR - Swamp Thing.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Warlord",
+      "preview": "https://assets.ppy.sh/artists/414/Warlord/PaceMKR - Warlord.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:44:24Z"
+  "updated_at": "2026-03-31T01:22:38Z"
 }

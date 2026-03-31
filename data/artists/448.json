@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Moondread",
+      "preview": "https://assets.ppy.sh/artists/448/Songs/Kry.exe - Moondread.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Rift Walker",
+      "preview": "https://assets.ppy.sh/artists/448/Songs/Kry.exe_-_Rift_Walker.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -30,6 +32,7 @@
     },
     {
       "title": "SENT://iNEL",
+      "preview": "https://assets.ppy.sh/artists/448/Songs/Kry.exe - SENTiNEL.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -41,44 +44,52 @@
     },
     {
       "title": "GEOLOGICAL//IRRESOLUTION",
+      "preview": "https://assets.ppy.sh/artists/448/Songs/Kry.exe_-_GEOLOGICALIRRESOLUTION.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hibike! (Extended Version)",
+      "preview": "https://assets.ppy.sh/artists/448/Songs/Kry.exe - Hibike! (Extended Version).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "IMPERIA",
+      "preview": "https://assets.ppy.sh/artists/448/Songs/Kry.exe_-_IMPERIA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kry.exe feat. Ice - Last Wish",
+      "preview": "https://assets.ppy.sh/artists/448/Songs/Kry.exe feat. Ice - Last Wish.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MUZAN",
+      "preview": "https://assets.ppy.sh/artists/448/Songs/Kry.exe_-_MUZAN.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "NEKOMATA",
+      "preview": "https://assets.ppy.sh/artists/448/Songs/Kry.exe - NEKOMATA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "nm-y vs. Kry.exe - Kaiju",
+      "preview": "https://assets.ppy.sh/artists/448/Songs/nm-y vs. Kry.exe - Kaiju.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SIGMA",
+      "preview": "https://assets.ppy.sh/artists/448/Songs/Kry.exe - SIGMA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:02:25Z"
+  "updated_at": "2026-03-31T00:40:22Z"
 }

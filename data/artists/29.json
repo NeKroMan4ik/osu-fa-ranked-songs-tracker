@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Florn",
+      "preview": "https://assets.ppy.sh/artists/29/previews/628.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Junglist Acid (osu! Edit)",
+      "preview": "https://assets.ppy.sh/artists/29/Songs/Culprate_-_Junglist_Acid_osu_Edit.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -34,6 +36,7 @@
     },
     {
       "title": "Whispers (Part II)",
+      "preview": "https://assets.ppy.sh/artists/29/previews/635.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -45,6 +48,7 @@
     },
     {
       "title": "Yin",
+      "preview": "https://assets.ppy.sh/artists/29/previews/636.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -60,69 +64,82 @@
     },
     {
       "title": "Acid Rain",
+      "preview": "https://assets.ppy.sh/artists/29/previews/624.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Culprate & Au5 - Impulse",
+      "preview": "https://assets.ppy.sh/artists/29/previews/625.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Culprate & Bloom - Aurora",
+      "preview": "https://assets.ppy.sh/artists/29/previews/626.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Culprate & Dictate - Pencilina",
+      "preview": "https://assets.ppy.sh/artists/29/Unity Project%2C pt. 2/Culprate__Dictate_-_Pencilina.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Culprate & Joe Ford - Gaucho",
+      "preview": "https://assets.ppy.sh/artists/29/previews/629.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Culprate & Roger Wilco - Mutant",
+      "preview": "https://assets.ppy.sh/artists/29/previews/632.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Culprate & Signal - Hydraulic",
+      "preview": "https://assets.ppy.sh/artists/29/previews/633.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Culprate & Skorpion - Jester",
+      "preview": "https://assets.ppy.sh/artists/29/previews/634.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Culprate & Zenji - Ghostmachine",
+      "preview": "https://assets.ppy.sh/artists/29/previews/637.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Culprate, Keota & Sophie Meiers - Mechanic Heartbeat",
+      "preview": "https://assets.ppy.sh/artists/29/previews/630.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Jalaana (osu! ver.)",
+      "preview": "https://assets.ppy.sh/artists/29/Songs/Culprate_-_Jalaana_osu_ver..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lightfold",
+      "preview": "https://assets.ppy.sh/artists/29/Songs/Culprate_-_Lightfold.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Relucent",
+      "preview": "https://assets.ppy.sh/artists/29/previews/631.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:09:18Z"
+  "updated_at": "2026-03-30T23:47:07Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "02:15",
+      "preview": "https://assets.ppy.sh/artists/252/depth of the sea/my sound life - 0215.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -16,6 +17,7 @@
     },
     {
       "title": "AIR",
+      "preview": "https://assets.ppy.sh/artists/252/portal two/my sound life - AIR.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -32,6 +34,7 @@
     },
     {
       "title": "Endroll",
+      "preview": "https://assets.ppy.sh/artists/252/new way to the star/my sound life - Endroll.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -43,6 +46,7 @@
     },
     {
       "title": "hello",
+      "preview": "https://assets.ppy.sh/artists/252/hello/my sound life - hello.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -54,6 +58,7 @@
     },
     {
       "title": "LINE",
+      "preview": "https://assets.ppy.sh/artists/252/square vision/my sound life - LINE.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -69,6 +74,7 @@
     },
     {
       "title": "omega",
+      "preview": "https://assets.ppy.sh/artists/252/lotus/my sound life - omega.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -80,6 +86,7 @@
     },
     {
       "title": "yamisame",
+      "preview": "https://assets.ppy.sh/artists/252/portal two/my sound life - yamisame.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -91,6 +98,7 @@
     },
     {
       "title": "yoku",
+      "preview": "https://assets.ppy.sh/artists/252/portal two/my sound life - yoku.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -103,34 +111,40 @@
     },
     {
       "title": "Chata - re:construction",
+      "preview": "https://assets.ppy.sh/artists/252/square vision/my sound life - reconstruction.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "crossing",
+      "preview": "https://assets.ppy.sh/artists/252/portal two/my sound life - crossing.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "framework",
+      "preview": "https://assets.ppy.sh/artists/252/square vision/my sound life - framework.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "meiro",
+      "preview": "https://assets.ppy.sh/artists/252/portal two/my sound life - meiro.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "step! jump!",
+      "preview": "https://assets.ppy.sh/artists/252/portal/my sound life - step! jump!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "waterflowing",
+      "preview": "https://assets.ppy.sh/artists/252/hello/my sound life - waterflowing.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:29:57Z"
+  "updated_at": "2026-03-31T01:08:04Z"
 }

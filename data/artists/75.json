@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "2k9 battle jam",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2017.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Computer Blues",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2019.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Delete",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2020.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -42,6 +45,7 @@
     },
     {
       "title": "Empyrean",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2022.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -61,6 +65,7 @@
     },
     {
       "title": "Nova",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2032.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -72,6 +77,7 @@
     },
     {
       "title": "The Cyber Grind",
+      "preview": "https://assets.ppy.sh/artists/75/Songs/meganeko_-_The_Cyber_Grind.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -91,139 +97,166 @@
     },
     {
       "title": "Beethoven - Moonlight Sonata 3rd Movement (meganeko Remix) [2022 Ver.]",
+      "preview": "https://assets.ppy.sh/artists/75/Songs/Beethoven_-_Moonlight_Sonata_3rd_Movement_meganeko_Remix_2022_Ver..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cloudscape Architect",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2018.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Daydreamer",
+      "preview": "https://assets.ppy.sh/artists/75/Songs/meganeko_-_Daydreamer.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Discovery",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2021.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Etude Op. 25, No. 12 (meganeko remix)",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2016.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Feral",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2023.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gravitation",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2024.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hack The Planet",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2025.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "IO",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2026.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lights Camera Action",
+      "preview": "https://assets.ppy.sh/artists/75/Songs/meganeko_-_Lights_Camera_Action.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Milkshake",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2028.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Milkshake VIP",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2027.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Monolith",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2029.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moonflowers",
+      "preview": "https://assets.ppy.sh/artists/75/Songs/meganeko_-_Moonflowers.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moonlight Sonata 3rd Movement (meganeko remix)",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2015.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "nano love",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2039.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ninox",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2030.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nothing Happened",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2031.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Robot Language",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2033.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sirius A",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2034.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Skydiver",
+      "preview": "https://assets.ppy.sh/artists/75/Songs/meganeko_-_Skydiver.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Slime Boy Color",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2035.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Space Magic",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2036.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sunset",
+      "preview": "https://assets.ppy.sh/artists/75/Songs/meganeko_-_Sunset.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Super Gamer Girl 3D",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2037.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "that's some spooky stuff",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2040.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Velocity",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2038.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:20:46Z"
+  "updated_at": "2026-03-31T00:58:52Z"
 }

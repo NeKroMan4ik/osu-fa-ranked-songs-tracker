@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "A Frozen Realm",
+      "preview": "https://assets.ppy.sh/artists/429/A Frozen Realm/Rose Quartz - A Frozen Realm.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,44 +16,52 @@
     },
     {
       "title": "CHAOS; [Deconstruction]",
+      "preview": "https://assets.ppy.sh/artists/429/Songs/Rose Quartz - CHAOS%27 %5BDeconstruction%5D.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dreaming Wanderer",
+      "preview": "https://assets.ppy.sh/artists/429/Songs/Rose Quartz - Dreaming Wanderer.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Drown",
+      "preview": "https://assets.ppy.sh/artists/429/Songs/Rose Quartz - Drown.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Into the Mysterious World",
+      "preview": "https://assets.ppy.sh/artists/429/Into the Mysterious World/Rose Quartz - Into the Mysterious World.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "kvllme",
+      "preview": "https://assets.ppy.sh/artists/429/Songs/Rose Quartz - kvllme.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "luminance of the sky",
+      "preview": "https://assets.ppy.sh/artists/429/Songs/Rose Quartz - luminance of the sky.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Luminous Echoes",
+      "preview": "https://assets.ppy.sh/artists/429/Songs/Rose Quartz - Luminous Echoes.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Twisted Reality",
+      "preview": "https://assets.ppy.sh/artists/429/Songs/Rose Quartz - Twisted Reality.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:06:16Z"
+  "updated_at": "2026-03-31T01:44:44Z"
 }

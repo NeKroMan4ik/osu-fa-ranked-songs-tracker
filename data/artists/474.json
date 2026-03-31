@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Beyond The Horizon",
+      "preview": "https://assets.ppy.sh/artists/474/Beyond The Horizon/1zm8 - Beyond The Horizon.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "IDEAL [SHIFT]",
+      "preview": "https://assets.ppy.sh/artists/474/IDEAL/1zm8 - IDEAL %5BSHIFT%5D.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -26,39 +28,46 @@
     },
     {
       "title": "BoOm*bOoM*FeVer~!!!",
+      "preview": "https://assets.ppy.sh/artists/474/BoOm bOoM FeVer%7E!!!/1zm8 - BoOmbOoMFeVer%7E!!!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cherry blossoms",
+      "preview": "https://assets.ppy.sh/artists/474/Cherry blossoms/1zm8 - Cherry blossoms.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lost Echoes of Lilies",
+      "preview": "https://assets.ppy.sh/artists/474/Songs/1zm8 - Lost Echoes of Lilies.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Oddly Sinister",
+      "preview": "https://assets.ppy.sh/artists/474/Oddly Sinister/1zm8 - Oddly Sinister.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Symphony no. 9 -Destiny's End-",
+      "preview": "https://assets.ppy.sh/artists/474/Songs/1zm8 - Symphony no. 9 -Destiny%27s End-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanoshii CHRISM*SH!!",
+      "preview": "https://assets.ppy.sh/artists/474/Tanoshii CHRISMASH!!/1zm8 - Tanoshii CHRISMSH!!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Night of Fright",
+      "preview": "https://assets.ppy.sh/artists/474/The Night of Fright/1zm8 - The Night of Fright.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:26:42Z"
+  "updated_at": "2026-03-30T23:04:44Z"
 }

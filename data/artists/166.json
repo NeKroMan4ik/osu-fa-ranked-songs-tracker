@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "In My Head",
+      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn - In My Head.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Islands",
+      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn - Islands.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Koko ni Iru (feat. rionos)",
+      "preview": "https://assets.ppy.sh/artists/166/Koko ni Iru/Aiobahn - Koko ni Iru (feat. rionos).mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -41,6 +44,7 @@
     },
     {
       "title": "Medusa (feat. Cozi Zuehlsdorff)",
+      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn - Medusa (feat. Cozi Zuehlsdorff).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -52,6 +56,7 @@
     },
     {
       "title": "Sugiyuku Hi to Kimi e (feat. nayuta)",
+      "preview": "https://assets.ppy.sh/artists/166/Sugiyuku Hi to Kimi e/Aiobahn - Sugiyuku Hi to Kimi e (feat. nayuta).mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -72,69 +77,82 @@
     },
     {
       "title": "0AM (feat. nayuta)",
+      "preview": "https://assets.ppy.sh/artists/166/0AM/Aiobahn - 0AM (feat. nayuta).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aiobahn feat. KOTOKO - INTERNET OVERDOSE",
+      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn_feat._KOTOKO_-_INTERNET_OVERDOSE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aiobahn feat. KOTOKO - INTERNET YAMERO",
+      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn_feat._KOTOKO_-_INTERNET_YAMERO.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aiobahn feat. KOTOKO - MOON-RAINBOW BUTTERFLY",
+      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn_feat._KOTOKO_-_MOON-RAINBOW_BUTTERFLY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Burnt Rice (Aiobahn & Jh-Anu Remix)",
+      "preview": "https://assets.ppy.sh/artists/166/Burnt Rice (feat. Yung GEMMY)/Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dressing Pafe",
+      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn - Dressing Pafe.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Famima",
+      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn - Famima.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Natsu no Mayonaka (feat. Antenna Girl)",
+      "preview": "https://assets.ppy.sh/artists/166/Natsu no Mayonaka/Aiobahn - Natsu no Mayonaka (feat. Antenna Girl).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Randomness Ragga",
+      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn - Randomness Ragga.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "resonance (feat. KOCHO)",
+      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn - resonance (feat. KOCHO).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Satania",
+      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn - Satania.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Vignette",
+      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn - Vignette.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "wish (feat. somunia)",
+      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn - wish (feat. somunia).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:33:42Z"
+  "updated_at": "2026-03-30T23:11:42Z"
 }

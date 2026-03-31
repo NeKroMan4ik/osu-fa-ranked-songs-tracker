@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Before The Storm",
+      "preview": "https://assets.ppy.sh/artists/263/Before The Storm/Ardolf - Before The Storm.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "BLACK MAGIC",
+      "preview": "https://assets.ppy.sh/artists/263/Vermithrax EP/Ardolf - BLACK MAGIC.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Chromatic",
+      "preview": "https://assets.ppy.sh/artists/263/Chromatic/Ardolf - Chromatic.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Lycanthrope",
+      "preview": "https://assets.ppy.sh/artists/263/Lycanthrope/Ardolf - Lycanthrope.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "SILVER BULLET",
+      "preview": "https://assets.ppy.sh/artists/263/Songs/Ardolf_-_SILVER_BULLET.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -71,6 +76,7 @@
     },
     {
       "title": "Split",
+      "preview": "https://assets.ppy.sh/artists/263/Split/Ardolf - Split.mp3",
       "ranked_modes": [
         "fruits",
         "mania"
@@ -86,6 +92,7 @@
     },
     {
       "title": "Varcolac",
+      "preview": "https://assets.ppy.sh/artists/263/Lycurgus EP/Ardolf - Varcolac.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -101,6 +108,7 @@
     },
     {
       "title": "will u",
+      "preview": "https://assets.ppy.sh/artists/263/will u/Ardolf - will u.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -112,29 +120,34 @@
     },
     {
       "title": "Dark Dungeon",
+      "preview": "https://assets.ppy.sh/artists/263/Dark Dungeon/Ardolf - Dark Dungeon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rainbow Raceway",
+      "preview": "https://assets.ppy.sh/artists/263/Rainbow Raceway/Ardolf - Rainbow Raceway.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rejoice",
+      "preview": "https://assets.ppy.sh/artists/263/Rejoice/Ardolf - Rejoice.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Split EX",
+      "preview": "https://assets.ppy.sh/artists/263/Split EX/Ardolf - Split EX.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Vermithrax",
+      "preview": "https://assets.ppy.sh/artists/263/Vermithrax EP/Ardolf - Vermithrax.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:43:44Z"
+  "updated_at": "2026-03-30T23:21:44Z"
 }

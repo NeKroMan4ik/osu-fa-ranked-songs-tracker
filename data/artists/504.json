@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Magical Doctor",
+      "preview": "https://assets.ppy.sh/artists/504/Songs/MARETU - Magical Doctor.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,17 +16,18 @@
     },
     {
       "title": "Tool",
+      "preview": "https://assets.ppy.sh/artists/504/Songs/MARETU - Tool.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          2450931
-        ],
         "mania": [
           2447241,
+          2450931
+        ],
+        "taiko": [
           2450931
         ],
         "fruits": [
@@ -35,6 +37,7 @@
     },
     {
       "title": "Umitagari",
+      "preview": "https://assets.ppy.sh/artists/504/Songs/MARETU_-_Umitagari.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -46,49 +49,58 @@
     },
     {
       "title": "Coin Locker Baby",
+      "preview": "https://assets.ppy.sh/artists/504/Songs/MARETU_-_Coin_Locker_Baby.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Darling",
+      "preview": "https://assets.ppy.sh/artists/504/Songs/MARETU_-_Darling.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mind Brand",
+      "preview": "https://assets.ppy.sh/artists/504/Songs/MARETU - Mind Brand.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "New Darling",
+      "preview": "https://assets.ppy.sh/artists/504/Songs/MARETU - New Darling.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Packet Hero",
+      "preview": "https://assets.ppy.sh/artists/504/Songs/MARETU_-_Packet_Hero.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PINK",
+      "preview": "https://assets.ppy.sh/artists/504/Songs/MARETU_-_PINK.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Scrumize",
+      "preview": "https://assets.ppy.sh/artists/504/Songs/MARETU_-_Scrumize.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SIU",
+      "preview": "https://assets.ppy.sh/artists/504/Songs/MARETU_-_SIU.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "White Happy",
+      "preview": "https://assets.ppy.sh/artists/504/Songs/MARETU - White Happy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:18:11Z"
+  "updated_at": "2026-03-31T00:56:15Z"
 }

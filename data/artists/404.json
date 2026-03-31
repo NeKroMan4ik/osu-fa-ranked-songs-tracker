@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "A Desire to Disappear",
+      "preview": "https://assets.ppy.sh/artists/404/wither/Takamachi Walk - A Desire to Disappear.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -23,6 +24,7 @@
     },
     {
       "title": "Forget Me",
+      "preview": "https://assets.ppy.sh/artists/404/Remnants/Takamachi Walk - Forget Me.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -38,6 +40,7 @@
     },
     {
       "title": "hollow hope",
+      "preview": "https://assets.ppy.sh/artists/404/Permanence/Takamachi Walk - hollow hope.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -53,6 +56,7 @@
     },
     {
       "title": "Phantom Moon",
+      "preview": "https://assets.ppy.sh/artists/404/wither/Takamachi Walk - Phantom Moon.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -64,6 +68,7 @@
     },
     {
       "title": "Redeemer",
+      "preview": "https://assets.ppy.sh/artists/404/Permanence/Takamachi Walk - Redeemer.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -79,6 +84,7 @@
     },
     {
       "title": "Timeless Dissonance",
+      "preview": "https://assets.ppy.sh/artists/404/Permanence/Takamachi Walk - Timeless Dissonance.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -90,6 +96,7 @@
     },
     {
       "title": "Until the End of This Dream",
+      "preview": "https://assets.ppy.sh/artists/404/wither/Takamachi Walk - Until the End of This Dream.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -101,14 +108,16 @@
     },
     {
       "title": "Empty",
+      "preview": "https://assets.ppy.sh/artists/404/wither/Takamachi Walk - Empty.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lamento - Memory",
+      "preview": "https://assets.ppy.sh/artists/404/Shattered/Takamachi Walk - Lamento - Memory.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:33:20Z"
+  "updated_at": "2026-03-31T02:11:54Z"
 }

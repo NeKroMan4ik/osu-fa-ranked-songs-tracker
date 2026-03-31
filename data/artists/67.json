@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "2punk2suck",
+      "preview": "https://assets.ppy.sh/artists/67/previews/1874.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -16,6 +17,7 @@
     },
     {
       "title": "broken legs",
+      "preview": "https://assets.ppy.sh/artists/67/previews/1869.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -39,6 +41,7 @@
     },
     {
       "title": "can't hide your love",
+      "preview": "https://assets.ppy.sh/artists/67/previews/1864.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -57,6 +60,7 @@
     },
     {
       "title": "cash machine go!",
+      "preview": "https://assets.ppy.sh/artists/67/previews/1875.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -68,6 +72,7 @@
     },
     {
       "title": "contra88",
+      "preview": "https://assets.ppy.sh/artists/67/previews/1870.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -79,6 +84,7 @@
     },
     {
       "title": "good old times",
+      "preview": "https://assets.ppy.sh/artists/67/previews/1867.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -94,6 +100,7 @@
     },
     {
       "title": "press start",
+      "preview": "https://assets.ppy.sh/artists/67/previews/1877.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -122,6 +129,7 @@
     },
     {
       "title": "sea shells",
+      "preview": "https://assets.ppy.sh/artists/67/previews/1872.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -147,6 +155,7 @@
     },
     {
       "title": "sniffing stardust on the dancefloor",
+      "preview": "https://assets.ppy.sh/artists/67/previews/1865.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -158,6 +167,7 @@
     },
     {
       "title": "spaceman",
+      "preview": "https://assets.ppy.sh/artists/67/previews/1866.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -169,6 +179,7 @@
     },
     {
       "title": "the earth is counting on you",
+      "preview": "https://assets.ppy.sh/artists/67/previews/1873.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -184,6 +195,7 @@
     },
     {
       "title": "timer",
+      "preview": "https://assets.ppy.sh/artists/67/previews/1878.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -195,14 +207,16 @@
     },
     {
       "title": "cuties",
+      "preview": "https://assets.ppy.sh/artists/67/previews/1871.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "pizza power",
+      "preview": "https://assets.ppy.sh/artists/67/previews/1876.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:00:47Z"
+  "updated_at": "2026-03-31T00:38:43Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Asu e no Kyoukaisen",
+      "preview": "https://assets.ppy.sh/artists/222/Kaen no Suisai/KINEMA106 - Asu e no Kyoukaisen.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Deep Blue",
+      "preview": "https://assets.ppy.sh/artists/222/Kakuyaku no Resist/KINEMA106 - Deep Blue.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -30,6 +32,7 @@
     },
     {
       "title": "Fly Away",
+      "preview": "https://assets.ppy.sh/artists/222/Setsugetsuka/KINEMA106 - Fly Away.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -42,6 +45,7 @@
     },
     {
       "title": "Fumetsu no Gekijou",
+      "preview": "https://assets.ppy.sh/artists/222/Juu/KINEMA106 - Fumetsu no Gekijou.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -53,6 +57,7 @@
     },
     {
       "title": "INVITE",
+      "preview": "https://assets.ppy.sh/artists/222/Suien no Jest/KINEMA106 - INVITE.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -68,6 +73,7 @@
     },
     {
       "title": "Juubaku",
+      "preview": "https://assets.ppy.sh/artists/222/Juu/KINEMA106 - Juubaku.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -80,6 +86,7 @@
     },
     {
       "title": "Juusou",
+      "preview": "https://assets.ppy.sh/artists/222/Juu/KINEMA106 - Juusou.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -92,6 +99,7 @@
     },
     {
       "title": "KARASU",
+      "preview": "https://assets.ppy.sh/artists/222/Ray/KINEMA106 - Karasu.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -103,6 +111,7 @@
     },
     {
       "title": "Luna",
+      "preview": "https://assets.ppy.sh/artists/222/Ray/KINEMA106 - Luna.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -114,6 +123,7 @@
     },
     {
       "title": "N.M.W",
+      "preview": "https://assets.ppy.sh/artists/222/Yongou Bunshou/KINEMA106 - N.M.W.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -125,6 +135,7 @@
     },
     {
       "title": "Rekka no Suiryoku",
+      "preview": "https://assets.ppy.sh/artists/222/Kaen no Suisai/KINEMA106 - Rekka no Suiryoku.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -136,134 +147,160 @@
     },
     {
       "title": "Aizou Dilemma",
+      "preview": "https://assets.ppy.sh/artists/222/Songs/KINEMA106 - Aizou Dilemma.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Alkaloid",
+      "preview": "https://assets.ppy.sh/artists/222/Kakuyaku no Resist/KINEMA106 - Alkaloid.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Antenna Girl",
+      "preview": "https://assets.ppy.sh/artists/222/Kakuyaku no Resist/KINEMA106 - Antenna Girl.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ashita e",
+      "preview": "https://assets.ppy.sh/artists/222/Suien no Jest/KINEMA106 - Ashita e.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Crazy Psycho Lesbian",
+      "preview": "https://assets.ppy.sh/artists/222/Setsugetsuka/KINEMA106 - Crazy Psycho Lesbian.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Crazy Soldier",
+      "preview": "https://assets.ppy.sh/artists/222/Shinen/KINEMA106 - Crazy Soldier.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Crosslet",
+      "preview": "https://assets.ppy.sh/artists/222/CROSS-LET/KINEMA106 - Crosslet.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DANCE DANCE BUNNY",
+      "preview": "https://assets.ppy.sh/artists/222/CROSS-LET/KINEMA106 - DANCE DANCE BUNNY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Doremi Goal",
+      "preview": "https://assets.ppy.sh/artists/222/Setsugetsuka/KINEMA106 - Doremi Goal.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Doremi Goal -KUSOMETAL ver-",
+      "preview": "https://assets.ppy.sh/artists/222/Yongou Bunshou/KINEMA106 - Doremi Goal -KUSOMETAL ver-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gokusai to Hanataba",
+      "preview": "https://assets.ppy.sh/artists/222/Shinen/KINEMA106 - Gokusai to Hanataba.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hi no Hikari Abite Yurameki Tatsu Kagerou no You ni",
+      "preview": "https://assets.ppy.sh/artists/222/Juu/KINEMA106 - Hi no Hikari Abite Yurameki Tatsu Kagerou no You ni.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "IMPERIAL PARADE",
+      "preview": "https://assets.ppy.sh/artists/222/Ray/KINEMA106 - IMPERIAL PARADE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Just Smile",
+      "preview": "https://assets.ppy.sh/artists/222/Ginkai no Geist/KINEMA106 - Just Smile.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kazoeuta",
+      "preview": "https://assets.ppy.sh/artists/222/Kaen no Suisai/KINEMA106 - Kazoeuta.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "kiga-A",
+      "preview": "https://assets.ppy.sh/artists/222/Shinen/KINEMA106 - kiga-A.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kyoui Sakiku Sakura",
+      "preview": "https://assets.ppy.sh/artists/222/Kaen no Suisai/KINEMA106 - Kyoui Sakiku Sakura.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mizusou",
+      "preview": "https://assets.ppy.sh/artists/222/Kaen no Suisai/KINEMA106 - Mizusou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Night Raid",
+      "preview": "https://assets.ppy.sh/artists/222/Soukoku no Thrust/KINEMA106 - Night Raid.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nightmare Party",
+      "preview": "https://assets.ppy.sh/artists/222/Juu/KINEMA106 - Nightmare Party.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rend Ens",
+      "preview": "https://assets.ppy.sh/artists/222/Shinen/KINEMA106 - Rend Ens.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shinchoku Doudeshou",
+      "preview": "https://assets.ppy.sh/artists/222/Ray/KINEMA106 - Shinchoku Doudeshou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Suisei",
+      "preview": "https://assets.ppy.sh/artists/222/Kakuyaku no Resist/KINEMA106 - Midoriboshi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tonbo Hane",
+      "preview": "https://assets.ppy.sh/artists/222/Juu/KINEMA106 - Tonbo Hane.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yoru no Shinkirou",
+      "preview": "https://assets.ppy.sh/artists/222/Setsugetsuka/KINEMA106 - Yoru no Shinkirou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Zankyou no Chinkonka",
+      "preview": "https://assets.ppy.sh/artists/222/Zankyou no Chinkonka/KINEMA106 - Zankyou no Chinkonka.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:56:54Z"
+  "updated_at": "2026-03-31T00:34:48Z"
 }

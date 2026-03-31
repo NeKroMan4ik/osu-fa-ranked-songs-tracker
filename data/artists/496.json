@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Reality:SHIFT (feat. Hatsune Miku)",
+      "preview": "https://assets.ppy.sh/artists/496/Songs/Drazically - RealitySHIFT (feat. Hatsune Miku).mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "ReiNcarnation",
+      "preview": "https://assets.ppy.sh/artists/496/Songs/Drazically - ReiNcarnation.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -26,59 +28,70 @@
     },
     {
       "title": "Drazically & Biddle3 - Satisfactory",
+      "preview": "https://assets.ppy.sh/artists/496/Songs/Drazically %26 Biddle3 - Satisfactory.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "EMOTE TO DEAATTHH!!!",
+      "preview": "https://assets.ppy.sh/artists/496/Songs/Drazically - EMOTE TO DEAATTHH!!!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ghost2PROTOCOL",
+      "preview": "https://assets.ppy.sh/artists/496/Songs/Drazically - Ghost2PROTOCOL.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "JinoBeats - [battle of aetheria.] (Drazically's \"MYSTICCORE\" Remix)",
+      "preview": "https://assets.ppy.sh/artists/496/Songs/JinoBeats - %5Bbattle of aetheria.%5D (Drazically%27s MYSTICCORE Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "JinoBeats, Drazically, Double-U - INSPIDITY",
+      "preview": "https://assets.ppy.sh/artists/496/Songs/JinoBeats_Drazically_Double-U_-_INSPIDITY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kafkaesque",
+      "preview": "https://assets.ppy.sh/artists/496/Songs/Drazically - Kafkaesque.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moonlight Maestro",
+      "preview": "https://assets.ppy.sh/artists/496/Songs/Drazically - Moonlight Maestro.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "OMEGA",
+      "preview": "https://assets.ppy.sh/artists/496/OMEGA/Drazically - OMEGA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Pneumatic",
+      "preview": "https://assets.ppy.sh/artists/496/Songs/Drazically - Pneumatic.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sacrifice //MANIA//",
+      "preview": "https://assets.ppy.sh/artists/496/Songs/Drazically - Sacrifice MANIA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanger & Drazically - +eravol+",
+      "preview": "https://assets.ppy.sh/artists/496/Songs/Tanger %26 Drazically - %2Beravol%2B.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:19:05Z"
+  "updated_at": "2026-03-30T23:56:54Z"
 }

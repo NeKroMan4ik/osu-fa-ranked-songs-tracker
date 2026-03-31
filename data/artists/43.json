@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "A Betrayal Unforetold",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1030.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Aeons Torn",
+      "preview": "https://assets.ppy.sh/artists/43/Of Sunless Realms/Inferi - Aeons Torn.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Behold the Bearer of Light",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1012.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -42,6 +45,7 @@
     },
     {
       "title": "Destroyer",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1031.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -58,6 +62,7 @@
     },
     {
       "title": "Eldritch Evolution",
+      "preview": "https://assets.ppy.sh/artists/43/Of Sunless Realms/Inferi - Eldritch Evolution.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -69,6 +74,7 @@
     },
     {
       "title": "Forged in the Phlegethon",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1022.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -84,6 +90,7 @@
     },
     {
       "title": "Marching Through the Flames of Tyranny",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1032.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -95,6 +102,7 @@
     },
     {
       "title": "Quest for the Trinity",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1024.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -106,6 +114,7 @@
     },
     {
       "title": "Spellbound Unearthed Terror",
+      "preview": "https://assets.ppy.sh/artists/43/Of Sunless Realms/Inferi - Spellbound Unearthed Terror.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -117,6 +126,7 @@
     },
     {
       "title": "The Abhorrent Art",
+      "preview": "https://assets.ppy.sh/artists/43/Of Sunless Realms/Inferi - The Abhorrent Art.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -128,6 +138,7 @@
     },
     {
       "title": "The Ancients of Shattered Thrones",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1035.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -139,6 +150,7 @@
     },
     {
       "title": "The Promethean Kings",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1038.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -155,6 +167,7 @@
     },
     {
       "title": "The Ruin of Mankind",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1027.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -166,6 +179,7 @@
     },
     {
       "title": "Those Who from the Heavens Came",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1039.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -185,6 +199,7 @@
     },
     {
       "title": "Wrath of the Fallen One",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1040.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -196,99 +211,118 @@
     },
     {
       "title": "A Beckoning Thrall",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1011.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "A New Breed of Savior",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1020.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Condemned Assailant",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1013.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cursed Unholy",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1021.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Enraged and Drowning Sullen",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1014.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gatherings in the Chamber of Madness",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1023.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Malevolent Sanction",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1015.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Onslaught of the Covenant",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1033.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Prelude to a Perilous Fate",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1034.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sentenced to Eternal Life",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1025.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Smolder in the Ash",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1016.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Endless Siege",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1026.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Ophidian Form",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1036.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Path of Apotheosis",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1037.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The War Machine Embodiment",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1028.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Warrior's Infinite Opus",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1029.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Through the Depths",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1017.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thy Menacing Gaze",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1018.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Within the Dead Horizon",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1019.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:48:55Z"
+  "updated_at": "2026-03-31T00:26:47Z"
 }

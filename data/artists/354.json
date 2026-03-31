@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Continue?",
+      "preview": "https://assets.ppy.sh/artists/354/Homey/CHON - Continue.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Sleepy Tea",
+      "preview": "https://assets.ppy.sh/artists/354/Homey/CHON - Sleepy Tea.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Splash",
+      "preview": "https://assets.ppy.sh/artists/354/Grow/CHON - Splash.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,74 +40,88 @@
     },
     {
       "title": "Bubble Dream",
+      "preview": "https://assets.ppy.sh/artists/354/Newborn Sun/CHON - Bubble Dream.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Can't Wait",
+      "preview": "https://assets.ppy.sh/artists/354/Grow/CHON - Can%27t Wait.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Checkpoint",
+      "preview": "https://assets.ppy.sh/artists/354/Homey/CHON - Checkpoint.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cloudy",
+      "preview": "https://assets.ppy.sh/artists/354/CHON/CHON - Cloudy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dead End",
+      "preview": "https://assets.ppy.sh/artists/354/CHON/CHON - Dead End.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dew",
+      "preview": "https://assets.ppy.sh/artists/354/Newborn Sun/CHON - Dew.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fluffy",
+      "preview": "https://assets.ppy.sh/artists/354/Newborn Sun/CHON - Fluffy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ghost",
+      "preview": "https://assets.ppy.sh/artists/354/CHON/CHON - Ghost.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "If",
+      "preview": "https://assets.ppy.sh/artists/354/CHON/CHON - If.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Perfect Pillow",
+      "preview": "https://assets.ppy.sh/artists/354/Grow/CHON - Perfect Pillow.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Petal",
+      "preview": "https://assets.ppy.sh/artists/354/CHON/CHON - Petal.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Pitch Dark",
+      "preview": "https://assets.ppy.sh/artists/354/CHON/CHON - Pitch Dark.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Suda",
+      "preview": "https://assets.ppy.sh/artists/354/Grow/CHON - Suda.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Waterslide",
+      "preview": "https://assets.ppy.sh/artists/354/Homey/CHON - Waterslide.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:04:09Z"
+  "updated_at": "2026-03-30T23:41:59Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Bubblegum",
+      "preview": "https://assets.ppy.sh/artists/62/previews/1746.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Daydreamer",
+      "preview": "https://assets.ppy.sh/artists/62/previews/1748.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Prism",
+      "preview": "https://assets.ppy.sh/artists/62/previews/1754.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Waffle Wave",
+      "preview": "https://assets.ppy.sh/artists/62/previews/1759.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -48,59 +52,70 @@
     },
     {
       "title": "Candy Pop",
+      "preview": "https://assets.ppy.sh/artists/62/previews/1747.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dream Catcher",
+      "preview": "https://assets.ppy.sh/artists/62/previews/1749.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Flower Flower",
+      "preview": "https://assets.ppy.sh/artists/62/previews/1745.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kiradoki Harmony",
+      "preview": "https://assets.ppy.sh/artists/62/previews/1750.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "L.O.V.E.",
+      "preview": "https://assets.ppy.sh/artists/62/previews/1751.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Let You Go",
+      "preview": "https://assets.ppy.sh/artists/62/previews/1752.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Marshmallow Disco",
+      "preview": "https://assets.ppy.sh/artists/62/previews/1753.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Smile",
+      "preview": "https://assets.ppy.sh/artists/62/previews/1756.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SOAP",
+      "preview": "https://assets.ppy.sh/artists/62/previews/1755.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Splash",
+      "preview": "https://assets.ppy.sh/artists/62/previews/1757.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sweet Sugar",
+      "preview": "https://assets.ppy.sh/artists/62/previews/1758.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:30:17Z"
+  "updated_at": "2026-03-31T01:08:25Z"
 }

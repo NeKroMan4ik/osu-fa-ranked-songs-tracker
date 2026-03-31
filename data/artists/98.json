@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "AJITAMA Adventure OST",
+      "preview": "https://assets.ppy.sh/artists/98/Songs/Umeboshi_Chazuke_-_AJITAMA_Adventure_OST.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -27,6 +28,7 @@
     },
     {
       "title": "Bison Charge",
+      "preview": "https://assets.ppy.sh/artists/98/previews/2646.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -50,6 +52,7 @@
     },
     {
       "title": "Cineraria",
+      "preview": "https://assets.ppy.sh/artists/98/previews/2647.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -61,6 +64,7 @@
     },
     {
       "title": "Crom Cruach",
+      "preview": "https://assets.ppy.sh/artists/98/previews/2648.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -72,6 +76,7 @@
     },
     {
       "title": "Dutch Courage!",
+      "preview": "https://assets.ppy.sh/artists/98/previews/2649.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -83,6 +88,7 @@
     },
     {
       "title": "Galaxy in Toybox",
+      "preview": "https://assets.ppy.sh/artists/98/previews/3040.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -94,6 +100,7 @@
     },
     {
       "title": "ICHIBANBOSHI*ROCKET",
+      "preview": "https://assets.ppy.sh/artists/98/previews/2650.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -109,6 +116,7 @@
     },
     {
       "title": "Panic! Pop'n! Picnic!",
+      "preview": "https://assets.ppy.sh/artists/98/previews/2652.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -124,6 +132,7 @@
     },
     {
       "title": "Run*2 Run To You!!",
+      "preview": "https://assets.ppy.sh/artists/98/previews/2654.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -145,6 +154,7 @@
     },
     {
       "title": "Wakare no Namida wa Mata Au Hi made",
+      "preview": "https://assets.ppy.sh/artists/98/previews/3043.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -160,54 +170,64 @@
     },
     {
       "title": "\"Hoshi no Ouji-sama\"",
+      "preview": "https://assets.ppy.sh/artists/98/Songs/Umeboshi_Chazuke_-_Hoshi_no_Ouji-sama.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "aa...hisuichazuke... - steganography",
+      "preview": "https://assets.ppy.sh/artists/98/Songs/aa...hisuichazuke..._-_steganography.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ao to Shiro no Hanataba wo",
+      "preview": "https://assets.ppy.sh/artists/98/Songs/Umeboshi_Chazuke_-_Ao_to_Shiro_no_Hanataba_wo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Banana! DX Choco Crepe!",
+      "preview": "https://assets.ppy.sh/artists/98/previews/3039.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hacha-Mecha Traveler!",
+      "preview": "https://assets.ppy.sh/artists/98/previews/3041.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lollipop*driveR",
+      "preview": "https://assets.ppy.sh/artists/98/previews/2651.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Midnight Trickster",
+      "preview": "https://assets.ppy.sh/artists/98/previews/3042.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ploof",
+      "preview": "https://assets.ppy.sh/artists/98/Songs/Umeboshi_Chazuke_-_ploof.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Re:inG",
+      "preview": "https://assets.ppy.sh/artists/98/previews/2653.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Typhoon",
+      "preview": "https://assets.ppy.sh/artists/98/Songs/Umeboshi_Chazuke_-_Typhoon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:44:30Z"
+  "updated_at": "2026-03-31T02:23:13Z"
 }

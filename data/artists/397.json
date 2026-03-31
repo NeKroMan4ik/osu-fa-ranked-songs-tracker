@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Materialize Anything",
+      "preview": "https://assets.ppy.sh/artists/397/Songs/anubasu-anubasu - Materialize Anything.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -16,34 +17,40 @@
     },
     {
       "title": "Disaster",
+      "preview": "https://assets.ppy.sh/artists/397/Songs/anubasu-anubasu - Disaster.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mercury Prayer",
+      "preview": "https://assets.ppy.sh/artists/397/Songs/anubasu-anubasu - Mercury Prayer.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nemesis (pi/3s Remix)",
+      "preview": "https://assets.ppy.sh/artists/397/Songs/anubasu-anubasu - Nemesis (pi3s Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Next Anthem...",
+      "preview": "https://assets.ppy.sh/artists/397/Songs/anubasu-anubasu - Next Anthem....mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The island of albatross",
+      "preview": "https://assets.ppy.sh/artists/397/Songs/anubasu-anubasu - The island of albatross.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Weathers",
+      "preview": "https://assets.ppy.sh/artists/397/Songs/anubasu-anubasu - Weathers.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:41:57Z"
+  "updated_at": "2026-03-30T23:19:56Z"
 }

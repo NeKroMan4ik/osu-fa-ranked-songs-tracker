@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Ascension - Dream State Armageddon",
+      "preview": "https://assets.ppy.sh/artists/100/previews/2682.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Beyond the Matrix",
+      "preview": "https://assets.ppy.sh/artists/100/previews/2684.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -30,6 +32,7 @@
     },
     {
       "title": "Dancing in a Hurricane",
+      "preview": "https://assets.ppy.sh/artists/100/previews/2686.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -41,6 +44,7 @@
     },
     {
       "title": "The Solace System",
+      "preview": "https://assets.ppy.sh/artists/100/previews/2698.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -52,6 +56,7 @@
     },
     {
       "title": "Universal Death Squad",
+      "preview": "https://assets.ppy.sh/artists/100/previews/2693.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -67,84 +72,100 @@
     },
     {
       "title": "A Phantasmic Parade",
+      "preview": "https://assets.ppy.sh/artists/100/previews/2681.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Architect of Light",
+      "preview": "https://assets.ppy.sh/artists/100/previews/2695.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Beyond the Good, the Bad and the Ugly",
+      "preview": "https://assets.ppy.sh/artists/100/previews/2683.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dancing in a Gypsy Camp",
+      "preview": "https://assets.ppy.sh/artists/100/previews/2685.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Decoded Poetry",
+      "preview": "https://assets.ppy.sh/artists/100/previews/2696.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Divide and Conquer",
+      "preview": "https://assets.ppy.sh/artists/100/previews/2687.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Edge of the Blade",
+      "preview": "https://assets.ppy.sh/artists/100/previews/2688.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fight Your Demons",
+      "preview": "https://assets.ppy.sh/artists/100/previews/2697.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sancta Terra",
+      "preview": "https://assets.ppy.sh/artists/100/previews/2679.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tear Down Your Walls",
+      "preview": "https://assets.ppy.sh/artists/100/previews/2689.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Cosmic Algorithm",
+      "preview": "https://assets.ppy.sh/artists/100/previews/2690.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Divine Conspiracy",
+      "preview": "https://assets.ppy.sh/artists/100/previews/2680.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Funky Algorithm",
+      "preview": "https://assets.ppy.sh/artists/100/previews/2691.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Holographic Principle - A Profound Understanding of Reality",
+      "preview": "https://assets.ppy.sh/artists/100/previews/2692.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Universal Love Squad",
+      "preview": "https://assets.ppy.sh/artists/100/previews/2694.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Wheel of Destiny",
+      "preview": "https://assets.ppy.sh/artists/100/previews/2699.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:24:09Z"
+  "updated_at": "2026-03-31T00:01:59Z"
 }

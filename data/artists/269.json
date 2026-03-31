@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "24 Hr Drive-Thru",
+      "preview": "https://assets.ppy.sh/artists/269/Somewhere City/Origami Angel - 24 Hr Drive-Thru.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "666 Flags",
+      "preview": "https://assets.ppy.sh/artists/269/Somewhere City/Origami Angel - 666 Flags.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -31,6 +33,7 @@
     },
     {
       "title": "Bed Bath & Batman Beyond",
+      "preview": "https://assets.ppy.sh/artists/269/GAMI GANG/Origami Angel - Bed Bath %26 Batman Beyond.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -47,6 +50,7 @@
     },
     {
       "title": "Blanket Statement",
+      "preview": "https://assets.ppy.sh/artists/269/GAMI GANG/Origami Angel - Blanket Statement.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -58,6 +62,7 @@
     },
     {
       "title": "Doctor Whomst",
+      "preview": "https://assets.ppy.sh/artists/269/Somewhere City/Origami Angel - Doctor Whomst.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -69,6 +74,7 @@
     },
     {
       "title": "Dr. Fondoom",
+      "preview": "https://assets.ppy.sh/artists/269/GAMI GANG/Origami Angel - Dr. Fondoom.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -93,6 +99,7 @@
     },
     {
       "title": "Escape Rope",
+      "preview": "https://assets.ppy.sh/artists/269/Somewhere City/Origami Angel - Escape Rope.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -104,6 +111,7 @@
     },
     {
       "title": "Moebius Chicken Strip",
+      "preview": "https://assets.ppy.sh/artists/269/GAMI GANG/Origami_Angel_-_Moebius_Chicken_Strip.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -115,6 +123,7 @@
     },
     {
       "title": "Noah Fence",
+      "preview": "https://assets.ppy.sh/artists/269/GAMI GANG/Origami Angel - Noah Fence.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -130,6 +139,7 @@
     },
     {
       "title": "Say Less",
+      "preview": "https://assets.ppy.sh/artists/269/Somewhere City/Origami Angel - Say Less.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -141,6 +151,7 @@
     },
     {
       "title": "The Title Track",
+      "preview": "https://assets.ppy.sh/artists/269/Somewhere City/Origami Angel - The Title Track.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -161,34 +172,40 @@
     },
     {
       "title": "Bossa Nova Corps",
+      "preview": "https://assets.ppy.sh/artists/269/GAMI GANG/Origami Angel - Bossa Nova Corps.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Find Your Throne",
+      "preview": "https://assets.ppy.sh/artists/269/Somewhere City/Origami Angel - Find Your Throne.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Neutrogena Spektor",
+      "preview": "https://assets.ppy.sh/artists/269/GAMI GANG/Origami Angel - Neutrogena Spektor.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Skeleton Key",
+      "preview": "https://assets.ppy.sh/artists/269/Somewhere City/Origami Angel - Skeleton Key.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Air Up Here",
+      "preview": "https://assets.ppy.sh/artists/269/Somewhere City/Origami Angel - The Air Up Here.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Welcome to...",
+      "preview": "https://assets.ppy.sh/artists/269/Somewhere City/Origami Angel - Welcome to....mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:39:53Z"
+  "updated_at": "2026-03-31T01:18:06Z"
 }

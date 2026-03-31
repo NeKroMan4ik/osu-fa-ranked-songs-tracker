@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "2004 Breakup",
+      "preview": "https://assets.ppy.sh/artists/142/2004 Breakup/The Gentle Men - 2004 Breakup.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -19,29 +20,34 @@
     },
     {
       "title": "2019 Guy",
+      "preview": "https://assets.ppy.sh/artists/142/2019 Guy/The Gentle Men - 2019 Guy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "I Am Truth",
+      "preview": "https://assets.ppy.sh/artists/142/I Am Truth/The Gentle Men - I Am Truth.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Obsession",
+      "preview": "https://assets.ppy.sh/artists/142/Obsession/The Gentle Men - Obsession.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Real To Me",
+      "preview": "https://assets.ppy.sh/artists/142/Real To Me/The Gentle Men - Real To Me.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Skynut",
+      "preview": "https://assets.ppy.sh/artists/142/Skynut/The Gentle Men - Skynut.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:40:04Z"
+  "updated_at": "2026-03-31T02:18:44Z"
 }

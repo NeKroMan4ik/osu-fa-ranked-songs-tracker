@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Circulation",
+      "preview": "https://assets.ppy.sh/artists/266/Neko Hacker/Neko Hacker - Circulation.mp3",
       "ranked_modes": [
         "fruits",
         "mania"
@@ -20,6 +21,7 @@
     },
     {
       "title": "Erased feat. YuNi",
+      "preview": "https://assets.ppy.sh/artists/266/Neko Hacker/Neko Hacker - Erased feat. YuNi.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -31,6 +33,7 @@
     },
     {
       "title": "From Zero feat. Rika",
+      "preview": "https://assets.ppy.sh/artists/266/Neko Hacker/Neko Hacker - From Zero feat. Rika.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -42,6 +45,7 @@
     },
     {
       "title": "Kuishinbo Hacker feat. Kuishinbo Akachan",
+      "preview": "https://assets.ppy.sh/artists/266/Neko Hacker/Neko Hacker - Kuishinbo Hacker feat. Kuishinbo Akachan.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -57,6 +61,7 @@
     },
     {
       "title": "People People feat. Nanahira",
+      "preview": "https://assets.ppy.sh/artists/266/Songs/Neko_Hacker_-_People_People_feat._Nanahira.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -77,6 +82,7 @@
     },
     {
       "title": "Pictures feat. 4s4ki",
+      "preview": "https://assets.ppy.sh/artists/266/Reincarnation/Neko Hacker - Pictures feat. 4s4ki.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -88,16 +94,17 @@
     },
     {
       "title": "Shadows feat. Such",
+      "preview": "https://assets.ppy.sh/artists/266/Reincarnation/Neko Hacker - Shadows feat. Such.mp3",
       "ranked_modes": [
         "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "mania": [
           2200847
         ],
-        "mania": [
+        "taiko": [
           2200847
         ],
         "osu": [
@@ -108,54 +115,64 @@
     },
     {
       "title": "Aimai Cyborg feat. Ugokuchan & JungMato",
+      "preview": "https://assets.ppy.sh/artists/266/Songs/Neko Hacker - Aimai Cyborg feat. Ugokuchan %26 JungMato.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chocolate Adventure feat. Nanahira",
+      "preview": "https://assets.ppy.sh/artists/266/Neko Hacker/Neko Hacker - Chocolate Adventure feat. Nanahira.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Daydream feat. mega & Sithu Aye",
+      "preview": "https://assets.ppy.sh/artists/266/Neko Hacker/Neko Hacker - Daydream feat. mega %26 Sithu Aye.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fly High (feat. mochari)",
+      "preview": "https://assets.ppy.sh/artists/266/Songs/Neko Hacker - Fly High (feat. mochari).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hack You feat. Ugokuchan",
+      "preview": "https://assets.ppy.sh/artists/266/Neko Hacker/Neko Hacker - Hack You feat. Ugokuchan.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Home Sweet Home feat. KMNZ LIZ",
+      "preview": "https://assets.ppy.sh/artists/266/Neko Hacker/Neko Hacker - Home Sweet Home feat. KMNZ LIZ.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Neko Hacker feat. Nanahira - Shuwa*Shuwa Parfait",
+      "preview": "https://assets.ppy.sh/artists/266/Songs/Neko Hacker feat. Nanahira - ShuwaShuwa Parfait.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Night Sky feat. Mashilo & ichika",
+      "preview": "https://assets.ppy.sh/artists/266/Neko Hacker/Neko Hacker - Night Sky feat. Mashilo %26 ichika.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rainbow In The Dark (feat. Rika)",
+      "preview": "https://assets.ppy.sh/artists/266/Neko Hacker/Neko Hacker - Rainbow In The Dark (feat. Rika).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sweet Dreams feat. Rika",
+      "preview": "https://assets.ppy.sh/artists/266/Neko Hacker/Neko Hacker - Sweet Dreams feat. Rika.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:33:09Z"
+  "updated_at": "2026-03-31T01:11:18Z"
 }

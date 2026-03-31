@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "arabesque of dif.",
+      "preview": "https://assets.ppy.sh/artists/171/Songs/love solfege - arabesque of dif..mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "La Fatalite",
+      "preview": "https://assets.ppy.sh/artists/171/La Fatalite/love solfege - La Fatalite.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Land Art",
+      "preview": "https://assets.ppy.sh/artists/171/Sakairitsu no Sample/love solfege - Land Art.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "protomimesis#14",
+      "preview": "https://assets.ppy.sh/artists/171/protomimesis/love solfege - protomimesis%2314.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "Sanzen to Kagayaku Kanashiki Ashita to...",
+      "preview": "https://assets.ppy.sh/artists/171/Luxury~classical best/love solfege - Sanzen to Kagayaku Kanashiki Ashita to....mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -63,6 +68,7 @@
     },
     {
       "title": "Vanity Clock",
+      "preview": "https://assets.ppy.sh/artists/171/Reception for witnesses/love solfege - Vanity Clock.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -78,24 +84,28 @@
     },
     {
       "title": "BABEL (2019 Remix ver.)",
+      "preview": "https://assets.ppy.sh/artists/171/lucis ortus/love solfege - BABEL (2019 Remix ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "le blanc et noir",
+      "preview": "https://assets.ppy.sh/artists/171/le blanc et noir/love solfege - le blanc et noir.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "matricaria",
+      "preview": "https://assets.ppy.sh/artists/171/la tempesta/love solfege - matricaria.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "over the surges",
+      "preview": "https://assets.ppy.sh/artists/171/over the surges/love solfege - over the surges.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:12:49Z"
+  "updated_at": "2026-03-31T00:50:51Z"
 }

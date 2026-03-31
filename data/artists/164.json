@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Acid Mirage (Cut Ver.)",
+      "preview": "https://assets.ppy.sh/artists/164/Acid Mirage EP/Agressor Bunx - Acid Mirage (Cut Ver.).mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Tornado (Cut Ver.)",
+      "preview": "https://assets.ppy.sh/artists/164/Return Of Gods EP/Agressor Bunx - Tornado (Cut Ver.).mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -26,64 +28,76 @@
     },
     {
       "title": "Acid Mirage",
+      "preview": "https://assets.ppy.sh/artists/164/Acid Mirage EP/Agressor Bunx - Acid Mirage.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Free Machine",
+      "preview": "https://assets.ppy.sh/artists/164/The Order EP/Agressor Bunx - Free Machine.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Free Machine (Cut Ver.)",
+      "preview": "https://assets.ppy.sh/artists/164/The Order EP/Agressor Bunx - Free Machine (Cut Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "In Deep",
+      "preview": "https://assets.ppy.sh/artists/164/Power Glow EP/Agressor Bunx - In Deep.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "In Deep (Cut Ver.)",
+      "preview": "https://assets.ppy.sh/artists/164/Power Glow EP/Agressor Bunx - In Deep (Cut Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lights Up",
+      "preview": "https://assets.ppy.sh/artists/164/Acid Mirage EP/Agressor Bunx - Lights Up.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lights Up (Cut Ver.)",
+      "preview": "https://assets.ppy.sh/artists/164/Acid Mirage EP/Agressor Bunx - Lights Up (Cut Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Power Glow",
+      "preview": "https://assets.ppy.sh/artists/164/Power Glow EP/Agressor Bunx - Power Glow.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Power Glow (Cut Ver.)",
+      "preview": "https://assets.ppy.sh/artists/164/Power Glow EP/Agressor Bunx - Power Glow (Cut Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Order",
+      "preview": "https://assets.ppy.sh/artists/164/The Order EP/Agressor Bunx - The Order.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Order (Cut Ver.)",
+      "preview": "https://assets.ppy.sh/artists/164/The Order EP/Agressor Bunx - The Order (Cut Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tornado",
+      "preview": "https://assets.ppy.sh/artists/164/Return Of Gods EP/Agressor Bunx - Tornado.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:33:00Z"
+  "updated_at": "2026-03-30T23:11:01Z"
 }

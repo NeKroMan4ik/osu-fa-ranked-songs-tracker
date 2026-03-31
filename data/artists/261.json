@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Break Away (feat. Priority One)",
+      "preview": "https://assets.ppy.sh/artists/261/Songs/MUZZ - Break Away (feat. Priority One).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Children of Hell",
+      "preview": "https://assets.ppy.sh/artists/261/Songs/MUZZ - Children of Hell.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Crescendo (feat. MYLK)",
+      "preview": "https://assets.ppy.sh/artists/261/Songs/MUZZ - Crescendo (feat. MYLK).mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Draining Atlantic",
+      "preview": "https://assets.ppy.sh/artists/261/Songs/MUZZ - Draining Atlantic.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "Endgame",
+      "preview": "https://assets.ppy.sh/artists/261/Songs/MUZZ - Endgame.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -65,6 +70,7 @@
     },
     {
       "title": "Lost Forever",
+      "preview": "https://assets.ppy.sh/artists/261/Songs/MUZZ - Lost Forever.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -76,6 +82,7 @@
     },
     {
       "title": "Nemesis",
+      "preview": "https://assets.ppy.sh/artists/261/Songs/MUZZ - Nemesis.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -91,6 +98,7 @@
     },
     {
       "title": "Spectrum",
+      "preview": "https://assets.ppy.sh/artists/261/Songs/MUZZ - Spectrum.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -107,6 +115,7 @@
     },
     {
       "title": "Timberwolf",
+      "preview": "https://assets.ppy.sh/artists/261/Songs/MUZZ - Timberwolf.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -118,19 +127,22 @@
     },
     {
       "title": "Calling Out (feat. KG & Skyelle)",
+      "preview": "https://assets.ppy.sh/artists/261/Songs/MUZZ - Calling Out (feat. KG %26 Skyelle).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "In The Night (feat. Sullivan King)",
+      "preview": "https://assets.ppy.sh/artists/261/Songs/MUZZ - In The Night (feat. Sullivan King).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Play (feat. UK:ID)",
+      "preview": "https://assets.ppy.sh/artists/261/Songs/MUZZ - Play (feat. UKID).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:29:37Z"
+  "updated_at": "2026-03-31T01:07:44Z"
 }

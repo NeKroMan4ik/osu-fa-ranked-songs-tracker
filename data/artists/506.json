@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Blizzard Heights",
+      "preview": "https://assets.ppy.sh/artists/506/Songs/BrayanKitsn - Blizzard Heights.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Crystallized Snow",
+      "preview": "https://assets.ppy.sh/artists/506/Songs/BrayanKitsn_-_Crystallized_Snow_Short_Ver..mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -26,64 +28,76 @@
     },
     {
       "title": "Anstrvoir",
+      "preview": "https://assets.ppy.sh/artists/506/Songs/BrayanKitsn - Anstrvoir.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BounceBack",
+      "preview": "https://assets.ppy.sh/artists/506/BounceBack/BrayanKitsn - BounceBack.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BrayanKitsn vs. burger ate pizza - plana stella achernar",
+      "preview": "https://assets.ppy.sh/artists/506/plana stella achernar/BrayanKitsn vs. burger ate pizza - plana stella achernar.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cryallia",
+      "preview": "https://assets.ppy.sh/artists/506/Songs/BrayanKitsn - Cryallia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "EdadeisnA",
+      "preview": "https://assets.ppy.sh/artists/506/EdadeisnA/BrayanKitsn - EdadeisnA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fel",
+      "preview": "https://assets.ppy.sh/artists/506/Songs/BrayanKitsn - Fel.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lividini",
+      "preview": "https://assets.ppy.sh/artists/506/Lividini/BrayanKitsn - Lividini.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rabushikku",
+      "preview": "https://assets.ppy.sh/artists/506/Rabushikku/BrayanKitsn - Rabushikku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rholtev",
+      "preview": "https://assets.ppy.sh/artists/506/Songs/BrayanKitsn - Rholtev.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Last Fenrir",
+      "preview": "https://assets.ppy.sh/artists/506/The Last Fenrir/BrayanKitsn - The Last Fenrir.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Xiris",
+      "preview": "https://assets.ppy.sh/artists/506/Xiris/BrayanKitsn - Xiris.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Z-A-I-T-A",
+      "preview": "https://assets.ppy.sh/artists/506/Songs/BrayanKitsn - Z-A-I-T-A.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:56:54Z"
+  "updated_at": "2026-03-30T23:34:50Z"
 }

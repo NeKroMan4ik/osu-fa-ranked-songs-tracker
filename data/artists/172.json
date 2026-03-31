@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Asteroid Field of DECAPLETS",
+      "preview": "https://assets.ppy.sh/artists/172/Songs/II-L - Asteroid Field of DECAPLETS.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -23,6 +24,7 @@
     },
     {
       "title": "PIONEER-4",
+      "preview": "https://assets.ppy.sh/artists/172/PIONEER PROGRAM/II-L - PIONEER-4.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -34,6 +36,7 @@
     },
     {
       "title": "SPUTNIK-3",
+      "preview": "https://assets.ppy.sh/artists/172/MISSION SPUTNIK/II-L - SPUTNIK-3.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -54,6 +57,7 @@
     },
     {
       "title": "Unidentified Frequency Op.3 (Type-Triangle)",
+      "preview": "https://assets.ppy.sh/artists/172/Songs/II-L_-_Unidentified_Frequency_Op.3_Type-Triangle.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -65,6 +69,7 @@
     },
     {
       "title": "V804N (BMS Edit)",
+      "preview": "https://assets.ppy.sh/artists/172/Songs/II-L - V804N (BMS Edit).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -76,6 +81,7 @@
     },
     {
       "title": "VANGUARD-1",
+      "preview": "https://assets.ppy.sh/artists/172/PROJECT VANGUARD/II-L - VANGUARD-1.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -87,6 +93,7 @@
     },
     {
       "title": "VANGUARD-2",
+      "preview": "https://assets.ppy.sh/artists/172/PROJECT VANGUARD/II-L - VANGUARD-2.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -98,6 +105,7 @@
     },
     {
       "title": "VANGUARD-3",
+      "preview": "https://assets.ppy.sh/artists/172/PROJECT VANGUARD/II-L - VANGUARD-3.mp3",
       "ranked_modes": [
         "fruits",
         "mania"
@@ -113,109 +121,130 @@
     },
     {
       "title": "Akiri x II-L - QUADRANTIDS",
+      "preview": "https://assets.ppy.sh/artists/172/Songs/Akiri_x_II-L_-_QUADRANTIDS.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "EXPLORER-1",
+      "preview": "https://assets.ppy.sh/artists/172/EXPLORERS PROGRAM/II-L - EXPLORER-1.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "EXPLORER-2",
+      "preview": "https://assets.ppy.sh/artists/172/EXPLORERS PROGRAM/II-L - EXPLORER-2.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "EXPLORER-3",
+      "preview": "https://assets.ppy.sh/artists/172/EXPLORERS PROGRAM/II-L - EXPLORER-3.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "EXPLORER-4",
+      "preview": "https://assets.ppy.sh/artists/172/EXPLORERS PROGRAM/II-L - EXPLORER-4.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "EXPLORER-5",
+      "preview": "https://assets.ppy.sh/artists/172/EXPLORERS PROGRAM/II-L - EXPLORER-5.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "II-L feat. amelie xoxo - THE EARTH",
+      "preview": "https://assets.ppy.sh/artists/172/Songs/II-L feat. amelie xoxo - THE EARTH.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "LEVEL-DOWN",
+      "preview": "https://assets.ppy.sh/artists/172/Songs/II-L - LEVEL-DOWN.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PIONEER-5",
+      "preview": "https://assets.ppy.sh/artists/172/PIONEER PROGRAM/II-L - PIONEER-5.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SPUTNIK-1",
+      "preview": "https://assets.ppy.sh/artists/172/MISSION SPUTNIK/II-L - SPUTNIK-1.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SPUTNIK-10",
+      "preview": "https://assets.ppy.sh/artists/172/MISSION SPUTNIK II/II-L - SPUTNIK-10.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SPUTNIK-2",
+      "preview": "https://assets.ppy.sh/artists/172/MISSION SPUTNIK/II-L - SPUTNIK-2.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SPUTNIK-4",
+      "preview": "https://assets.ppy.sh/artists/172/MISSION SPUTNIK/II-L - SPUTNIK-4.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SPUTNIK-5",
+      "preview": "https://assets.ppy.sh/artists/172/MISSION SPUTNIK/II-L - SPUTNIK-5.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SPUTNIK-6",
+      "preview": "https://assets.ppy.sh/artists/172/MISSION SPUTNIK II/II-L - SPUTNIK-6.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SPUTNIK-7",
+      "preview": "https://assets.ppy.sh/artists/172/MISSION SPUTNIK II/II-L - SPUTNIK-7.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SPUTNIK-8",
+      "preview": "https://assets.ppy.sh/artists/172/MISSION SPUTNIK II/II-L - SPUTNIK-8.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SPUTNIK-9",
+      "preview": "https://assets.ppy.sh/artists/172/MISSION SPUTNIK II/II-L - SPUTNIK-9.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Unidentified Frequency Op.1 (Type-Adamski)",
+      "preview": "https://assets.ppy.sh/artists/172/Songs/II-L - Unidentified Frequency Op.1 (Type-Adamski).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "VOSTOK-3",
+      "preview": "https://assets.ppy.sh/artists/172/VOSTOK PROGRAM/II-L - VOSTOK-3.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "VOSTOK-6",
+      "preview": "https://assets.ppy.sh/artists/172/VOSTOK PROGRAM/II-L - VOSTOK-6.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:46:19Z"
+  "updated_at": "2026-03-31T00:24:12Z"
 }

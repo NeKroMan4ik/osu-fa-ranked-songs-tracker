@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Aquestion - Umami Blaze",
+      "preview": "https://assets.ppy.sh/artists/173/Songs/Aquestion - Umami Blaze.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,44 +16,52 @@
     },
     {
       "title": "Aquestion - Arrogation",
+      "preview": "https://assets.ppy.sh/artists/173/Songs/Aquestion_-_Arrogation.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aquestion - ENERGY INFLATION",
+      "preview": "https://assets.ppy.sh/artists/173/Songs/Aquestion_-_ENERGY_INFLATION.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aquestion - ice cream",
+      "preview": "https://assets.ppy.sh/artists/173/Songs/Aquestion_-_ice_cream.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aquestion - Now I Got Up",
+      "preview": "https://assets.ppy.sh/artists/173/Songs/Aquestion_-_Now_I_Got_Up.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aquestion - Suimasen Sanshoku Cheese Gyuudon no Tokumori ni Ontamatsuki o Onegaishimasu",
+      "preview": "https://assets.ppy.sh/artists/173/Songs/Aquestion_-_Suimasen_Sanshoku_Cheese_Gyuudon_no_Tokumori_ni_Ontamatsuki_o_Onegaishimasu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aquestion - We just wanted to live on the earth",
+      "preview": "https://assets.ppy.sh/artists/173/Songs/Aquestion_-_We_just_wanted_to_live_on_the_earth.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "cexiria & Aquestion - CounterMeasure",
+      "preview": "https://assets.ppy.sh/artists/173/Songs/cexiria__Aquestion_-_CounterMeasure.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "TWC Sound Team \"Strike Back Squad\" - BUZZ CUTZ",
+      "preview": "https://assets.ppy.sh/artists/173/Songs/TWC_Sound_Team_Strike_Back_Squad_-_BUZZ_CUTZ.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:42:51Z"
+  "updated_at": "2026-03-30T23:20:51Z"
 }

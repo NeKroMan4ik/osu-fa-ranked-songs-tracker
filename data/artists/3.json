@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Feel It",
+      "preview": "https://assets.ppy.sh/artists/3/previews/387.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -16,6 +17,7 @@
     },
     {
       "title": "Fly",
+      "preview": "https://assets.ppy.sh/artists/3/previews/17.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -27,6 +29,7 @@
     },
     {
       "title": "Mad Halloween",
+      "preview": "https://assets.ppy.sh/artists/3/previews/2628.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -38,6 +41,7 @@
     },
     {
       "title": "Pink Love (feat. Lency)",
+      "preview": "https://assets.ppy.sh/artists/3/previews/26.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -54,6 +58,7 @@
     },
     {
       "title": "Snowdrop",
+      "preview": "https://assets.ppy.sh/artists/3/previews/21.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -65,69 +70,82 @@
     },
     {
       "title": "All in One",
+      "preview": "https://assets.ppy.sh/artists/3/previews/385.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Burn out",
+      "preview": "https://assets.ppy.sh/artists/3/previews/386.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ducks",
+      "preview": "https://assets.ppy.sh/artists/3/previews/16.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Happy Birthday",
+      "preview": "https://assets.ppy.sh/artists/3/previews/2626.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Happy Welus",
+      "preview": "https://assets.ppy.sh/artists/3/previews/18.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "M Saeng",
+      "preview": "https://assets.ppy.sh/artists/3/previews/2627.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Melody of Heaven",
+      "preview": "https://assets.ppy.sh/artists/3/previews/19.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Parasite",
+      "preview": "https://assets.ppy.sh/artists/3/previews/20.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Run",
+      "preview": "https://assets.ppy.sh/artists/3/previews/2629.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Summer Vacation",
+      "preview": "https://assets.ppy.sh/artists/3/previews/22.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Transform",
+      "preview": "https://assets.ppy.sh/artists/3/previews/23.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Uppity Cat",
+      "preview": "https://assets.ppy.sh/artists/3/previews/24.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Welcome",
+      "preview": "https://assets.ppy.sh/artists/3/previews/25.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:44:48Z"
+  "updated_at": "2026-03-31T00:22:41Z"
 }

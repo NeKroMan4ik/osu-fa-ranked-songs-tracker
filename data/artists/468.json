@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Abyssal Storm",
+      "preview": "https://assets.ppy.sh/artists/468/Abyssal Storm/lexycat - Abyssal Storm.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -19,6 +20,7 @@
     },
     {
       "title": "atrophy",
+      "preview": "https://assets.ppy.sh/artists/468/atrophy/lexycat - atrophy.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -30,6 +32,7 @@
     },
     {
       "title": "crystal forest",
+      "preview": "https://assets.ppy.sh/artists/468/crystal forest/lexycat - crystal forest.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -41,6 +44,7 @@
     },
     {
       "title": "glitter *",
+      "preview": "https://assets.ppy.sh/artists/468/glitter/lexycat - glitter .mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -52,34 +56,40 @@
     },
     {
       "title": "Angelstar",
+      "preview": "https://assets.ppy.sh/artists/468/Dark Blossom/lexycat - Angelstar.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chrysalis",
+      "preview": "https://assets.ppy.sh/artists/468/Dark Blossom/lexycat - Chrysalis.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dark Blossom",
+      "preview": "https://assets.ppy.sh/artists/468/Dark Blossom/lexycat - Dark Blossom.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hanabi",
+      "preview": "https://assets.ppy.sh/artists/468/Dark Blossom/lexycat - Hanabi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "incision",
+      "preview": "https://assets.ppy.sh/artists/468/crystal forest/lexycat - incision.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "kitsune",
+      "preview": "https://assets.ppy.sh/artists/468/atrophy/lexycat - kitsune.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:06:47Z"
+  "updated_at": "2026-03-31T00:44:47Z"
 }

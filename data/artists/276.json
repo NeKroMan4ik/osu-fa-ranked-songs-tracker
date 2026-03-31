@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "OKAY",
+      "preview": "https://assets.ppy.sh/artists/276/Songs/Tokyo Machine - OKAY.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "PLAY",
+      "preview": "https://assets.ppy.sh/artists/276/Songs/Tokyo Machine - PLAY.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -30,39 +32,46 @@
     },
     {
       "title": "BUBBLES",
+      "preview": "https://assets.ppy.sh/artists/276/Songs/Tokyo Machine - BUBBLES.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "FIGHT",
+      "preview": "https://assets.ppy.sh/artists/276/Songs/Tokyo Machine - FIGHT.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "JOURNEY",
+      "preview": "https://assets.ppy.sh/artists/276/Songs/Tokyo Machine - JOURNEY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PARTY",
+      "preview": "https://assets.ppy.sh/artists/276/Songs/Tokyo Machine - PARTY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ROCK IT",
+      "preview": "https://assets.ppy.sh/artists/276/Songs/Tokyo Machine - ROCK IT.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SAIKOU",
+      "preview": "https://assets.ppy.sh/artists/276/Songs/Tokyo Machine - SAIKOU.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "TURBO",
+      "preview": "https://assets.ppy.sh/artists/276/Songs/Tokyo Machine - TURBO.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:41:13Z"
+  "updated_at": "2026-03-31T02:19:54Z"
 }

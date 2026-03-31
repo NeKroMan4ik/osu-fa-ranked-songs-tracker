@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Dyson Sphere",
+      "preview": "https://assets.ppy.sh/artists/264/Elements of the Infinite/Allegaeon - Dyson Sphere.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Of Mind and Matrix",
+      "preview": "https://assets.ppy.sh/artists/264/Proponent for Sentience/Allegaeon - Of Mind and Matrix.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -26,39 +28,46 @@
     },
     {
       "title": "1.618",
+      "preview": "https://assets.ppy.sh/artists/264/Elements of the Infinite/Allegaeon - 1.618.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Accelerated Evolution",
+      "preview": "https://assets.ppy.sh/artists/264/Fragments of Form and Function/Allegaeon - Accelerated Evolution.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Apoptosis",
+      "preview": "https://assets.ppy.sh/artists/264/Apoptosis/Allegaeon - Apoptosis.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Biomech - Vals No.666",
+      "preview": "https://assets.ppy.sh/artists/264/Fragments of Form and Function/Allegaeon - Biomech - Vals No.666.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Proponent For Sentience I - The Conception",
+      "preview": "https://assets.ppy.sh/artists/264/Proponent for Sentience/Allegaeon - Proponent For Sentience I - The Conception.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Proponent For Sentience II - The Algorithm",
+      "preview": "https://assets.ppy.sh/artists/264/Proponent for Sentience/Allegaeon - Proponent For Sentience II - The Algorithm.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Proponent For Sentience III - The Extermination",
+      "preview": "https://assets.ppy.sh/artists/264/Proponent for Sentience/Allegaeon - Proponent For Sentience III - The Extermination.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:38:44Z"
+  "updated_at": "2026-03-30T23:16:44Z"
 }

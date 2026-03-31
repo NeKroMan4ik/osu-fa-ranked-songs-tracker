@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Loki - A New King Is Born",
+      "preview": "https://assets.ppy.sh/artists/7/The Fall of a Hero/Loki - A New King Is Born.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -20,6 +21,7 @@
     },
     {
       "title": "Loki - Birth of a Hero",
+      "preview": "https://assets.ppy.sh/artists/7/The Fall of a Hero/Loki - Birth of a Hero.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -31,6 +33,7 @@
     },
     {
       "title": "Loki - Interlude",
+      "preview": "https://assets.ppy.sh/artists/7/Tales of the Mountains/Loki - Interlude.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -43,6 +46,7 @@
     },
     {
       "title": "Loki - Quiet Village",
+      "preview": "https://assets.ppy.sh/artists/7/Tales of the Mountains/Loki - Quiet Village.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -55,6 +59,7 @@
     },
     {
       "title": "Loki - The Victory is Ours",
+      "preview": "https://assets.ppy.sh/artists/7/Tales of the Mountains/Loki - The Victory is Ours.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -70,6 +75,7 @@
     },
     {
       "title": "Loki - Troll of the Forsaken Cave",
+      "preview": "https://assets.ppy.sh/artists/7/Tales of the Mountains/Loki - Troll of the Forsaken Cave.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -81,6 +87,7 @@
     },
     {
       "title": "Loki - With Fire and Sword (2013)",
+      "preview": "https://assets.ppy.sh/artists/7/Tales of the Mountains/Loki - With Fire and Sword (2013).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -93,6 +100,7 @@
     },
     {
       "title": "Loki - Wizard's Tower",
+      "preview": "https://assets.ppy.sh/artists/7/Tales of the Mountains/Loki - Wizard%27s Tower.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -109,6 +117,7 @@
     },
     {
       "title": "Thaehan - 12151109",
+      "preview": "https://assets.ppy.sh/artists/7/Never Give Up/Thaehan - 12151109.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -132,6 +141,7 @@
     },
     {
       "title": "Thaehan - All or Nothing",
+      "preview": "https://assets.ppy.sh/artists/7/Songs/Thaehan - All or Nothing.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -143,6 +153,7 @@
     },
     {
       "title": "Thaehan - Angry Birds Epic (Remix)",
+      "preview": "https://assets.ppy.sh/artists/7/OMGWTF !/Thaehan - Angry Birds Epic (Remix).mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -163,6 +174,7 @@
     },
     {
       "title": "Thaehan - Bwa !",
+      "preview": "https://assets.ppy.sh/artists/7/Bwa/Thaehan - Bwa !.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -186,6 +198,7 @@
     },
     {
       "title": "Thaehan - Chiptune & Baroque",
+      "preview": "https://assets.ppy.sh/artists/7/Bwa/Thaehan - Chiptune %26 Baroque.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -201,6 +214,7 @@
     },
     {
       "title": "Thaehan - Doki-Doki",
+      "preview": "https://assets.ppy.sh/artists/7/Power Up/Thaehan - Doki-Doki.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -224,6 +238,7 @@
     },
     {
       "title": "Thaehan - Final Boss",
+      "preview": "https://assets.ppy.sh/artists/7/Power Up/Thaehan - Final Boss.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -235,6 +250,7 @@
     },
     {
       "title": "Thaehan - Forcefield",
+      "preview": "https://assets.ppy.sh/artists/7/Never Give Up/Thaehan - Forcefield.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -246,6 +262,7 @@
     },
     {
       "title": "Thaehan - Help",
+      "preview": "https://assets.ppy.sh/artists/7/Bwa/Thaehan - Help.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -263,6 +280,7 @@
     },
     {
       "title": "Thaehan - Insert Coin",
+      "preview": "https://assets.ppy.sh/artists/7/OMGWTF !/Thaehan - Insert Coin.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -290,6 +308,7 @@
     },
     {
       "title": "Thaehan - Kawaii",
+      "preview": "https://assets.ppy.sh/artists/7/OMGWTF !/Thaehan - Kawaii.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -301,6 +320,7 @@
     },
     {
       "title": "Thaehan - Leprechaun",
+      "preview": "https://assets.ppy.sh/artists/7/Bwa/Thaehan - Leprechaun.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -317,6 +337,7 @@
     },
     {
       "title": "Thaehan - Never Give Up",
+      "preview": "https://assets.ppy.sh/artists/7/Never Give Up/Thaehan - Never Give Up.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -328,6 +349,7 @@
     },
     {
       "title": "Thaehan - Ohayou !",
+      "preview": "https://assets.ppy.sh/artists/7/Bwa/Thaehan - Ohayou !.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -345,6 +367,7 @@
     },
     {
       "title": "Thaehan - Overpowered",
+      "preview": "https://assets.ppy.sh/artists/7/OMGWTF !/Thaehan - Overpowered.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -356,6 +379,7 @@
     },
     {
       "title": "Thaehan - Play",
+      "preview": "https://assets.ppy.sh/artists/7/Mekatsune/Thaehan - Play.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -379,6 +403,7 @@
     },
     {
       "title": "Thaehan - Rise Up",
+      "preview": "https://assets.ppy.sh/artists/7/Power Up/Thaehan - Rise Up.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -390,6 +415,7 @@
     },
     {
       "title": "Thaehan - Saiyajin",
+      "preview": "https://assets.ppy.sh/artists/7/Power Up/Thaehan - Saiyajin.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -409,6 +435,7 @@
     },
     {
       "title": "Thaehan - Sunrise",
+      "preview": "https://assets.ppy.sh/artists/7/Power Up/Thaehan - sunrise.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -420,6 +447,7 @@
     },
     {
       "title": "Thaehan - Superpower",
+      "preview": "https://assets.ppy.sh/artists/7/OMGWTF !/Thaehan - Superpower.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -431,6 +459,7 @@
     },
     {
       "title": "Thaehan - Yuujou",
+      "preview": "https://assets.ppy.sh/artists/7/Bwa/Thaehan - Yuujou.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -446,149 +475,178 @@
     },
     {
       "title": "Loki - Lad with a Destiny",
+      "preview": "https://assets.ppy.sh/artists/7/The Fall of a Hero/Loki - Lad with a Destiny.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Loki - Once Upon a Time",
+      "preview": "https://assets.ppy.sh/artists/7/The Fall of a Hero/Loki - Once Upon a Time.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Loki - Path of Honor",
+      "preview": "https://assets.ppy.sh/artists/7/The Fall of a Hero/Loki - Path of Honor.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Loki - Rise Against the Tyrant",
+      "preview": "https://assets.ppy.sh/artists/7/The Fall of a Hero/Loki - Rise Against the Tyrant.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Loki - The Fall of a Hero",
+      "preview": "https://assets.ppy.sh/artists/7/The Fall of a Hero/Loki - The Fall of a Hero.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Loki - The Flip Side of the Coin",
+      "preview": "https://assets.ppy.sh/artists/7/The Fall of a Hero/Loki - The Flip Side of the Coin.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Loki - When a Nation Calls for Help",
+      "preview": "https://assets.ppy.sh/artists/7/The Fall of a Hero/Loki - When a Nation Calls for Help.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thaehan - Awakening",
+      "preview": "https://assets.ppy.sh/artists/7/Never Give Up/Thaehan - Awakening.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thaehan - Chapo Chapo",
+      "preview": "https://assets.ppy.sh/artists/7/Mekatsune/Thaehan - Chapo Chapo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thaehan - Clown",
+      "preview": "https://assets.ppy.sh/artists/7/OMGWTF !/Thaehan - Clown.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thaehan - Constellations",
+      "preview": "https://assets.ppy.sh/artists/7/Mekatsune/Thaehan - Constellations.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thaehan - Dark Castle",
+      "preview": "https://assets.ppy.sh/artists/7/Power Up/Thaehan - Dark Castle.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thaehan - Despair",
+      "preview": "https://assets.ppy.sh/artists/7/Never Give Up/Thaehan - Despair.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thaehan - Final Boss II",
+      "preview": "https://assets.ppy.sh/artists/7/OMGWTF !/Thaehan - Final Boss II.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thaehan - Final Boss III",
+      "preview": "https://assets.ppy.sh/artists/7/Mekatsune/Thaehan - Final Boss III.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thaehan - Flying",
+      "preview": "https://assets.ppy.sh/artists/7/Power Up/Thaehan - Flying.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thaehan - Fox Attacks !",
+      "preview": "https://assets.ppy.sh/artists/7/Mekatsune/Thaehan - Fox Attacks !.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thaehan - Hey",
+      "preview": "https://assets.ppy.sh/artists/7/OMGWTF !/Thaehan - Hey.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thaehan - Hospital",
+      "preview": "https://assets.ppy.sh/artists/7/Bwa/Thaehan - Hospital.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thaehan - Infinity",
+      "preview": "https://assets.ppy.sh/artists/7/OMGWTF !/Thaehan - Infinity.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thaehan - Intro",
+      "preview": "https://assets.ppy.sh/artists/7/Bwa/Thaehan - Intro.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thaehan - Mega Man 2 Medley",
+      "preview": "https://assets.ppy.sh/artists/7/OMGWTF !/Thaehan - Mega Man 2 Medley.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thaehan - Meow !",
+      "preview": "https://assets.ppy.sh/artists/7/Power Up/Thaehan - Meow !.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thaehan - Neko",
+      "preview": "https://assets.ppy.sh/artists/7/Mekatsune/Thaehan - Neko.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thaehan - Orchid",
+      "preview": "https://assets.ppy.sh/artists/7/Bwa/Thaehan - Orchid.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thaehan - Overworld",
+      "preview": "https://assets.ppy.sh/artists/7/Power Up/Thaehan - Overworld.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thaehan - Pixelated",
+      "preview": "https://assets.ppy.sh/artists/7/Bwa/Thaehan - Pixelated.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thaehan - Requiem",
+      "preview": "https://assets.ppy.sh/artists/7/Power Up/Thaehan - Requiem.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thaehan - You're Joking (feat. Oogie Boogie)",
+      "preview": "https://assets.ppy.sh/artists/7/Bwa/Thaehan - You%27re Joking (feat. Oogie Boogie).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:12:35Z"
+  "updated_at": "2026-03-31T00:50:37Z"
 }

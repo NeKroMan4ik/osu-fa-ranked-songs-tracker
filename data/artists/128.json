@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Burned Out feat. DJ Noriken",
+      "preview": "https://assets.ppy.sh/artists/128/KICK IT OUT/Getty - Burned Out feat. DJ Noriken.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Neo Bright feat. TEA",
+      "preview": "https://assets.ppy.sh/artists/128/KICK IT OUT/Getty - Neo Bright feat. TEA.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,124 +28,148 @@
     },
     {
       "title": "Blaze (Shandy Kubota remix)",
+      "preview": "https://assets.ppy.sh/artists/128/KICK IT OUT/Getty - Blaze (Shandy Kubota remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BLVST BEVT (VIP)",
+      "preview": "https://assets.ppy.sh/artists/128/FLVSH OUT/Getty - BLVST BEVT (VIP).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "FLVSH OUT",
+      "preview": "https://assets.ppy.sh/artists/128/FLVSH OUT/Getty - FLVSH OUT.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Get The Switch",
+      "preview": "https://assets.ppy.sh/artists/128/KICK IT OUT/Getty - Get The Switch.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Getty vs. DJ DiA - Antifront Gears",
+      "preview": "https://assets.ppy.sh/artists/128/ANTiFRONT GEARS/Getty vs. DJ DiA - Antifront Gears.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Getty vs. DJ DiA - Counter Attack",
+      "preview": "https://assets.ppy.sh/artists/128/ANTiFRONT GEARS/Getty vs. DJ DiA - Counter Attack.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Getty vs. DJ DiA - Engage-Rex-",
+      "preview": "https://assets.ppy.sh/artists/128/ANTiFRONT GEARS/Getty vs. DJ DiA - Engage-Rex-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Getty vs. DJ DiA - Grayed Out -Antifront-",
+      "preview": "https://assets.ppy.sh/artists/128/Grayed Out-Antifront-/Getty vs. DJ DiA - Grayed Out -Antifront-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Getty vs. DJ DiA - Grayedout -Antifront- (Extended Mix)",
+      "preview": "https://assets.ppy.sh/artists/128/ANTiFRONT GEARS/Getty vs. DJ DiA - Grayedout -Antifront- (Extended Mix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Getty vs. DJ DiA - Virtual Sanctuary feat. USAO",
+      "preview": "https://assets.ppy.sh/artists/128/ANTiFRONT GEARS/Getty vs. DJ DiA - Virtual Sanctuary feat. USAO.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Golyat",
+      "preview": "https://assets.ppy.sh/artists/128/KICK IT OUT/Getty - Golyat.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "In The Move",
+      "preview": "https://assets.ppy.sh/artists/128/FLVSH OUT/Getty - In The Move.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Infinity feat. DJ DiA",
+      "preview": "https://assets.ppy.sh/artists/128/KICK IT OUT/Getty - Infinity feat. DJ DiA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Into The Thunder (kamome sano Remix)",
+      "preview": "https://assets.ppy.sh/artists/128/KICK IT OUT/Getty - Into The Thunder (kamome sano Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kick It Out",
+      "preview": "https://assets.ppy.sh/artists/128/KICK IT OUT/Getty - Kick It Out.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Laika",
+      "preview": "https://assets.ppy.sh/artists/128/KICK IT OUT/Getty - Laika.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Make Trap",
+      "preview": "https://assets.ppy.sh/artists/128/FLVSH OUT/Getty - Make Trap.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Outercage",
+      "preview": "https://assets.ppy.sh/artists/128/KICK IT OUT/Getty - Outercage.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Party Out",
+      "preview": "https://assets.ppy.sh/artists/128/KICK IT OUT/Getty - Party Out.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Pump It",
+      "preview": "https://assets.ppy.sh/artists/128/KICK IT OUT/Getty - Pump It.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Quantum 2.0",
+      "preview": "https://assets.ppy.sh/artists/128/KICK IT OUT/Getty - Quantum 2.0.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Revolt",
+      "preview": "https://assets.ppy.sh/artists/128/FLVSH OUT/Getty - Revolt.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shot Down",
+      "preview": "https://assets.ppy.sh/artists/128/FLVSH OUT/Getty - Shot Down.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sonic Bass",
+      "preview": "https://assets.ppy.sh/artists/128/FLVSH OUT/Getty - Sonic Bass.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:32:41Z"
+  "updated_at": "2026-03-31T00:10:35Z"
 }

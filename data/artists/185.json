@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "%UnDeciphered-CryptoGraph in the Edifice%",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - %25UnDeciphered-CryptoGraph in the Edifice%25.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Abendstern",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_Abendstern.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -27,6 +29,7 @@
     },
     {
       "title": "ALiCE iN ViNEGAR SiNDROME",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - ALiCE iN ViNEGAR SiNDROME.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -42,6 +45,7 @@
     },
     {
       "title": "Animare Niveus",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - Animare Niveus.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -53,6 +57,7 @@
     },
     {
       "title": "Cosmo Station",
+      "preview": "https://assets.ppy.sh/artists/185/Honey Trap/seatrus - Cosmo Station.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -64,6 +69,7 @@
     },
     {
       "title": "Destiny Strings",
+      "preview": "https://assets.ppy.sh/artists/185/Battle of Prophets EP/seatrus - Destiny Strings.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -75,21 +81,23 @@
     },
     {
       "title": "Diossido di Carbonio",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_Diossido_di_Carbonio.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "mania": [
           2194018
         ],
-        "mania": [
+        "taiko": [
           2194018
         ]
       }
     },
     {
       "title": "DiSANiMATE",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_DiSANiMATE.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -113,6 +121,7 @@
     },
     {
       "title": "DOOMSDAY THUNDERTEMPEST",
+      "preview": "https://assets.ppy.sh/artists/185/Loudly Cloudy/seatrus - DOOMSDAY THUNDERTEMPEST.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -125,6 +134,7 @@
     },
     {
       "title": "efchi",
+      "preview": "https://assets.ppy.sh/artists/185/efchi/seatrus - efchi.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -140,6 +150,7 @@
     },
     {
       "title": "EXXTRA JUDGEMENT",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_EXXTRA_JUDGEMENT.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -166,6 +177,7 @@
     },
     {
       "title": "GRAVITY ZONE",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_GRAVITY_ZONE.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -177,6 +189,7 @@
     },
     {
       "title": "Hear+ of Marionette",
+      "preview": "https://assets.ppy.sh/artists/185/Spooky Dance Party/seatrus - Hear%2B of Marionette.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -188,6 +201,7 @@
     },
     {
       "title": "ILLEGAL LEGACY",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - ILLEGAL LEGACY.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -203,6 +217,7 @@
     },
     {
       "title": "Melty Lover",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_Melty_Lover.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -213,17 +228,18 @@
           2017987,
           2210112
         ],
-        "taiko": [
-          2127141,
+        "osu": [
           2192587
         ],
-        "osu": [
+        "taiko": [
+          2127141,
           2192587
         ]
       }
     },
     {
       "title": "MONONOKE",
+      "preview": "https://assets.ppy.sh/artists/185/MONONOKE/seatrus - MONONOKE.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -236,6 +252,7 @@
     },
     {
       "title": "O",
+      "preview": "https://assets.ppy.sh/artists/185/Loudly Cloudy/seatrus - O.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -251,6 +268,7 @@
     },
     {
       "title": "permitted",
+      "preview": "https://assets.ppy.sh/artists/185/Battle of Prophets EP/seatrus - permitted.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -262,6 +280,7 @@
     },
     {
       "title": "Querasis",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - Querasis.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -273,6 +292,7 @@
     },
     {
       "title": "Raindrop",
+      "preview": "https://assets.ppy.sh/artists/185/Raindrop EP/seatrus - Raindrop.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -285,6 +305,7 @@
     },
     {
       "title": "Scorcher on The Battlefield",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - Scorcher on The Battlefield.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -296,6 +317,7 @@
     },
     {
       "title": "Soul Memory",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_Soul_Memory.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -307,6 +329,7 @@
     },
     {
       "title": "Stargaze Station",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - Stargaze Station.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -318,6 +341,7 @@
     },
     {
       "title": "TH3 5UMMONERS",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - TH3 5UMMONERS.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -329,6 +353,7 @@
     },
     {
       "title": "V!rtuaresort",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - V!rtuaresort.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -340,264 +365,316 @@
     },
     {
       "title": "a MUSIC is worth 1000 words",
+      "preview": "https://assets.ppy.sh/artists/185/Honey Trap/seatrus - a MUSIC is worth 1000 words.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ascension",
+      "preview": "https://assets.ppy.sh/artists/185/Battle of Prophets EP/seatrus - Ascension.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ataraxia (2020 Rework)",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - Ataraxia (2020 Rework).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Brigade",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - Brigade.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "CIRCVMZENITHAL:ARK",
+      "preview": "https://assets.ppy.sh/artists/185/Loudly Cloudy/seatrus - CIRCVMZENITHALARK.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "cryptic worthy widgEt",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_cryptic_worthy_widgEt.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dancing In The Blue",
+      "preview": "https://assets.ppy.sh/artists/185/Existence with the Sunlight/seatrus - Dancing In The Blue.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DaRk TRiggeR",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - DaRk TRiggeR.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Desintegrate of Eden",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - Desintegrate of Eden.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dilapidated Cathedral",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - Dilapidated Cathedral.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "discipline 01-INSOMNIA-",
+      "preview": "https://assets.ppy.sh/artists/185/Disciplines EP/seatrus - discipline 01-INSOMNIA-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "discipline 02-WORTHLESS-",
+      "preview": "https://assets.ppy.sh/artists/185/Disciplines EP/seatrus - discipline 02-WORTHLESS-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "discipline 03-BLACKOUT-",
+      "preview": "https://assets.ppy.sh/artists/185/Disciplines EP/seatrus - discipline 03-BLACKOUT-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "discipline 04-FAREWELL-",
+      "preview": "https://assets.ppy.sh/artists/185/Disciplines EP/seatrus - discipline 04-FAREWELL-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "EARTHBREAKER",
+      "preview": "https://assets.ppy.sh/artists/185/M A X I M U M  B L A S T E R/seatrus - EARTHBREAKER.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Geton the Ascending Current (Spinoff of \"Loudly Cloudy\")",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_Geton_the_Ascending_Current_Spinoff_of_Loudly_Cloudy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gravity Through",
+      "preview": "https://assets.ppy.sh/artists/185/M A X I M U M  B L A S T E R/seatrus - Gravity Through.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "GRiXiZM",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_GRiXiZM.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hakusen o Watatte",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_Hakusen_o_Watatte.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Heavens Station",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - Heavens Station.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hekikuu no Yakusoku",
+      "preview": "https://assets.ppy.sh/artists/185/Lifescape EP/seatrus - Hekikuu no Yakusoku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hoshi Furu Yoru to Ichirin no Hana",
+      "preview": "https://assets.ppy.sh/artists/185/3%3A00 AM EP/seatrus_-_Hoshi_Furu_Yoru_to_Ichirin_no_Hana.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HydroMe+eor",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - HydroMe%2Beor.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "In The Scapes",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - In The Scapes.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Jikan Sensou",
+      "preview": "https://assets.ppy.sh/artists/185/Mystica%E2%80%8B%E2%80%8Bll Refrain/seatrus - Jikan Sensou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "kuro+seatrus - Bellum",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/kuro%2Bseatrus - Bellum.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Liminalcave",
+      "preview": "https://assets.ppy.sh/artists/185/Lifescape EP/seatrus - Liminalcave.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Little World Adventure",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_Little_World_Adventure.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "M A X I M U M B L A S T E R",
+      "preview": "https://assets.ppy.sh/artists/185/M A X I M U M  B L A S T E R/seatrus - M A X I M U M B L A S T E R.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Metal Globe",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_Metal_Globe.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Metamocluster",
+      "preview": "https://assets.ppy.sh/artists/185/3%3A00 AM EP/seatrus_-_Metamocluster.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "morgenroete",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - morgenroete.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Night Thea+er Etude",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - Night Thea%2Ber Etude.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Oyasmy",
+      "preview": "https://assets.ppy.sh/artists/185/3%3A00 AM EP/seatrus_-_Oyasmy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Perl Tail",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - Perl Tail.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "reXenivur",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - reXenivur.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rune Delta",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - Rune Delta.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "seatrus + Halv - The Core",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus__Halv_-_The_Core.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "seatrus + Metalliz - Bu++erfly EffecT",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus__Metalliz_-_Buerfly_EffecT.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "seatrus feat. Dadaco - diamond dust",
+      "preview": "https://assets.ppy.sh/artists/185/Loudly Cloudy/seatrus feat. Dadaco - diamond dust.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "seatrus feat. Marumoko - Ori Yamanu Ame",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus feat. Marumoko - Ori Yamanu Ame.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shiny Summer Skies",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - Shiny Summer Skies.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sora o Kakeru wa Kibou o Kanadeshi Shoujo no Ryouyoku",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - Sora o Kakeru wa Kibou o Kanadeshi Shoujo no Ryouyoku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Spooky Dance Party",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - Spooky Dance Party.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Strawberry Latte",
+      "preview": "https://assets.ppy.sh/artists/185/Honey Trap/seatrus - Strawberry Latte.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sugoi High Tech ('Sugoi Hardcore' VIP)",
+      "preview": "https://assets.ppy.sh/artists/185/M A X I M U M  B L A S T E R/seatrus - Sugoi High Tech (%27Sugoi Hardcore%27 VIP).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "TanglePurge",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - TanglePurge.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "TEMP3ST",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_TEMP3ST.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Burned Tableau",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - The Burned Tableau.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Daybreak Will Never Come Again. (\"rampagE\" long vEr.)",
+      "preview": "https://assets.ppy.sh/artists/185/E/seatrus - The Daybreak Will Never Come Again. (rampagE long vEr.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Princess was gills breathing.",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_The_Princess_was_gills_breathing..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Weekend Extravagance XD",
+      "preview": "https://assets.ppy.sh/artists/185/Honey Trap/seatrus_-_Weekend_Extravagance_XD.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:13:07Z"
+  "updated_at": "2026-03-31T01:51:35Z"
 }

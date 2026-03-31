@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "AKKERA-COUNTRY-BOY",
+      "preview": "https://assets.ppy.sh/artists/121/Songs/MYUKKE. - AKKERA-COUNTRY-BOY.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -23,6 +24,7 @@
     },
     {
       "title": "Anti Safety Zone",
+      "preview": "https://assets.ppy.sh/artists/121/Songs/MYUKKE. - Anti Safety Zone.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -38,6 +40,7 @@
     },
     {
       "title": "Boudica",
+      "preview": "https://assets.ppy.sh/artists/121/WE LOVE MYUKKE. EP/MYUKKE. - Boudica.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -54,6 +57,7 @@
     },
     {
       "title": "BUNA*SYNERGY!!!",
+      "preview": "https://assets.ppy.sh/artists/121/WE LOVE MYUKKE. EP/MYUKKE. - BUNASYNERGY!!!.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -69,6 +73,7 @@
     },
     {
       "title": "FULi AUTO BUSTER",
+      "preview": "https://assets.ppy.sh/artists/121/WE LOVE MYUKKE. EP/MYUKKE. - FULi AUTO BUSTER.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -80,22 +85,24 @@
     },
     {
       "title": "Ginevra",
+      "preview": "https://assets.ppy.sh/artists/121/Songs/MYUKKE. - Ginevra.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          1991415,
+        "osu": [
           2208532
         ],
-        "osu": [
+        "taiko": [
+          1991415,
           2208532
         ]
       }
     },
     {
       "title": "Mach Roger",
+      "preview": "https://assets.ppy.sh/artists/121/Songs/MYUKKE._-_Mach_Roger.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -115,6 +122,7 @@
     },
     {
       "title": "Macropolis",
+      "preview": "https://assets.ppy.sh/artists/121/WE LOVE MYUKKE. EP/MYUKKE. - Macropolis.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -134,6 +142,7 @@
     },
     {
       "title": "OCCHOCO-REST-LESS",
+      "preview": "https://assets.ppy.sh/artists/121/Songs/MYUKKE. - OCCHOCO-REST-LESS.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -145,6 +154,7 @@
     },
     {
       "title": "re[in]flaw",
+      "preview": "https://assets.ppy.sh/artists/121/Songs/MYUKKE. - re[in]flaw.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -160,6 +170,7 @@
     },
     {
       "title": "ROAD to 773H",
+      "preview": "https://assets.ppy.sh/artists/121/Songs/MYUKKE. - ROAD to 773H.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -175,6 +186,7 @@
     },
     {
       "title": "The 89's Momentum",
+      "preview": "https://assets.ppy.sh/artists/121/Songs/MYUKKE. - The 89's Momentum.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -195,54 +207,64 @@
     },
     {
       "title": "Chocomaca Runaway!",
+      "preview": "https://assets.ppy.sh/artists/121/Songs/MYUKKE. - Chocomaca Runaway!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fickle Rule",
+      "preview": "https://assets.ppy.sh/artists/121/Songs/MYUKKE. - Fickle Rule.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "FULi AUTO BUSTER (FULi Ver)",
+      "preview": "https://assets.ppy.sh/artists/121/WE LOVE MYUKKE. EP/MYUKKE. - FULi AUTO BUSTER (FULi Ver).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "FULi AUTO SHOOTER",
+      "preview": "https://assets.ppy.sh/artists/121/Songs/MYUKKE. - FULi AUTO SHOOTER.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "FULi AUTO SHOOTER (short ver)",
+      "preview": "https://assets.ppy.sh/artists/121/Songs/MYUKKE. - FULi AUTO SHOOTER (short ver).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "OTTAMA GAZER",
+      "preview": "https://assets.ppy.sh/artists/121/Songs/MYUKKE. - OTTAMA GAZER.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SUTTOKO-HOLD-ON",
+      "preview": "https://assets.ppy.sh/artists/121/Songs/MYUKKE. - SUTTOKO-HOLD-ON.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "We're Square",
+      "preview": "https://assets.ppy.sh/artists/121/Songs/MYUKKE. - We're Square.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "YOKKORA-SHOW-TIME",
+      "preview": "https://assets.ppy.sh/artists/121/Songs/MYUKKE. - YOKKORA-SHOW-TIME.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "YUMEND",
+      "preview": "https://assets.ppy.sh/artists/121/Songs/MYUKKE. - YUMEND.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:30:50Z"
+  "updated_at": "2026-03-31T01:08:57Z"
 }

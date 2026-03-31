@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "DJ Mashiro - Prismatic Lollipops",
+      "preview": "https://assets.ppy.sh/artists/187/DJ Mashiro archive/DJ Mashiro - Prismatic Lollipops.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -32,6 +33,7 @@
     },
     {
       "title": "Interlude (feat. SOOTHEMILY & Xinevsky)",
+      "preview": "https://assets.ppy.sh/artists/187/Summertime/3R2 - Interlude (feat. SOOTHEMILY %26 Xinevsky).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -43,44 +45,52 @@
     },
     {
       "title": "3R2 & DJ Mashiro - Sweetness and Love",
+      "preview": "https://assets.ppy.sh/artists/187/Sweetness and Love EP/3R2 %26 DJ Mashiro - Sweetness and Love.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Love @ First Sight",
+      "preview": "https://assets.ppy.sh/artists/187/flowing/3R2 - Love %40 First Sight.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Love Puzzle",
+      "preview": "https://assets.ppy.sh/artists/187/Pieces of Affections/3R2 - Love Puzzle.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Pancake is Love",
+      "preview": "https://assets.ppy.sh/artists/187/Pancake is Love/3R2 - Pancake is Love.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Party On",
+      "preview": "https://assets.ppy.sh/artists/187/Summertime/3R2 - Party On.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Spring Carnival",
+      "preview": "https://assets.ppy.sh/artists/187/Kirara Anthems vol. 3/3R2 - Spring Carnival.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Synthetic Life",
+      "preview": "https://assets.ppy.sh/artists/187/Synthetic Life/3R2 - Synthetic Life.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Winter",
+      "preview": "https://assets.ppy.sh/artists/187/flowing/3R2 - Winter.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:27:24Z"
+  "updated_at": "2026-03-30T23:05:26Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Angel's Salad",
+      "preview": "https://assets.ppy.sh/artists/176/Angel%27s Salad/katagiri - Angel%27s Salad.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "c0pyf0x",
+      "preview": "https://assets.ppy.sh/artists/176/Songs/katagiri_-_c0pyf0x.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Kyuukou",
+      "preview": "https://assets.ppy.sh/artists/176/Songs/katagiri - Kyuukou.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -49,6 +52,7 @@
     },
     {
       "title": "Naopura2000 -Daybreak-",
+      "preview": "https://assets.ppy.sh/artists/176/Naopura2000 -Daybreak-/katagiri - Naopura2000 -Daybreak-.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -60,6 +64,7 @@
     },
     {
       "title": "Urushi",
+      "preview": "https://assets.ppy.sh/artists/176/Urushi/katagiri - Urushi.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -75,39 +80,46 @@
     },
     {
       "title": "03",
+      "preview": "https://assets.ppy.sh/artists/176/03/katagiri - 03.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Angel's Salad ('Le mythe etendu' ver.)",
+      "preview": "https://assets.ppy.sh/artists/176/Angel%27s Salad/katagiri - Angel%27s Salad (%27Le mythe etendu%27 ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "blooming memories.",
+      "preview": "https://assets.ppy.sh/artists/176/Songs/katagiri - blooming memories..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Heisei Saikyou no Curry Ya",
+      "preview": "https://assets.ppy.sh/artists/176/Ved A Works/katagiri - Heisei Saikyou no Curry Ya.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mofumofu Horizon",
+      "preview": "https://assets.ppy.sh/artists/176/Mofumofu Horizon/katagiri - Mofumofu Horizon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "tokiwa - Kotodama Refrain (katagiri Bootleg)",
+      "preview": "https://assets.ppy.sh/artists/176/Songs/tokiwa - Kotodama Refrain (katagiri Bootleg).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "UTAKATA",
+      "preview": "https://assets.ppy.sh/artists/176/UTAKATA/katagiri - UTAKATA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:55:07Z"
+  "updated_at": "2026-03-31T00:33:00Z"
 }

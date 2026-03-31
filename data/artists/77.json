@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Ai no Sukima",
+      "preview": "https://assets.ppy.sh/artists/77/previews/2076.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -26,6 +27,7 @@
     },
     {
       "title": "Floremie",
+      "preview": "https://assets.ppy.sh/artists/77/previews/2077.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +39,7 @@
     },
     {
       "title": "Karabako ni Ai",
+      "preview": "https://assets.ppy.sh/artists/77/previews/3020.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -52,6 +55,7 @@
     },
     {
       "title": "Lapis Lazuli",
+      "preview": "https://assets.ppy.sh/artists/77/previews/2078.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -76,6 +80,7 @@
     },
     {
       "title": "Marshmary",
+      "preview": "https://assets.ppy.sh/artists/77/previews/2079.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -94,6 +99,7 @@
     },
     {
       "title": "Mirai Reflect",
+      "preview": "https://assets.ppy.sh/artists/77/previews/2080.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -105,6 +111,7 @@
     },
     {
       "title": "Mizuoto to Curtain",
+      "preview": "https://assets.ppy.sh/artists/77/previews/2081.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -127,6 +134,7 @@
     },
     {
       "title": "Moment",
+      "preview": "https://assets.ppy.sh/artists/77/previews/2082.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -139,6 +147,7 @@
     },
     {
       "title": "Nanimo nai Youna",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_-_Nanimo_nai_Youna.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -159,6 +168,7 @@
     },
     {
       "title": "Shijima ni Saku",
+      "preview": "https://assets.ppy.sh/artists/77/previews/2084.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -183,6 +193,7 @@
     },
     {
       "title": "Toumeika",
+      "preview": "https://assets.ppy.sh/artists/77/previews/2085.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -202,6 +213,7 @@
     },
     {
       "title": "Yoake Maeni Tobinotte",
+      "preview": "https://assets.ppy.sh/artists/77/previews/3023.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -217,14 +229,16 @@
     },
     {
       "title": "Le Rouge",
+      "preview": "https://assets.ppy.sh/artists/77/previews/3021.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Soshite Yoruto Tomoru",
+      "preview": "https://assets.ppy.sh/artists/77/previews/3022.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:22:54Z"
+  "updated_at": "2026-03-31T01:01:01Z"
 }

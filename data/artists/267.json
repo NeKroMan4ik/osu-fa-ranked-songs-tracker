@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Back To Start",
+      "preview": "https://assets.ppy.sh/artists/267/JOYLESS/JOYLESS - Back To Start.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Bristol",
+      "preview": "https://assets.ppy.sh/artists/267/JOYLESS/JOYLESS - Bristol.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Dream",
+      "preview": "https://assets.ppy.sh/artists/267/JOYLESS/JOYLESS - Dream.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,25 +40,31 @@
     },
     {
       "title": "PRESS START",
+      "preview": "https://assets.ppy.sh/artists/267/Friends EP/JOYLESS - PRESS START.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          2501801
-        ],
         "fruits": [
           2501801
         ],
         "mania": [
           2501801
+        ],
+        "taiko": [
+          2501801
+        ],
+        "osu": [
+          2487271
         ]
       }
     },
     {
       "title": "Something Fun",
+      "preview": "https://assets.ppy.sh/artists/267/Figure It Out/JOYLESS - Something Fun.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -67,64 +76,76 @@
     },
     {
       "title": "Closure",
+      "preview": "https://assets.ppy.sh/artists/267/JOYLESS/JOYLESS - Closure.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cool?",
+      "preview": "https://assets.ppy.sh/artists/267/Cool%27/JOYLESS - Cool.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Figure It Out",
+      "preview": "https://assets.ppy.sh/artists/267/Figure It Out/JOYLESS - Figure It Out.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Friends",
+      "preview": "https://assets.ppy.sh/artists/267/Friends EP/JOYLESS - Friends.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Goldfish Memory",
+      "preview": "https://assets.ppy.sh/artists/267/JOYLESS/JOYLESS - Goldfish Memory.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hangover",
+      "preview": "https://assets.ppy.sh/artists/267/Friends EP/JOYLESS - Hangover.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Minimal",
+      "preview": "https://assets.ppy.sh/artists/267/JOYLESS/JOYLESS - Minimal.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Old Shoes",
+      "preview": "https://assets.ppy.sh/artists/267/Friends EP/JOYLESS - Old Shoes.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shades In The Sun",
+      "preview": "https://assets.ppy.sh/artists/267/Shades In The Sun/JOYLESS - Shades In The Sun.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Summer Song",
+      "preview": "https://assets.ppy.sh/artists/267/JOYLESS/JOYLESS - Summer Song.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Times",
+      "preview": "https://assets.ppy.sh/artists/267/Friends EP/JOYLESS - Times.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Worry",
+      "preview": "https://assets.ppy.sh/artists/267/Friends EP/JOYLESS - Worry.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:51:37Z"
+  "updated_at": "2026-03-31T00:29:28Z"
 }

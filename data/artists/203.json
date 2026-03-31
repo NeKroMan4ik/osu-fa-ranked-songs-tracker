@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Septima",
+      "preview": "https://assets.ppy.sh/artists/203/Songs/Lundy - Septima.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "STOP?",
+      "preview": "https://assets.ppy.sh/artists/203/Songs/Lundy - STOP.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "to.ALPHA",
+      "preview": "https://assets.ppy.sh/artists/203/to.ALPHA/Lundy - to.ALPHA.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Undersky",
+      "preview": "https://assets.ppy.sh/artists/203/Undersky/Lundy - Undersky.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -48,79 +52,94 @@
     },
     {
       "title": "09_20_2003",
+      "preview": "https://assets.ppy.sh/artists/203/Songs/Lundy - 09_20_2003.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "axelnaught ~l'execution de la reine~",
+      "preview": "https://assets.ppy.sh/artists/203/Songs/Lundy - axelnaught %7El%27execution de la reine%7E.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Casanova",
+      "preview": "https://assets.ppy.sh/artists/203/Songs/Lundy - Casanova.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "distort for instant release",
+      "preview": "https://assets.ppy.sh/artists/203/Songs/Lundy - distort for instant release.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "from.BETA",
+      "preview": "https://assets.ppy.sh/artists/203/Songs/Lundy - from.BETA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Heart-Dot-Eye",
+      "preview": "https://assets.ppy.sh/artists/203/Heart-Dot-Eye/Lundy - Heart-Dot-Eye.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hold Me Tight",
+      "preview": "https://assets.ppy.sh/artists/203/Songs/Lundy - Hold Me Tight.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Just Breathe.",
+      "preview": "https://assets.ppy.sh/artists/203/Songs/Lundy - Just Breathe..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lundy vs. Behr - The 20th Century BLITZ",
+      "preview": "https://assets.ppy.sh/artists/203/The 20th Century BLITZ/Lundy vs. Behr - The 20th Century BLITZ.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "not to pop your bubble...",
+      "preview": "https://assets.ppy.sh/artists/203/Songs/Lundy - not to pop your bubble....mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Stand-Off",
+      "preview": "https://assets.ppy.sh/artists/203/Stand-Off/Lundy - Stand-Off.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Stature",
+      "preview": "https://assets.ppy.sh/artists/203/Stature/Lundy - Stature.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "STOP.",
+      "preview": "https://assets.ppy.sh/artists/203/STOP/Lundy - STOP..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Temptress (Sacred Edit)",
+      "preview": "https://assets.ppy.sh/artists/203/Songs/Lundy - Temptress (Sacred Edit).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ultimapprox",
+      "preview": "https://assets.ppy.sh/artists/203/Songs/Lundy - Ultimapprox.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:15:23Z"
+  "updated_at": "2026-03-31T00:53:24Z"
 }

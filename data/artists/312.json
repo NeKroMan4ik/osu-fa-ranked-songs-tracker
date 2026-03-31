@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Blossom",
+      "preview": "https://assets.ppy.sh/artists/312/Blossom EP/Au5 - Blossom.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Eden (feat. Danyka Nadeau)",
+      "preview": "https://assets.ppy.sh/artists/312/Eden/Au5 - Eden (feat. Danyka Nadeau).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Moonland",
+      "preview": "https://assets.ppy.sh/artists/312/Blossom EP/Au5 - Moonland.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,34 +40,40 @@
     },
     {
       "title": "Akira Complex - Odyssey (Au5 Remix)",
+      "preview": "https://assets.ppy.sh/artists/312/Songs/Akira Complex - Odyssey (Au5 Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Au5 & Fractal - Blue",
+      "preview": "https://assets.ppy.sh/artists/312/Secret Weapon/Au5 %26 Fractal - Blue.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Au5 & Fractal - Halcyon",
+      "preview": "https://assets.ppy.sh/artists/312/Monstercat 013 - Awakening/Au5 %26 Fractal - Halcyon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Au5 & Nytrix - Always in a Nightmare",
+      "preview": "https://assets.ppy.sh/artists/312/Always in a Nightmare/Au5 %26 Nytrix - Always in a Nightmare.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Culprate & Au5 - Impulse",
+      "preview": "https://assets.ppy.sh/artists/312/Unity Project pt. 2/Culprate %26 Au5 - Impulse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Journey (feat. Trove)",
+      "preview": "https://assets.ppy.sh/artists/312/The Journey/Au5 - The Journey (feat. Trove).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:47:23Z"
+  "updated_at": "2026-03-30T23:25:23Z"
 }

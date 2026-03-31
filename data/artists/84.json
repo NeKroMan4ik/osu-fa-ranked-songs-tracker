@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Anomaly",
+      "preview": "https://assets.ppy.sh/artists/84/previews/2193.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Running Blind",
+      "preview": "https://assets.ppy.sh/artists/84/previews/2198.mp3",
       "ranked_modes": [
         "fruits",
         "mania"
@@ -30,39 +32,46 @@
     },
     {
       "title": "Collider",
+      "preview": "https://assets.ppy.sh/artists/84/previews/2194.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Into Dust",
+      "preview": "https://assets.ppy.sh/artists/84/previews/2195.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mantra",
+      "preview": "https://assets.ppy.sh/artists/84/previews/2196.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Oh Oh",
+      "preview": "https://assets.ppy.sh/artists/84/previews/2197.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Stamp Out",
+      "preview": "https://assets.ppy.sh/artists/84/previews/2199.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tentacles",
+      "preview": "https://assets.ppy.sh/artists/84/previews/2200.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Vigilantes",
+      "preview": "https://assets.ppy.sh/artists/84/previews/2201.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:35:38Z"
+  "updated_at": "2026-03-31T01:13:50Z"
 }

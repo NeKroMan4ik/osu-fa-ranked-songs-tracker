@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "And Plague Flowers The Kaleidoscope",
+      "preview": "https://assets.ppy.sh/artists/86/previews/2221.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -23,6 +24,7 @@
     },
     {
       "title": "As Icicles Fall",
+      "preview": "https://assets.ppy.sh/artists/86/previews/2222.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -34,6 +36,7 @@
     },
     {
       "title": "Equus",
+      "preview": "https://assets.ppy.sh/artists/86/Exul/Ne Obliviscaris - Equus.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -45,6 +48,7 @@
     },
     {
       "title": "Eyrie",
+      "preview": "https://assets.ppy.sh/artists/86/previews/2224.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -56,6 +60,7 @@
     },
     {
       "title": "Forget Not",
+      "preview": "https://assets.ppy.sh/artists/86/previews/2225.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -67,6 +72,7 @@
     },
     {
       "title": "Graal",
+      "preview": "https://assets.ppy.sh/artists/86/Exul/Ne Obliviscaris - Graal.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -78,6 +84,7 @@
     },
     {
       "title": "Intra Venus",
+      "preview": "https://assets.ppy.sh/artists/86/previews/2226.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -94,6 +101,7 @@
     },
     {
       "title": "Libera (Part I) - Saturnine Spheres",
+      "preview": "https://assets.ppy.sh/artists/86/previews/2227.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -110,6 +118,7 @@
     },
     {
       "title": "Misericorde I - As The Flesh Falls",
+      "preview": "https://assets.ppy.sh/artists/86/Exul/Ne Obliviscaris - Misericorde I - As The Flesh Falls.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -121,6 +130,7 @@
     },
     {
       "title": "Of Petrichor Weaves Black Noise",
+      "preview": "https://assets.ppy.sh/artists/86/previews/2228.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -136,6 +146,7 @@
     },
     {
       "title": "Of The Leper Butterflies",
+      "preview": "https://assets.ppy.sh/artists/86/previews/2229.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -147,6 +158,7 @@
     },
     {
       "title": "Pyrrhic",
+      "preview": "https://assets.ppy.sh/artists/86/previews/2231.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -158,44 +170,52 @@
     },
     {
       "title": "Devour Me, Colossus (Part I)",
+      "preview": "https://assets.ppy.sh/artists/86/previews/2223.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Misericorde II - Anatomy of Quiescence",
+      "preview": "https://assets.ppy.sh/artists/86/Exul/Ne Obliviscaris - Misericorde II - Anatomy of Quiescence.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Painters of the Tempest (Part II)",
+      "preview": "https://assets.ppy.sh/artists/86/previews/2230.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Suspyre",
+      "preview": "https://assets.ppy.sh/artists/86/Exul/Ne Obliviscaris - Suspyre.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tapestry Of The Starless Abstract",
+      "preview": "https://assets.ppy.sh/artists/86/previews/2232.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Urn (Part I) - And Within the Void We Are Breathless",
+      "preview": "https://assets.ppy.sh/artists/86/previews/2233.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Urn (Part II) - As Embers Dance in Our Eyes",
+      "preview": "https://assets.ppy.sh/artists/86/previews/2234.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Xenoflux",
+      "preview": "https://assets.ppy.sh/artists/86/previews/2235.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:32:45Z"
+  "updated_at": "2026-03-31T01:10:55Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Stratos",
+      "preview": "https://assets.ppy.sh/artists/405/Songs/Pandize - Stratos.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,29 +16,34 @@
     },
     {
       "title": "Calling",
+      "preview": "https://assets.ppy.sh/artists/405/Songs/Pandize - Calling.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DON'T GIVE",
+      "preview": "https://assets.ppy.sh/artists/405/Songs/Pandize - DON_T GIVE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Elevation",
+      "preview": "https://assets.ppy.sh/artists/405/Songs/Pandize - Elevation.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Impulse",
+      "preview": "https://assets.ppy.sh/artists/405/Songs/Pandize - Impulse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Pandize",
+      "preview": "https://assets.ppy.sh/artists/405/Songs/Pandize - Pandize.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:46:15Z"
+  "updated_at": "2026-03-31T01:24:29Z"
 }

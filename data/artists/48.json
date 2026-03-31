@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Cry Tomorrow, Laugh Today",
+      "preview": "https://assets.ppy.sh/artists/48/previews/1225.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Hanging On",
+      "preview": "https://assets.ppy.sh/artists/48/previews/1227.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Overtime",
+      "preview": "https://assets.ppy.sh/artists/48/previews/1230.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -42,6 +45,7 @@
     },
     {
       "title": "Time Traveler",
+      "preview": "https://assets.ppy.sh/artists/48/previews/1234.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -61,49 +65,58 @@
     },
     {
       "title": "All Time",
+      "preview": "https://assets.ppy.sh/artists/48/previews/1223.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BUTTS TITS MONEY",
+      "preview": "https://assets.ppy.sh/artists/48/previews/1224.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Die Right Now",
+      "preview": "https://assets.ppy.sh/artists/48/previews/1226.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lose My Mind",
+      "preview": "https://assets.ppy.sh/artists/48/previews/1228.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "More Than Just Another Try",
+      "preview": "https://assets.ppy.sh/artists/48/previews/1229.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Pizza",
+      "preview": "https://assets.ppy.sh/artists/48/previews/1231.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Real Thing",
+      "preview": "https://assets.ppy.sh/artists/48/previews/1232.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Government Knows",
+      "preview": "https://assets.ppy.sh/artists/48/previews/1233.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "What's In Your Heart",
+      "preview": "https://assets.ppy.sh/artists/48/previews/1235.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:59:13Z"
+  "updated_at": "2026-03-31T00:37:08Z"
 }

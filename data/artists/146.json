@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Endverse",
+      "preview": "https://assets.ppy.sh/artists/146/Songs/polysha_-_Endverse.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -19,6 +20,7 @@
     },
     {
       "title": "polysha - Evanescent Edge",
+      "preview": "https://assets.ppy.sh/artists/146/Songs/polysha - Evanescent Edge.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -34,6 +36,7 @@
     },
     {
       "title": "polysha - ExeQtion&Redemption",
+      "preview": "https://assets.ppy.sh/artists/146/Songs/polysha - ExeQtion&Redemption.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -45,6 +48,7 @@
     },
     {
       "title": "polysha - Hypnos Metropolis",
+      "preview": "https://assets.ppy.sh/artists/146/Songs/polysha - Hypnos Metropolis.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -60,6 +64,7 @@
     },
     {
       "title": "polysha - TAKEMIKADUCHI",
+      "preview": "https://assets.ppy.sh/artists/146/Songs/polysha - TAKEMIKADUCHI.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -76,64 +81,76 @@
     },
     {
       "title": "polysha - Has not come yet",
+      "preview": "https://assets.ppy.sh/artists/146/Bloom/polysha - Has not come yet.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "polysha - Katashigure (w/inusack)",
+      "preview": "https://assets.ppy.sh/artists/146/Songs/polysha - Katashigure (winusack).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "polysha - Nyx Metropolis",
+      "preview": "https://assets.ppy.sh/artists/146/Songs/polysha - Nyx Metropolis.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "polysha - Papermoon",
+      "preview": "https://assets.ppy.sh/artists/146/Papermoon/polysha - Papermoon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "polysha - Sora Soko wo Kakeru",
+      "preview": "https://assets.ppy.sh/artists/146/Songs/polysha - Sora Soko wo Kakeru.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "polysha - When She Flattered",
+      "preview": "https://assets.ppy.sh/artists/146/Songs/polysha - When She Flattered.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "polysha feat. Sennzai - Crazy Sweetie Glitter Candy Color",
+      "preview": "https://assets.ppy.sh/artists/146/Songs/polysha feat. Sennzai - Crazy Sweetie Glitter Candy Color.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "polysha feat. Sennzai - Crazy Sweetie Glitter Candy Color (BMS Edit)",
+      "preview": "https://assets.ppy.sh/artists/146/Songs/polysha feat. Sennzai - Crazy Sweetie Glitter Candy Color (BMS Edit).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "polysha feat. Sennzai - Escape from the Abyss",
+      "preview": "https://assets.ppy.sh/artists/146/Papermoon/polysha feat. Sennzai - Escape from the Abyss.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "polysha feat. Sennzai - Hurt Urge",
+      "preview": "https://assets.ppy.sh/artists/146/Songs/polysha feat. Sennzai - Hurt Urge.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "polysha feat. Takanashi Megumi - Kyou ga Owaru Toki made -coda-",
+      "preview": "https://assets.ppy.sh/artists/146/Papermoon/polysha_feat._Takanashi_Megumi_-_Kyou_ga_Owaru_Toki_made_-coda-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "polysha feat. TEA - Under The Moon, Adolesecence",
+      "preview": "https://assets.ppy.sh/artists/146/Papermoon/polysha feat. TEA - Under The Moon, Adolesecence.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:47:44Z"
+  "updated_at": "2026-03-31T01:25:59Z"
 }

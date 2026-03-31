@@ -4,29 +4,34 @@
   "tracks": [
     {
       "title": "Fire (feat. Stevie Parker)",
+      "preview": "https://assets.ppy.sh/artists/310/Songs/Hybrid Minds - Fire (feat. Stevie Parker).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hybrid Minds & Fred V - Drowning In You",
+      "preview": "https://assets.ppy.sh/artists/310/Songs/Hybrid Minds %26 Fred V - Drowning In You.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kismet (feat. Riya)",
+      "preview": "https://assets.ppy.sh/artists/310/Songs/Hybrid Minds - Kismet (feat. Riya).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Listen (feat. Tiffani Juno)",
+      "preview": "https://assets.ppy.sh/artists/310/Songs/Hybrid Minds - Listen (feat. Tiffani Juno).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Supernova (feat. Catching Cairo)",
+      "preview": "https://assets.ppy.sh/artists/310/Songs/Hybrid Minds - Supernova (feat. Catching Cairo).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:41:38Z"
+  "updated_at": "2026-03-31T00:19:32Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Clockwork Spooks",
+      "preview": "https://assets.ppy.sh/artists/24/previews/527.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "One Life Left to Live",
+      "preview": "https://assets.ppy.sh/artists/24/previews/528.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -34,6 +36,7 @@
     },
     {
       "title": "Runengon",
+      "preview": "https://assets.ppy.sh/artists/24/previews/529.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -45,6 +48,7 @@
     },
     {
       "title": "Speed of Link",
+      "preview": "https://assets.ppy.sh/artists/24/previews/530.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -61,59 +65,70 @@
     },
     {
       "title": "A Whisper In My Ghost (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/24/previews/1438.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Confronting The Numberless (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/24/previews/1439.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Internet Death Machine - BaSH Your Headend (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/24/previews/1444.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Internet Death Machine - Crack Addict (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/24/previews/1445.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Internet Death Machine - Re-VOLT",
+      "preview": "https://assets.ppy.sh/artists/24/previews/1446.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Internet Death Machine - Super User (Gigamix) (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/24/previews/1447.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Internet Death Machine - Super User (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/24/previews/1448.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "No One Is Around To Help",
+      "preview": "https://assets.ppy.sh/artists/24/previews/1440.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Patriot",
+      "preview": "https://assets.ppy.sh/artists/24/previews/1441.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Street Shogun",
+      "preview": "https://assets.ppy.sh/artists/24/previews/1442.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Summoner",
+      "preview": "https://assets.ppy.sh/artists/24/previews/1443.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:41:46Z"
+  "updated_at": "2026-03-30T23:19:46Z"
 }

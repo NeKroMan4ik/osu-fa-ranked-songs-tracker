@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Cosmic Cortex",
+      "preview": "https://assets.ppy.sh/artists/158/Outer Isolation/Vektor - Cosmic Cortex.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Fast Paced Society",
+      "preview": "https://assets.ppy.sh/artists/158/Outer Isolation/Vektor - Fast Paced Society.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -31,6 +33,7 @@
     },
     {
       "title": "Outer Isolation",
+      "preview": "https://assets.ppy.sh/artists/158/Outer Isolation/Vektor - Outer Isolation.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -42,6 +45,7 @@
     },
     {
       "title": "Tetrastructural Minds",
+      "preview": "https://assets.ppy.sh/artists/158/Outer Isolation/Vektor - Tetrastructural Minds.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -58,94 +62,112 @@
     },
     {
       "title": "Black Future",
+      "preview": "https://assets.ppy.sh/artists/158/Black Future/Vektor - Black Future.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Charging The Void",
+      "preview": "https://assets.ppy.sh/artists/158/Terminal Redux/Vektor - Charging The Void.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Collapse",
+      "preview": "https://assets.ppy.sh/artists/158/Terminal Redux/Vektor - Collapse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cygnus Terminal",
+      "preview": "https://assets.ppy.sh/artists/158/Terminal Redux/Vektor - Cygnus Terminal.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dark Creations, Dead Creators",
+      "preview": "https://assets.ppy.sh/artists/158/Outer Isolation/Vektor - Dark Creations, Dead Creators.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Destroying The Cosmos",
+      "preview": "https://assets.ppy.sh/artists/158/Black Future/Vektor - Destroying The Cosmos.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dying World",
+      "preview": "https://assets.ppy.sh/artists/158/Outer Isolation/Vektor - Dying World.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Echoless Chamber",
+      "preview": "https://assets.ppy.sh/artists/158/Outer Isolation/Vektor - Echoless Chamber.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hunger For Violence",
+      "preview": "https://assets.ppy.sh/artists/158/Black Future/Vektor - Hunger For Violence.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "LCD (Liquid Crystal Disease)",
+      "preview": "https://assets.ppy.sh/artists/158/Terminal Redux/Vektor - LCD (Liquid Crystal Disease).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mountains Above The Sun",
+      "preview": "https://assets.ppy.sh/artists/158/Terminal Redux/Vektor - Mountains Above The Sun.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Oblivion",
+      "preview": "https://assets.ppy.sh/artists/158/Black Future/Vektor - Oblivion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Pillars Of Sand",
+      "preview": "https://assets.ppy.sh/artists/158/Terminal Redux/Vektor - Pillars Of Sand.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Psychotropia",
+      "preview": "https://assets.ppy.sh/artists/158/Terminal Redux/Vektor - Psychotropia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Pteropticon",
+      "preview": "https://assets.ppy.sh/artists/158/Terminal Redux/Vektor - Pteropticon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Recharging The Void",
+      "preview": "https://assets.ppy.sh/artists/158/Terminal Redux/Vektor - Recharging The Void.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ultimate Artificer",
+      "preview": "https://assets.ppy.sh/artists/158/Terminal Redux/Vektor - Ultimate Artificer.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Venus Project",
+      "preview": "https://assets.ppy.sh/artists/158/Outer Isolation/Vektor - Venus Project.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:53:27Z"
+  "updated_at": "2026-03-31T02:32:10Z"
 }

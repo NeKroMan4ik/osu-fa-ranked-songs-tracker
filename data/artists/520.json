@@ -4,21 +4,23 @@
   "tracks": [
     {
       "title": "Sayonara",
+      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Sayonara.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "osu": [
           2330830
         ],
-        "osu": [
+        "taiko": [
           2330830
         ]
       }
     },
     {
       "title": "Subsidence",
+      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Subsidence.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -30,79 +32,94 @@
     },
     {
       "title": "Daylight",
+      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Daylight.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Early Morning",
+      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Early Morning.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Escape",
+      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Escape.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Essence",
+      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Essence.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "hellfly, tachibanaka - cute things",
+      "preview": "https://assets.ppy.sh/artists/520/Songs/hellfly%2C tachibanaka - cute things.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Homicide",
+      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Homicide.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Identity",
+      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Identity.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lost",
+      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Lost.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "pink sunset",
+      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - pink sunset.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sea of Liquid",
+      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Sea of Liquid.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Soaring in the Sky",
+      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Soaring in the Sky.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sorrow",
+      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Sorrow.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Spark",
+      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Spark.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "tachibanaka, hellfly - Shattered Mind",
+      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka%2C hellfly - Shattered Mind.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Unsigned Memories",
+      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Unsigned Memories.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:33:08Z"
+  "updated_at": "2026-03-31T02:11:41Z"
 }

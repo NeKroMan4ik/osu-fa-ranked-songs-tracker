@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Spacecraft",
+      "preview": "https://assets.ppy.sh/artists/143/Spacecraft/Blaster & Extra Terra - Spacecraft.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,49 +16,58 @@
     },
     {
       "title": "Cyberpunk",
+      "preview": "https://assets.ppy.sh/artists/143/Convergence 2045/Extra Terra - Cyberpunk.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Game Over",
+      "preview": "https://assets.ppy.sh/artists/143/Game Over/Extra Terra - Game Over.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Living Fiction (Extra Terra Remix)",
+      "preview": "https://assets.ppy.sh/artists/143/Living Fiction (Extra Terra Remix)/Young Medicine - Living Fiction (Extra Terra Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lost In Time",
+      "preview": "https://assets.ppy.sh/artists/143/Lost In Time/Extra Terra & Urbanstep - Lost In Time.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Man or Machine (feat. Megan McDuffee)",
+      "preview": "https://assets.ppy.sh/artists/143/Man or Machine (feat. Megan McDuffee)/Extra Terra - Man or Machine (feat. Megan McDuffee).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Omega",
+      "preview": "https://assets.ppy.sh/artists/143/Omega/Extra Terra - Omega.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Retrobot",
+      "preview": "https://assets.ppy.sh/artists/143/Convergence 2045/Extra Terra - Retrobot.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sensei",
+      "preview": "https://assets.ppy.sh/artists/143/Convergence 2045/Extra Terra - Sensei.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Superintelligence",
+      "preview": "https://assets.ppy.sh/artists/143/Convergence 2045/Extra Terra - Superintelligence.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:24:57Z"
+  "updated_at": "2026-03-31T00:02:47Z"
 }

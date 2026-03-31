@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Can you hear me?",
+      "preview": "https://assets.ppy.sh/artists/213/Songs/linear ring - Can you hear me.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "enchanted love",
+      "preview": "https://assets.ppy.sh/artists/213/Songs/linear ring - enchanted love.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -39,6 +41,7 @@
     },
     {
       "title": "enchanted love (and the witch's selfish heart)",
+      "preview": "https://assets.ppy.sh/artists/213/Songs/linear ring - enchanted love (and the witch%27s selfish heart).mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -50,6 +53,7 @@
     },
     {
       "title": "lalabai call me",
+      "preview": "https://assets.ppy.sh/artists/213/Songs/linear ring - lalabai call me.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -62,6 +66,7 @@
     },
     {
       "title": "lovely, lovely minute",
+      "preview": "https://assets.ppy.sh/artists/213/Songs/linear ring - lovely%2C lovely minute.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -73,6 +78,7 @@
     },
     {
       "title": "waitingforyou",
+      "preview": "https://assets.ppy.sh/artists/213/Songs/linear ring - waitingforyou.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -84,19 +90,22 @@
     },
     {
       "title": "bloo cat, bloo",
+      "preview": "https://assets.ppy.sh/artists/213/Songs/linear ring - bloo cat%2C bloo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "linear ring with RNAcid - Gypsophila",
+      "preview": "https://assets.ppy.sh/artists/213/Songs/linear ring with RNAcid - Gypsophila.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yura Yura Lovelight",
+      "preview": "https://assets.ppy.sh/artists/213/Songs/linear ring - Yura Yura Lovelight.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:08:47Z"
+  "updated_at": "2026-03-31T00:46:48Z"
 }

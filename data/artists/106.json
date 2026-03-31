@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "8th:Planet ~Re:search~",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2773.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -27,6 +28,7 @@
     },
     {
       "title": "Believe (feat. Tsuyuri Karin)",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2776.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -40,6 +42,7 @@
     },
     {
       "title": "Captivity (feat. Tsuyuri Karin)",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2777.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -51,6 +54,7 @@
     },
     {
       "title": "Colorful Days (feat. Tsuyuri Karin)",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2778.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -62,6 +66,7 @@
     },
     {
       "title": "Crystal Illusion",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2779.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -74,6 +79,7 @@
     },
     {
       "title": "Feelings of fake (feat. Tsuyuri Karin)",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2782.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -85,6 +91,7 @@
     },
     {
       "title": "Fly High (feat. rerone)",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2783.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -100,6 +107,7 @@
     },
     {
       "title": "Forbidden Light",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2784.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -111,6 +119,7 @@
     },
     {
       "title": "FRAGMENT. (feat. A.Dokuga)",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2781.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -124,6 +133,7 @@
     },
     {
       "title": "Hyperlight. (feat. Tsuyuri Karin)",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2785.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -135,6 +145,7 @@
     },
     {
       "title": "Melody Line",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2791.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -146,6 +157,7 @@
     },
     {
       "title": "Nick of Time",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2793.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -157,6 +169,7 @@
     },
     {
       "title": "overwhelm",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2800.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -168,6 +181,7 @@
     },
     {
       "title": "Sky High (feat. rerone)",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2796.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -179,6 +193,7 @@
     },
     {
       "title": "Sogaikan Utopia",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2797.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -190,6 +205,7 @@
     },
     {
       "title": "starstella",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2801.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -201,6 +217,7 @@
     },
     {
       "title": "You're my Shine (feat. Tsuyuri Karin)",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2798.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -212,84 +229,100 @@
     },
     {
       "title": "aiming for shine (feat. A.Dokugo)",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2799.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "AKATSUKI",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2774.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Altered Ego",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2775.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Catalyst (feat. Tsuyuri Karin)",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2772.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "EXTRAPHANTASM",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2780.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Illusion of Mind",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2787.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "INFINITE POSSIBILITY",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2786.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Last Flight",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2788.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Le ciel heureux",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2789.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MINUS - INFINITY",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2790.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Negaigoto (feat. Tsuyuri Karin)",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2792.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Only one wish",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2794.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PLUS+INFINITY",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2795.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SECONDED WORLD",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2803.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SHINY*STAR!!",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2804.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "when you're away",
+      "preview": "https://assets.ppy.sh/artists/106/previews/2802.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:44:12Z"
+  "updated_at": "2026-03-31T01:22:25Z"
 }

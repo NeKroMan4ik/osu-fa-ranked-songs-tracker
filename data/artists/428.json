@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Chronoexplorers (feat. Finite Limit)",
+      "preview": "https://assets.ppy.sh/artists/428/Songs/takehirotei - Chronoexplorers (feat. Finite Limit).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Haiboku no Altra Vita",
+      "preview": "https://assets.ppy.sh/artists/428/Songs/takehirotei_-_Haiboku_no_Altra_Vita.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -31,6 +33,7 @@
     },
     {
       "title": "Quad Erat Demonstrandum",
+      "preview": "https://assets.ppy.sh/artists/428/Songs/takehirotei - Quad Erat Demonstrandum.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -42,6 +45,7 @@
     },
     {
       "title": "SEISHUN://NO_HACKING",
+      "preview": "https://assets.ppy.sh/artists/428/Songs/takehirotei_-_SEISHUNNO_HACKING.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -58,6 +62,7 @@
     },
     {
       "title": "Tainted Reminiscence",
+      "preview": "https://assets.ppy.sh/artists/428/Songs/takehirotei - Tainted Reminiscence.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -69,34 +74,40 @@
     },
     {
       "title": "Altermis & takehirotei & Violet Delta - Christmas Slop",
+      "preview": "https://assets.ppy.sh/artists/428/Songs/Altermis__takehirotei__Violet_Delta_-_Christmas_Slop.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HowToPlayLN - Normal Distribution (takehirotei \"t-distribution\" remix)",
+      "preview": "https://assets.ppy.sh/artists/428/Songs/HowToPlayLN - Normal Distribution (takehirotei t-distribution remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kuba Oms - My Love (takehirotei remix)",
+      "preview": "https://assets.ppy.sh/artists/428/Songs/Kuba Oms - My Love (takehirotei remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "takehirotei as \"Infinite Limit\" - C://YOU NEX-TIME",
+      "preview": "https://assets.ppy.sh/artists/428/Songs/takehirotei as Infinite Limit - CYOU NEX-TIME.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "takehirotei as \"Infinite Limit\" - I.R.I.S",
+      "preview": "https://assets.ppy.sh/artists/428/Songs/takehirotei as Infinite Limit - I.R.I.S.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "takehirotei vs. HowToPlayLN - Essence",
+      "preview": "https://assets.ppy.sh/artists/428/Songs/takehirotei vs. HowToPlayLN - Essence.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:33:36Z"
+  "updated_at": "2026-03-31T02:12:09Z"
 }

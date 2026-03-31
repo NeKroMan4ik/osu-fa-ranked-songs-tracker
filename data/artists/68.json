@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "24eeev0-$",
+      "preview": "https://assets.ppy.sh/artists/68/previews/1880.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -23,6 +24,7 @@
     },
     {
       "title": "Credits",
+      "preview": "https://assets.ppy.sh/artists/68/previews/1881.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -46,6 +48,7 @@
     },
     {
       "title": "Flashbacklog",
+      "preview": "https://assets.ppy.sh/artists/68/previews/1882.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -57,6 +60,7 @@
     },
     {
       "title": "HALL",
+      "preview": "https://assets.ppy.sh/artists/68/Songs/Frums_-_HALL.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -69,6 +73,7 @@
     },
     {
       "title": "I Can't Even Remember My Own Name",
+      "preview": "https://assets.ppy.sh/artists/68/previews/1883.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -80,6 +85,7 @@
     },
     {
       "title": "Mdrqnxtagon",
+      "preview": "https://assets.ppy.sh/artists/68/previews/1885.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -91,6 +97,7 @@
     },
     {
       "title": "Nisemono",
+      "preview": "https://assets.ppy.sh/artists/68/previews/1886.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -107,6 +114,7 @@
     },
     {
       "title": "of Ambrosia",
+      "preview": "https://assets.ppy.sh/artists/68/of Ambrosia/Frums - of Ambrosia.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -127,21 +135,23 @@
     },
     {
       "title": "Options",
+      "preview": "https://assets.ppy.sh/artists/68/previews/1887.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "osu": [
           1049855
         ],
-        "osu": [
+        "taiko": [
           1049855
         ]
       }
     },
     {
       "title": "Pictured as Perfect",
+      "preview": "https://assets.ppy.sh/artists/68/previews/1889.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -153,6 +163,7 @@
     },
     {
       "title": "Pictured as Perfect and Plus",
+      "preview": "https://assets.ppy.sh/artists/68/previews/1888.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -178,6 +189,7 @@
     },
     {
       "title": "Salmiakki",
+      "preview": "https://assets.ppy.sh/artists/68/previews/1890.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -193,6 +205,7 @@
     },
     {
       "title": "Star Of The COME ON!!",
+      "preview": "https://assets.ppy.sh/artists/68/previews/1895.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -210,6 +223,7 @@
     },
     {
       "title": "the end of this world, and the girl who crossed the moon's oceans.",
+      "preview": "https://assets.ppy.sh/artists/68/previews/1893.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -221,6 +235,7 @@
     },
     {
       "title": "theyaremanycolors",
+      "preview": "https://assets.ppy.sh/artists/68/previews/1894.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -246,6 +261,7 @@
     },
     {
       "title": "Wavetapper",
+      "preview": "https://assets.ppy.sh/artists/68/previews/1891.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -261,6 +277,7 @@
     },
     {
       "title": "We Want To Run",
+      "preview": "https://assets.ppy.sh/artists/68/previews/1892.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -278,6 +295,7 @@
     },
     {
       "title": "XNOR XNOR XNOR",
+      "preview": "https://assets.ppy.sh/artists/68/previews/1896.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -300,19 +318,22 @@
     },
     {
       "title": "Frums (unknown \"lambda\") - 19ZZ",
+      "preview": "https://assets.ppy.sh/artists/68/Songs/Frums_unknown_lambda_-_19ZZ.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Jam with Pancake",
+      "preview": "https://assets.ppy.sh/artists/68/previews/1884.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Zephyrs",
+      "preview": "https://assets.ppy.sh/artists/68/previews/1897.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:30:25Z"
+  "updated_at": "2026-03-31T00:08:18Z"
 }

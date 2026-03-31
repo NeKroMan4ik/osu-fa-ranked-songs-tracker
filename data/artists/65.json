@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Atom Smasher",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1816.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Rockstar",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1833.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Run The Track",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1842.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Shotgun Senorita (Zardonic Remix)",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1840.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "Suit Up",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1841.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -59,6 +64,7 @@
     },
     {
       "title": "The Fall",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1837.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -70,6 +76,7 @@
     },
     {
       "title": "Throw Away",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1825.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -87,104 +94,124 @@
     },
     {
       "title": "Anti You",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1817.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Armageddon",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1827.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blue Stahli",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1839.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Corner",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1818.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Demon",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1828.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Doubt",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1819.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Down In Flames",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1829.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Enemy",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1830.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Give Me Everything You've Got",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1820.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kill Me Every Time",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1821.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Metamorphosis",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1822.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Not Over Til We Say So",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1831.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ready Aim Fire",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1832.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Scrape",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1823.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shoot 'Em Up",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1834.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Takedown",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1824.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Beginning",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1835.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Devil",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1836.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ULTRAnumb",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1826.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "You'll Get What's Coming",
+      "preview": "https://assets.ppy.sh/artists/65/previews/1838.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:55:17Z"
+  "updated_at": "2026-03-30T23:33:13Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Always a cycle (GLB Toxic Remix)",
+      "preview": "https://assets.ppy.sh/artists/481/Songs/Simon_Safhalter_-_Always_a_cycle_GLB_Toxic_Remix.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Always a cycle (Hyper)",
+      "preview": "https://assets.ppy.sh/artists/481/Songs/Simon Safhalter - Always a cycle (Hyper).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "End of an Era (Hyper)",
+      "preview": "https://assets.ppy.sh/artists/481/End of an Era (Hyper)/Simon Safhalter - End of an Era (Hyper).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "More Mistakes",
+      "preview": "https://assets.ppy.sh/artists/481/More Mistakes/Simon Safhalter - More Mistakes.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "One Way Only",
+      "preview": "https://assets.ppy.sh/artists/481/One Way Only/Simon Safhalter - One Way Only.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -59,6 +64,7 @@
     },
     {
       "title": "System 2.0",
+      "preview": "https://assets.ppy.sh/artists/481/System 2.0/Simon Safhalter - System 2.0.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -70,29 +76,34 @@
     },
     {
       "title": "Crowded Mind",
+      "preview": "https://assets.ppy.sh/artists/481/Crowded Mind/Simon Safhalter - Crowded Mind.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "End of an Era",
+      "preview": "https://assets.ppy.sh/artists/481/End of an Era/Simon Safhalter - End of an Era.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Make or Break",
+      "preview": "https://assets.ppy.sh/artists/481/Make or Break/Simon Safhalter - Make or Break.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Me and You",
+      "preview": "https://assets.ppy.sh/artists/481/Me and You/Simon Safhalter - Me and You.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Not My Dream",
+      "preview": "https://assets.ppy.sh/artists/481/Not My Dream/Simon Safhalter - Not My Dream.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:19:56Z"
+  "updated_at": "2026-03-31T01:58:25Z"
 }

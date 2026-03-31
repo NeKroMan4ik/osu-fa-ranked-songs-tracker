@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "A Turtle's Heart",
+      "preview": "https://assets.ppy.sh/artists/331/Mag Mell/Mili - A Turtle%27s Heart.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Bathtub Mermaid",
+      "preview": "https://assets.ppy.sh/artists/331/Miracle Milk/Mili_-_Bathtub_Mermaid.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -22,10 +24,10 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "osu": [
           2217678
         ],
-        "osu": [
+        "taiko": [
           2217678
         ],
         "mania": [
@@ -38,6 +40,7 @@
     },
     {
       "title": "Cerebrite",
+      "preview": "https://assets.ppy.sh/artists/331/Miracle Milk/Mili - Cerebrite.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -50,6 +53,7 @@
     },
     {
       "title": "Colorful",
+      "preview": "https://assets.ppy.sh/artists/331/Miracle Milk/Mili - Colorful.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -65,6 +69,7 @@
     },
     {
       "title": "Excalibur",
+      "preview": "https://assets.ppy.sh/artists/331/Millenium Mother/Mili - Excalibur.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -80,6 +85,7 @@
     },
     {
       "title": "Fable",
+      "preview": "https://assets.ppy.sh/artists/331/Mag Mell/Mili - Fable.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -95,6 +101,7 @@
     },
     {
       "title": "From a Place of Love",
+      "preview": "https://assets.ppy.sh/artists/331/To Kill a Living Book -for Library of Ruina-/Mili - From a Place of Love.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -106,6 +113,7 @@
     },
     {
       "title": "Ga1ahad and Scientific Witchery",
+      "preview": "https://assets.ppy.sh/artists/331/Miracle Milk/Mili - Ga1ahad and Scientific Witchery.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -127,6 +135,7 @@
     },
     {
       "title": "Gertrauda",
+      "preview": "https://assets.ppy.sh/artists/331/Millenium Mother/Mili - Gertrauda.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -138,6 +147,7 @@
     },
     {
       "title": "Gone Angels",
+      "preview": "https://assets.ppy.sh/artists/331/To Kill a Living Book -for Library of Ruina-/Mili - Gone Angels.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -149,6 +159,7 @@
     },
     {
       "title": "Iron Lotus",
+      "preview": "https://assets.ppy.sh/artists/331/To Kill a Living Book -for Library of Ruina-/Mili - Iron Lotus.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -161,6 +172,7 @@
     },
     {
       "title": "Lemonade",
+      "preview": "https://assets.ppy.sh/artists/331/Millenium Mother/Mili_-_Lemonade.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -177,6 +189,7 @@
     },
     {
       "title": "Milk",
+      "preview": "https://assets.ppy.sh/artists/331/Millenium Mother/Mili - Milk.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -188,6 +201,7 @@
     },
     {
       "title": "Nine Point Eight",
+      "preview": "https://assets.ppy.sh/artists/331/Mag Mell/Mili - Nine Point Eight.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -214,6 +228,7 @@
     },
     {
       "title": "Peach Pit and Cyanide",
+      "preview": "https://assets.ppy.sh/artists/331/Songs/Mili_-_Peach_Pit_and_Cyanide.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -229,6 +244,7 @@
     },
     {
       "title": "RTRT",
+      "preview": "https://assets.ppy.sh/artists/331/Miracle Milk/Mili - RTRT.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -240,6 +256,7 @@
     },
     {
       "title": "Rubber Human",
+      "preview": "https://assets.ppy.sh/artists/331/Millenium Mother/Mili_-_Rubber_Human.mp3",
       "ranked_modes": [
         "fruits",
         "mania"
@@ -255,6 +272,7 @@
     },
     {
       "title": "Space Colony",
+      "preview": "https://assets.ppy.sh/artists/331/Miracle Milk/Mili_-_Space_Colony.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -271,6 +289,7 @@
     },
     {
       "title": "String Theocracy",
+      "preview": "https://assets.ppy.sh/artists/331/To Kill a Living Book -for Library of Ruina-/Mili - String Theocracy.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -287,6 +306,7 @@
     },
     {
       "title": "Summoning 101",
+      "preview": "https://assets.ppy.sh/artists/331/Millenium Mother/Mili - Summoning 101.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -314,6 +334,7 @@
     },
     {
       "title": "Unidentified Flavourful Object",
+      "preview": "https://assets.ppy.sh/artists/331/Miracle Milk/Mili - Unidentified Flavourful Object.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -330,6 +351,7 @@
     },
     {
       "title": "Utopiosphere",
+      "preview": "https://assets.ppy.sh/artists/331/Mag Mell/Mili - Utopiosphere.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -357,6 +379,7 @@
     },
     {
       "title": "Utopiosphere -Platonism-",
+      "preview": "https://assets.ppy.sh/artists/331/Miracle Milk/Mili - Utopiosphere -Platonism-.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -373,6 +396,7 @@
     },
     {
       "title": "Vitamins feat. world's end girlfriend",
+      "preview": "https://assets.ppy.sh/artists/331/Millenium Mother/Mili - Vitamins feat. world%27s end girlfriend.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -397,6 +421,7 @@
     },
     {
       "title": "Vulnerability",
+      "preview": "https://assets.ppy.sh/artists/331/Miracle Milk/Mili - Vulnerability.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -415,6 +440,7 @@
     },
     {
       "title": "Witch's Invitation",
+      "preview": "https://assets.ppy.sh/artists/331/Mag Mell/Mili - Witch%27s Invitation.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -430,6 +456,7 @@
     },
     {
       "title": "world.execute(me);",
+      "preview": "https://assets.ppy.sh/artists/331/Miracle Milk/Mili - world.execute(me)%3B.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -451,6 +478,7 @@
     },
     {
       "title": "YUBIKIRI-GENMAN",
+      "preview": "https://assets.ppy.sh/artists/331/Mag Mell/Mili - YUBIKIRI-GENMAN.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -462,19 +490,22 @@
     },
     {
       "title": "Ikutoshitsuki",
+      "preview": "https://assets.ppy.sh/artists/331/Songs/Mili - Ikutoshitsuki.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mili feat. KIHOW from MYTH & ROID - In Hell We Live, Lament",
+      "preview": "https://assets.ppy.sh/artists/331/Songs/Mili feat. KIHOW from MYTH %26 ROID - In Hell We Live%2C Lament.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mitsubachi",
+      "preview": "https://assets.ppy.sh/artists/331/Songs/Mili - Mitsubachi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:22:34Z"
+  "updated_at": "2026-03-31T01:00:40Z"
 }

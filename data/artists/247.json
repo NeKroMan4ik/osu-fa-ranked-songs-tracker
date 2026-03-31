@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Cthulhu",
+      "preview": "https://assets.ppy.sh/artists/247/Songs/Raimukun - Cthulhu.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Firmament Star",
+      "preview": "https://assets.ppy.sh/artists/247/Songs/Raimukun - Firmament Star.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Icyxis",
+      "preview": "https://assets.ppy.sh/artists/247/Songs/Raimukun_-_Icyxis.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Myths Orbis",
+      "preview": "https://assets.ppy.sh/artists/247/Songs/Raimukun_-_Myths_Orbis.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -56,6 +60,7 @@
     },
     {
       "title": "Nyarlathotep's Dreamland",
+      "preview": "https://assets.ppy.sh/artists/247/Songs/Raimukun - Nyarlathotep%27s Dreamland.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -75,19 +80,22 @@
     },
     {
       "title": "Gyakusetsu no Sekai",
+      "preview": "https://assets.ppy.sh/artists/247/Songs/Raimukun - Gyakusetsu no Sekai.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Isysmonahy (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/247/Songs/Raimukun_-_Isysmonahy_osu_edit.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thetaru",
+      "preview": "https://assets.ppy.sh/artists/247/Songs/Raimukun - Thetaru.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:50:20Z"
+  "updated_at": "2026-03-31T01:28:38Z"
 }

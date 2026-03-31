@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Crafted In Ice",
+      "preview": "https://assets.ppy.sh/artists/326/Songs/Ekcle - Crafted In Ice.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "The Impulsive State",
+      "preview": "https://assets.ppy.sh/artists/326/Songs/Ekcle - The Impulsive State.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -30,6 +32,7 @@
     },
     {
       "title": "To Give Credence",
+      "preview": "https://assets.ppy.sh/artists/326/Songs/Ekcle - To Give Credence.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -41,24 +44,28 @@
     },
     {
       "title": "Clandestine",
+      "preview": "https://assets.ppy.sh/artists/326/Songs/Ekcle - Clandestine.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Florentine",
+      "preview": "https://assets.ppy.sh/artists/326/Songs/Ekcle - Florentine.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sakoya",
+      "preview": "https://assets.ppy.sh/artists/326/Songs/Ekcle - Sakoya.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Treading The Floors Of The Sky (feat. Owsey)",
+      "preview": "https://assets.ppy.sh/artists/326/Songs/Ekcle - Treading The Floors Of The Sky (feat. Owsey).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:20:15Z"
+  "updated_at": "2026-03-30T23:58:05Z"
 }

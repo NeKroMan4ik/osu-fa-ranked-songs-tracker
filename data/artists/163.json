@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Be Right There",
+      "preview": "https://assets.ppy.sh/artists/163/Be Right There/Reku Mochizuki - Be Right There.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Faith of Eastward",
+      "preview": "https://assets.ppy.sh/artists/163/Songs/Reku Mochizuki - Faith of Eastward.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Falseimager",
+      "preview": "https://assets.ppy.sh/artists/163/Songs/Reku Mochizuki - Falseimager.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "FORViDDEN ENERZY -Fataldoze-",
+      "preview": "https://assets.ppy.sh/artists/163/Songs/Reku Mochizuki - FORViDDEN ENERZY -Fataldoze-.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "INFiNiTE ENERZY -Overdoze-",
+      "preview": "https://assets.ppy.sh/artists/163/INFiNiTE ENERZY -Overdoze-/Reku Mochizuki - INFiNiTE ENERZY -Overdoze-.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -59,6 +64,7 @@
     },
     {
       "title": "KiNG FORM -XIII-",
+      "preview": "https://assets.ppy.sh/artists/163/Songs/Reku Mochizuki - KiNG FORM -XIII-.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -70,6 +76,7 @@
     },
     {
       "title": "VEZZELiX",
+      "preview": "https://assets.ppy.sh/artists/163/VEZZELiX/Reku Mochizuki - VEZZELiX.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -89,6 +96,7 @@
     },
     {
       "title": "Yorixiro",
+      "preview": "https://assets.ppy.sh/artists/163/Songs/Reku Mochizuki - Yorixiro.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -104,44 +112,52 @@
     },
     {
       "title": "7colors memories feat. Seyaka",
+      "preview": "https://assets.ppy.sh/artists/163/Songs/Reku Mochizuki - 7colors memories feat. Seyaka.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Perfect ConfeCute",
+      "preview": "https://assets.ppy.sh/artists/163/Songs/Reku Mochizuki - Perfect ConfeCute.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Phynalvent",
+      "preview": "https://assets.ppy.sh/artists/163/Songs/Reku Mochizuki - Phynalvent.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Regeneraxion",
+      "preview": "https://assets.ppy.sh/artists/163/Regeneraxion/Reku Mochizuki - Regeneraxion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Reku Mochizuki & skymuted - Realm in the Sky",
+      "preview": "https://assets.ppy.sh/artists/163/Realm in the Sky/Reku Mochizuki %26 skymuted - Realm in the Sky.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Serenity Wisteria -Reblooming-",
+      "preview": "https://assets.ppy.sh/artists/163/Songs/Reku Mochizuki - Serenity Wisteria -Reblooming-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Take Me Far Away",
+      "preview": "https://assets.ppy.sh/artists/163/Songs/Reku Mochizuki - Take Me Far Away.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Unlimited Katharsis",
+      "preview": "https://assets.ppy.sh/artists/163/Songs/Reku Mochizuki - Unlimited Katharsis.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:53:20Z"
+  "updated_at": "2026-03-31T01:31:44Z"
 }

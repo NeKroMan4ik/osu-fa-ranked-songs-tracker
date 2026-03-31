@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Arcadia",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 4th Single %E6%9C%88%E8%9D%95%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%87%E3%82%A3%E3%82%A2/Ariabl%27eyeS - Arcadia.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -22,6 +23,7 @@
     },
     {
       "title": "Asphodelos",
+      "preview": "https://assets.ppy.sh/artists/93/3rd Single %E7%89%87%E7%BF%BC%E3%81%AE%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%82%A2/Ariabl%27eyeS - Asphodelos.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -37,6 +39,7 @@
     },
     {
       "title": "Aurora",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 1st Album %E7%A2%A7%E3%81%8D%E5%B9%BB%E6%83%B3%E3%81%AE%E3%82%A8%E3%83%AA%E3%82%B8%E3%82%A6%E3%83%A0/Ariabl%27eyeS - Aurora.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -48,6 +51,7 @@
     },
     {
       "title": "Chiisana Ketsui",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 9th Mini Album -Concept Series %E2%85%A5- %E7%B5%B6%E5%87%8D%E3%81%AE%E3%83%A9%E3%83%93%E3%83%AA%E3%83%B3%E3%82%B9/Ariabl%27eyeS - Chiisana Ketsui.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -67,6 +71,7 @@
     },
     {
       "title": "Dearest you",
+      "preview": "https://assets.ppy.sh/artists/93/Seiren Femme fatale/Ariabl%27eyeS - Dearest you.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -79,6 +84,7 @@
     },
     {
       "title": "Hanataba o Tsurugi ni",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 8th Mini Album -Concept Series %E2%85%A1- %E9%9F%BF%E5%A5%8F%E8%BC%AA%E5%BB%BB%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3%E3%83%AC%E3%83%8D%E3%83%83%E3%83%88/AriableyeS_-_Hanataba_o_Tsurugi_ni.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -90,6 +96,7 @@
     },
     {
       "title": "Houkai no Bigaku",
+      "preview": "https://assets.ppy.sh/artists/93/Songs/AriableyeS_-_Houkai_no_Bigaku.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -101,6 +108,7 @@
     },
     {
       "title": "Kaikou Trialogue",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 8th Mini Album -Concept Series %E2%85%A1- %E9%9F%BF%E5%A5%8F%E8%BC%AA%E5%BB%BB%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3%E3%83%AC%E3%83%8D%E3%83%83%E3%83%88/Ariabl%27eyeS - Kaikou Trialogue.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -112,6 +120,7 @@
     },
     {
       "title": "Kegarenaki Bara Juuji",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 2nd Album %E7%91%A0%E7%92%83%E8%89%B2%E3%81%AE%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%A4%E3%83%84/AriableyeS_-_Kegarenaki_Bara_Juuji.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -135,6 +144,7 @@
     },
     {
       "title": "Keikan no Senritsu",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 2nd Album %E7%91%A0%E7%92%83%E8%89%B2%E3%81%AE%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%A4%E3%83%84/Ariabl%27eyeS - Keikan no Senritsu.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -158,6 +168,7 @@
     },
     {
       "title": "Labyrinth",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 9th Mini Album -Concept Series %E2%85%A5- %E7%B5%B6%E5%87%8D%E3%81%AE%E3%83%A9%E3%83%93%E3%83%AA%E3%83%B3%E3%82%B9/Ariabl%27eyeS - Labyrinth.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -173,6 +184,7 @@
     },
     {
       "title": "Lament",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 3rd Album %E8%92%BC%E6%9C%88%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/Ariabl%27eyeS - Lament.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -184,6 +196,7 @@
     },
     {
       "title": "Meimei Memento",
+      "preview": "https://assets.ppy.sh/artists/93/Meimei Fiancailles Act 1/Ariabl%27eyeS - Meimei Memento.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -195,6 +208,7 @@
     },
     {
       "title": "Monochrome Solitude",
+      "preview": "https://assets.ppy.sh/artists/93/Shin - Shinen naru Mono/Ariabl%27eyeS - Monochrome Solitude.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -207,6 +221,7 @@
     },
     {
       "title": "Raison d'etre",
+      "preview": "https://assets.ppy.sh/artists/93/Songs/AriableyeS_-_Raison_detre.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -226,6 +241,7 @@
     },
     {
       "title": "Reflect",
+      "preview": "https://assets.ppy.sh/artists/93/2nd Single %E6%84%9B%E6%86%8E%E6%82%B2%E5%93%80%E3%82%AB%E3%82%BF%E3%83%AB%E3%82%B7%E3%82%B9/Ariabl%27eyeS - Reflect.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -242,6 +258,7 @@
     },
     {
       "title": "Romanesque Romancia",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 6th Mini Album %E7%B5%82%E5%8A%87%E3%81%AE%E3%83%AD%E3%83%9E%E3%83%8D%E3%82%B9%E3%82%AF/Ariabl%27eyeS - Romanesque Romancia.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -262,6 +279,7 @@
     },
     {
       "title": "Ruisou Automata",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 7th Mini Album %E6%B6%99%E6%83%B3%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%82%BF/Ariabl%27eyeS - Ruisou Automata.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -273,6 +291,7 @@
     },
     {
       "title": "Ruri-iro Soiree",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 2nd Full Album -Concept Series %E2%85%A1- %E7%A9%A2%E3%82%8C%E3%81%AA%E3%81%8D%E7%91%A0%E7%92%83%E8%89%B2%E3%81%AE%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%A4%E3%83%84/Ariabl%27eyeS - Ruri-iro Soiree.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -284,6 +303,7 @@
     },
     {
       "title": "Senkou no Flare",
+      "preview": "https://assets.ppy.sh/artists/93/Akaki Akuma no Tragedia/Ariabl%27eyeS - Senkou no Flare.mp3",
       "ranked_modes": [
         "fruits",
         "mania"
@@ -299,6 +319,7 @@
     },
     {
       "title": "Shiroki Rakuen no Lirica",
+      "preview": "https://assets.ppy.sh/artists/93/Akaki Akuma no Tragedia/Ariabl%27eyeS - Shiroki Rakuen no Lirica.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -310,6 +331,7 @@
     },
     {
       "title": "Shuuen no Kane",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 7th Mini Album %E6%B6%99%E6%83%B3%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%82%BF/Ariabl%27eyeS - Shuuen no Kane.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -326,6 +348,7 @@
     },
     {
       "title": "Soukyuu no Rasen",
+      "preview": "https://assets.ppy.sh/artists/93/2nd Single %E6%84%9B%E6%86%8E%E6%82%B2%E5%93%80%E3%82%AB%E3%82%BF%E3%83%AB%E3%82%B7%E3%82%B9/Ariabl%27eyeS - Soukyuu no Rasen.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -337,6 +360,7 @@
     },
     {
       "title": "Souzou no Idea",
+      "preview": "https://assets.ppy.sh/artists/93/Best of Aria 2011-2016/Ariabl%27eyeS - Souzou no Idea.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -352,6 +376,7 @@
     },
     {
       "title": "Symmetric Rose",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 2nd Album %E7%91%A0%E7%92%83%E8%89%B2%E3%81%AE%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%A4%E3%83%84/Ariabl%27eyeS - Symmetric Rose.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -364,6 +389,7 @@
     },
     {
       "title": "Tsuioku no Bara",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 6th Mini Album %E7%B5%82%E5%8A%87%E3%81%AE%E3%83%AD%E3%83%9E%E3%83%8D%E3%82%B9%E3%82%AF/Ariabl%27eyeS - Tsuioku no Bara.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -379,6 +405,7 @@
     },
     {
       "title": "Tsumibukaki Boutoku no Kyouen",
+      "preview": "https://assets.ppy.sh/artists/93/3rd Single %E7%89%87%E7%BF%BC%E3%81%AE%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%82%A2/Ariabl%27eyeS - Tsumibukaki Boutoku no Kyouen.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -390,6 +417,7 @@
     },
     {
       "title": "Zankyou wa Hitsugi no Naka e",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 5th Mini Album %E6%AE%8B%E9%9F%BF%E3%81%AE%E3%82%B3%E3%83%95%E3%82%A3%E3%83%B3/Ariabl%27eyeS - Zankyou wa Hitsugi no Naka e.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -401,274 +429,328 @@
     },
     {
       "title": "Ao no Kajitsu",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 9th Mini Album -Concept Series %E2%85%A5- %E7%B5%B6%E5%87%8D%E3%81%AE%E3%83%A9%E3%83%93%E3%83%AA%E3%83%B3%E3%82%B9/Ariabl%27eyeS - Ao no Kajitsu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aoi Hitomi no Aria",
+      "preview": "https://assets.ppy.sh/artists/93/1st Single %E8%92%BC%E3%81%84%E7%9E%B3%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%A2/Ariabl%27eyeS - Aoi Hitomi no Aria.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Calendula",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 3rd Album %E8%92%BC%E6%9C%88%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/Ariabl%27eyeS - Calendula.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Crescent eve",
+      "preview": "https://assets.ppy.sh/artists/93/1st Single %E8%92%BC%E3%81%84%E7%9E%B3%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%A2/Ariabl%27eyeS - Crescent eve.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Desire",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 5th Mini Album %E6%AE%8B%E9%9F%BF%E3%81%AE%E3%82%B3%E3%83%95%E3%82%A3%E3%83%B3/Ariabl%27eyeS - Desire.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Doukoku Catastrophe",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 1st Album %E7%A2%A7%E3%81%8D%E5%B9%BB%E6%83%B3%E3%81%AE%E3%82%A8%E3%83%AA%E3%82%B8%E3%82%A6%E3%83%A0/Ariabl%27eyeS - Doukoku Catastrophe.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "EDEN",
+      "preview": "https://assets.ppy.sh/artists/93/3rd Single %E7%89%87%E7%BF%BC%E3%81%AE%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B7%E3%82%A2/Ariabl%27eyeS - EDEN.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eigetsu Fiancailles",
+      "preview": "https://assets.ppy.sh/artists/93/Meimei Fiancailles Act 1/Ariabl%27eyeS - Eigetsu Fiancailles.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fine",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 2nd Album %E7%91%A0%E7%92%83%E8%89%B2%E3%81%AE%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%A4%E3%83%84/Ariabl%27eyeS - Fine.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gekkabijin",
+      "preview": "https://assets.ppy.sh/artists/93/Souei Burial/Ariabl%27eyeS - Gekkabijin.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gesshoku Oratorio",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 4th Single %E6%9C%88%E8%9D%95%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%87%E3%82%A3%E3%82%A2/Ariabl%27eyeS - Gesshoku Oratorio.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gitan Symphony",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 8th Mini Album -Concept Series %E2%85%A1- %E9%9F%BF%E5%A5%8F%E8%BC%AA%E5%BB%BB%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3%E3%83%AC%E3%83%8D%E3%83%83%E3%83%88/Ariabl%27eyeS - Gitan Symphony.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gunjou no Messiah",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 4th Single %E6%9C%88%E8%9D%95%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%87%E3%82%A3%E3%82%A2/Ariabl%27eyeS - Gunjou no Messiah.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hiai Kyousoukyoku",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 7th Mini Album %E6%B6%99%E6%83%B3%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%82%BF/Ariabl%27eyeS - Hiai Kyousoukyoku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hiiro ni Somarishi Shoujo to Akuma",
+      "preview": "https://assets.ppy.sh/artists/93/Akaki Akuma no Tragedia/Ariabl%27eyeS - Hiiro ni Somarishi Shoujo to Akuma.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kokou no Megami",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 9th Mini Album -Concept Series %E2%85%A5- %E7%B5%B6%E5%87%8D%E3%81%AE%E3%83%A9%E3%83%93%E3%83%AA%E3%83%B3%E3%82%B9/Ariabl%27eyeS - Kokou no Megami.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kuon no Hoshizora",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 3rd Album %E8%92%BC%E6%9C%88%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/Ariabl%27eyeS - Kuon no Hoshizora.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kuroki Fiancailles",
+      "preview": "https://assets.ppy.sh/artists/93/Meimei Fiancailles Act 2/Ariabl%27eyeS - Kuroki Fiancailles.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kuroneko no Ronde",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 1st Full Album %E9%BB%8E%E6%98%8E%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2/Ariabl%27eyeS - Kuroneko no Ronde.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kyoumei Sonata",
+      "preview": "https://assets.ppy.sh/artists/93/Akaki Akuma no Tragedia/Ariabl%27eyeS - Kyoumei Sonata.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kyousou Rinne Rosenreinette",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 8th Mini Album -Concept Series %E2%85%A1- %E9%9F%BF%E5%A5%8F%E8%BC%AA%E5%BB%BB%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3%E3%83%AC%E3%83%8D%E3%83%83%E3%83%88/Ariabl%27eyeS - Kyousou Rinne Rosenreinette.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lumiere eternelle",
+      "preview": "https://assets.ppy.sh/artists/93/Meimei Fiancailles Act 2/Ariabl%27eyeS - Lumiere eternelle.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mebius",
+      "preview": "https://assets.ppy.sh/artists/93/Hitan Mebius/Ariabl%27eyeS - Mebius.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Meikai no Shisha",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 6th Mini Album %E7%B5%82%E5%8A%87%E3%81%AE%E3%83%AD%E3%83%9E%E3%83%8D%E3%82%B9%E3%82%AF/Ariabl%27eyeS - Meikai no Shisha.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Meimei Memoria",
+      "preview": "https://assets.ppy.sh/artists/93/Meimei Fiancailles Act 2/Ariabl%27eyeS - Meimei Memoria.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Miserable",
+      "preview": "https://assets.ppy.sh/artists/93/1st Single %E8%92%BC%E3%81%84%E7%9E%B3%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%A2/Ariabl%27eyeS - Miserable.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mugenbana",
+      "preview": "https://assets.ppy.sh/artists/93/Souei Burial/Ariabl%27eyeS - Mugenbana.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nemuru Circus",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 7th Mini Album %E6%B6%99%E6%83%B3%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%82%BF/Ariabl%27eyeS - Nemuru Circus.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Raven Dissonance",
+      "preview": "https://assets.ppy.sh/artists/93/Meimei Fiancailles Act 1/Ariabl%27eyeS - Raven Dissonance.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Reincarnation",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 8th Mini Album -Concept Series %E2%85%A1- %E9%9F%BF%E5%A5%8F%E8%BC%AA%E5%BB%BB%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3%E3%83%AC%E3%83%8D%E3%83%83%E3%83%88/Ariabl%27eyeS - Reincarnation.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Reunion",
+      "preview": "https://assets.ppy.sh/artists/93/Meimei Fiancailles Act 2/Ariabl%27eyeS - Reunion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Reverie",
+      "preview": "https://assets.ppy.sh/artists/93/Seiren Femme fatale/Ariabl%27eyeS - Reverie.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ruri-iro no Himegimi",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 2nd Album %E7%91%A0%E7%92%83%E8%89%B2%E3%81%AE%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%A4%E3%83%84/Ariabl%27eyeS - Ruri-iro no Himegimi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Scarlet Rouge",
+      "preview": "https://assets.ppy.sh/artists/93/Meimei Fiancailles Act 1/Ariabl%27eyeS - Scarlet Rouge.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Secret Garden",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 1st Album %E7%A2%A7%E3%81%8D%E5%B9%BB%E6%83%B3%E3%81%AE%E3%82%A8%E3%83%AA%E3%82%B8%E3%82%A6%E3%83%A0/Ariabl%27eyeS - Secret Garden.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Seiren Femme fatale",
+      "preview": "https://assets.ppy.sh/artists/93/Seiren Femme fatale/Ariabl%27eyeS - Seiren Femme fatale.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Senjou no Diva",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 1st Album %E7%A2%A7%E3%81%8D%E5%B9%BB%E6%83%B3%E3%81%AE%E3%82%A8%E3%83%AA%E3%82%B8%E3%82%A6%E3%83%A0/Ariabl%27eyeS - Senjou no Diva.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Senketsu no Shoudou",
+      "preview": "https://assets.ppy.sh/artists/93/Meimei Fiancailles Act 2/Ariabl%27eyeS - Senketsu no Shoudou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shion no Toki",
+      "preview": "https://assets.ppy.sh/artists/93/Souei Burial/Ariabl%27eyeS - Shion no Toki.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Souei Regret",
+      "preview": "https://assets.ppy.sh/artists/93/Souei Burial/Ariabl%27eyeS - Souei Regret.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sougetsu Oratorio",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 3rd Album %E8%92%BC%E6%9C%88%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/Ariabl%27eyeS - Sougetsu Oratorio.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Torikago no Serenade",
+      "preview": "https://assets.ppy.sh/artists/93/Souei Burial/Ariabl%27eyeS - Torikago no Serenade.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tsugunai no Aoki Bara",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 9th Mini Album -Concept Series %E2%85%A5- %E7%B5%B6%E5%87%8D%E3%81%AE%E3%83%A9%E3%83%93%E3%83%AA%E3%83%B3%E3%82%B9/Ariabl%27eyeS - Tsugunai no Aoki Bara.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tsuisou",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 8th Mini Album -Concept Series %E2%85%A1- %E9%9F%BF%E5%A5%8F%E8%BC%AA%E5%BB%BB%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3%E3%83%AC%E3%83%8D%E3%83%83%E3%83%88/Ariabl%27eyeS - Tsuisou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tsukiyo no Masquerade",
+      "preview": "https://assets.ppy.sh/artists/93/2nd Single %E6%84%9B%E6%86%8E%E6%82%B2%E5%93%80%E3%82%AB%E3%82%BF%E3%83%AB%E3%82%B7%E3%82%B9/Ariabl%27eyeS - Tsukiyo no Masquerade.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tsumi to Batsu",
+      "preview": "https://assets.ppy.sh/artists/93/Akaki Akuma no Tragedia/Ariabl%27eyeS - Tsumi to Batsu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Umbral Era",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 1st Full Album %E9%BB%8E%E6%98%8E%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%82%A2/Ariabl%27eyeS - Umbral Era.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Unmei no Haguruma",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 5th Mini Album %E6%AE%8B%E9%9F%BF%E3%81%AE%E3%82%B3%E3%83%95%E3%82%A3%E3%83%B3/Ariabl%27eyeS - Unmei no Haguruma.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Unmei no Kousaku",
+      "preview": "https://assets.ppy.sh/artists/93/Souei Burial/Ariabl%27eyeS - Unmei no Kousaku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Uragiri no Bara",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 5th Mini Album %E6%AE%8B%E9%9F%BF%E3%81%AE%E3%82%B3%E3%83%95%E3%82%A3%E3%83%B3/Ariabl%27eyeS - Uragiri no Bara.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Vanishment",
+      "preview": "https://assets.ppy.sh/artists/93/Hitan Mebius/Ariabl%27eyeS - Vanishment.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Zankokuna Tenbin to Torikago no Shoujo",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 3rd Album %E8%92%BC%E6%9C%88%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/Ariabl%27eyeS - Zankokuna Tenbin to Torikago no Shoujo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Zankou",
+      "preview": "https://assets.ppy.sh/artists/93/Meimei Fiancailles Act 1/Ariabl%27eyeS - Zankou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Zettou no Majo",
+      "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 9th Mini Album -Concept Series %E2%85%A5- %E7%B5%B6%E5%87%8D%E3%81%AE%E3%83%A9%E3%83%93%E3%83%AA%E3%83%B3%E3%82%B9/Ariabl%27eyeS - Zettou no Majo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:46:05Z"
+  "updated_at": "2026-03-30T23:24:04Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "christmas isn't real",
+      "preview": "https://assets.ppy.sh/artists/236/Songs/bill wurtz - christmas isn%27t real.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "diamond",
+      "preview": "https://assets.ppy.sh/artists/236/Songs/bill wurtz - diamond.mp3?2022",
       "ranked_modes": [
         "mania",
         "osu",
@@ -34,6 +36,7 @@
     },
     {
       "title": "La de da de da de da de day oh",
+      "preview": "https://assets.ppy.sh/artists/236/Songs/bill wurtz - La de da de da de da de day oh.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -45,6 +48,7 @@
     },
     {
       "title": "school",
+      "preview": "https://assets.ppy.sh/artists/236/Songs/bill wurtz - school.mp3?2022",
       "ranked_modes": [
         "mania",
         "osu",
@@ -65,6 +69,7 @@
     },
     {
       "title": "the moon is made of cheese, but i can't taste it",
+      "preview": "https://assets.ppy.sh/artists/236/Songs/bill wurtz - the moon is made of cheese%2C but i can%27t taste it.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -80,84 +85,100 @@
     },
     {
       "title": "and the day goes on",
+      "preview": "https://assets.ppy.sh/artists/236/Songs/bill wurtz - and the day goes on.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "at the airport terminal",
+      "preview": "https://assets.ppy.sh/artists/236/Songs/bill wurtz - at the airport terminal.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "got to know what's going on",
+      "preview": "https://assets.ppy.sh/artists/236/Songs/bill wurtz - got to know what%27s going on.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "hallelujah",
+      "preview": "https://assets.ppy.sh/artists/236/Songs/bill wurtz - hallelujah.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "hello sexy pants",
+      "preview": "https://assets.ppy.sh/artists/236/Songs/bill wurtz - hello sexy pants.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "here comes the sun",
+      "preview": "https://assets.ppy.sh/artists/236/Songs/bill wurtz - here comes the sun.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "i'm a princess",
+      "preview": "https://assets.ppy.sh/artists/236/Songs/bill wurtz - i%27m a princess.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "i'm best friends with my front door",
+      "preview": "https://assets.ppy.sh/artists/236/Songs/bill wurtz - i%27m best friends with my front door.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "just did a bad thing",
+      "preview": "https://assets.ppy.sh/artists/236/Songs/bill wurtz - just did a bad thing.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "long long long journey",
+      "preview": "https://assets.ppy.sh/artists/236/Songs/bill wurtz - long long long journey.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "might quit",
+      "preview": "https://assets.ppy.sh/artists/236/Songs/bill wurtz - might quit.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "money",
+      "preview": "https://assets.ppy.sh/artists/236/Songs/bill wurtz - money.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "mount st. helens is about to blow up",
+      "preview": "https://assets.ppy.sh/artists/236/Songs/bill wurtz - mount st. helens is about to blow up.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "outside",
+      "preview": "https://assets.ppy.sh/artists/236/Songs/bill wurtz - outside.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "slow down",
+      "preview": "https://assets.ppy.sh/artists/236/Songs/bill wurtz - slow down.mp3?2022",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "when i get older",
+      "preview": "https://assets.ppy.sh/artists/236/Songs/bill wurtz - when i get older.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:49:25Z"
+  "updated_at": "2026-03-30T23:27:25Z"
 }

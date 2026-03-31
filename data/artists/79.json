@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Closure",
+      "preview": "https://assets.ppy.sh/artists/79/previews/2097.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Dark Days",
+      "preview": "https://assets.ppy.sh/artists/79/previews/2099.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "DVP",
+      "preview": "https://assets.ppy.sh/artists/79/previews/2098.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -43,6 +46,7 @@
     },
     {
       "title": "Factories",
+      "preview": "https://assets.ppy.sh/artists/79/previews/2101.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -54,6 +58,7 @@
     },
     {
       "title": "Free At Last",
+      "preview": "https://assets.ppy.sh/artists/79/previews/2102.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -66,6 +71,7 @@
     },
     {
       "title": "Full Blown Meltdown",
+      "preview": "https://assets.ppy.sh/artists/79/previews/2103.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -77,6 +83,7 @@
     },
     {
       "title": "Kids",
+      "preview": "https://assets.ppy.sh/artists/79/previews/2105.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -88,6 +95,7 @@
     },
     {
       "title": "Mabu",
+      "preview": "https://assets.ppy.sh/artists/79/previews/2106.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -99,6 +107,7 @@
     },
     {
       "title": "My Life Is Over And I Couldn't Be Happier",
+      "preview": "https://assets.ppy.sh/artists/79/previews/2108.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -111,6 +120,7 @@
     },
     {
       "title": "Old Wounds",
+      "preview": "https://assets.ppy.sh/artists/79/previews/2109.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -122,6 +132,7 @@
     },
     {
       "title": "Scorpion Hill",
+      "preview": "https://assets.ppy.sh/artists/79/previews/2111.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -135,6 +146,7 @@
     },
     {
       "title": "Sleep In The Heat",
+      "preview": "https://assets.ppy.sh/artists/79/previews/2114.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -146,44 +158,52 @@
     },
     {
       "title": "Bare Hands",
+      "preview": "https://assets.ppy.sh/artists/79/previews/2095.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Can't Win",
+      "preview": "https://assets.ppy.sh/artists/79/previews/2096.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Doubts",
+      "preview": "https://assets.ppy.sh/artists/79/previews/2100.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Guilt Trip",
+      "preview": "https://assets.ppy.sh/artists/79/previews/2104.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Morbid Stuff",
+      "preview": "https://assets.ppy.sh/artists/79/previews/2107.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Reservoir",
+      "preview": "https://assets.ppy.sh/artists/79/previews/2110.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "See You At Your Funeral",
+      "preview": "https://assets.ppy.sh/artists/79/previews/2112.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sibling Rivalry",
+      "preview": "https://assets.ppy.sh/artists/79/previews/2113.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:49:25Z"
+  "updated_at": "2026-03-31T01:27:41Z"
 }

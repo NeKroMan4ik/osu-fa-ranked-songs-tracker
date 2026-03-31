@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "dreamy night",
+      "preview": "https://assets.ppy.sh/artists/325/dreamy night/LilyPichu - dreamy night.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -19,21 +20,23 @@
     },
     {
       "title": "not too late",
+      "preview": "https://assets.ppy.sh/artists/325/not too late/LilyPichu - not too late.mp3",
       "ranked_modes": [
         "fruits",
         "mania"
       ],
       "beatmapset_ids_by_mode": {
-        "fruits": [
+        "mania": [
           2202688
         ],
-        "mania": [
+        "fruits": [
           2202688
         ]
       }
     },
     {
       "title": "summer nights",
+      "preview": "https://assets.ppy.sh/artists/325/summer nights/LilyPichu - summer nights.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -45,59 +48,70 @@
     },
     {
       "title": "anemo sky",
+      "preview": "https://assets.ppy.sh/artists/325/anemo sky/LilyPichu - anemo sky.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "comfy vibes",
+      "preview": "https://assets.ppy.sh/artists/325/comfy vibes/LilyPichu - comfy vibes.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "dreamy nightmares",
+      "preview": "https://assets.ppy.sh/artists/325/dreamy nightmares/LilyPichu - dreamy nightmares.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "happy",
+      "preview": "https://assets.ppy.sh/artists/325/happy/LilyPichu - happy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "if there was a zombie apocalypse i'd let my dog eat me",
+      "preview": "https://assets.ppy.sh/artists/325/if there was a zombie apocalypse i%27d let my dog eat me/LilyPichu - if there was a zombie apocalypse i%27d let my dog eat me.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "last cup of coffee",
+      "preview": "https://assets.ppy.sh/artists/325/last cup of coffee/LilyPichu - last cup of coffee.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "lilypad",
+      "preview": "https://assets.ppy.sh/artists/325/lilypad/LilyPichu - lilypad.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "LilyPichu & VGR - POM POM",
+      "preview": "https://assets.ppy.sh/artists/325/POM POM/LilyPichu %26 VGR - POM POM.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Static-P - Nightmares (feat. LilyPichu)",
+      "preview": "https://assets.ppy.sh/artists/325/Nightmares/Static-P - Nightmares (feat. LilyPichu).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "sunshine & butterflies",
+      "preview": "https://assets.ppy.sh/artists/325/sunshine %26 butterflies/LilyPichu - sunshine %26 butterflies.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "these days it's hard to find the words",
+      "preview": "https://assets.ppy.sh/artists/325/these days it%27s hard to find the words/LilyPichu - these days it%27s hard to find the words.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:07:53Z"
+  "updated_at": "2026-03-31T00:45:54Z"
 }

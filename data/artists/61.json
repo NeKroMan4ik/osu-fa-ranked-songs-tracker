@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Fingerbang",
+      "preview": "https://assets.ppy.sh/artists/61/previews/1733.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -19,84 +20,100 @@
     },
     {
       "title": "Baelfire",
+      "preview": "https://assets.ppy.sh/artists/61/previews/1729.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Boss Rush",
+      "preview": "https://assets.ppy.sh/artists/61/previews/1730.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Critical Hit",
+      "preview": "https://assets.ppy.sh/artists/61/previews/1731.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Face Your Fears",
+      "preview": "https://assets.ppy.sh/artists/61/previews/1732.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Firebird",
+      "preview": "https://assets.ppy.sh/artists/61/previews/1743.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hellfire",
+      "preview": "https://assets.ppy.sh/artists/61/previews/1734.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hyper Beam",
+      "preview": "https://assets.ppy.sh/artists/61/previews/1735.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Infinite",
+      "preview": "https://assets.ppy.sh/artists/61/previews/1736.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Jelly Castle",
+      "preview": "https://assets.ppy.sh/artists/61/previews/1737.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Press Start",
+      "preview": "https://assets.ppy.sh/artists/61/previews/1738.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rainbow Road",
+      "preview": "https://assets.ppy.sh/artists/61/previews/1739.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Resolution",
+      "preview": "https://assets.ppy.sh/artists/61/previews/1728.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shockwave",
+      "preview": "https://assets.ppy.sh/artists/61/previews/1744.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Suckerpunch",
+      "preview": "https://assets.ppy.sh/artists/61/previews/1740.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Super Wubtendo",
+      "preview": "https://assets.ppy.sh/artists/61/previews/1742.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Great Gastly",
+      "preview": "https://assets.ppy.sh/artists/61/previews/1741.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:19:52Z"
+  "updated_at": "2026-03-31T00:57:58Z"
 }

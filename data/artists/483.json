@@ -4,54 +4,64 @@
   "tracks": [
     {
       "title": "Born Survivor",
+      "preview": "https://assets.ppy.sh/artists/483/Songs/Shirobon - Born Survivor.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "FOX",
+      "preview": "https://assets.ppy.sh/artists/483/Songs/Shirobon - FOX.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Granite",
+      "preview": "https://assets.ppy.sh/artists/483/Songs/Shirobon - Granite.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Into The Zone",
+      "preview": "https://assets.ppy.sh/artists/483/Songs/Shirobon - Into The Zone.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "meganeko x Shirobon - Mind/ /Pulse",
+      "preview": "https://assets.ppy.sh/artists/483/Songs/meganeko x Shirobon - Mind Pulse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "On The Run",
+      "preview": "https://assets.ppy.sh/artists/483/Songs/Shirobon - On The Run.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Opia",
+      "preview": "https://assets.ppy.sh/artists/483/Songs/Shirobon - Opia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Out Of Love",
+      "preview": "https://assets.ppy.sh/artists/483/Songs/Shirobon - Out Of Love.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Step It",
+      "preview": "https://assets.ppy.sh/artists/483/Songs/Shirobon - Step It.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Take Me To Pleasure Island",
+      "preview": "https://assets.ppy.sh/artists/483/Songs/Shirobon - Take Me To Pleasure Island.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:18:20Z"
+  "updated_at": "2026-03-31T01:56:49Z"
 }

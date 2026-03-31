@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Algebra",
+      "preview": "https://assets.ppy.sh/artists/14/previews/247.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -23,6 +24,7 @@
     },
     {
       "title": "Amanojaku set 02 ~ Midnight Spell Card",
+      "preview": "https://assets.ppy.sh/artists/14/previews/252.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -34,6 +36,7 @@
     },
     {
       "title": "Amanojaku set 03 ~ Romantic Escape Flight",
+      "preview": "https://assets.ppy.sh/artists/14/previews/253.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -45,6 +48,7 @@
     },
     {
       "title": "Ayakashi set 08 ~ Yuurei Gakudan",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1331.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -56,6 +60,7 @@
     },
     {
       "title": "Ayakashi set 12 Another ~ Border of Life",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1335.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -67,6 +72,7 @@
     },
     {
       "title": "Daishibyo set 07 ~ Desire Drive",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1381.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -78,6 +84,7 @@
     },
     {
       "title": "Daishibyo set 08 ~ Furuki Yuanxian",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1382.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -89,6 +96,7 @@
     },
     {
       "title": "Daishibyo set 14 ~ Sado no Futatsuiwa",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1388.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -100,6 +108,7 @@
     },
     {
       "title": "Eientewi set 08 A ~ Maiden's Capriccio",
+      "preview": "https://assets.ppy.sh/artists/14/previews/279.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -115,6 +124,7 @@
     },
     {
       "title": "Eientewi set 13 ~ Extend Ash",
+      "preview": "https://assets.ppy.sh/artists/14/previews/288.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -126,6 +136,7 @@
     },
     {
       "title": "Eientewi set 15 ~ Evening Primrose",
+      "preview": "https://assets.ppy.sh/artists/14/previews/291.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -137,6 +148,7 @@
     },
     {
       "title": "Euclid",
+      "preview": "https://assets.ppy.sh/artists/14/previews/248.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -156,6 +168,7 @@
     },
     {
       "title": "Kishinjou set 01 ~ Mist Lake",
+      "preview": "https://assets.ppy.sh/artists/14/previews/256.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -167,6 +180,7 @@
     },
     {
       "title": "Kishinjou set 02 ~ Mermaid from the Uncharted Land",
+      "preview": "https://assets.ppy.sh/artists/14/previews/257.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -178,6 +192,7 @@
     },
     {
       "title": "Kishinjou set 03 ~ Humans and Youkai Traversing the Canal",
+      "preview": "https://assets.ppy.sh/artists/14/previews/258.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -189,6 +204,7 @@
     },
     {
       "title": "Kishinjou set 07 ~ Magical Storm",
+      "preview": "https://assets.ppy.sh/artists/14/previews/262.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -204,6 +220,7 @@
     },
     {
       "title": "Kishinjou set 10 ~ Reverse Ideology",
+      "preview": "https://assets.ppy.sh/artists/14/previews/265.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -215,6 +232,7 @@
     },
     {
       "title": "Koumakan set 16 ~ Kourou",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1409.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -226,6 +244,7 @@
     },
     {
       "title": "Lunatic set 02 ~ Usagi wa Maiorita",
+      "preview": "https://assets.ppy.sh/artists/14/previews/296.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -237,6 +256,7 @@
     },
     {
       "title": "Lunatic set 03 ~ The Lake Reflects the Cleansed Moonlight",
+      "preview": "https://assets.ppy.sh/artists/14/previews/297.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -248,6 +268,7 @@
     },
     {
       "title": "Lunatic set 09 ~ Faraway 380,000-Kilometer Voyage",
+      "preview": "https://assets.ppy.sh/artists/14/previews/303.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -259,6 +280,7 @@
     },
     {
       "title": "Lunatic set 15 ~ The Moon as Seen from the Shrine",
+      "preview": "https://assets.ppy.sh/artists/14/previews/309.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -278,6 +300,7 @@
     },
     {
       "title": "Lunatic set 16 ~ The Space Shrine Maiden Returns Home",
+      "preview": "https://assets.ppy.sh/artists/14/previews/310.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -293,6 +316,7 @@
     },
     {
       "title": "Moriya set 04 ReEdit ~ Unmei no Dark Side",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1307.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -304,6 +328,7 @@
     },
     {
       "title": "Moriya set 08 ReEdit ~ Youkai no Yama",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1313.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -315,6 +340,7 @@
     },
     {
       "title": "Moriya set 11 ReEdit ~ Onbashira no Hakaba",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1316.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -330,6 +356,7 @@
     },
     {
       "title": "Moriya set 14 ReEdit ~ Native Faith",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1320.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -341,21 +368,23 @@
     },
     {
       "title": "Muenzuka set 02 ~ Oriental Dark Flight",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1347.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "osu": [
           2240721
         ],
-        "osu": [
+        "taiko": [
           2240721
         ]
       }
     },
     {
       "title": "Muenzuka set 09 ~ Hana wa Gensou no Mama ni",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1354.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -371,6 +400,7 @@
     },
     {
       "title": "Neuronecia",
+      "preview": "https://assets.ppy.sh/artists/14/previews/249.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -386,6 +416,7 @@
     },
     {
       "title": "Rin - Ayakashi set 14 Another ~ Yoru ga Oritekuru",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Perfect Cherry Blossom/Rin_-_Ayakashi_set_14_Another__Yoru_ga_Oritekuru.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -397,6 +428,7 @@
     },
     {
       "title": "Rin - Daishibyo set 10 ~ Oomiwa Shinwaden",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Ten Desires/Rin_-_Daishibyo_set_10__Oomiwa_Shinwaden.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -408,6 +440,7 @@
     },
     {
       "title": "Rin - Eientewi set 06 ~ Plain Asia",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Imperishable Night/Rin_-_Eientewi_set_06__Plain_Asia.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -419,6 +452,7 @@
     },
     {
       "title": "Rin - Mythic set ~ Hanahazama no Battlefield",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Legacy of Lunatic Kingdom/Rin_-_Mythic_set__Hanahazama_no_Battlefield.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -430,6 +464,7 @@
     },
     {
       "title": "Rin - Mythic set ~ Heart-Stirring Urban Legends",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Legacy of Lunatic Kingdom/Rin_-_Mythic_set__Heart-Stirring_Urban_Legends.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -446,6 +481,7 @@
     },
     {
       "title": "Variable",
+      "preview": "https://assets.ppy.sh/artists/14/previews/406.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -457,709 +493,850 @@
     },
     {
       "title": "Amanojaku set 00 ~ Raise the Signal Fire of Cheating",
+      "preview": "https://assets.ppy.sh/artists/14/previews/250.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Amanojaku set 01 ~ Cheat Against the Impossible Danmaku",
+      "preview": "https://assets.ppy.sh/artists/14/previews/251.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Amanojaku set 04 ~ Eternal Short-Lived Reign",
+      "preview": "https://assets.ppy.sh/artists/14/previews/254.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ayakashi set 00 ~ Youyoumu",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1323.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ayakashi set 01 ~ Mukau no Sato",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1324.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ayakashi set 02 ~ Crystallized Silver",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1325.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ayakashi set 04 ~ Diao Ye Zong",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1327.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ayakashi set 05 ~ Doll Maker of Bucuresti",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1328.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ayakashi set 06 ~ Ningyou Saiban",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1329.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ayakashi set 11 ~ Ultimate Truth",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1334.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ayakashi set 14 B ~ Necrofantasia",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1341.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ayakashi set 15 ~ Shunpuu no Yume",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1342.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ayakashi set 16 ~ Sakura Sakura",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1343.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chireiden set 00 ~ Chireitachi no Kishou",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1356.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chireiden set 02 ~ Fuujirareta Youkai",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1358.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chireiden set 03 ~ Wataru Mono no Todaeta Hashi",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1359.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chireiden set 04 ~ Ryokugan no Jealousy",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1360.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chireiden set 07 ~ Heartfelt Fancy",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1363.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chireiden set 09 ~ Haigoku Lullaby",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1365.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chireiden set 10 ~ Shitai Ryokou",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1367.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chireiden set 12 ~ Reichi no Taiyou Shinkou",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1369.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chireiden set 13 ~ Last Remote",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1370.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chireiden set 14 ~ Hartmann no Youkai Shoujo",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1371.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chireiden set 15 ~ Chireitachi no Kitaku",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1372.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chireiden set 16 ~ Energy Reimei",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1373.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Daishibyo set 00 ~ Yoku Fukaki Reikon",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1374.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Daishibyo set 01 ~ Shiryou no Yozakura",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1375.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Daishibyo set 02 ~ Ghost Lead",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1376.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Daishibyo set 04 ~ Monzen no Youkai Komusume",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1378.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Daishibyo set 05 ~ Sutekina Hakaba de Kurashimasho",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1379.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Daishibyo set 06 ~ Rigid Paradise",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1380.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Daishibyo set 11 ~ Chiisana Yokubou no Hoshizora",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1385.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Daishibyo set 15 ~ Jinja no Atarashii Kaze",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1389.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Daishibyo set 16 ~ Desire Dream",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1390.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eientewi set 01 ~ Illusionary Night",
+      "preview": "https://assets.ppy.sh/artists/14/previews/272.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eientewi set 02 ~ Stirring an Autumn Moon",
+      "preview": "https://assets.ppy.sh/artists/14/previews/273.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eientewi set 03 ~ Song of the Night Sparrow",
+      "preview": "https://assets.ppy.sh/artists/14/previews/274.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eientewi set 04 ~ Deaf to All but the Song",
+      "preview": "https://assets.ppy.sh/artists/14/previews/275.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eientewi set 05 ~ Nostalgic Blood of the East",
+      "preview": "https://assets.ppy.sh/artists/14/previews/276.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eientewi set 07 ~ Retribution for the Eternal Night",
+      "preview": "https://assets.ppy.sh/artists/14/previews/278.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eientewi set 08 B ~ Love-Colored Master Spark",
+      "preview": "https://assets.ppy.sh/artists/14/previews/280.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eientewi set 09 A ~ Cinderella Cage",
+      "preview": "https://assets.ppy.sh/artists/14/previews/281.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eientewi set 09 B ~ White Flag of Usa Shrine",
+      "preview": "https://assets.ppy.sh/artists/14/previews/282.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eientewi set 10 ~ Lunatic Eyes",
+      "preview": "https://assets.ppy.sh/artists/14/previews/283.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eientewi set 11 ~ Voyage 1969",
+      "preview": "https://assets.ppy.sh/artists/14/previews/284.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eientewi set 12 A ~ Gensokyo Millennium",
+      "preview": "https://assets.ppy.sh/artists/14/previews/285.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eientewi set 12 Another ~ Voyage 1970",
+      "preview": "https://assets.ppy.sh/artists/14/previews/286.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eientewi set 12 B ~ Flight in the Bamboo Cutter",
+      "preview": "https://assets.ppy.sh/artists/14/previews/287.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eientewi set 14  Another",
+      "preview": "https://assets.ppy.sh/artists/14/previews/289.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eientewi set 14 ~ Reach for the Moon, Immortal Smoke",
+      "preview": "https://assets.ppy.sh/artists/14/previews/290.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eientewi set 16 ~ Mystical Maple",
+      "preview": "https://assets.ppy.sh/artists/14/previews/292.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eientewi set 17 ~ Eastern Youkai Beauty",
+      "preview": "https://assets.ppy.sh/artists/14/previews/293.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kishinjou set 00 ~ Mysterious Purification Rod",
+      "preview": "https://assets.ppy.sh/artists/14/previews/255.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kishinjou set 04 ~ Dullahan Under the Willows",
+      "preview": "https://assets.ppy.sh/artists/14/previews/259.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kishinjou set 05 ~ Bamboo Forest of the Full Moon",
+      "preview": "https://assets.ppy.sh/artists/14/previews/260.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kishinjou set 06 ~ Lonesome Werewolf",
+      "preview": "https://assets.ppy.sh/artists/14/previews/261.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kishinjou set 08 ~ Illusionary Joururi",
+      "preview": "https://assets.ppy.sh/artists/14/previews/263.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kishinjou set 09 ~ The Shining Needle Castle Sinking in the Air",
+      "preview": "https://assets.ppy.sh/artists/14/previews/264.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kishinjou set 11 ~ The Exaggerated Castle Keep",
+      "preview": "https://assets.ppy.sh/artists/14/previews/266.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kishinjou set 12 ~ Inchlings of the Shining Needle",
+      "preview": "https://assets.ppy.sh/artists/14/previews/267.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kishinjou set 13 ~ Thunderclouds of Magical Power",
+      "preview": "https://assets.ppy.sh/artists/14/previews/268.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kishinjou set 14 ~ Primordial Beat",
+      "preview": "https://assets.ppy.sh/artists/14/previews/269.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kishinjou set 15 ~ Magical Power of the Mallet",
+      "preview": "https://assets.ppy.sh/artists/14/previews/270.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kishinjou set 16 ~ Strange, Strange Instruments",
+      "preview": "https://assets.ppy.sh/artists/14/previews/271.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Koumakan set 00 ~ Aka yori Akai Yume",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1391.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Koumakan set 01 ~ Houzuki Mitai ni Akai Tamashii",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1392.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Koumakan set 02 ~ Youma Yakou",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1393.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Koumakan set 03 ~ Lunate Elf",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1394.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Koumakan set 05 ~ Shanhai Kouchakan",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1396.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Koumakan set 06 ~ Meiji Juu Nana Nen no Shanghai Alice",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1397.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Koumakan set 07 ~ Voile, Mahou Toshokan",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1398.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Koumakan set 08 ~ Locked Girl",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1399.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Koumakan set 09 ~ Maid to Chi no Kaichuudokei",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1400.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Koumakan set 10 A ~ Luna Dial",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1401.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Koumakan set 10 B ~ Flowering Night",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1402.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Koumakan set 11 ~ Tepes no Osanaki Matsuei",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1403.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Koumakan set 12 Playing DJ",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1404.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Koumakan set 12 ~ Naki Oujo no Tame no Septette",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1405.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Koumakan set 14 ~ U.N. Owen wa Kanojo Nanoka?",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1407.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Koumakan set 15 ~ Beni yori Hakanai Eien",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1408.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lunatic set 00 ~ The Space Shrine Maiden Appears",
+      "preview": "https://assets.ppy.sh/artists/14/previews/294.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lunatic set 01 ~ Unforgettable, the Nostalgic Greenery",
+      "preview": "https://assets.ppy.sh/artists/14/previews/295.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lunatic set 04 ~ September Pumpkin",
+      "preview": "https://assets.ppy.sh/artists/14/previews/298.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lunatic set 05 ~ The Mysterious Shrine Maiden Flying Through Space",
+      "preview": "https://assets.ppy.sh/artists/14/previews/299.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lunatic set 06 ~ Eternal Spring Dream",
+      "preview": "https://assets.ppy.sh/artists/14/previews/300.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lunatic set 07 ~ The Frozen Eternal Capital",
+      "preview": "https://assets.ppy.sh/artists/14/previews/301.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lunatic set 08 ~ The Reversed Wheel of Fortune",
+      "preview": "https://assets.ppy.sh/artists/14/previews/302.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lunatic set 10 ~ The Pierrot of the Star-Spangled Banner",
+      "preview": "https://assets.ppy.sh/artists/14/previews/304.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lunatic set 11 ~ The Sea Where the Home Planet is Reflected",
+      "preview": "https://assets.ppy.sh/artists/14/previews/305.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lunatic set 12 ~ Pure Furies",
+      "preview": "https://assets.ppy.sh/artists/14/previews/306.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lunatic set 13 ~ A Never-Before-Seen World of Nightmares",
+      "preview": "https://assets.ppy.sh/artists/14/previews/307.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lunatic set 14 ~ Pandemonic Planet",
+      "preview": "https://assets.ppy.sh/artists/14/previews/308.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moriya set 00 ReEdit ~ Fuuin Sareshi Kamigami",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1303.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moriya set 01 ReEdit ~ Hitokoishi Kamisama",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1304.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moriya set 02 ReEdit ~ Inada Himesama ni Shikararerukara",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1305.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moriya set 06 ReEdit TypeB ~ Akutagawa Ryuunosuke no Kappa",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1310.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moriya set 06 ReEdit ~ Akutagawa Ryuunosuke no Kappa",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1311.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moriya set 07 ReEdit ~ Fall of Fall",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1312.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moriya set 10 ReEdit ~ Shinkou wa Hakanai Ningen no Tame ni",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1315.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moriya set 13 ReEdit ~ Ashita Hare no hi, ke no Kino",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1318.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moriya set 14 ReEdit ~ Native Faith - Original Mix",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1319.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moriya set 15 ReEdit ~ Fumoto no Jinja",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1321.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moriya set 16 ReEdit ~ Kami wa Megumi no Ame wo Furasa",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1322.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Muenzuka set 03 ~ Poison Body",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1348.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Muenzuka set 04 ~ Konjaku Gensoukyou",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1349.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Muenzuka set 05 ~ Higan Kikou",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1350.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Muenzuka set 07 ~ Hana no Utsuru Tsuka",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1352.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Muenzuka set 08 ~ Shigan no Tsuka",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1353.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Muenzuka set 10 ~ Tamashii no Hana",
+      "preview": "https://assets.ppy.sh/artists/14/previews/1355.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Ayakashi set 03 ~ Toono Gensou Monogatari",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Perfect Cherry Blossom/Rin_-_Ayakashi_set_03__Toono_Gensou_Monogatari.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Ayakashi set 07 ~ Tenkuu no Hana no Miyako",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Perfect Cherry Blossom/Rin_-_Ayakashi_set_07__Tenkuu_no_Hana_no_Miyako.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Ayakashi set 09 ~ Touhou Youyoumu",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Perfect Cherry Blossom/Rin_-_Ayakashi_set_09__Touhou_Youyoumu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Ayakashi set 10 ~ Hiroari Kechou o Iru Koto",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Perfect Cherry Blossom/Rin_-_Ayakashi_set_10__Hiroari_Kechou_o_Iru_Koto.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Ayakashi set 12 ~ Yuuga ni Sakase, Sumizome no Sakura",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Perfect Cherry Blossom/Rin_-_Ayakashi_set_12__Yuuga_ni_Sakase_Sumizome_no_Sakura.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Ayakashi set 13 A ~ Youyou Bakko",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Perfect Cherry Blossom/Rin_-_Ayakashi_set_13_A__Youyou_Bakko.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Ayakashi set 13 B ~ Youyou Bakko",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Perfect Cherry Blossom/Rin_-_Ayakashi_set_13_B__Youyou_Bakko.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Ayakashi set 14 A ~ Shoujo Gensou",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Perfect Cherry Blossom/Rin_-_Ayakashi_set_14_A__Shoujo_Gensou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Chireiden set 01 ~ Kurayami no Fuuketsu",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Subterranean Animism/Rin_-_Chireiden_set_01__Kurayami_no_Fuuketsu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Chireiden set 05 ~ Kyuu Jigoku Kaidou o Yuku",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Subterranean Animism/Rin_-_Chireiden_set_05__Kyuu_Jigoku_Kaidou_o_Yuku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Chireiden set 06 ~ Hana no Sakazuki Ooeyama",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Subterranean Animism/Rin_-_Chireiden_set_06__Hana_no_Sakazuki_Ooeyama.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Chireiden set 08 ~ Shoujo Satori",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Subterranean Animism/Rin_-_Chireiden_set_08__Shoujo_Satori.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Chireiden set 10 ~ Lullaby",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Subterranean Animism/Rin_-_Chireiden_set_10__Lullaby.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Chireiden set 11 ~ Gouka Mantle",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Subterranean Animism/Rin_-_Chireiden_set_11__Gouka_Mantle.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Daishibyo set 03 ~ Youkaidera e Youkoso",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Ten Desires/Rin_-_Daishibyo_set_03__Youkaidera_e_Youkoso.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Daishibyo set 09 ~ Yumedono Daishibyou",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Ten Desires/Rin_-_Daishibyo_set_09__Yumedono_Daishibyou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Daishibyo set 12 ~ Shoutoku Densetsu",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Ten Desires/Rin_-_Daishibyo_set_12__Shoutoku_Densetsu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Daishibyo set 13 ~ Youkai Urasandou",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Ten Desires/Rin_-_Daishibyo_set_13__Youkai_Urasandou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Koumakan set 04 Another ~ Otenba Koimusume no Bouken",
+      "preview": "https://assets.ppy.sh/artists/14/House set of the Embodiment of Scarlet Devil/Rin_-_Koumakan_set_04_Another__Otenba_Koimusume_no_Bouken.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Koumakan set 04 ~ Otenba Koimusume",
+      "preview": "https://assets.ppy.sh/artists/14/Songs/Rin_-_Koumakan_set_04__Otenba_Koimusume.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Koumakan set 13 ~ Mahou Shoujo-tachi no Hyakunensai",
+      "preview": "https://assets.ppy.sh/artists/14/House set of the Embodiment of Scarlet Devil/Rin_-_Koumakan_set_13__Mahou_Shoujo-tachi_no_Hyakunensai.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Moriya set 03 ReEdit ~ Yakujinsama no Toorimichi",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Mountain of Faith/Rin_-_Moriya_set_03_ReEdit__Yakujinsama_no_Toorimichi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Moriya set 05 ReEdit ~ Kamigami ga Koi Shita Gensokyo",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Mountain of Faith/Rin_-_Moriya_set_05_ReEdit__Kamigami_ga_Koi_Shita_Gensokyo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Moriya set 05 ReEdit ~ Kamigami ga Koi Shita Gensokyo - Original Mix",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Mountain of Faith/Rin_-_Moriya_set_05_ReEdit__Kamigami_ga_Koi_Shita_Gensokyo_-_Original_Mix.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Moriya set 09 ReEdit ~ Shoujo ga Mita Nippon no Genfuukei",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Mountain of Faith/Rin_-_Moriya_set_09_ReEdit__Shoujo_ga_Mita_Nippon_no_Genfuukei.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Moriya set 12 ReEdit ~ Kamisabita Kosenjou",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Mountain of Faith/Rin_-_Moriya_set_12_ReEdit__Kamisabita_Kosenjou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Muenzuka set 00 ~ Kaeizuka",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Phantasmagoria of Flower View/Rin_-_Muenzuka_set_00__Kaeizuka.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Muenzuka set 01 ~ Haruiro Komichi",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Phantasmagoria of Flower View/Rin_-_Muenzuka_set_01__Haruiro_Komichi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Muenzuka set 06 ~ Rokujuunenme no Touhou Saiban",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Phantasmagoria of Flower View/Rin_-_Muenzuka_set_06__Rokujuunenme_no_Touhou_Saiban.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Mythic set ~ Last Occultism ~ Esotericist of the Present World",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Legacy of Lunatic Kingdom/Rin_-_Mythic_set__Last_Occultism__Esotericist_of_the_Present_World.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Shinkirou set ~ Futatsuiwa from Gensokyo",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Legacy of Lunatic Kingdom/Rin_-_Shinkirou_set__Futatsuiwa_from_Gensokyo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rin - Shinkirou set ~ The Lost Emotion",
+      "preview": "https://assets.ppy.sh/artists/14/House set of Legacy of Lunatic Kingdom/Rin_-_Shinkirou_set__The_Lost_Emotion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:02:15Z"
+  "updated_at": "2026-03-31T01:40:39Z"
 }

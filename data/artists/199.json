@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Aimai Attitude (feat. Nakamura Sanso)",
+      "preview": "https://assets.ppy.sh/artists/199/Aimai Attitude/rejection_-_Aimai_Attitude_feat._Nakamura_Sanso.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -27,6 +28,7 @@
     },
     {
       "title": "Around You (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Around You (osu! edit).mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -38,6 +40,7 @@
     },
     {
       "title": "Calling (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Calling (osu! edit).mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -54,6 +57,7 @@
     },
     {
       "title": "Invisible Scars (feat. mami)",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Invisible Scars (feat. mami).mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -65,6 +69,7 @@
     },
     {
       "title": "Signal (feat. Such)",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Signal (feat. Such).mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -76,6 +81,7 @@
     },
     {
       "title": "Signal (feat. Such) (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Signal (feat. Such) (osu! edit).mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -87,6 +93,7 @@
     },
     {
       "title": "The Way of Adventure (feat. Kusaka Akira)",
+      "preview": "https://assets.ppy.sh/artists/199/encore plus chaptire 01/rejection - The Way of Adventure (feat. Kusaka Akira).mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -102,6 +109,7 @@
     },
     {
       "title": "The Way of Adventure (feat. Kusaka Akira) (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/199/encore plus chaptire 01/rejection - The Way of Adventure (feat. Kusaka Akira) (osu! edit).mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -113,6 +121,7 @@
     },
     {
       "title": "White Canvas (feat. Aitsuki Nakuru) (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - White Canvas (feat. Aitsuki Nakuru) (osu! edit).mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -133,99 +142,118 @@
     },
     {
       "title": "Around You",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Around You.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Calling",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Calling.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Goodbye Goodnight (feat. shully)",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Goodbye Goodnight (feat. shully).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Goodbye Goodnight (feat. shully) (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Goodbye Goodnight (feat. shully) (osu! edit).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Invisible Scars (feat. mami) (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Invisible Scars (feat. mami) (osu! edit).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moony eyes (feat. Such)",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Moony eyes (feat. Such).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moony eyes (feat. Such) (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Moony eyes (feat. Such) (osu! edit).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mou Ikkai wo Endless (feat. Nakamura Sanso)",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Mou Ikkai wo Endless (feat. Nakamura Sanso).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mou Ikkai wo Endless (feat. Nakamura Sanso) (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Mou Ikkai wo Endless (feat. Nakamura Sanso) (osu! edit).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Open Your Heart (feat. Renko)",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Open Your Heart (feat. Renko).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Open Your Heart (feat. Renko) (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Open Your Heart (feat. Renko) (osu! edit).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Reckless",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Reckless.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Reckless (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Reckless (osu! edit).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "rejection, RANASOL - All My Friends",
+      "preview": "https://assets.ppy.sh/artists/199/PRISMA/rejection%2C RANASOL - All My Friends.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Signal (feat. Such) - Mameyudoufu Remix",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Signal (feat. Such) - Mameyudoufu Remix.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Signal (feat. Such) - Mameyudoufu Remix (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Signal (feat. Such) - Mameyudoufu Remix (osu! edit).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "White Canvas (feat. Aitsuki Nakuru)",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - White Canvas (feat. Aitsuki Nakuru).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Zero Gravity",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Zero Gravity.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Zero Gravity (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Zero Gravity (osu! edit).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:52:58Z"
+  "updated_at": "2026-03-31T01:31:22Z"
 }

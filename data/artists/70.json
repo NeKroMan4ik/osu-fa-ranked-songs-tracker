@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Absent Color",
+      "preview": "https://assets.ppy.sh/artists/70/previews/1914.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -23,6 +24,7 @@
     },
     {
       "title": "Aqua Stars",
+      "preview": "https://assets.ppy.sh/artists/70/previews/1916.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -44,6 +46,7 @@
     },
     {
       "title": "Blackorient",
+      "preview": "https://assets.ppy.sh/artists/70/previews/1917.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -55,6 +58,7 @@
     },
     {
       "title": "Broken Stars",
+      "preview": "https://assets.ppy.sh/artists/70/previews/1918.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -66,6 +70,7 @@
     },
     {
       "title": "Bubble Flower",
+      "preview": "https://assets.ppy.sh/artists/70/previews/1919.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -78,6 +83,7 @@
     },
     {
       "title": "Dead Soul",
+      "preview": "https://assets.ppy.sh/artists/70/previews/1922.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -89,6 +95,7 @@
     },
     {
       "title": "Diminitive",
+      "preview": "https://assets.ppy.sh/artists/70/previews/1923.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -104,6 +111,7 @@
     },
     {
       "title": "Empty Stars",
+      "preview": "https://assets.ppy.sh/artists/70/previews/1924.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -120,6 +128,7 @@
     },
     {
       "title": "Eternalism 2",
+      "preview": "https://assets.ppy.sh/artists/70/previews/1925.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -131,6 +140,7 @@
     },
     {
       "title": "Eternalism 3",
+      "preview": "https://assets.ppy.sh/artists/70/previews/1926.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -143,6 +153,7 @@
     },
     {
       "title": "Funky Life",
+      "preview": "https://assets.ppy.sh/artists/70/previews/1927.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -154,6 +165,7 @@
     },
     {
       "title": "Gloom After Death",
+      "preview": "https://assets.ppy.sh/artists/70/previews/1928.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -169,6 +181,7 @@
     },
     {
       "title": "Out of Sense",
+      "preview": "https://assets.ppy.sh/artists/70/previews/1929.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -180,6 +193,7 @@
     },
     {
       "title": "Reinvent",
+      "preview": "https://assets.ppy.sh/artists/70/previews/1931.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -191,29 +205,34 @@
     },
     {
       "title": "3rd Avenue",
+      "preview": "https://assets.ppy.sh/artists/70/previews/1913.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Abyss Racer",
+      "preview": "https://assets.ppy.sh/artists/70/previews/1915.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Coastral",
+      "preview": "https://assets.ppy.sh/artists/70/previews/1920.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cymian (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/70/previews/1921.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rebirth",
+      "preview": "https://assets.ppy.sh/artists/70/previews/1930.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:24:21Z"
+  "updated_at": "2026-03-31T02:02:51Z"
 }

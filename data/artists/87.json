@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "All That We Lost",
+      "preview": "https://assets.ppy.sh/artists/87/previews/2337.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Dark Eyes",
+      "preview": "https://assets.ppy.sh/artists/87/previews/2338.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -30,6 +32,7 @@
     },
     {
       "title": "Last of Us",
+      "preview": "https://assets.ppy.sh/artists/87/previews/2341.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -41,6 +44,7 @@
     },
     {
       "title": "Limitless",
+      "preview": "https://assets.ppy.sh/artists/87/previews/2342.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -52,54 +56,64 @@
     },
     {
       "title": "AC-130",
+      "preview": "https://assets.ppy.sh/artists/87/previews/2336.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "End War",
+      "preview": "https://assets.ppy.sh/artists/87/previews/2339.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Frozen Heart",
+      "preview": "https://assets.ppy.sh/artists/87/previews/2340.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Orphan",
+      "preview": "https://assets.ppy.sh/artists/87/previews/2343.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Palm Shot (Edit)",
+      "preview": "https://assets.ppy.sh/artists/87/previews/2344.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Prototype (feat. MC Kryptomedic)",
+      "preview": "https://assets.ppy.sh/artists/87/previews/2345.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Puppet",
+      "preview": "https://assets.ppy.sh/artists/87/previews/2346.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "RIOT!",
+      "preview": "https://assets.ppy.sh/artists/87/previews/2347.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Savage",
+      "preview": "https://assets.ppy.sh/artists/87/previews/2348.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Wasteland",
+      "preview": "https://assets.ppy.sh/artists/87/previews/2349.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:08:00Z"
+  "updated_at": "2026-03-31T01:46:28Z"
 }

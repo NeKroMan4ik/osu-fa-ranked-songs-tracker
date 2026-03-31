@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "I'm not a HERO (2023 Remake)",
+      "preview": "https://assets.ppy.sh/artists/445/Songs/WyvernP - I%27m not a HERO (2023 Remake).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "White Devil",
+      "preview": "https://assets.ppy.sh/artists/445/Songs/WyvernP - White Devil.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -26,19 +28,22 @@
     },
     {
       "title": "Amethyst",
+      "preview": "https://assets.ppy.sh/artists/445/Songs/WyvernP - Amethyst.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Noise Pollution",
+      "preview": "https://assets.ppy.sh/artists/445/Songs/WyvernP - Noise Pollution.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "WyvernP feat. Madol - Palescreen",
+      "preview": "https://assets.ppy.sh/artists/445/Songs/WyvernP feat. Madol - Palescreen.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:58:46Z"
+  "updated_at": "2026-03-31T02:37:33Z"
 }

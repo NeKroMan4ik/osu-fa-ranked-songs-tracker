@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Over You",
+      "preview": "https://assets.ppy.sh/artists/210/Over You/iFeature - Over You.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,49 +16,58 @@
     },
     {
       "title": "Big Chungus",
+      "preview": "https://assets.ppy.sh/artists/210/Big Chungus/iFeature - Big Chungus.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Evolve the Creature",
+      "preview": "https://assets.ppy.sh/artists/210/Evolving/iFeature - Evolve the Creature.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Firestorm",
+      "preview": "https://assets.ppy.sh/artists/210/Firestorm/iFeature - Firestorm.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "iFeature & ELme! - Anytime",
+      "preview": "https://assets.ppy.sh/artists/210/Beheaded/iFeature %26 ELme! - Anytime.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "iFeature & Phastrom - Time Runs Out",
+      "preview": "https://assets.ppy.sh/artists/210/The Cycle/iFeature %26 Phastrom - Time Runs Out.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "iFeature & ReeK - Alien Invasion",
+      "preview": "https://assets.ppy.sh/artists/210/Flavour/iFeature %26 ReeK - Alien Invasion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "iFeature & ReeK - Haunted Bus",
+      "preview": "https://assets.ppy.sh/artists/210/Haunted Bus/iFeature %26 ReeK - Haunted Bus.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "iFeature & ReeK - Insider",
+      "preview": "https://assets.ppy.sh/artists/210/Flavour/iFeature %26 ReeK - Insider.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "iFeature & ST4RBUCK - Vamos",
+      "preview": "https://assets.ppy.sh/artists/210/Vamos/iFeature %26 ST4RBUCK - Vamos.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:45:39Z"
+  "updated_at": "2026-03-31T00:23:32Z"
 }

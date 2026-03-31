@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "ONIRIC",
+      "preview": "https://assets.ppy.sh/artists/165/Songs/Kitazawa Kyouhei feat. Hatsune Miku - ONIRIC.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -19,39 +20,46 @@
     },
     {
       "title": "CANNIBALISM",
+      "preview": "https://assets.ppy.sh/artists/165/Songs/Kitazawa Kyouhei feat. flower - CANNIBALISM.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "CONSUMPTION",
+      "preview": "https://assets.ppy.sh/artists/165/Songs/Kitazawa Kyouhei feat. Hatsune Miku - CONSUMPTION.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "EXOD",
+      "preview": "https://assets.ppy.sh/artists/165/Songs/Kitazawa Kyouhei feat. Hatsune Miku - EXOD.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MISANTHROPE",
+      "preview": "https://assets.ppy.sh/artists/165/Songs/Kitazawa Kyouhei feat. Hatsune Miku - MISANTHROPE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "OPHELIE",
+      "preview": "https://assets.ppy.sh/artists/165/Songs/Kitazawa Kyouhei feat. GUMI - OPHELIE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PARADISE KILLER",
+      "preview": "https://assets.ppy.sh/artists/165/Songs/Kitazawa Kyouhei feat. flower - PARADISE KILLER.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "TRUE-QUEEN",
+      "preview": "https://assets.ppy.sh/artists/165/Songs/Kitazawa Kyouhei feat. Hatsune Miku - TRUE-QUEEN.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:57:28Z"
+  "updated_at": "2026-03-31T00:35:23Z"
 }

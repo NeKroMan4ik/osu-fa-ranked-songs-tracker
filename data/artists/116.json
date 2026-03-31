@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Lime - 8bit Adventurer",
+      "preview": "https://assets.ppy.sh/artists/116/previews/2996.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Lime - 8bit Voyager",
+      "preview": "https://assets.ppy.sh/artists/116/previews/2997.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -39,6 +41,7 @@
     },
     {
       "title": "Lime - Aurora",
+      "preview": "https://assets.ppy.sh/artists/116/previews/2998.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -54,6 +57,7 @@
     },
     {
       "title": "Lime - Campanella",
+      "preview": "https://assets.ppy.sh/artists/116/Songs/Lime_-_Campanella.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -71,6 +75,7 @@
     },
     {
       "title": "Lime - Chronomia",
+      "preview": "https://assets.ppy.sh/artists/116/previews/2999.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -90,6 +95,7 @@
     },
     {
       "title": "Lime - Harmony",
+      "preview": "https://assets.ppy.sh/artists/116/previews/3000.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -101,6 +107,7 @@
     },
     {
       "title": "Lime - Pixel Planet",
+      "preview": "https://assets.ppy.sh/artists/116/Songs/Lime_-_Pixel_Planet.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -125,6 +132,7 @@
     },
     {
       "title": "Lime - Renai Syndrome",
+      "preview": "https://assets.ppy.sh/artists/116/previews/3001.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -145,6 +153,7 @@
     },
     {
       "title": "Lime - Replica",
+      "preview": "https://assets.ppy.sh/artists/116/previews/3002.mp3",
       "ranked_modes": [
         "fruits",
         "mania"
@@ -160,6 +169,7 @@
     },
     {
       "title": "Lime - Smiling",
+      "preview": "https://assets.ppy.sh/artists/116/previews/3004.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -175,6 +185,7 @@
     },
     {
       "title": "Lime - Smiling (long ver.)",
+      "preview": "https://assets.ppy.sh/artists/116/previews/3003.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -190,6 +201,7 @@
     },
     {
       "title": "Lime - Tsukuyomi",
+      "preview": "https://assets.ppy.sh/artists/116/previews/3006.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -201,19 +213,22 @@
     },
     {
       "title": "Kankitsu - Magik Motion",
+      "preview": "https://assets.ppy.sh/artists/116/previews/2994.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kankitsu feat. Salita - Boku ga Mita Sekai",
+      "preview": "https://assets.ppy.sh/artists/116/previews/2995.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lime - Stargazer",
+      "preview": "https://assets.ppy.sh/artists/116/previews/3005.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:08:34Z"
+  "updated_at": "2026-03-31T00:46:35Z"
 }

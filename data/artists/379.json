@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "AKARI BEAM CANNON LAST BOSS",
+      "preview": "https://assets.ppy.sh/artists/379/Songs/Kommisar_-_AKARI_BEAM_CANNON_LAST_BOSS.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Chipstream",
+      "preview": "https://assets.ppy.sh/artists/379/Songs/Kommisar - Chipstream.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Clover",
+      "preview": "https://assets.ppy.sh/artists/379/Songs/Kommisar_-_Clover.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -38,49 +41,58 @@
     },
     {
       "title": "Dumpstream",
+      "preview": "https://assets.ppy.sh/artists/379/Songs/Kommisar - Dumpstream.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HYPER WEABOO VODKA SHOTZ",
+      "preview": "https://assets.ppy.sh/artists/379/Songs/Kommisar - HYPER WEABOO VODKA SHOTZ.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Illusionary Dominance",
+      "preview": "https://assets.ppy.sh/artists/379/Songs/Kommisar - Illusionary Dominance.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Last Tile",
+      "preview": "https://assets.ppy.sh/artists/379/Songs/Kommisar - Last Tile.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mecha-Tribe Assault",
+      "preview": "https://assets.ppy.sh/artists/379/Songs/Kommisar - Mecha-Tribe Assault.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mint Tango",
+      "preview": "https://assets.ppy.sh/artists/379/Songs/Kommisar - Mint Tango.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rock Candy - Interstellar Retribution",
+      "preview": "https://assets.ppy.sh/artists/379/Songs/Rock Candy - Interstellar Retribution.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Springtime",
+      "preview": "https://assets.ppy.sh/artists/379/Songs/Kommisar - Springtime.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Turkey Turkey",
+      "preview": "https://assets.ppy.sh/artists/379/Songs/Kommisar - Turkey Turkey.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:01:03Z"
+  "updated_at": "2026-03-31T00:39:00Z"
 }

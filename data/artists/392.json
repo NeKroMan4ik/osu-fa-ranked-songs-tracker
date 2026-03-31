@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "AKRASIA",
+      "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_-_AKRASIA.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "ArchangeL",
+      "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_-_ArchangeL.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Lunar Gateway",
+      "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_-_Lunar_Gateway.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Partition",
+      "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_-_Partition.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "Voyage",
+      "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_-_Voyage.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -59,6 +64,7 @@
     },
     {
       "title": "Wandered",
+      "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys - Wandered.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -74,44 +80,52 @@
     },
     {
       "title": "HONOR//REPROACH",
+      "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_-_HONOR__REPROACH.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MALEVOLENT VORTEX",
+      "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_-_MALEVOLENT_VORTEX.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "osu!mania SQUID GAME Sound Team - SUBTERRANEAN DRIFT <<Sole Survivor>>",
+      "preview": "https://assets.ppy.sh/artists/392/Songs/osumania_SQUID_GAME_Sound_Team_-_SUBTERRANEAN_DRIFT___Sole_Survivor__.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Serrate",
+      "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_-_Serrate.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sydosys as \"[LS]Ham\" - Apollyon",
+      "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_as_LSHam_-_Apollyon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Termina",
+      "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_-_Termina.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "TWC Sound Team \"Xurv Stasis Rasufim\" - Kaze no Denwa",
+      "preview": "https://assets.ppy.sh/artists/392/Songs/TWC_Sound_Team_Xurv_Stasis_Rasufim_-_Kaze_no_Denwa.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "VANISH",
+      "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_-_VANISH.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:28:53Z"
+  "updated_at": "2026-03-31T02:07:25Z"
 }

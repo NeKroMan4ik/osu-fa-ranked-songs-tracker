@@ -4,21 +4,23 @@
   "tracks": [
     {
       "title": "Blackout City",
+      "preview": "https://assets.ppy.sh/artists/454/Dawn Metropolis/Anamanaguchi - Blackout City.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "osu": [
           67226
         ],
-        "osu": [
+        "taiko": [
           67226
         ]
       }
     },
     {
       "title": "Helix Nebula",
+      "preview": "https://assets.ppy.sh/artists/454/Power Supply/Anamanaguchi - Helix Nebula.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -30,6 +32,7 @@
     },
     {
       "title": "John Hughes",
+      "preview": "https://assets.ppy.sh/artists/454/Endless Fantasy/Anamanaguchi - John Hughes.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -41,6 +44,7 @@
     },
     {
       "title": "Miku",
+      "preview": "https://assets.ppy.sh/artists/454/Miku/Anamanaguchi - Miku.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -56,6 +60,7 @@
     },
     {
       "title": "My Skateboard Will Go On",
+      "preview": "https://assets.ppy.sh/artists/454/Songs/Anamanaguchi - My Skateboard Will Go On.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -67,6 +72,7 @@
     },
     {
       "title": "Pop It",
+      "preview": "https://assets.ppy.sh/artists/454/Pop It/Anamanaguchi - Pop It.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -78,6 +84,7 @@
     },
     {
       "title": "Prom Night",
+      "preview": "https://assets.ppy.sh/artists/454/Endless Fantasy/Anamanaguchi - Prom Night.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -89,21 +96,23 @@
     },
     {
       "title": "SPF 420",
+      "preview": "https://assets.ppy.sh/artists/454/Endless Fantasy/Anamanaguchi - SPF 420.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "osu": [
           109024
         ],
-        "osu": [
+        "taiko": [
           109024
         ]
       }
     },
     {
       "title": "STILL SPLODIN' THO (Interlude)",
+      "preview": "https://assets.ppy.sh/artists/454/Endless Fantasy/Anamanaguchi - STILL SPLODIN%27 THO (Interlude).mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -115,17 +124,17 @@
           104151,
           1980121
         ],
-        "taiko": [
-          104151
-        ],
         "fruits": [
           104151
         ],
         "mania": [
           104151
+        ],
+        "taiko": [
+          104151
         ]
       }
     }
   ],
-  "updated_at": "2026-03-29T19:39:44Z"
+  "updated_at": "2026-03-30T23:17:44Z"
 }

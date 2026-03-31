@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Bullshit",
+      "preview": "https://assets.ppy.sh/artists/318/Songs/Massive New Krew - Bullshit.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Ever Free (Raw Edit)",
+      "preview": "https://assets.ppy.sh/artists/318/Songs/Massive_New_Krew_-_Ever_Free_Raw_Edit.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Extreme Ongaku School feat. Nanahira",
+      "preview": "https://assets.ppy.sh/artists/318/Songs/Massive New Krew - Extreme Ongaku School feat. Nanahira.mp3",
       "ranked_modes": [
         "fruits",
         "mania"
@@ -42,6 +45,7 @@
     },
     {
       "title": "Kill 'Em All",
+      "preview": "https://assets.ppy.sh/artists/318/Songs/Massive New Krew - Kill %27Em All.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -53,6 +57,7 @@
     },
     {
       "title": "Majestic 12",
+      "preview": "https://assets.ppy.sh/artists/318/Songs/Massive New Krew - Majestic 12.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -68,24 +73,28 @@
     },
     {
       "title": "Camellia & Massive New Krew - Octo-Bug (Massive New Krew Edit)",
+      "preview": "https://assets.ppy.sh/artists/318/Songs/Camellia %26 Massive New Krew - Octo-Bug (Massive New Krew Edit).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Diamond Chronicles",
+      "preview": "https://assets.ppy.sh/artists/318/Songs/Massive New Krew - Diamond Chronicles.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Diamond Chronicles (Game Size)",
+      "preview": "https://assets.ppy.sh/artists/318/Songs/Massive New Krew - Diamond Chronicles (Game Size).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Daylight",
+      "preview": "https://assets.ppy.sh/artists/318/Songs/Massive New Krew - The Daylight.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:19:15Z"
+  "updated_at": "2026-03-31T00:57:20Z"
 }

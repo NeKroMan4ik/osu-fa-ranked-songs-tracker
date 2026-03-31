@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Explosion",
+      "preview": "https://assets.ppy.sh/artists/40/previews/944.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Ready For The Madness",
+      "preview": "https://assets.ppy.sh/artists/40/previews/948.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -31,6 +33,7 @@
     },
     {
       "title": "Take The Long Way Home",
+      "preview": "https://assets.ppy.sh/artists/40/previews/951.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -42,6 +45,7 @@
     },
     {
       "title": "Unshakable",
+      "preview": "https://assets.ppy.sh/artists/40/previews/950.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -57,29 +61,34 @@
     },
     {
       "title": "Daydream",
+      "preview": "https://assets.ppy.sh/artists/40/previews/943.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Full Control",
+      "preview": "https://assets.ppy.sh/artists/40/previews/945.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lose Control",
+      "preview": "https://assets.ppy.sh/artists/40/previews/946.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Make It Move",
+      "preview": "https://assets.ppy.sh/artists/40/previews/947.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Guardians Of The Sun",
+      "preview": "https://assets.ppy.sh/artists/40/previews/949.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:02:42Z"
+  "updated_at": "2026-03-31T01:41:08Z"
 }

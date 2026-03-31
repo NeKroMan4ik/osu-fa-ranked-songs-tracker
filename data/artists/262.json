@@ -4,59 +4,70 @@
   "tracks": [
     {
       "title": "BUCHIAGE Fireworks",
+      "preview": "https://assets.ppy.sh/artists/262/Songs/RINYA_-_BUCHIAGE_Fireworks.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Byakko ga Nozomu wa Akanezora no Kanata",
+      "preview": "https://assets.ppy.sh/artists/262/Songs/RINYA - Byakko ga Nozomu wa Akanezora no Kanata.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ChallengeR",
+      "preview": "https://assets.ppy.sh/artists/262/Songs/RINYA_-_ChallengeR.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kyokugen BON Odori",
+      "preview": "https://assets.ppy.sh/artists/262/Songs/RINYA_-_Kyokugen_BON_Odori.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mitsuki - Eeliaas",
+      "preview": "https://assets.ppy.sh/artists/262/Songs/Mitsuki - Eeliaas.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mitsuki - Square Lake",
+      "preview": "https://assets.ppy.sh/artists/262/Songs/Mitsuki - Square Lake.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mitsuki - tesseract",
+      "preview": "https://assets.ppy.sh/artists/262/Songs/Mitsuki - tesseract.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mitsuki - Vying Force",
+      "preview": "https://assets.ppy.sh/artists/262/Songs/Mitsuki - Vying Force.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moonchild Toyvox",
+      "preview": "https://assets.ppy.sh/artists/262/Songs/RINYA - Moonchild Toyvox.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Over the Dimensions",
+      "preview": "https://assets.ppy.sh/artists/262/Songs/RINYA_-_Over_the_Dimensions.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "RINYA a.k.a. Mitsuki - Gochamaze Diversity",
+      "preview": "https://assets.ppy.sh/artists/262/Songs/RINYA a.k.a. Mitsuki - Gochamaze Diversity.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:02:30Z"
+  "updated_at": "2026-03-31T01:40:55Z"
 }

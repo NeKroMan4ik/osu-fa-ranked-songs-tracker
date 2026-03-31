@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Aratanaru Ketsui",
+      "preview": "https://assets.ppy.sh/artists/268/Songs/69 de 74 - Aratanaru Ketsui.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -16,6 +17,7 @@
     },
     {
       "title": "DESPERATE DEATHPARADE",
+      "preview": "https://assets.ppy.sh/artists/268/Songs/69 de 74 - DESPERATE DEATHPARADE.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -36,6 +38,7 @@
     },
     {
       "title": "Holy Wind",
+      "preview": "https://assets.ppy.sh/artists/268/Songs/69 de 74 - Holy Wind.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -48,6 +51,7 @@
     },
     {
       "title": "Little Guardian [2019-reworked]",
+      "preview": "https://assets.ppy.sh/artists/268/Songs/69 de 74 - Little Guardian %5B2019-reworked%5D.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -59,6 +63,7 @@
     },
     {
       "title": "Overdrive Power",
+      "preview": "https://assets.ppy.sh/artists/268/Songs/69 de 74 - Overdrive Power.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -70,6 +75,7 @@
     },
     {
       "title": "RTTR",
+      "preview": "https://assets.ppy.sh/artists/268/Songs/69 de 74 - RTTR.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -81,29 +87,34 @@
     },
     {
       "title": "69 de 74 a.k.a. Sheena Ed Crow - THE RAVAGE",
+      "preview": "https://assets.ppy.sh/artists/268/Songs/69 de 74 a.k.a. Sheena Ed Crow - THE RAVAGE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "69 de 74 feat. Komiya Mao - Stand Up!! Stand Up!!",
+      "preview": "https://assets.ppy.sh/artists/268/Songs/69 de 74 feat. Komiya Mao - Stand Up!! Stand Up!!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "CHAOTIC DESTRUCTION",
+      "preview": "https://assets.ppy.sh/artists/268/Songs/69 de 74 - CHAOTIC DESTRUCTION.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Grievous Fate",
+      "preview": "https://assets.ppy.sh/artists/268/Songs/69 de 74 - Grievous Fate.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "LWVIIX",
+      "preview": "https://assets.ppy.sh/artists/268/Songs/69 de 74 - LWVIIX.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:28:04Z"
+  "updated_at": "2026-03-30T23:06:06Z"
 }

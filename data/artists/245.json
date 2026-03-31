@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "L2M (feat. Kelsey Kuan)",
+      "preview": "https://assets.ppy.sh/artists/245/C-GIRL/City Girl - L2M (feat. Kelsey Kuan).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "LOSING SLEEP (feat. Kelsey Kuan)",
+      "preview": "https://assets.ppy.sh/artists/245/C-GIRL/City Girl - LOSING SLEEP (feat. Kelsey Kuan).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,39 +28,46 @@
     },
     {
       "title": "Contour (feat. Christina Shin)",
+      "preview": "https://assets.ppy.sh/artists/245/Chroma Velocity/City Girl - Contour (feat. Christina Shin).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Endless and Artificial",
+      "preview": "https://assets.ppy.sh/artists/245/Chroma Velocity/City Girl - Endless and Artificial.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ji-eun's Sunset",
+      "preview": "https://assets.ppy.sh/artists/245/Neon Impasse/City Girl - Ji-eun%27s Sunset.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PACK IT UP BOY (feat. tiffi)",
+      "preview": "https://assets.ppy.sh/artists/245/C-GIRL/City Girl - PACK IT UP BOY (feat. tiffi).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "RESTART (feat. ry)",
+      "preview": "https://assets.ppy.sh/artists/245/C-GIRL/City Girl - RESTART (feat. ry).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "WII DATE (feat. tiffi, highvyn, siopaolo)",
+      "preview": "https://assets.ppy.sh/artists/245/WII DATE/City Girl - WII DATE (feat. tiffi%2C highvyn%2C siopaolo).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "WISHING ON YOU (feat. ry, tiffi)",
+      "preview": "https://assets.ppy.sh/artists/245/C-GIRL/City Girl - WISHING ON YOU (feat. ry%2C tiffi).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:05:09Z"
+  "updated_at": "2026-03-30T23:43:00Z"
 }

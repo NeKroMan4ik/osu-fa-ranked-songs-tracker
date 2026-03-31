@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Exile of the Floating World",
+      "preview": "https://assets.ppy.sh/artists/347/Metsutan/Whispered - Exile of the Floating World.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -23,6 +24,7 @@
     },
     {
       "title": "Hold the Sword",
+      "preview": "https://assets.ppy.sh/artists/347/Shogunate Macabre/Whispered - Hold the Sword.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -34,6 +36,7 @@
     },
     {
       "title": "Jikininki",
+      "preview": "https://assets.ppy.sh/artists/347/Shogunate Macabre/Whispered - Jikininki.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -49,6 +52,7 @@
     },
     {
       "title": "Kappa",
+      "preview": "https://assets.ppy.sh/artists/347/Shogunate Macabre/Whispered - Kappa.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -60,21 +64,23 @@
     },
     {
       "title": "Kensei",
+      "preview": "https://assets.ppy.sh/artists/347/Metsutan/Whispered - Kensei.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "osu": [
           1079398
         ],
-        "osu": [
+        "taiko": [
           1079398
         ]
       }
     },
     {
       "title": "Strike!",
+      "preview": "https://assets.ppy.sh/artists/347/Metsutan/Whispered - Strike!.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -86,6 +92,7 @@
     },
     {
       "title": "Tsukiakari",
+      "preview": "https://assets.ppy.sh/artists/347/Metsutan/Whispered - Tsukiakari.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -97,6 +104,7 @@
     },
     {
       "title": "Upon My Honor",
+      "preview": "https://assets.ppy.sh/artists/347/Shogunate Macabre/Whispered - Upon My Honor.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -112,39 +120,46 @@
     },
     {
       "title": "Bloodred Shores Of Enoshima",
+      "preview": "https://assets.ppy.sh/artists/347/Metsutan/Whispered - Bloodred Shores Of Enoshima.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fallen Amaterasu",
+      "preview": "https://assets.ppy.sh/artists/347/Shogunate Macabre/Whispered - Fallen Amaterasu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lady of the Wind",
+      "preview": "https://assets.ppy.sh/artists/347/Shogunate Macabre/Whispered - Lady of the Wind.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sakura Omen",
+      "preview": "https://assets.ppy.sh/artists/347/Metsutan/Whispered - Sakura Omen.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thousand Swords",
+      "preview": "https://assets.ppy.sh/artists/347/Thousand Swords/Whispered - Thousand Swords.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Unrestrained",
+      "preview": "https://assets.ppy.sh/artists/347/Shogunate Macabre/Whispered - Unrestrained.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Victory Grounds Nothing",
+      "preview": "https://assets.ppy.sh/artists/347/Metsutan/Whispered - Victory Grounds Nothing.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:57:14Z"
+  "updated_at": "2026-03-31T02:35:59Z"
 }

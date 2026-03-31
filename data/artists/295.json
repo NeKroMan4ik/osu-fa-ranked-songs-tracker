@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "DJ Genki - GAME 0VER",
+      "preview": "https://assets.ppy.sh/artists/295/ULTRA HAPPY COLLECTION!!!/DJ Genki - GAME 0VER.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "DJ Genki - Introduction",
+      "preview": "https://assets.ppy.sh/artists/295/ULTIMATE HAPPY CARNIVAL/DJ Genki - Introduction.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -42,6 +44,7 @@
     },
     {
       "title": "DJ Genki - Opening",
+      "preview": "https://assets.ppy.sh/artists/295/Songs/DJ Genki - Opening.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -57,6 +60,7 @@
     },
     {
       "title": "Gram - ARCADIA",
+      "preview": "https://assets.ppy.sh/artists/295/The Requiem/Gram - ARCADIA.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -68,6 +72,7 @@
     },
     {
       "title": "Gram - Nibelungen",
+      "preview": "https://assets.ppy.sh/artists/295/The Requiem/Gram - Nibelungen.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -85,6 +90,7 @@
     },
     {
       "title": "Gram - Odin",
+      "preview": "https://assets.ppy.sh/artists/295/Odin/Gram - Odin.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -104,6 +110,7 @@
     },
     {
       "title": "Gram - Sigrdrifa",
+      "preview": "https://assets.ppy.sh/artists/295/Songs/Gram_-_Sigrdrifa.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -120,6 +127,7 @@
     },
     {
       "title": "Gram - THE END",
+      "preview": "https://assets.ppy.sh/artists/295/Odin/Gram - THE END.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -131,6 +139,7 @@
     },
     {
       "title": "Gram - Thor",
+      "preview": "https://assets.ppy.sh/artists/295/Odin/Gram - Thor.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -142,154 +151,184 @@
     },
     {
       "title": "C-Show vs. DJ Genki - BLACK LABEL",
+      "preview": "https://assets.ppy.sh/artists/295/FUSION AXELL/C-Show vs. DJ Genki - BLACK LABEL.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Camellia vs. DJ Genki - Traveller feat. moimoi",
+      "preview": "https://assets.ppy.sh/artists/295/ULTIMATE HAPPY CARNIVAL/Camellia vs. DJ Genki - Traveller feat. moimoi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DJ Genki - Avalon System",
+      "preview": "https://assets.ppy.sh/artists/295/Songs/DJ Genki - Avalon System.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DJ Genki - Emilio Rizzini",
+      "preview": "https://assets.ppy.sh/artists/295/Songs/DJ Genki - Emilio Rizzini.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DJ Genki - Faced",
+      "preview": "https://assets.ppy.sh/artists/295/Songs/DJ Genki - Faced.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DJ Genki - First Remote",
+      "preview": "https://assets.ppy.sh/artists/295/Songs/DJ Genki - First Remote.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DJ Genki - Over Sky feat. moimoi & yukacco",
+      "preview": "https://assets.ppy.sh/artists/295/Songs/DJ Genki - Over Sky feat. moimoi %26 yukacco.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DJ Genki - Planet feat. yukacco",
+      "preview": "https://assets.ppy.sh/artists/295/Songs/DJ Genki - Planet feat. yukacco.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DJ Genki - RAVE BUSTERS",
+      "preview": "https://assets.ppy.sh/artists/295/Songs/DJ Genki - RAVE BUSTERS.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DJ Genki - TIERRA",
+      "preview": "https://assets.ppy.sh/artists/295/Songs/DJ Genki - TIERRA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DJ Genki - USAO (SUPER ULTIMATE ULTRA MIRACLE MARVELOUS HYPER Club Mix)",
+      "preview": "https://assets.ppy.sh/artists/295/FUSION AXELL/DJ Genki - USAO (SUPER ULTIMATE ULTRA MIRACLE MARVELOUS HYPER Club Mix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DJ Genki - World of Distortion feat. yukacco",
+      "preview": "https://assets.ppy.sh/artists/295/Songs/DJ Genki - World of Distortion feat. yukacco.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DJ Genki feat. Aitsuki Nakuru - 1,2,3 no LOVE Sign",
+      "preview": "https://assets.ppy.sh/artists/295/ULTRA HAPPY COLLECTION!!!/DJ Genki feat. Aitsuki Nakuru - 1%2C2%2C3 no LOVE Sign.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DJ Genki feat. NU-KO - My New World",
+      "preview": "https://assets.ppy.sh/artists/295/Songs/DJ Genki feat. NU-KO - My New World.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DJ Genki feat. yukacco - Alphard no Hana",
+      "preview": "https://assets.ppy.sh/artists/295/Songs/DJ Genki feat. yukacco - Alphard no Hana.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DJ Genki feat. yukacco - Candy Star",
+      "preview": "https://assets.ppy.sh/artists/295/Songs/DJ Genki feat. yukacco - Candy Star.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DJ Genki feat. yukacco - HAPPY HAPPY REVOLUTION!!!!!",
+      "preview": "https://assets.ppy.sh/artists/295/ULTRA HAPPY COLLECTION!!!/DJ Genki feat. yukacco - HAPPY HAPPY REVOLUTION!!!!!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DJ Genki vs. Camellia feat. moimoi - Sunshine",
+      "preview": "https://assets.ppy.sh/artists/295/ULTRA HAPPY COLLECTION!!!/DJ Genki vs. Camellia feat. moimoi - Sunshine.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DJ Genki vs. Camellia feat. moimoi - YELL!",
+      "preview": "https://assets.ppy.sh/artists/295/Songs/DJ Genki vs. Camellia feat. moimoi - YELL!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DJ Genki vs. Hige Driver feat. NU-KO - Hardcore de Ikou!",
+      "preview": "https://assets.ppy.sh/artists/295/ULTRA HAPPY COLLECTION!!!/DJ Genki vs. Hige Driver feat. NU-KO - Hardcore de Ikou!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DJ Genki vs. Itakura Takanori feat. Nanahira - FLY!",
+      "preview": "https://assets.ppy.sh/artists/295/Songs/DJ Genki vs. Itakura Takanori feat. Nanahira - FLY!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DJ Genki vs. lapix - Future Maker",
+      "preview": "https://assets.ppy.sh/artists/295/Songs/DJ Genki vs. lapix - Future Maker.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gram - Introduction",
+      "preview": "https://assets.ppy.sh/artists/295/Odin/Gram - Introduction.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gram - The GamerS",
+      "preview": "https://assets.ppy.sh/artists/295/Odin/Gram - The GamerS.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gram feat. Valkyria - \"X\"calibur",
+      "preview": "https://assets.ppy.sh/artists/295/Odin/Gram feat. Valkyria - Xcalibur.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gram vs. Camellia - Ragnarok",
+      "preview": "https://assets.ppy.sh/artists/295/The Requiem/Gram vs. Camellia - Ragnarok.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gram vs. DJ Genki - XIchedelic Nova Trinity",
+      "preview": "https://assets.ppy.sh/artists/295/Songs/Gram_vs._DJ_Genki_-_XIchedelic_Nova_Trinity.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gram vs. HiTECH NINJA - Sa MaRichi",
+      "preview": "https://assets.ppy.sh/artists/295/The Requiem/Gram vs. HiTECH NINJA - Sa MaRichi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gram vs. Yooh - Apocalypse",
+      "preview": "https://assets.ppy.sh/artists/295/Odin/Gram vs. Yooh - Apocalypse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kobaryo vs. DJ Genki - Catapult Marshmallow",
+      "preview": "https://assets.ppy.sh/artists/295/FUSION AXELL/Kobaryo vs. DJ Genki - Catapult Marshmallow.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:17:39Z"
+  "updated_at": "2026-03-30T23:55:26Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Questlords of Inverness, Ride to the Galactic Fortress!",
+      "preview": "https://assets.ppy.sh/artists/311/Space 1992 - Rise of the Chaos Wizards/GLORYHAMMER - Questlords of Inverness%2C Ride to the Galactic Fortress!.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Rise Of The Chaos Wizards",
+      "preview": "https://assets.ppy.sh/artists/311/Space 1992 - Rise of the Chaos Wizards/GLORYHAMMER - Rise Of The Chaos Wizards.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -30,6 +32,7 @@
     },
     {
       "title": "The Epic Rage of Furious Thunder",
+      "preview": "https://assets.ppy.sh/artists/311/Tales from the Kingdom of Fife/GLORYHAMMER - The Epic Rage of Furious Thunder.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -41,6 +44,7 @@
     },
     {
       "title": "The Unicorn Invasion of Dundee",
+      "preview": "https://assets.ppy.sh/artists/311/Tales from the Kingdom of Fife/GLORYHAMMER - The Unicorn Invasion of Dundee.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -52,64 +56,76 @@
     },
     {
       "title": "Amulet of Justice",
+      "preview": "https://assets.ppy.sh/artists/311/Tales from the Kingdom of Fife/GLORYHAMMER - Amulet of Justice.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Angus McFife",
+      "preview": "https://assets.ppy.sh/artists/311/Tales from the Kingdom of Fife/GLORYHAMMER - Angus McFife.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Apocalypse 1992",
+      "preview": "https://assets.ppy.sh/artists/311/Space 1992 - Rise of the Chaos Wizards/GLORYHAMMER - Apocalypse 1992.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Battle for Eternity",
+      "preview": "https://assets.ppy.sh/artists/311/Legends from Beyond the Galactic Terrorvortex/GLORYHAMMER - Battle for Eternity.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Goblin King of the Darkstorm Galaxy",
+      "preview": "https://assets.ppy.sh/artists/311/Space 1992 - Rise of the Chaos Wizards/GLORYHAMMER - Goblin King of the Darkstorm Galaxy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hootsforce",
+      "preview": "https://assets.ppy.sh/artists/311/Legends from Beyond the Galactic Terrorvortex/GLORYHAMMER - Hootsforce.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Infernus Ad Astra",
+      "preview": "https://assets.ppy.sh/artists/311/Space 1992 - Rise of the Chaos Wizards/GLORYHAMMER - Infernus Ad Astra.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Masters of The Galaxy",
+      "preview": "https://assets.ppy.sh/artists/311/Legends from Beyond the Galactic Terrorvortex/GLORYHAMMER - Masters of The Galaxy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Fires of Ancient Cosmic Destiny",
+      "preview": "https://assets.ppy.sh/artists/311/Legends from Beyond the Galactic Terrorvortex/GLORYHAMMER - The Fires of Ancient Cosmic Destiny.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Land of Unicorns",
+      "preview": "https://assets.ppy.sh/artists/311/Legends from Beyond the Galactic Terrorvortex/GLORYHAMMER - The Land of Unicorns.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Siege of Dunkeld (In Hoots We Trust)",
+      "preview": "https://assets.ppy.sh/artists/311/Legends from Beyond the Galactic Terrorvortex/GLORYHAMMER - The Siege of Dunkeld (In Hoots We Trust).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Universe On Fire",
+      "preview": "https://assets.ppy.sh/artists/311/Space 1992 - Rise of the Chaos Wizards/GLORYHAMMER - Universe On Fire.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:34:09Z"
+  "updated_at": "2026-03-31T00:12:03Z"
 }

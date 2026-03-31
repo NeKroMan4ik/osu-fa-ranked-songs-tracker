@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Become One Again (feat. Hatsune Miku)",
+      "preview": "https://assets.ppy.sh/artists/475/Songs/Xeven_-_Become_One_Again_feat._Hatsune_Miku.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Deglaciation",
+      "preview": "https://assets.ppy.sh/artists/475/Songs/Xeven - Deglaciation.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -30,44 +32,52 @@
     },
     {
       "title": "DYING WORLD",
+      "preview": "https://assets.ppy.sh/artists/475/Songs/Xeven - DYING WORLD.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fallen.ANGEL",
+      "preview": "https://assets.ppy.sh/artists/475/Songs/Xeven - Fallen.ANGEL.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HD 211112 (Lightspeed travel through the dyson sphere world.)",
+      "preview": "https://assets.ppy.sh/artists/475/Songs/Xeven - HD 211112 (Lightspeed travel through the dyson sphere world.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MMXVI",
+      "preview": "https://assets.ppy.sh/artists/475/Songs/Xeven - MMXVI.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Per Aspera",
+      "preview": "https://assets.ppy.sh/artists/475/Songs/Xeven - Per Aspera.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Xellum Xentennial",
+      "preview": "https://assets.ppy.sh/artists/475/Songs/Xeven - Xellum Xentennial.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Xeveir and Xeron vs. Odin - OVER:Acceleration",
+      "preview": "https://assets.ppy.sh/artists/475/Songs/Xeveir and Xeron vs. Odin - OVERAcceleration.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Xeven as \"OdiN\" - RAGN/a/ROk",
+      "preview": "https://assets.ppy.sh/artists/475/Songs/Xeven as OdiN - RAGNaROk.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T23:00:23Z"
+  "updated_at": "2026-03-31T02:39:10Z"
 }

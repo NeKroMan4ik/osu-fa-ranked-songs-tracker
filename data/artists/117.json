@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Coconut Love",
+      "preview": "https://assets.ppy.sh/artists/117/Trigger/I_love_you_Orchestra_-_Coconut_Love.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Japanese Mosh",
+      "preview": "https://assets.ppy.sh/artists/117/Trigger/I_love_you_Orchestra_-_Japanese_Mosh.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -26,39 +28,46 @@
     },
     {
       "title": "Eat The Bitch",
+      "preview": "https://assets.ppy.sh/artists/117/Trigger/I_love_you_Orchestra_-_Eat_The_Bitch.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Leo",
+      "preview": "https://assets.ppy.sh/artists/117/Trigger/I_love_you_Orchestra_-_Leo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MRMS",
+      "preview": "https://assets.ppy.sh/artists/117/Trigger/I_love_you_Orchestra_-_MRMS.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Red Ocean",
+      "preview": "https://assets.ppy.sh/artists/117/Trigger/I_love_you_Orchestra_-_Red_Ocean.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Smiling Sky",
+      "preview": "https://assets.ppy.sh/artists/117/Trigger/I_love_you_Orchestra_-_Smiling_Sky.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Squall",
+      "preview": "https://assets.ppy.sh/artists/117/Trigger/I_love_you_Orchestra_-_Squall.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tension -Trigger ver.-",
+      "preview": "https://assets.ppy.sh/artists/117/Trigger/I_love_you_Orchestra_-_Tension_-Trigger_ver.-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:44:23Z"
+  "updated_at": "2026-03-31T00:22:16Z"
 }

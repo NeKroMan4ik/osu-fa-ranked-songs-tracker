@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Escapism",
+      "preview": "https://assets.ppy.sh/artists/492/Songs/GRYSCL - Escapism.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Wwhatevver",
+      "preview": "https://assets.ppy.sh/artists/492/Trollian Archives/GRYSCL - Wwhatevver.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -26,19 +28,22 @@
     },
     {
       "title": "And So You Felt",
+      "preview": "https://assets.ppy.sh/artists/492/And So You Felt/GRYSCL - And So You Felt.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Collapse -apres la ruine-",
+      "preview": "https://assets.ppy.sh/artists/492/Songs/GRYSCL - Collapse -apres la ruine-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "RADIUM",
+      "preview": "https://assets.ppy.sh/artists/492/Songs/GRYSCL - RADIUM.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:35:40Z"
+  "updated_at": "2026-03-31T00:13:34Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Autonomous",
+      "preview": "https://assets.ppy.sh/artists/46/Songs/Billain - Autonomous.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Boogie",
+      "preview": "https://assets.ppy.sh/artists/46/Songs/Billain - Boogie.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -34,6 +36,7 @@
     },
     {
       "title": "Specialist",
+      "preview": "https://assets.ppy.sh/artists/46/Songs/Billain - Specialist.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -49,104 +52,124 @@
     },
     {
       "title": "Billain & Kodin - Feed For Speed",
+      "preview": "https://assets.ppy.sh/artists/46/Songs/Billain %26 Kodin - Feed For Speed.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Billain & Kursa - NEWGROOVEORDER",
+      "preview": "https://assets.ppy.sh/artists/46/Lands Unbreached/Billain %26 Kursa - NEWGROOVEORDER.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Billain & Malux - Extraction",
+      "preview": "https://assets.ppy.sh/artists/46/Songs/Billain %26 Malux - Extraction.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Billain & NickBee - Extrasensory",
+      "preview": "https://assets.ppy.sh/artists/46/Songs/Billain %26 NickBee - Extrasensory.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Billain & Vegas - Shinde",
+      "preview": "https://assets.ppy.sh/artists/46/Songs/Billain %26 Vegas - Shinde.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Billain & Vorso - Transhumanist",
+      "preview": "https://assets.ppy.sh/artists/46/Nomad%27s Revenge/Billain__Vorso_-_Transhumanist.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Bilocation",
+      "preview": "https://assets.ppy.sh/artists/46/Nomad%27s Revenge/Billain - Bilocation.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blockfield",
+      "preview": "https://assets.ppy.sh/artists/46/Songs/Billain - Blockfield.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Breach (feat. Tasha Baxter)",
+      "preview": "https://assets.ppy.sh/artists/46/Lands Unbreached/Billain - Breach (feat. Tasha Baxter).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Colonize",
+      "preview": "https://assets.ppy.sh/artists/46/Songs/Billain - Colonize.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mekanize You",
+      "preview": "https://assets.ppy.sh/artists/46/Lands Unbreached/Billain - Mekanize You.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Metal Jaws",
+      "preview": "https://assets.ppy.sh/artists/46/Songs/Billain - Metal Jaws.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nomad's Revenge",
+      "preview": "https://assets.ppy.sh/artists/46/Nomad%27s Revenge/Billain - Nomad%27s Revenge.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sukapunch",
+      "preview": "https://assets.ppy.sh/artists/46/Lands Unbreached/Billain - Sukapunch.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Supertensor",
+      "preview": "https://assets.ppy.sh/artists/46/Songs/Billain - Supertensor.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Terminal",
+      "preview": "https://assets.ppy.sh/artists/46/Songs/Billain - Terminal.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tesselator",
+      "preview": "https://assets.ppy.sh/artists/46/Nomad%27s Revenge/Billain - Tesselator.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Third World Murder (feat. Orifice Vulgatron)",
+      "preview": "https://assets.ppy.sh/artists/46/Nomad%27s Revenge/Billain - Third World Murder (feat. Orifice Vulgatron).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Victory",
+      "preview": "https://assets.ppy.sh/artists/46/Songs/Billain - Victory.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Y3K",
+      "preview": "https://assets.ppy.sh/artists/46/Lands Unbreached/Billain - Y3K.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:49:57Z"
+  "updated_at": "2026-03-30T23:27:57Z"
 }

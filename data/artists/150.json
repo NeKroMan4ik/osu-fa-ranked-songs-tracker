@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Babylon",
+      "preview": "https://assets.ppy.sh/artists/150/BlackmaniYa/BlackY - Babylon.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Black Rose",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Black Rose.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -30,6 +32,7 @@
     },
     {
       "title": "Double Pendulum",
+      "preview": "https://assets.ppy.sh/artists/150/Hyperspark/BlackY - Double Pendulum.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -43,6 +46,7 @@
     },
     {
       "title": "Fontana",
+      "preview": "https://assets.ppy.sh/artists/150/GABRiELLA/BlackY - Fontana.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -54,6 +58,7 @@
     },
     {
       "title": "Nobodyknows Eden",
+      "preview": "https://assets.ppy.sh/artists/150/AsterhYthm 2 -Another Lights-/BlackY - Nobodyknows Eden.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -65,6 +70,7 @@
     },
     {
       "title": "PANAGIA",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY_-_PANAGIA.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -76,6 +82,7 @@
     },
     {
       "title": "Sakura Ranman Cleopatra",
+      "preview": "https://assets.ppy.sh/artists/150/BlackmaniYa II -Love Games-/BlackY - Sakura Ranman Cleopatra.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -87,6 +94,7 @@
     },
     {
       "title": "Santa (Extended Mix '18)",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Santa (Extended Mix %2718).mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -98,6 +106,7 @@
     },
     {
       "title": "Sthenno",
+      "preview": "https://assets.ppy.sh/artists/150/GABRiELLA/BlackY - Sthenno.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -113,6 +122,7 @@
     },
     {
       "title": "ULT!MATE END",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - ULT!MATE END.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -124,494 +134,592 @@
     },
     {
       "title": "#nanairo_ginga",
+      "preview": "https://assets.ppy.sh/artists/150/Hyperspark/BlackY - %23nanairo_ginga.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Afterworld",
+      "preview": "https://assets.ppy.sh/artists/150/NextgalaxY/BlackY - Afterworld.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Alpharise",
+      "preview": "https://assets.ppy.sh/artists/150/Feel 7he Emotion/BlackY - Alpharise.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "AlterLuna",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - AlterLuna.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Another Lights",
+      "preview": "https://assets.ppy.sh/artists/150/AsterhYthm 2 -Another Lights-/BlackY - Another Lights.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aqua Fairy",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Aqua Fairy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Asterism Stream",
+      "preview": "https://assets.ppy.sh/artists/150/Maxxxburning!!!!/BlackY - Asterism Stream.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY feat. Risa Yuzuki - Blue Night Trip",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY feat. Risa Yuzuki - Blue Night Trip.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY feat. Risa Yuzuki - Celestial Sight",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY feat. Risa Yuzuki - Celestial Sight.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY feat. Risa Yuzuki - Crimsonate",
+      "preview": "https://assets.ppy.sh/artists/150/P.D.M.%5B%CE%B1%5D/BlackY feat. Risa Yuzuki - Crimsonate.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY feat. Risa Yuzuki - For Ulysses",
+      "preview": "https://assets.ppy.sh/artists/150/Feel 7he Emotion/BlackY feat. Risa Yuzuki - For Ulysses.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY feat. Risa Yuzuki - Furin Kagerou",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY feat. Risa Yuzuki - Furin Kagerou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY feat. Risa Yuzuki - Gyakkoushite Touhikou",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY feat. Risa Yuzuki - Gyakkoushite Touhikou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY feat. Risa Yuzuki - melty light",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY feat. Risa Yuzuki - melty light.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY feat. Risa Yuzuki - Realidea",
+      "preview": "https://assets.ppy.sh/artists/150/GABRiELLA/BlackY feat. Risa Yuzuki - Realidea.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY feat. Risa Yuzuki - Saku wa Chiisana Yume no Hana",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY feat. Risa Yuzuki - Saku wa Chiisana Yume no Hana.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY feat. Risa Yuzuki - Stellalude",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY feat. Risa Yuzuki - Stellalude.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY feat. Risa Yuzuki - TEL TEL pause (album ver.)",
+      "preview": "https://assets.ppy.sh/artists/150/NextgalaxY/BlackY feat. Risa Yuzuki - TEL TEL pause (album ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY feat. Risa Yuzuki - Your Wings (vs. Yooh)",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY feat. Risa Yuzuki - Your Wings (vs. Yooh).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY vs. cosMo@BousouP - Improvisation Colosseum",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY vs. cosMo%40BousouP - Improvisation Colosseum.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY vs. siromaru - Hauynite",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY vs. siromaru - Hauynite.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY vs. Yooh - DRAGON",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY vs. Yooh - DRAGON.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY vs. Yooh - Endless Summer",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY vs. Yooh - Endless Summer.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY vs. Yooh - Flyburst Boyz",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY vs. Yooh - Flyburst Boyz.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY vs. Yooh - Happy Voice",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY vs. Yooh - Happy Voice.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY vs. Yooh - Love System",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY vs. Yooh - Love System (1).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY vs. Yooh - V.U.R.S.T.",
+      "preview": "https://assets.ppy.sh/artists/150/V.U.R.S.T/BlackY vs. Yooh - V.U.R.S.T..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackY vs. Yooh - Warriorz",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY vs. Yooh - Warriorz.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackYooh vs. siromaru - KERBEROX",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackYooh vs. siromaru - KERBEROX-1.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BlackYooh vs. siromaru - ORTHROX",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackYooh vs. siromaru - ORTHROX.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BLASTBURN",
+      "preview": "https://assets.ppy.sh/artists/150/V.U.R.S.T/BlackY - BLASTBURN.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Brightness",
+      "preview": "https://assets.ppy.sh/artists/150/AsterhYthm 2 -Another Lights-/BlackY - Brightness.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Brionac",
+      "preview": "https://assets.ppy.sh/artists/150/AsterhYthm/BlackY - Brionac.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BROKEN SIGNAL",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - BROKEN SIGNAL.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Campanula",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Campanula.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "COSMOS (extended)",
+      "preview": "https://assets.ppy.sh/artists/150/AsterhYthm/BlackY - COSMOS (extended).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Crazy Criffhanger",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Crazy Criffhanger.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Creutz=Wilknare",
+      "preview": "https://assets.ppy.sh/artists/150/Maxxxburning!!!!/BlackY - Creutz%3DWilknare.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Critical Switch",
+      "preview": "https://assets.ppy.sh/artists/150/BlackmaniYa II -Love Games-/BlackY - Critical Switch.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Crystal Ribbon",
+      "preview": "https://assets.ppy.sh/artists/150/Everfloat EP/BlackY - Crystal Ribbon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Decisive Factor",
+      "preview": "https://assets.ppy.sh/artists/150/AsterhYthm/BlackY - Decisive Factor.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Depravity CLIMAXXX",
+      "preview": "https://assets.ppy.sh/artists/150/Blazeful Cracky/BlackY - Depravity CLIMAXXX.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Diceros Bicornis (xi+BlackY) - Heat Haze",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/Diceros Bicornis (xi%2BBlackY) - Heat Haze.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Diceros Bicornis (xi+BlackY) - Hyper Vivacity",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/Diceros Bicornis (xi%2BBlackY) - Hyper Vivacity.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Diceros Bicornis (xi+BlackY) - Siva",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/Diceros Bicornis (xi%2BBlackY) - Siva.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Discovered Attack (Long Ver.)",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Discovered Attack (Long Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Downburst",
+      "preview": "https://assets.ppy.sh/artists/150/P.D.M.%5B%CE%B1%5D/BlackY - Downburst.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Earth Pulsation (2017 Version)",
+      "preview": "https://assets.ppy.sh/artists/150/Blackmaniya Ver1.1 - Reminiscence -/BlackY - Earth Pulsation (2017 Version).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Empty Skydiving",
+      "preview": "https://assets.ppy.sh/artists/150/Maxxxburning!!!!/BlackY - Empty Skydiving.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Euryale",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Euryale.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Evolverlast",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Evolverlast.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fallin' 2 Me",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Fallin%27 2 Me.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Faraway Sky",
+      "preview": "https://assets.ppy.sh/artists/150/Energy Of The Star/BlackY - Faraway Sky.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Feel 7he Emotion",
+      "preview": "https://assets.ppy.sh/artists/150/Feel 7he Emotion/BlackY - Feel 7he Emotion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Flaming Eternity",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Flaming Eternity.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "FnospiraL",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - FnospiraL.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Forever Hearts (BlackY Remix)",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Forever Hearts (BlackY Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "GABRiELLA",
+      "preview": "https://assets.ppy.sh/artists/150/GABRiELLA/BlackY - GABRiELLA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gemini (2017 Version)",
+      "preview": "https://assets.ppy.sh/artists/150/Blackmaniya Ver1.1 - Reminiscence -/BlackY - Gemini (2017 Version).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "GENOC!DER",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - GENOC!DER.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Glitterized Travel",
+      "preview": "https://assets.ppy.sh/artists/150/AsterhYthm 3 -Infinite Meteor-/BlackY - Glitterized Travel.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Heartering",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Heartering.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HELENA",
+      "preview": "https://assets.ppy.sh/artists/150/GABRiELLA/BlackY - HELENA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Howling Moon",
+      "preview": "https://assets.ppy.sh/artists/150/AsterhYthm 3 -Infinite Meteor-/BlackY - Howling Moon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hyperspark (2k19 Update)",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Hyperspark (2k19 Update).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Infinite Meteor",
+      "preview": "https://assets.ppy.sh/artists/150/AsterhYthm 3 -Infinite Meteor-/BlackY - Infinite Meteor.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "INNOVATiONARY X-PLOSiON",
+      "preview": "https://assets.ppy.sh/artists/150/Blazeful Cracky/BlackY - INNOVATiONARY X-PLOSiON.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Irohazaka",
+      "preview": "https://assets.ppy.sh/artists/150/NextgalaxY/BlackY - Irohazaka.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Jumping Spider",
+      "preview": "https://assets.ppy.sh/artists/150/Energy Of The Sun/BlackY - Jumping Spider.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kaguya",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Kaguya.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "KITTY FOILED",
+      "preview": "https://assets.ppy.sh/artists/150/AsterhYthm 3 -Infinite Meteor-/BlackY - KITTY FOILED.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kouyou Vortex (Re:playback)",
+      "preview": "https://assets.ppy.sh/artists/150/AsterhYthm 3 -Infinite Meteor-/BlackY - Kouyou Vortex (Replayback).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lambda",
+      "preview": "https://assets.ppy.sh/artists/150/GABRiELLA/BlackY - Lambda.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "LINARIA",
+      "preview": "https://assets.ppy.sh/artists/150/GABRiELLA/BlackY - LINARIA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Littlebird Angel (2019 Replay)",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Littlebird Angel (2019 Replay).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Love Game (2015 Replay)",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Love Game (2015 Replay).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "LUV4+3VER.",
+      "preview": "https://assets.ppy.sh/artists/150/Blazeful Cracky/BlackY - LUV4%2B3VER..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "many happy presents",
+      "preview": "https://assets.ppy.sh/artists/150/Energy Of The Sun/BlackY - many happy presents.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Marion",
+      "preview": "https://assets.ppy.sh/artists/150/GABRiELLA/BlackY - Marion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mebius",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Mebius.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Meligh'",
+      "preview": "https://assets.ppy.sh/artists/150/AsterhYthm/BlackY - Meligh%27.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "METAL WING",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - METAL WING.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "NeoCRISIS",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - NeoCRISIS.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Never Say Never",
+      "preview": "https://assets.ppy.sh/artists/150/Maxxxburning!!!!/BlackY - Never Say Never.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "NextgalaxY feat. Kuroa*",
+      "preview": "https://assets.ppy.sh/artists/150/NextgalaxY/BlackY - NextgalaxY feat. Kuroa.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "nora2r vs. BlackY - Best Smile",
+      "preview": "https://assets.ppy.sh/artists/150/Energy Of The Sun/nora2r vs. BlackY - Best Smile.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "nora2r vs. BlackY - Energy Of The Sun",
+      "preview": "https://assets.ppy.sh/artists/150/Energy Of The Sun/nora2r vs. BlackY - Energy Of The Sun.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "REMiNiSCENCE",
+      "preview": "https://assets.ppy.sh/artists/150/Blackmaniya Ver1.1 - Reminiscence -/BlackY - REMiNiSCENCE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "sentimental aventure",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - sentimental aventure.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shiny Shooter feat. NU-KO",
+      "preview": "https://assets.ppy.sh/artists/150/BlackmaniYa II -Love Games-/BlackY - Shiny Shooter feat. NU-KO.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SidewindeR",
+      "preview": "https://assets.ppy.sh/artists/150/Blazeful Cracky/BlackY - SidewindeR.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Strange Castaways (2016 Update)",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Strange Castaways (2016 Update).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Swing Edge",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Swing Edge.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "TEMPURA DANCE",
+      "preview": "https://assets.ppy.sh/artists/150/Blazeful Cracky/BlackY - TEMPURA DANCE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ultranova (2016 Update)",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY - Ultranova (2016 Update).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Victoria",
+      "preview": "https://assets.ppy.sh/artists/150/GABRiELLA/BlackY - Victoria.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "WAiKURO - ETERNAL CHAOS",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/WAiKURO - ETERNAL CHAOS.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yooh Remixed by BlackY - salvation -from:BLACK-",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/Yooh Remixed by BlackY - salvation -fromBLACK-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:53:10Z"
+  "updated_at": "2026-03-30T23:31:08Z"
 }

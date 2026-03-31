@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Meltdown",
+      "preview": "https://assets.ppy.sh/artists/399/Songs/iroha(sasaki) - Meltdown.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -16,6 +17,7 @@
     },
     {
       "title": "Shirley!!",
+      "preview": "https://assets.ppy.sh/artists/399/Songs/iroha(sasaki) - Shirley!!.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -27,49 +29,58 @@
     },
     {
       "title": "14",
+      "preview": "https://assets.ppy.sh/artists/399/Songs/iroha(sasaki) - 14.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Devolution",
+      "preview": "https://assets.ppy.sh/artists/399/Songs/iroha(sasaki) - Devolution.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "E.U.L",
+      "preview": "https://assets.ppy.sh/artists/399/Songs/iroha(sasaki) - E.U.L.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Greet",
+      "preview": "https://assets.ppy.sh/artists/399/Songs/iroha(sasaki) - Greet.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hana Yurikago",
+      "preview": "https://assets.ppy.sh/artists/399/Songs/iroha(sasaki) - Hana Yurikago.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "moon (re-Illuminate ver)",
+      "preview": "https://assets.ppy.sh/artists/399/Songs/iroha(sasaki) - moon (re-Illuminate ver).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ringo",
+      "preview": "https://assets.ppy.sh/artists/399/Songs/iroha(sasaki) - Ringo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "sigh",
+      "preview": "https://assets.ppy.sh/artists/399/Songs/iroha(sasaki) - sigh.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Cuckoo Bird's Beautiful Youth",
+      "preview": "https://assets.ppy.sh/artists/399/Songs/iroha(sasaki) - The Cuckoo Bird_s Beautiful Youth.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:49:31Z"
+  "updated_at": "2026-03-31T00:27:22Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "A Voice In The Dark",
+      "preview": "https://assets.ppy.sh/artists/284/At the Edge of Time/Blind Guardian - A Voice In The Dark.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -20,6 +21,7 @@
     },
     {
       "title": "Battlefield",
+      "preview": "https://assets.ppy.sh/artists/284/A Night at the Opera/Blind Guardian - Battlefield.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -31,6 +33,7 @@
     },
     {
       "title": "Mirror Mirror",
+      "preview": "https://assets.ppy.sh/artists/284/Nightfall in Middle-Earth/Blind Guardian - Mirror Mirror.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -42,6 +45,7 @@
     },
     {
       "title": "Nightfall",
+      "preview": "https://assets.ppy.sh/artists/284/Nightfall in Middle-Earth/Blind Guardian - Nightfall.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -53,39 +57,46 @@
     },
     {
       "title": "Curse My Name",
+      "preview": "https://assets.ppy.sh/artists/284/At the Edge of Time/Blind Guardian - Curse My Name.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "I'm Alive",
+      "preview": "https://assets.ppy.sh/artists/284/Imaginations From the Other Side/Blind Guardian - I%27m Alive.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sacred Worlds",
+      "preview": "https://assets.ppy.sh/artists/284/At the Edge of Time/Blind Guardian - Sacred Worlds.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Bard's Song (In The Forest)",
+      "preview": "https://assets.ppy.sh/artists/284/Somewhere Far Beyond/Blind Guardian - The Bard%27s Song (In The Forest).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Turn The Page",
+      "preview": "https://assets.ppy.sh/artists/284/A Twist in the Myth/Blind Guardian - Turn The Page.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Wheel Of Time",
+      "preview": "https://assets.ppy.sh/artists/284/At the Edge of Time/Blind Guardian - Wheel Of Time.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "When Sorrow Sang",
+      "preview": "https://assets.ppy.sh/artists/284/Nightfall in Middle-Earth/Blind Guardian - When Sorrow Sang.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:54:09Z"
+  "updated_at": "2026-03-30T23:32:06Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Digital Spliff (Bees?!)",
+      "preview": "https://assets.ppy.sh/artists/421/Winter/Strelitzia - Digital Spliff (Bees!).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Don't Wake Up the Trees (There'll Be a Shortage of Oranges)",
+      "preview": "https://assets.ppy.sh/artists/421/Why Couldn't You Have Just Died in the Spring/Strelitzia - Don't Wake Up the Trees (There'll Be a Shortage of Oranges).mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -26,59 +28,70 @@
     },
     {
       "title": "Decigic",
+      "preview": "https://assets.ppy.sh/artists/421/Winter/Strelitzia - Decigic.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Epilogue",
+      "preview": "https://assets.ppy.sh/artists/421/Winter/Strelitzia - Epilogue.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Here Comes Mr. Pipe",
+      "preview": "https://assets.ppy.sh/artists/421/Why Couldn't You Have Just Died in the Spring/Strelitzia - Here Comes Mr. Pipe.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sara",
+      "preview": "https://assets.ppy.sh/artists/421/Winter/Strelitzia - Sara.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Say It",
+      "preview": "https://assets.ppy.sh/artists/421/Winter/Strelitzia - Say It.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sben",
+      "preview": "https://assets.ppy.sh/artists/421/Winter/Strelitzia - Sben.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Small Guy Discovers Mud",
+      "preview": "https://assets.ppy.sh/artists/421/Why Couldn't You Have Just Died in the Spring/Strelitzia - Small Guy Discovers Mud.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "There's a Stranger in the Tub",
+      "preview": "https://assets.ppy.sh/artists/421/Why Couldn't You Have Just Died in the Spring/Strelitzia - There's a Stranger in the Tub.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "This Bed Ain't Big Enough Fer The Two of Us",
+      "preview": "https://assets.ppy.sh/artists/421/Winter/Strelitzia - This Bed Ain't Big Enough Fer The Two of Us.mp3?1",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Winter",
+      "preview": "https://assets.ppy.sh/artists/421/Winter/Strelitzia - Winter.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yeah I'm Emo, Who Fuckin' Cares",
+      "preview": "https://assets.ppy.sh/artists/421/Why Couldn't You Have Just Died in the Spring/Strelitzia - Yeah I'm Emo%2C Who Fuckin' Cares.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:27:11Z"
+  "updated_at": "2026-03-31T02:05:42Z"
 }

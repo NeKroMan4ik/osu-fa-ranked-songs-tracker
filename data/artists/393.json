@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "The last straw",
+      "preview": "https://assets.ppy.sh/artists/393/Songs/Sorry about my face - The last straw.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -14,5 +15,5 @@
       }
     }
   ],
-  "updated_at": "2026-03-29T22:23:40Z"
+  "updated_at": "2026-03-31T02:02:10Z"
 }

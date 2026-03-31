@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Contain",
+      "preview": "https://assets.ppy.sh/artists/71/previews/1932.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Frictional Nevada",
+      "preview": "https://assets.ppy.sh/artists/71/previews/1933.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -31,6 +33,7 @@
     },
     {
       "title": "Ketsarku Mozgalom",
+      "preview": "https://assets.ppy.sh/artists/71/previews/1934.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -42,6 +45,7 @@
     },
     {
       "title": "My So-Called Life",
+      "preview": "https://assets.ppy.sh/artists/71/previews/1936.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -58,6 +62,7 @@
     },
     {
       "title": "Shaky Sometimes",
+      "preview": "https://assets.ppy.sh/artists/71/previews/1937.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -69,6 +74,7 @@
     },
     {
       "title": "She Runs",
+      "preview": "https://assets.ppy.sh/artists/71/previews/1938.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -84,6 +90,7 @@
     },
     {
       "title": "Szamar Madar",
+      "preview": "https://assets.ppy.sh/artists/71/previews/1939.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -95,9 +102,10 @@
     },
     {
       "title": "My Love Is A Bulldozer",
+      "preview": "https://assets.ppy.sh/artists/71/previews/1935.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:53:38Z"
+  "updated_at": "2026-03-31T02:32:22Z"
 }

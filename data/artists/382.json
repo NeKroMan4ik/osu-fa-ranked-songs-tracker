@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Arrival. The Meuse-Argonne",
+      "preview": "https://assets.ppy.sh/artists/382/The Blind Leading The Blind/1914 - Arrival. The Meuse-Argonne.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -19,6 +20,7 @@
     },
     {
       "title": "FN .380 ACP#19074",
+      "preview": "https://assets.ppy.sh/artists/382/Where Fear And Weapons Meet/1914 - FN .380 ACP%2319074.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -30,29 +32,34 @@
     },
     {
       "title": "A7V Mephisto",
+      "preview": "https://assets.ppy.sh/artists/382/The Blind Leading The Blind/1914 - A7V Mephisto.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Don't Tread on Me (Harlem Hellfighters)",
+      "preview": "https://assets.ppy.sh/artists/382/Where Fear And Weapons Meet/1914 - Don_t Tread on Me (Harlem Hellfighters).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Passchenhell (feat. David Ingram)",
+      "preview": "https://assets.ppy.sh/artists/382/The Blind Leading The Blind/1914 - Passchenhell (feat. David Ingram).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Pillars of Fire (The Battle of Messines)",
+      "preview": "https://assets.ppy.sh/artists/382/Where Fear And Weapons Meet/1914 - Pillars of Fire (The Battle of Messines).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Hundred Days Offensive",
+      "preview": "https://assets.ppy.sh/artists/382/The Blind Leading The Blind/1914 - The Hundred Days Offensive.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:26:30Z"
+  "updated_at": "2026-03-30T23:04:31Z"
 }

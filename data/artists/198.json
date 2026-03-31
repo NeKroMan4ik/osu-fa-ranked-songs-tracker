@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Air Castles (Cut Ver.)",
+      "preview": "https://assets.ppy.sh/artists/198/Air Castles/Avizura - Air Castles (Cut Ver.).mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Lucky Star",
+      "preview": "https://assets.ppy.sh/artists/198/Lucky Star EP/Avizura - Lucky Star.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -31,74 +33,88 @@
     },
     {
       "title": "Air Castles",
+      "preview": "https://assets.ppy.sh/artists/198/Air Castles/Avizura - Air Castles.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Alien Girl",
+      "preview": "https://assets.ppy.sh/artists/198/Alien Girl EP/Avizura - Alien Girl.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Alien Girl (Cut Ver.)",
+      "preview": "https://assets.ppy.sh/artists/198/Alien Girl EP/Avizura - Alien Girl (Cut Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Crystal",
+      "preview": "https://assets.ppy.sh/artists/198/Crystal EP/Avizura - Crystal.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Crystal (Cut Ver.)",
+      "preview": "https://assets.ppy.sh/artists/198/Crystal EP/Avizura - Crystal (Cut Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lucky Star (Cut Ver.)",
+      "preview": "https://assets.ppy.sh/artists/198/Lucky Star EP/Avizura - Lucky Star (Cut Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Memories",
+      "preview": "https://assets.ppy.sh/artists/198/Lucky Star EP/Avizura - Memories.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Memories (Cut Ver.)",
+      "preview": "https://assets.ppy.sh/artists/198/Lucky Star EP/Avizura - Memories (Cut Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Over The Edge",
+      "preview": "https://assets.ppy.sh/artists/198/Crystal EP/Avizura - Over The Edge.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Over The Edge (Cut Ver.)",
+      "preview": "https://assets.ppy.sh/artists/198/Crystal EP/Avizura - Over The Edge (Cut Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tranquility Of A White Rose",
+      "preview": "https://assets.ppy.sh/artists/198/Lucky Star EP/Avizura - Tranquility Of A White Rose.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tranquility Of A White Rose (Cut Ver.)",
+      "preview": "https://assets.ppy.sh/artists/198/Lucky Star EP/Avizura - Tranquility Of A White Rose (Cut Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "You And Me Against The World",
+      "preview": "https://assets.ppy.sh/artists/198/Lucky Star EP/Avizura - You And Me Against The World.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "You And Me Against The World (Cut Ver.)",
+      "preview": "https://assets.ppy.sh/artists/198/Lucky Star EP/Avizura - You And Me Against The World (Cut Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:47:45Z"
+  "updated_at": "2026-03-30T23:25:45Z"
 }

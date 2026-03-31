@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Critical Cannonball (Extended ver.)",
+      "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid - Critical Cannonball (Extended ver.).mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Cross-D Skyline",
+      "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid - Cross-D Skyline.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -30,6 +32,7 @@
     },
     {
       "title": "Epistrofi",
+      "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid - Epistrofi.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -53,6 +56,7 @@
     },
     {
       "title": "OVERPROTECTION",
+      "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid - OVERPROTECTION.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -68,6 +72,7 @@
     },
     {
       "title": "Subterranean Blastoff",
+      "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid - Subterranean Blastoff.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -79,6 +84,7 @@
     },
     {
       "title": "The Next Arcady",
+      "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid - The Next Arcady.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -94,6 +100,7 @@
     },
     {
       "title": "Thunderstrike 1988",
+      "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid - Thunderstrike 1988.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -109,74 +116,88 @@
     },
     {
       "title": "Break The Seal",
+      "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid - Break The Seal.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chapters",
+      "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid - Chapters.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Critical Cannonball",
+      "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid - Critical Cannonball.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Enneaquest",
+      "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid - Enneaquest.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ethereal Conclusion",
+      "preview": "https://assets.ppy.sh/artists/196/Charlatan%27s Endgame/Sephid - Ethereal Conclusion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hermatical Reverie",
+      "preview": "https://assets.ppy.sh/artists/196/OVERPROTECTION/Sephid - Hermatical Reverie.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lost In Farside",
+      "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid - Lost In Farside.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nothing But Seven",
+      "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid - Nothing But Seven.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sephid et al. - MONONATI",
+      "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid_et_al._-_MONONATI.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sephid feat. darkxixin - Fu Xiang Di Xin De Luo Ri Liu Hao ~ Little Raven",
+      "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid feat. darkxixin - Fu Xiang Di Xin De Luo Ri Liu Hao %7E Little Raven.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Striking G10ry!",
+      "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid - Striking G10ry!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Public Parallel",
+      "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid - The Public Parallel.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "YJC Ultrastyle",
+      "preview": "https://assets.ppy.sh/artists/196/Songs/Sephid - YJC Ultrastyle.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "YMBK \"Cymbalic Echoes\"",
+      "preview": "https://assets.ppy.sh/artists/196/Charlatan%27s Endgame/Sephid - YMBK Cymbalic Echoes.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:15:25Z"
+  "updated_at": "2026-03-31T01:53:53Z"
 }

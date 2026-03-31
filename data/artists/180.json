@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Electrify (feat. Amy J Pryce)",
+      "preview": "https://assets.ppy.sh/artists/180/Oxygen/Fred V %26 Grafix - Electrify (feat. Amy J Pryce).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Here With You (feat. Collin McLoughlin)",
+      "preview": "https://assets.ppy.sh/artists/180/Here With You/Fred V %26 Grafix - Here With You (feat. Collin McLoughlin).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Ignite (feat. Amy J Pryce)",
+      "preview": "https://assets.ppy.sh/artists/180/Oxygen/Fred V %26 Grafix - Ignite (feat. Amy J Pryce).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -38,6 +41,7 @@
     },
     {
       "title": "Ultraviolet",
+      "preview": "https://assets.ppy.sh/artists/180/Oxygen/Fred V %26 Grafix - Ultraviolet.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -49,19 +53,22 @@
     },
     {
       "title": "Forest Fires (feat. Etherwood)",
+      "preview": "https://assets.ppy.sh/artists/180/Recognise/Fred V %26 Grafix - Forest Fires (feat. Etherwood).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Games People Play",
+      "preview": "https://assets.ppy.sh/artists/180/Goggles/Fred V %26 Grafix - Games People Play.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tension (feat. Kate Westall)",
+      "preview": "https://assets.ppy.sh/artists/180/Tension/Fred V %26 Grafix - Tension (feat. Kate Westall).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:29:55Z"
+  "updated_at": "2026-03-31T00:07:48Z"
 }

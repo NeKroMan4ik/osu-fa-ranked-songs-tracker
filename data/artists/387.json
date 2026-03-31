@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "abyss",
+      "preview": "https://assets.ppy.sh/artists/387/abyss/PHAZE - abyss.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -16,6 +17,7 @@
     },
     {
       "title": "Mirai Isho",
+      "preview": "https://assets.ppy.sh/artists/387/Songs/PHAZE_-_Mirai_Isho.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -27,6 +29,7 @@
     },
     {
       "title": "Phantom Chain",
+      "preview": "https://assets.ppy.sh/artists/387/Songs/PHAZE - Phantom Chain.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -38,14 +41,16 @@
     },
     {
       "title": "Dangling",
+      "preview": "https://assets.ppy.sh/artists/387/Dangling/PHAZE - Dangling.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mx. Black Box",
+      "preview": "https://assets.ppy.sh/artists/387/Mx. Black Box/PHAZE - Mx. Black Box.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:47:02Z"
+  "updated_at": "2026-03-31T01:25:17Z"
 }

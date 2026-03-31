@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "1,2,3,4!",
+      "preview": "https://assets.ppy.sh/artists/407/Songs/Cansol - 1%2C2%2C3%2C4!.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "1,2,3,4! Overclocked Edition",
+      "preview": "https://assets.ppy.sh/artists/407/Songs/Cansol - 1%2C2%2C3%2C4! Overclocked Edition.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -30,6 +32,7 @@
     },
     {
       "title": "Once Again (VIP)",
+      "preview": "https://assets.ppy.sh/artists/407/Songs/Cansol - Once Again (VIP).mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -41,10 +44,15 @@
     },
     {
       "title": "Out of Place",
+      "preview": "https://assets.ppy.sh/artists/407/Songs/Cansol_-_Out_of_Place.mp3",
       "ranked_modes": [
+        "fruits",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2492228
+        ],
         "osu": [
           2475329
         ]
@@ -52,6 +60,7 @@
     },
     {
       "title": "Train of Thought",
+      "preview": "https://assets.ppy.sh/artists/407/Songs/Cansol - Train of Thought.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -79,14 +88,22 @@
     },
     {
       "title": "Curtain Call",
+      "preview": "https://assets.ppy.sh/artists/407/Songs/Cansol - Curtain Call.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Jazz Invasion",
+      "preview": "https://assets.ppy.sh/artists/407/Songs/Cansol_-_Jazz_Invasion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Once Again",
+      "preview": "https://assets.ppy.sh/artists/407/Songs/Cansol - Once Again.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:03:12Z"
+  "updated_at": "2026-03-30T23:41:05Z"
 }

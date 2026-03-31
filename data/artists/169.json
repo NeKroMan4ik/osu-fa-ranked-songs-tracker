@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Cyberia Lyr1",
+      "preview": "https://assets.ppy.sh/artists/169/Cyberia 1+2=3/Sewerslvt - Cyberia Lyr1.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Cyberia Lyr3",
+      "preview": "https://assets.ppy.sh/artists/169/Cyberia 1+2=3/Sewerslvt - Cyberia Lyr3.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -22,14 +24,14 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          1501870,
+        "fruits": [
           2443939
         ],
         "osu": [
           2443939
         ],
-        "fruits": [
+        "taiko": [
+          1501870,
           2443939
         ],
         "mania": [
@@ -39,6 +41,7 @@
     },
     {
       "title": "Lexapro Delirium",
+      "preview": "https://assets.ppy.sh/artists/169/Draining Love Story/Sewerslvt - Lexapro Delirium.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -50,6 +53,7 @@
     },
     {
       "title": "Newlove",
+      "preview": "https://assets.ppy.sh/artists/169/Newlove/Sewerslvt - Newlove.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -61,29 +65,34 @@
     },
     {
       "title": "Blacklight",
+      "preview": "https://assets.ppy.sh/artists/169/Drowning in the Sewer/Sewerslvt - Blacklight.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cyberia Lyr2",
+      "preview": "https://assets.ppy.sh/artists/169/Cyberia 1+2=3/Sewerslvt - Cyberia Lyr2.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Oni",
+      "preview": "https://assets.ppy.sh/artists/169/Sewer--slvt/Sewerslvt - Oni.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Psychosis",
+      "preview": "https://assets.ppy.sh/artists/169/The World Is Fvcked/Sewerslvt - Psychosis.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Grilled Fish's Ballad",
+      "preview": "https://assets.ppy.sh/artists/169/Selected Sewer Works (2017-19)/Sewerslvt - The Grilled Fish's Ballad.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:17:07Z"
+  "updated_at": "2026-03-31T01:55:35Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "a decayed garden sinks into the isolated sea",
+      "preview": "https://assets.ppy.sh/artists/30/previews/639.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Happppy song",
+      "preview": "https://assets.ppy.sh/artists/30/previews/640.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -38,6 +40,7 @@
     },
     {
       "title": "minus in the sun",
+      "preview": "https://assets.ppy.sh/artists/30/previews/638.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -49,6 +52,7 @@
     },
     {
       "title": "Raven Haven",
+      "preview": "https://assets.ppy.sh/artists/30/previews/642.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -68,44 +72,52 @@
     },
     {
       "title": "Akuou",
+      "preview": "https://assets.ppy.sh/artists/30/previews/2630.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "iiillluuuvvvUUU",
+      "preview": "https://assets.ppy.sh/artists/30/previews/641.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "illloved",
+      "preview": "https://assets.ppy.sh/artists/30/Songs/SOOOO_-_illloved.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "illloved (osu! Edit)",
+      "preview": "https://assets.ppy.sh/artists/30/Songs/SOOOO_-_illloved_osu_Edit.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "NORMAL HUMAN",
+      "preview": "https://assets.ppy.sh/artists/30/previews/2631.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "OTOOTO-P x SOOOO - World End",
+      "preview": "https://assets.ppy.sh/artists/30/previews/643.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rasou",
+      "preview": "https://assets.ppy.sh/artists/30/previews/3035.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ruins in the Paradise",
+      "preview": "https://assets.ppy.sh/artists/30/previews/2632.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:23:22Z"
+  "updated_at": "2026-03-31T02:01:52Z"
 }

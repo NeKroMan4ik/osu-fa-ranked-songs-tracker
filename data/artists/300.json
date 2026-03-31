@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "The Journey",
+      "preview": "https://assets.ppy.sh/artists/300/Prelude EP/Rezonate - The Journey.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "The Phoenix",
+      "preview": "https://assets.ppy.sh/artists/300/The Phoenix/Rezonate - The Phoenix.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -29,5 +31,5 @@
       }
     }
   ],
-  "updated_at": "2026-03-29T21:53:57Z"
+  "updated_at": "2026-03-31T01:32:22Z"
 }

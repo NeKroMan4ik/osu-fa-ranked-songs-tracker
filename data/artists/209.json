@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Call My Name feat. Yukacco",
+      "preview": "https://assets.ppy.sh/artists/209/Songs/Mameyudoufu - Call My Name feat. Yukacco.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Citadel",
+      "preview": "https://assets.ppy.sh/artists/209/Songs/Mameyudoufu - Citadel.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Quality Control",
+      "preview": "https://assets.ppy.sh/artists/209/Songs/Mameyudoufu - Quality Control.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -41,6 +44,7 @@
     },
     {
       "title": "Wave feat. Aitsuki Nakuru",
+      "preview": "https://assets.ppy.sh/artists/209/Songs/Mameyudoufu - Wave feat. Aitsuki Nakuru.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -56,54 +60,64 @@
     },
     {
       "title": "Dot to Dot feat. Shully",
+      "preview": "https://assets.ppy.sh/artists/209/Songs/Mameyudoufu - Dot to Dot feat. Shully.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eyes On The Stars",
+      "preview": "https://assets.ppy.sh/artists/209/Songs/Mameyudoufu - Eyes On The Stars.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Midnight Glow feat. mami",
+      "preview": "https://assets.ppy.sh/artists/209/Songs/Mameyudoufu - Midnight Glow feat. mami.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moments (feat. Akira Kusaka)",
+      "preview": "https://assets.ppy.sh/artists/209/Songs/Mameyudoufu - Moments (feat. Akira Kusaka).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moments (feat. Akira Kusaka) (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/209/Songs/Mameyudoufu - Moments (feat. Akira Kusaka) (osu! edit).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Movin' On feat. Such",
+      "preview": "https://assets.ppy.sh/artists/209/Songs/Mameyudoufu - Movin%27 On feat. Such.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Point",
+      "preview": "https://assets.ppy.sh/artists/209/Songs/Mameyudoufu - Point.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "rejection - Signal (feat. Such) - Mameyudoufu Remix",
+      "preview": "https://assets.ppy.sh/artists/209/Songs/rejection - Signal (feat. Such) - Mameyudoufu Remix.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "rejection - Signal (feat. Such) - Mameyudoufu Remix (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/209/Songs/rejection - Signal (feat. Such) - Mameyudoufu Remix (osu! edit).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shining feat. Aitsuki Nakuru",
+      "preview": "https://assets.ppy.sh/artists/209/Songs/Mameyudoufu - Shining feat. Aitsuki Nakuru.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:17:54Z"
+  "updated_at": "2026-03-31T00:55:59Z"
 }

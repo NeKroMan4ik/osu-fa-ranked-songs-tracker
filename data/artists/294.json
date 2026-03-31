@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Flowers, Mountains and Funerals",
+      "preview": "https://assets.ppy.sh/artists/294/Songs/Abuse_-_Flowers_Mountains_and_Funerals.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Want To Be Cremated",
+      "preview": "https://assets.ppy.sh/artists/294/Songs/Abuse - Want To Be Cremated.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -27,34 +29,40 @@
     },
     {
       "title": "Christ",
+      "preview": "https://assets.ppy.sh/artists/294/Songs/Abuse - Christ.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Distoartion",
+      "preview": "https://assets.ppy.sh/artists/294/Songs/Abuse_-_Distoartion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "dogdog",
+      "preview": "https://assets.ppy.sh/artists/294/Songs/Abuse - dogdog.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Flower War",
+      "preview": "https://assets.ppy.sh/artists/294/Songs/Abuse - Flower War.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Judas",
+      "preview": "https://assets.ppy.sh/artists/294/Songs/Abuse_-_Judas.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shinjuku Jack",
+      "preview": "https://assets.ppy.sh/artists/294/Songs/Abuse - Shinjuku Jack.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:31:51Z"
+  "updated_at": "2026-03-30T23:09:51Z"
 }

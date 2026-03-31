@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Moneko",
+      "preview": "https://assets.ppy.sh/artists/133/Songs/Geoxor - Moneko.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Virtual",
+      "preview": "https://assets.ppy.sh/artists/133/Songs/Geoxor - Virtual.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -26,169 +28,202 @@
     },
     {
       "title": "Cheese",
+      "preview": "https://assets.ppy.sh/artists/133/Stardust/Geoxor - Cheese.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Euphoria",
+      "preview": "https://assets.ppy.sh/artists/133/Stardust/Geoxor - Euphoria.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Euphoria II",
+      "preview": "https://assets.ppy.sh/artists/133/Neon Eyes/Geoxor - Euphoria II.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Faerie",
+      "preview": "https://assets.ppy.sh/artists/133/Songs/Geoxor - Faerie.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Funky World",
+      "preview": "https://assets.ppy.sh/artists/133/Funky World/Geoxor - Funky World.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Galaxy",
+      "preview": "https://assets.ppy.sh/artists/133/Songs/Geoxor - Galaxy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gotta Lay",
+      "preview": "https://assets.ppy.sh/artists/133/Songs/Geoxor - Gotta Lay.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hate",
+      "preview": "https://assets.ppy.sh/artists/133/Time of Waste/Geoxor - Hate.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lollipop",
+      "preview": "https://assets.ppy.sh/artists/133/Stardust/Geoxor - Lollipop.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Long Times",
+      "preview": "https://assets.ppy.sh/artists/133/Time of Waste/Geoxor - Long Times.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Low",
+      "preview": "https://assets.ppy.sh/artists/133/Time of Waste/Geoxor - Low.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Make Me Strong",
+      "preview": "https://assets.ppy.sh/artists/133/Funky World/Geoxor - Make Me Strong.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Midnight",
+      "preview": "https://assets.ppy.sh/artists/133/Neon Eyes/Geoxor - Midnight.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moonlight",
+      "preview": "https://assets.ppy.sh/artists/133/Songs/Geoxor - Moonlight.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Move",
+      "preview": "https://assets.ppy.sh/artists/133/Irreversible/Geoxor - Move.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nana",
+      "preview": "https://assets.ppy.sh/artists/133/Stardust/Geoxor - Nana.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Neon Eyes",
+      "preview": "https://assets.ppy.sh/artists/133/Neon Eyes/Geoxor - Neon Eyes.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Only Now",
+      "preview": "https://assets.ppy.sh/artists/133/Stardust/Geoxor - Only Now.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Panda Eyes & Geoxor - Lucid Dream",
+      "preview": "https://assets.ppy.sh/artists/133/Songs/Geoxor - Lucid Dream.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Pixels",
+      "preview": "https://assets.ppy.sh/artists/133/Neon Eyes/Geoxor - Pixels.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Poi",
+      "preview": "https://assets.ppy.sh/artists/133/Irreversible/Geoxor - Poi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Restart",
+      "preview": "https://assets.ppy.sh/artists/133/Stardust/Geoxor - Restart.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sakura",
+      "preview": "https://assets.ppy.sh/artists/133/Songs/Geoxor & Canonblade - Sakura.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sanguine",
+      "preview": "https://assets.ppy.sh/artists/133/Songs/Geoxor - Sanguine.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shaii",
+      "preview": "https://assets.ppy.sh/artists/133/Stardust/Geoxor - Shaii.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Stardust",
+      "preview": "https://assets.ppy.sh/artists/133/Stardust/Geoxor - Stardust.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Take Me Home",
+      "preview": "https://assets.ppy.sh/artists/133/Stardust/Geoxor - Take Me Home.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Timeless",
+      "preview": "https://assets.ppy.sh/artists/133/Funky World/Geoxor - Timeless.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Turn Around",
+      "preview": "https://assets.ppy.sh/artists/133/Songs/Geoxor - Turn Around.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Twilight",
+      "preview": "https://assets.ppy.sh/artists/133/Songs/Geoxor - Twilight.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Vanilla",
+      "preview": "https://assets.ppy.sh/artists/133/Neon Eyes/Geoxor - Vanilla.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Woosh",
+      "preview": "https://assets.ppy.sh/artists/133/Irreversible/Geoxor - Woosh.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Your Eyes",
+      "preview": "https://assets.ppy.sh/artists/133/Songs/Geoxor - Your Eyes.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:32:05Z"
+  "updated_at": "2026-03-31T00:09:59Z"
 }

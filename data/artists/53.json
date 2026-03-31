@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Dragons",
+      "preview": "https://assets.ppy.sh/artists/53/previews/1534.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Mold",
+      "preview": "https://assets.ppy.sh/artists/53/previews/1538.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Powercore",
+      "preview": "https://assets.ppy.sh/artists/53/previews/1545.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "The Skin Thief",
+      "preview": "https://assets.ppy.sh/artists/53/previews/1543.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -52,49 +56,58 @@
     },
     {
       "title": "Darkness",
+      "preview": "https://assets.ppy.sh/artists/53/previews/1533.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dressed as Goblins",
+      "preview": "https://assets.ppy.sh/artists/53/previews/1535.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Killing Time (and Space)",
+      "preview": "https://assets.ppy.sh/artists/53/previews/1537.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "No One Survives",
+      "preview": "https://assets.ppy.sh/artists/53/previews/1544.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Row",
+      "preview": "https://assets.ppy.sh/artists/53/previews/1539.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thanks for Nothing, Moon",
+      "preview": "https://assets.ppy.sh/artists/53/previews/1540.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Magic Spider",
+      "preview": "https://assets.ppy.sh/artists/53/previews/1541.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Many Faces of Dr. Hubert Malbec",
+      "preview": "https://assets.ppy.sh/artists/53/previews/1542.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "We Need a Gimmick",
+      "preview": "https://assets.ppy.sh/artists/53/previews/1546.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:33:42Z"
+  "updated_at": "2026-03-31T01:11:52Z"
 }

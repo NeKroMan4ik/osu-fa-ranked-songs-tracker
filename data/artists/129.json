@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Holystone",
+      "preview": "https://assets.ppy.sh/artists/129/Holystone/Phantom Sage - Holystone.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -20,6 +21,7 @@
     },
     {
       "title": "MIKO",
+      "preview": "https://assets.ppy.sh/artists/129/MIKO/Phantom Sage - MIKO.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -31,6 +33,7 @@
     },
     {
       "title": "Our Lives Past (feat. Emily Stiles)",
+      "preview": "https://assets.ppy.sh/artists/129/Our Lives Past & When I'm Gone/Phantom Sage - Our Lives Past (feat. Emily Stiles).mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -42,39 +45,46 @@
     },
     {
       "title": "Away (feat. Byndy)",
+      "preview": "https://assets.ppy.sh/artists/129/Away/Phantom Sage - Away (feat. Byndy).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Beatdown",
+      "preview": "https://assets.ppy.sh/artists/129/Beatdown/Phantom Sage - Beatdown.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Crystal Clouds",
+      "preview": "https://assets.ppy.sh/artists/129/Crystal Clouds/Phantom Sage - Crystal Clouds.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hollow",
+      "preview": "https://assets.ppy.sh/artists/129/Hollow/Phantom Sage - Hollow.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "I'll Never Let You Go",
+      "preview": "https://assets.ppy.sh/artists/129/I'll Never Let You Go/Phantom Sage & Spencer Maro - I'll Never Let You Go.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PLUNDER",
+      "preview": "https://assets.ppy.sh/artists/129/PLUNDER/Phantom Sage & OmarVarela - PLUNDER.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "When I'm Gone",
+      "preview": "https://assets.ppy.sh/artists/129/Our Lives Past & When I'm Gone/Phantom Sage - When I'm Gone.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:46:55Z"
+  "updated_at": "2026-03-31T01:25:10Z"
 }

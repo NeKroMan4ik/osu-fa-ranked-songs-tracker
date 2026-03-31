@@ -4,54 +4,64 @@
   "tracks": [
     {
       "title": "2anyFirst",
+      "preview": "https://assets.ppy.sh/artists/338/2anyFirst/Sobrem - 2anyFirst.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Encrux",
+      "preview": "https://assets.ppy.sh/artists/338/Encrux/Sobrem - Encrux.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lidelle x Sobrem x Sennzai - self-dissociation",
+      "preview": "https://assets.ppy.sh/artists/338/self-dissociation/Lidelle x Sobrem x Sennzai - self-dissociation.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sobrem & NIWASHI - A fight in Tunisia",
+      "preview": "https://assets.ppy.sh/artists/338/Songs/Sobrem__NIWASHI_-_A_fight_in_Tunisia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sobrem feat. Sound piercer - HoneyButterBass",
+      "preview": "https://assets.ppy.sh/artists/338/HoneyButterBass/Sobrem feat. Sound piercer - HoneyButterBass.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sobrem x Silentroom - Random",
+      "preview": "https://assets.ppy.sh/artists/338/Random/Sobrem x Silentroom - Random.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Super Macaron",
+      "preview": "https://assets.ppy.sh/artists/338/Super Macaron/Sobrem - Super Macaron.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "w_tre - Shannon's Theorem",
+      "preview": "https://assets.ppy.sh/artists/338/Shannon%27s Theorem/w_tre - Shannon%27s Theorem.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "w_tre respect for AT&HU - Schur's Theorem",
+      "preview": "https://assets.ppy.sh/artists/338/Schur%27s Theorem/w_tre respect for AT%26HU - Schur%27s Theorem.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Widowmaker - Giselle",
+      "preview": "https://assets.ppy.sh/artists/338/Giselle/Widowmaker - Giselle.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:21:00Z"
+  "updated_at": "2026-03-31T01:59:30Z"
 }

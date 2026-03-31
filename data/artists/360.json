@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "DREAMY PLANET (feat. YUC'e)",
+      "preview": "https://assets.ppy.sh/artists/360/Dreamy Planet/Aice room - DREAMY PLANET (feat. YUC%27e).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "For U",
+      "preview": "https://assets.ppy.sh/artists/360/For U/Aice room - For U.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Nyan Nyan Dive (EmoCosine Remix)",
+      "preview": "https://assets.ppy.sh/artists/360/Nyan Nyan Dive/Aice room - Nyan Nyan Dive (EmoCosine Remix).mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -37,49 +40,58 @@
     },
     {
       "title": "DREAMY PLANET (feat. YUC'e) (EmoCosine Remix)",
+      "preview": "https://assets.ppy.sh/artists/360/Dreamy Planet/Aice room - DREAMY PLANET (feat. YUC%27e) (EmoCosine Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Grab the Joystick!",
+      "preview": "https://assets.ppy.sh/artists/360/Archive vol. 1/Aice room - Grab the Joystick!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "I wan chuu!",
+      "preview": "https://assets.ppy.sh/artists/360/Archive vol. 1/Aice room - I wan chuu!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "It's Juicy!",
+      "preview": "https://assets.ppy.sh/artists/360/Archive vol. 1/Aice room - It%27s Juicy!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Miss U",
+      "preview": "https://assets.ppy.sh/artists/360/Miss U/Aice room - Miss U.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nor - Fantasy",
+      "preview": "https://assets.ppy.sh/artists/360/FUTURE DRIVER/Nor - Fantasy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nor - Fantasy (Cut Ver.)",
+      "preview": "https://assets.ppy.sh/artists/360/FUTURE DRIVER/Nor_-_Fantasy_Cut_Ver..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nyan Nyan Dive",
+      "preview": "https://assets.ppy.sh/artists/360/Nyan Nyan Dive/Aice room - Nyan Nyan Dive.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The BATTLE!",
+      "preview": "https://assets.ppy.sh/artists/360/Archive vol. 1/Aice room - The BATTLE!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:33:17Z"
+  "updated_at": "2026-03-30T23:11:18Z"
 }

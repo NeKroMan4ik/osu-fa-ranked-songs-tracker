@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Croque Monsieur A Disneyland",
+      "preview": "https://assets.ppy.sh/artists/370/Brame/Ruby My Dear - Croque Monsieur A Disneyland.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -28,6 +29,7 @@
     },
     {
       "title": "Gaviscon",
+      "preview": "https://assets.ppy.sh/artists/370/Brame/Ruby My Dear - Gaviscon.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -39,6 +41,7 @@
     },
     {
       "title": "Nour",
+      "preview": "https://assets.ppy.sh/artists/370/Balloon/Ruby My Dear - Nour.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -54,6 +57,7 @@
     },
     {
       "title": "Petit Poney",
+      "preview": "https://assets.ppy.sh/artists/370/Songs/Ruby_My_Dear_-_Petit_Poney.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -65,74 +69,88 @@
     },
     {
       "title": "7C0",
+      "preview": "https://assets.ppy.sh/artists/370/Ginkgo/Ruby My Dear - 7C0.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "A Dada",
+      "preview": "https://assets.ppy.sh/artists/370/A Dada/Ruby My Dear - A Dada.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Anemone",
+      "preview": "https://assets.ppy.sh/artists/370/Brame/Ruby My Dear - Anemone.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Clinpf Eepfwoof",
+      "preview": "https://assets.ppy.sh/artists/370/Brame/Ruby My Dear - Clinpf Eepfwoof.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Igorrr & Ruby My Dear - Alain",
+      "preview": "https://assets.ppy.sh/artists/370/Maigre/Igorrr %26 Ruby My Dear - Alain.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Igorrr & Ruby My Dear - Barbecue",
+      "preview": "https://assets.ppy.sh/artists/370/Maigre/Igorrr %26 Ruby My Dear - Barbecue.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Igorrr & Ruby My Dear - Biquette",
+      "preview": "https://assets.ppy.sh/artists/370/Maigre/Igorrr %26 Ruby My Dear - Biquette.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Igorrr & Ruby My Dear - Cuisse",
+      "preview": "https://assets.ppy.sh/artists/370/Maigre/Igorrr %26 Ruby My Dear - Cuisse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Igorrr & Ruby My Dear - Figue Folle",
+      "preview": "https://assets.ppy.sh/artists/370/Maigre/Igorrr %26 Ruby My Dear - Figue Folle.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mini Short",
+      "preview": "https://assets.ppy.sh/artists/370/Brame/Ruby My Dear - Mini Short.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "No Smoke",
+      "preview": "https://assets.ppy.sh/artists/370/Balloon/Ruby My Dear - No Smoke.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Saint Patron",
+      "preview": "https://assets.ppy.sh/artists/370/Songs/Ruby_My_Dear_-_Saint_Patron.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Spectacle",
+      "preview": "https://assets.ppy.sh/artists/370/Brame/Ruby My Dear - Spectacle.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Dreaming Tree",
+      "preview": "https://assets.ppy.sh/artists/370/The Dreaming Tree/Ruby My Dear - The Dreaming Tree.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:07:41Z"
+  "updated_at": "2026-03-31T01:46:08Z"
 }

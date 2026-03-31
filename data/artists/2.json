@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Abandoned Shrine Party",
+      "preview": "https://assets.ppy.sh/artists/2/Haunted House/cYsmix - Abandoned Shrine Party.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Arcade Busters",
+      "preview": "https://assets.ppy.sh/artists/2/Songs/cYsmix - Arcade Busters.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -30,6 +32,7 @@
     },
     {
       "title": "Babaroque (Short Ver.)",
+      "preview": "https://assets.ppy.sh/artists/2/Oracle (EP)/cYsmix - Babaroque (Short Ver.).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -41,6 +44,7 @@
     },
     {
       "title": "Behind the Walls",
+      "preview": "https://assets.ppy.sh/artists/2/Songs/cYsmix - Behind the Walls.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -52,6 +56,7 @@
     },
     {
       "title": "Breeze",
+      "preview": "https://assets.ppy.sh/artists/2/Songs/cYsmix - Breeze.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -73,6 +78,7 @@
     },
     {
       "title": "Classic Pursuit",
+      "preview": "https://assets.ppy.sh/artists/2/Songs/cYsmix - Classic Pursuit.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -94,22 +100,24 @@
     },
     {
       "title": "Dovregubben's Hall",
+      "preview": "https://assets.ppy.sh/artists/2/Songs/cYsmix - Dovregubben%27s Hall.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          362451
-        ],
         "osu": [
           360950,
+          362451
+        ],
+        "taiko": [
           362451
         ]
       }
     },
     {
       "title": "Eden",
+      "preview": "https://assets.ppy.sh/artists/2/Escapism/cYsmix - Eden.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -126,6 +134,7 @@
     },
     {
       "title": "Escapism",
+      "preview": "https://assets.ppy.sh/artists/2/Escapism/cYsmix - Escapism.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -137,6 +146,7 @@
     },
     {
       "title": "Fright March",
+      "preview": "https://assets.ppy.sh/artists/2/Songs/cYsmix - Fright March.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -148,6 +158,7 @@
     },
     {
       "title": "Haunted House",
+      "preview": "https://assets.ppy.sh/artists/2/Haunted House/cYsmix - Haunted House.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -159,6 +170,7 @@
     },
     {
       "title": "House With Legs",
+      "preview": "https://assets.ppy.sh/artists/2/Songs/cYsmix - House With Legs.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -171,6 +183,7 @@
     },
     {
       "title": "Little Knight",
+      "preview": "https://assets.ppy.sh/artists/2/Songs/cYsmix - Little Knight.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -186,6 +199,7 @@
     },
     {
       "title": "Manic",
+      "preview": "https://assets.ppy.sh/artists/2/Songs/cYsmix - Manic.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -203,6 +217,7 @@
     },
     {
       "title": "Moonlight Sonata",
+      "preview": "https://assets.ppy.sh/artists/2/Songs/cYsmix - Moonlight Sonata.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -215,6 +230,7 @@
     },
     {
       "title": "Peer Gynt",
+      "preview": "https://assets.ppy.sh/artists/2/Songs/cYsmix - Peer Gynt.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -235,6 +251,7 @@
     },
     {
       "title": "The Ballad of a Mindless Girl",
+      "preview": "https://assets.ppy.sh/artists/2/Haunted House/cYsmix - The Ballad of a Mindless Girl.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -246,6 +263,7 @@
     },
     {
       "title": "triangles",
+      "preview": "https://assets.ppy.sh/artists/2/Songs/cYsmix - triangles.mp3?2022-4",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -273,54 +291,64 @@
     },
     {
       "title": "Death's Grasp",
+      "preview": "https://assets.ppy.sh/artists/2/Haunted House/cYsmix - Death%27s Grasp.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Desire Funk",
+      "preview": "https://assets.ppy.sh/artists/2/Haunted House/cYsmix - Desire Funk.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Disco Bawls",
+      "preview": "https://assets.ppy.sh/artists/2/Songs/cYsmix - Disco Bawls.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Final Destination",
+      "preview": "https://assets.ppy.sh/artists/2/Haunted House/cYsmix - Final Destination.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ghost Lead",
+      "preview": "https://assets.ppy.sh/artists/2/Haunted House/cYsmix - Ghost Lead.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Night Out",
+      "preview": "https://assets.ppy.sh/artists/2/Haunted House/cYsmix - Night Out.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Spring",
+      "preview": "https://assets.ppy.sh/artists/2/Escapism/cYsmix - Spring.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Take a Stand",
+      "preview": "https://assets.ppy.sh/artists/2/Haunted House/cYsmix - Take a Stand.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Alchemist",
+      "preview": "https://assets.ppy.sh/artists/2/Haunted House/cYsmix - The Alchemist.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Uranaishi",
+      "preview": "https://assets.ppy.sh/artists/2/Haunted House/cYsmix - Uranaishi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:12:32Z"
+  "updated_at": "2026-03-30T23:50:20Z"
 }

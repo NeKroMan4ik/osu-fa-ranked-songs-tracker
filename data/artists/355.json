@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Colorful Pastel",
+      "preview": "https://assets.ppy.sh/artists/355/Songs/Yokomin - Colorful Pastel.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Proof -Album ver-",
+      "preview": "https://assets.ppy.sh/artists/355/Songs/Yokomin - Proof -Album ver-.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "STINGER",
+      "preview": "https://assets.ppy.sh/artists/355/You %26 Me/Yokomin - STINGER.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Yukari",
+      "preview": "https://assets.ppy.sh/artists/355/Songs/Yokomin - Yukari.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -56,39 +60,46 @@
     },
     {
       "title": "A Place Where You Hope",
+      "preview": "https://assets.ppy.sh/artists/355/You %26 Me/Yokomin - A Place Where You Hope.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ascend to Frost",
+      "preview": "https://assets.ppy.sh/artists/355/You %26 Me/Yokomin - Ascend to Frost.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Distance",
+      "preview": "https://assets.ppy.sh/artists/355/You %26 Me/Yokomin - Distance.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Enigma",
+      "preview": "https://assets.ppy.sh/artists/355/You %26 Me/Yokomin - Enigma.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Everlasting Princess",
+      "preview": "https://assets.ppy.sh/artists/355/You %26 Me/Yokomin - Story In Everlasting Princess.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Reflected Your Voice",
+      "preview": "https://assets.ppy.sh/artists/355/You %26 Me/Yokomin - Reflected Your Voice.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Where Is My Voice",
+      "preview": "https://assets.ppy.sh/artists/355/You %26 Me/Yokomin - Where Is My Voice.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T23:02:23Z"
+  "updated_at": "2026-03-31T02:41:12Z"
 }

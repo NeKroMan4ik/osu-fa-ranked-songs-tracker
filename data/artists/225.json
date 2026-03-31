@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "for Black, Dear Dahlia",
+      "preview": "https://assets.ppy.sh/artists/225/Black Dahlia/Seraph - for Black%2C Dear Dahlia.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Guilty Grimoire",
+      "preview": "https://assets.ppy.sh/artists/225/Black Dahlia/Seraph - Guilty Grimoire.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Last Queen",
+      "preview": "https://assets.ppy.sh/artists/225/Secret Garden/Seraph - Last Queen.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Resurrection",
+      "preview": "https://assets.ppy.sh/artists/225/Reflection/Seraph - Resurrection.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -49,184 +53,220 @@
     },
     {
       "title": "#305",
+      "preview": "https://assets.ppy.sh/artists/225/Shouji Rinne/Seraph - %23305.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Abyss",
+      "preview": "https://assets.ppy.sh/artists/225/Darkness/Seraph - Abyss.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Beautiful Decadence",
+      "preview": "https://assets.ppy.sh/artists/225/Beautiful Decadence/Seraph - Beautiful Decadence.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Beautiful Your Life",
+      "preview": "https://assets.ppy.sh/artists/225/Beautiful Decadence/Seraph - Beautiful Your Life.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Belle Epoque",
+      "preview": "https://assets.ppy.sh/artists/225/Ateliepoque/Seraph - Belle Epoque.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Black Butterfly",
+      "preview": "https://assets.ppy.sh/artists/225/Blind Dark/Seraph - Black Butterfly.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blue Labyrinth",
+      "preview": "https://assets.ppy.sh/artists/225/Blind Dark/Seraph - Blue Labyrinth.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Charlotte",
+      "preview": "https://assets.ppy.sh/artists/225/Ateliepoque/Seraph - Charlotte.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Daydream",
+      "preview": "https://assets.ppy.sh/artists/225/Secret Garden/Seraph - Daydream.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Door",
+      "preview": "https://assets.ppy.sh/artists/225/Reflection/Seraph - Door.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dystopia far away",
+      "preview": "https://assets.ppy.sh/artists/225/Black Dahlia/Seraph - Dystopia far away.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Exceed Destiny",
+      "preview": "https://assets.ppy.sh/artists/225/Liberation/Seraph - Exceed Destiny.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fake a Joker",
+      "preview": "https://assets.ppy.sh/artists/225/Liberation/Seraph - Fake a Joker.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Finne no Hitsugi",
+      "preview": "https://assets.ppy.sh/artists/225/Darkness/Seraph - Finne no Hitsugi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Flame Wings",
+      "preview": "https://assets.ppy.sh/artists/225/Liberation/Seraph - Flame Wings.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gense Shinin Dai Senki",
+      "preview": "https://assets.ppy.sh/artists/225/Shouji Rinne/Seraph - Gense Shinin Dai Senki.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hollow",
+      "preview": "https://assets.ppy.sh/artists/225/Reflection/Seraph - Hollow.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Innocence",
+      "preview": "https://assets.ppy.sh/artists/225/Liberation/Seraph - Innocence.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Inseparatable Red",
+      "preview": "https://assets.ppy.sh/artists/225/Blind Dark/Seraph - Inseparatable Red.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kiki Renren",
+      "preview": "https://assets.ppy.sh/artists/225/Ateliepoque/Seraph - Kiki Renren.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Loneliness",
+      "preview": "https://assets.ppy.sh/artists/225/Tamahami no Villemate/Seraph - Loneliness.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lonely Rose",
+      "preview": "https://assets.ppy.sh/artists/225/Beautiful Decadence/Seraph - Lonely Rose.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mirror",
+      "preview": "https://assets.ppy.sh/artists/225/Reflection/Seraph - Mirror.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ningen Seitai Kansatsuki",
+      "preview": "https://assets.ppy.sh/artists/225/Ateliepoque/Seraph - Ningen Seitai Kansatsuki.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Reborn ~Shoujo no Inori~",
+      "preview": "https://assets.ppy.sh/artists/225/Darkness/Seraph - Reborn %7EShoujo no Inori%7E.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rinne Tenshou",
+      "preview": "https://assets.ppy.sh/artists/225/Shouji Rinne/Seraph - Rinne Tenshou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rou chou gekka",
+      "preview": "https://assets.ppy.sh/artists/225/Resonance Night/Seraph - Rou chou gekka.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sacrifice",
+      "preview": "https://assets.ppy.sh/artists/225/Darkness/Seraph - Sacrifice.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sakuryaku Geijutsu Ankokukai",
+      "preview": "https://assets.ppy.sh/artists/225/Ateliepoque/Seraph - Sakuryaku Geijutsu Ankokukai.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shade and Shadow",
+      "preview": "https://assets.ppy.sh/artists/225/Black Dahlia/Seraph - Shade and Shadow.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shouji Rinne",
+      "preview": "https://assets.ppy.sh/artists/225/Shouji Rinne/Seraph - Shouji Rinne.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Stay flower",
+      "preview": "https://assets.ppy.sh/artists/225/Resonance Night/Seraph - Stay flower.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tamahami no Villemate",
+      "preview": "https://assets.ppy.sh/artists/225/Tamahami no Villemate/Seraph - Tamahami no Villemate.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Time is Life",
+      "preview": "https://assets.ppy.sh/artists/225/Liberation/Seraph - Time is Life.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tsuioku no Hakoniwa",
+      "preview": "https://assets.ppy.sh/artists/225/Resonance Night/Seraph - Tsuioku no Hakoniwa.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Villemate",
+      "preview": "https://assets.ppy.sh/artists/225/Tamahami no Villemate/Seraph - Villemate.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:16:20Z"
+  "updated_at": "2026-03-31T01:54:48Z"
 }

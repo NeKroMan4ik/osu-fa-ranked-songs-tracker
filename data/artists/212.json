@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "PPaper PPlanes",
+      "preview": "https://assets.ppy.sh/artists/212/00/garlagan - PPaper PPlanes.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Skyless",
+      "preview": "https://assets.ppy.sh/artists/212/00/garlagan - Skyless.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Slowing Down",
+      "preview": "https://assets.ppy.sh/artists/212/Slowing Down/garlagan - Slowing Down.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Uplift",
+      "preview": "https://assets.ppy.sh/artists/212/00/garlagan - Uplift.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -58,6 +62,7 @@
     },
     {
       "title": "What You Really Want",
+      "preview": "https://assets.ppy.sh/artists/212/What You Really Want/garlagan - What You Really Want.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -69,59 +74,70 @@
     },
     {
       "title": "00",
+      "preview": "https://assets.ppy.sh/artists/212/00/garlagan - 00.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ablixa",
+      "preview": "https://assets.ppy.sh/artists/212/Songs/garlagan - Ablixa.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "apopopop",
+      "preview": "https://assets.ppy.sh/artists/212/00/garlagan - apopopop.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Deflect",
+      "preview": "https://assets.ppy.sh/artists/212/00/garlagan - Deflect.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Going Back",
+      "preview": "https://assets.ppy.sh/artists/212/Going Back/garlagan - Going Back.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Holography",
+      "preview": "https://assets.ppy.sh/artists/212/00/garlagan - Holography.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Impulse",
+      "preview": "https://assets.ppy.sh/artists/212/00/garlagan - Impulse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Leight Wight",
+      "preview": "https://assets.ppy.sh/artists/212/00/garlagan - Leight Wight.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Refract",
+      "preview": "https://assets.ppy.sh/artists/212/Slowing Down/garlagan - Refract.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "sp0M0ky",
+      "preview": "https://assets.ppy.sh/artists/212/sp0M0ky/garlagan - sp0M0ky.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "There",
+      "preview": "https://assets.ppy.sh/artists/212/00/garlagan - There.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:31:04Z"
+  "updated_at": "2026-03-31T00:08:57Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "fieryrage accordion (hardcore remix)",
+      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tomspicy - fieryrage accordion (hardcore remix).mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -23,6 +24,7 @@
     },
     {
       "title": "petal blizzard",
+      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tomspicy - petal blizzard.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -34,79 +36,94 @@
     },
     {
       "title": "Circuit Break",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/tomspicy - Circuit Break.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "corpse party",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/tomspicy - corpse party.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "dysthymia",
+      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tomspicy_-_dysthymia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "fieryrage accordion (hardcore remix) (TV Size)",
+      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tomspicy - fieryrage accordion (hardcore remix) (TV Size).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "hanabi (feat. kendo)",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/tomspicy - hanabi (feat. kendo).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "i love you.",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/tomspicy - i love you..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "lost in the void",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/tomspicy - lost in the void.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "lullaby",
+      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tomspicy - lullaby.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "rave time",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/tomspicy - rave time.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Beauty Of It All",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/tomspicy - The Beauty Of It All.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "tomspicy & EgoFear - God Complex",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/tomspicy %26 EgoFear - God Complex.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "tomspicy & Kamitan - a new beginning.",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/tomspicy %26 Kamitan - a new beginning..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "unorthodox",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/tomspicy - unorthodox.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "untitled",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/tomspicy - untitled.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "when they cry",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/tomspicy - when they cry.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:41:44Z"
+  "updated_at": "2026-03-31T02:20:25Z"
 }

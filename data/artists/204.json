@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Cafe + M!lk + Chocolate",
+      "preview": "https://assets.ppy.sh/artists/204/Songs/DJ Raisei - Cafe %2B M!lk %2B Chocolate.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Fractured Heaven",
+      "preview": "https://assets.ppy.sh/artists/204/Songs/DJ_Raisei_-_Fractured_Heaven.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -30,6 +32,7 @@
     },
     {
       "title": "No Hi-TECH No Life",
+      "preview": "https://assets.ppy.sh/artists/204/Songs/DJ Raisei - No Hi-TECH No Life.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -41,6 +44,7 @@
     },
     {
       "title": "T.R.A.P.",
+      "preview": "https://assets.ppy.sh/artists/204/Songs/DJ Raisei - T.R.A.P..mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -56,49 +60,58 @@
     },
     {
       "title": "#Kurutta Minzoku AGNIKAYANIZM",
+      "preview": "https://assets.ppy.sh/artists/204/Songs/DJ Raisei - %23Kurutta Minzoku AGNIKAYANIZM.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "23",
+      "preview": "https://assets.ppy.sh/artists/204/Songs/DJ Raisei - 23.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Elapse Collapse",
+      "preview": "https://assets.ppy.sh/artists/204/Songs/DJ Raisei - Elapse Collapse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Elumth",
+      "preview": "https://assets.ppy.sh/artists/204/Songs/DJ Raisei - Elumth.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ISOMERZ (DJ Raisei + seatrus) - Symmetric",
+      "preview": "https://assets.ppy.sh/artists/204/Songs/ISOMERZ (DJ Raisei %2B seatrus) - Symmetric.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nucleo Synthesis",
+      "preview": "https://assets.ppy.sh/artists/204/Songs/DJ Raisei - Nucleo Synthesis.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ToYou & DJ Raisei - ADHD",
+      "preview": "https://assets.ppy.sh/artists/204/Songs/ToYou %26 DJ Raisei - ADHD.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "TWC Sound Team \"Strike Back Squad\" - BUZZ CUTZ",
+      "preview": "https://assets.ppy.sh/artists/204/Songs/TWC_Sound_Team_Strike_Back_Squad_-_BUZZ_CUTZ.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "XXXMOTIONXXX",
+      "preview": "https://assets.ppy.sh/artists/204/Songs/DJ Raisei - XXXMOTIONXXX.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:17:57Z"
+  "updated_at": "2026-03-30T23:55:44Z"
 }

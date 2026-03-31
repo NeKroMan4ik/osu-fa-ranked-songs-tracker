@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Kimi no Na wo Hibikasete",
+      "preview": "https://assets.ppy.sh/artists/160/Tsuiten no Bara/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Kimi no Na wo Hibikasete.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Saa Anata no Inochi wo Sasagete Nemure",
+      "preview": "https://assets.ppy.sh/artists/160/Tsuiten no Bara/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Saa Anata no Inochi wo Sasagete Nemure.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -26,314 +28,376 @@
     },
     {
       "title": "Ai no Uta",
+      "preview": "https://assets.ppy.sh/artists/160/Gekijou no Prominence/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Ai no Uta.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Amethyst",
+      "preview": "https://assets.ppy.sh/artists/160/AMETHYST/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Amethyst.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blood Stained Dress",
+      "preview": "https://assets.ppy.sh/artists/160/Tsuiten no Bara/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Blood Stained Dress.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Burning Ambition ~Yamiiro ni Somaru Uta~",
+      "preview": "https://assets.ppy.sh/artists/160/Gengaku Opera House/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Burning Ambition ~Yamiiro ni Somaru Uta~.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cinderella",
+      "preview": "https://assets.ppy.sh/artists/160/Red Ribbon/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Cinderella.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Deceit",
+      "preview": "https://assets.ppy.sh/artists/160/Fallen/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Deceit.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Devilish",
+      "preview": "https://assets.ppy.sh/artists/160/Gengaku Opera House/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Devilish.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DIVA",
+      "preview": "https://assets.ppy.sh/artists/160/Gengaku Opera House/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - DIVA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Draining Kiss",
+      "preview": "https://assets.ppy.sh/artists/160/Tsuiten no Bara/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Draining Kiss.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "EMPEROR",
+      "preview": "https://assets.ppy.sh/artists/160/THE WORLD ~Taiyou to Tsuki no Refrain~/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - EMPEROR.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eternal Bliss",
+      "preview": "https://assets.ppy.sh/artists/160/Fallen/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Eternal Bliss.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eternally",
+      "preview": "https://assets.ppy.sh/artists/160/Wish -Haru ni Chiru Shirayuki no Hana-/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Eternally.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fallen",
+      "preview": "https://assets.ppy.sh/artists/160/Fallen/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Fallen.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Forsaken",
+      "preview": "https://assets.ppy.sh/artists/160/Fallen/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Forsaken.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fukai Yami wo Obita Akuma",
+      "preview": "https://assets.ppy.sh/artists/160/Hisou no Mangetsu/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Fukai Yami wo Obita Akuma.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fuyu Monogatari",
+      "preview": "https://assets.ppy.sh/artists/160/Wish -Haru ni Chiru Shirayuki no Hana-/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Fuyu Monogatari.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gekijou no Prominence",
+      "preview": "https://assets.ppy.sh/artists/160/Gekijou no Prominence/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Gekijou no Prominence.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gengaku Opera House",
+      "preview": "https://assets.ppy.sh/artists/160/Gengaku Opera House/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Gengaku Opera House.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hakoniwa no Tenshi",
+      "preview": "https://assets.ppy.sh/artists/160/Hisou no Mangetsu/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Hakoniwa no Tenshi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Heroine",
+      "preview": "https://assets.ppy.sh/artists/160/Gekijou no Prominence/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Heroine.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hisou no Mangetsu",
+      "preview": "https://assets.ppy.sh/artists/160/Hisou no Mangetsu/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Hisou no Mangetsu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Horror House",
+      "preview": "https://assets.ppy.sh/artists/160/Gengaku Horror House/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Horror House.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "if",
+      "preview": "https://assets.ppy.sh/artists/160/Wish -Haru ni Chiru Shirayuki no Hana-/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - if.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ito",
+      "preview": "https://assets.ppy.sh/artists/160/Ito/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - ito.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Itoshiki Tsuki",
+      "preview": "https://assets.ppy.sh/artists/160/Hisou no Mangetsu/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Itoshiki Tsuki.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Jewel",
+      "preview": "https://assets.ppy.sh/artists/160/JEWEL/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Jewel.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "JUSTICE",
+      "preview": "https://assets.ppy.sh/artists/160/THE WORLD ~Taiyou to Tsuki no Refrain~/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - JUSTICE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "JWL-12586",
+      "preview": "https://assets.ppy.sh/artists/160/JEWEL/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - JWL-12586.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "kagura",
+      "preview": "https://assets.ppy.sh/artists/160/Ito/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - kagura.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kaze ni Mau Sora eno Tegami",
+      "preview": "https://assets.ppy.sh/artists/160/THE WORLD ~Taiyou to Tsuki no Refrain~/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Kaze ni Mau Sora eno Tegami.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kumo no Ito",
+      "preview": "https://assets.ppy.sh/artists/160/Gekijou no Prominence/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Kumo no Ito.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kuroi Tsubasa",
+      "preview": "https://assets.ppy.sh/artists/160/Hisou no Mangetsu/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Kuroi Tsubasa.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lily",
+      "preview": "https://assets.ppy.sh/artists/160/Gengaku Horror House/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Lily.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "LOVERS",
+      "preview": "https://assets.ppy.sh/artists/160/THE WORLD ~Taiyou to Tsuki no Refrain~/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - LOVERS.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lucy",
+      "preview": "https://assets.ppy.sh/artists/160/Gengaku Horror House/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Lucy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mask of Virtue",
+      "preview": "https://assets.ppy.sh/artists/160/Fallen/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Mask of Virtue.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Muffin",
+      "preview": "https://assets.ppy.sh/artists/160/Gengaku Horror House/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Muffin.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "oni",
+      "preview": "https://assets.ppy.sh/artists/160/Ito/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - oni.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Period",
+      "preview": "https://assets.ppy.sh/artists/160/AMETHYST/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Period.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Precious",
+      "preview": "https://assets.ppy.sh/artists/160/JEWEL/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Precious.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Red Ribbon",
+      "preview": "https://assets.ppy.sh/artists/160/Red Ribbon/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Red Ribbon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Requiem",
+      "preview": "https://assets.ppy.sh/artists/160/Tsuiten no Bara/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Requiem.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sacrifice",
+      "preview": "https://assets.ppy.sh/artists/160/Red Ribbon/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Sacrifice.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sakura no Hana ga Sakihokoru Toki ni",
+      "preview": "https://assets.ppy.sh/artists/160/Wish -Haru ni Chiru Shirayuki no Hana-/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Sakura no Hana ga Sakihokoru Toki ni.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sapphire",
+      "preview": "https://assets.ppy.sh/artists/160/JEWEL/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Sapphire.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Saving Grace",
+      "preview": "https://assets.ppy.sh/artists/160/Gengaku Opera House/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Saving Grace.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Seven",
+      "preview": "https://assets.ppy.sh/artists/160/AMETHYST/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Seven.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shikon no Nami",
+      "preview": "https://assets.ppy.sh/artists/160/AMETHYST/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Shikon no Nami.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shirayuki Hime",
+      "preview": "https://assets.ppy.sh/artists/160/Wish -Haru ni Chiru Shirayuki no Hana-/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Shirayuki Hime.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SILVERY",
+      "preview": "https://assets.ppy.sh/artists/160/Tsuiten no Bara/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - SILVERY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sins",
+      "preview": "https://assets.ppy.sh/artists/160/AMETHYST/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Sins.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Slain;Fate",
+      "preview": "https://assets.ppy.sh/artists/160/Slain;Fate/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Slain;Fate.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Suna no Dress",
+      "preview": "https://assets.ppy.sh/artists/160/Gekijou no Prominence/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Suna no Dress.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "suzu",
+      "preview": "https://assets.ppy.sh/artists/160/Ito/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - suzu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Syuumaku no Anthology",
+      "preview": "https://assets.ppy.sh/artists/160/Tsuiten no Bara/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Syuumaku no Anthology.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Taion",
+      "preview": "https://assets.ppy.sh/artists/160/Tsuiten no Bara/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Taion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "THE FINAL ACT",
+      "preview": "https://assets.ppy.sh/artists/160/Red Ribbon/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - THE FINAL ACT.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Opera House of Illusions",
+      "preview": "https://assets.ppy.sh/artists/160/Gengaku Horror House/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - The Opera House of Illusions.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "THE WORLD",
+      "preview": "https://assets.ppy.sh/artists/160/THE WORLD ~Taiyou to Tsuki no Refrain~/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - THE WORLD.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tsuiten no Bara",
+      "preview": "https://assets.ppy.sh/artists/160/Tsuiten no Bara/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Tsuiten no Bara.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "WHEEL OF FORTUNE",
+      "preview": "https://assets.ppy.sh/artists/160/THE WORLD ~Taiyou to Tsuki no Refrain~/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - WHEEL OF FORTUNE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yuki no Hana",
+      "preview": "https://assets.ppy.sh/artists/160/Wish -Haru ni Chiru Shirayuki no Hana-/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Yuki no Hana.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:22:46Z"
+  "updated_at": "2026-03-31T00:00:35Z"
 }

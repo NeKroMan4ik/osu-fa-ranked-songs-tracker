@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Collide (feat. Danyka Nadeau)",
+      "preview": "https://assets.ppy.sh/artists/313/Gaia/Fractal - Collide (feat. Danyka Nadeau).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Sanctum (feat. Amiya Inspiration)",
+      "preview": "https://assets.ppy.sh/artists/313/Gaia/Fractal - Sanctum (feat. Amiya Inspiration).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Spection",
+      "preview": "https://assets.ppy.sh/artists/313/Spection/Fractal - Spection.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,14 +40,16 @@
     },
     {
       "title": "Au5 & Fractal - Blue",
+      "preview": "https://assets.ppy.sh/artists/313/Secret Weapon/Au5 %26 Fractal - Blue.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Au5 & Fractal - Halcyon",
+      "preview": "https://assets.ppy.sh/artists/313/Monstercat 013 - Awakening/Au5 %26 Fractal - Halcyon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:28:18Z"
+  "updated_at": "2026-03-31T00:06:11Z"
 }

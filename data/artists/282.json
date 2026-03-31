@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Back 2 Life",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/aran - Back 2 Life.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Graces of Heaven",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/aran - Graces of Heaven.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -34,6 +36,7 @@
     },
     {
       "title": "GRiDGALAXY (Nhato Remix)",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/aran - GRiDGALAXY (Nhato Remix).mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -45,6 +48,7 @@
     },
     {
       "title": "Moonbound feat. Yukacco (USAO Remix)",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/aran - Moonbound feat. Yukacco (USAO Remix).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -58,6 +62,7 @@
     },
     {
       "title": "Ripples (DJ Noriken Remix)",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/aran - Ripples (DJ Noriken Remix).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -70,6 +75,7 @@
     },
     {
       "title": "The Vividness of Memory",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/aran - The Vividness of Memory.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -81,6 +87,7 @@
     },
     {
       "title": "Yoake Mae feat. shully",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/aran - Yoake Mae feat. shully.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -92,69 +99,82 @@
     },
     {
       "title": "aran & Kobaryo - While Shining feat. yukacco",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/aran %26 Kobaryo - While Shining feat. yukacco.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "aran & lapix - KALACAKLA",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/aran %26 lapix - KALACAKLA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "aran & t+pazolite - Chobit Flavor",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/aran %26 t%2Bpazolite - Chobit Flavor.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "aran vs USAO - Shizuku",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/aran vs USAO - Shizuku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Decadence 2189",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/aran - Decadence 2189.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Emoticon",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/aran - Emoticon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hyperdawn",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/aran - Hyperdawn.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kobaryo - Eternal Ending (aran Remix)",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/Kobaryo - Eternal Ending (aran Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "May Storm",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/aran - May Storm.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moonbound feat. Yukacco",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/aran - Moonbound feat. Yukacco.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Old is Gold",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/aran - Old is Gold.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Purge",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/aran - Purge.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sunny After Rain (feat. Kanata N.)",
+      "preview": "https://assets.ppy.sh/artists/282/Songs/aran - Sunny After Rain (feat. Kanata N.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:43:19Z"
+  "updated_at": "2026-03-30T23:21:19Z"
 }

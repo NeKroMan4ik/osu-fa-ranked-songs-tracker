@@ -4,64 +4,76 @@
   "tracks": [
     {
       "title": "Anima feat. An",
+      "preview": "https://assets.ppy.sh/artists/231/Thophia/satella - Anima feat. An.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Homura Nagashi",
+      "preview": "https://assets.ppy.sh/artists/231/Irith/satella - Homura Nagashi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Innerverse",
+      "preview": "https://assets.ppy.sh/artists/231/Unitone PHASE 04/satella - Innerverse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Inverter",
+      "preview": "https://assets.ppy.sh/artists/231/Unitone PHASE 07/satella - Inverter.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Radiance",
+      "preview": "https://assets.ppy.sh/artists/231/Thophia/satella - Radiance.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "satella feat. Aitsuki Nakuru - Irith",
+      "preview": "https://assets.ppy.sh/artists/231/Irith/satella_feat._Aitsuki_Nakuru_-_Irith.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "satella feat. Sennzai - Reincarnation",
+      "preview": "https://assets.ppy.sh/artists/231/T%C3%B8destrieb/satella feat. Sennzai - Reincarnation.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "satella feat. Sennzai - Thophia",
+      "preview": "https://assets.ppy.sh/artists/231/Thophia/satella feat. Sennzai - Thophia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shiten Keppu Roku",
+      "preview": "https://assets.ppy.sh/artists/231/Irith/satella - Shiten Keppu Roku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tempus",
+      "preview": "https://assets.ppy.sh/artists/231/Thophia/satella - Tempus.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Vernal Moments",
+      "preview": "https://assets.ppy.sh/artists/231/Synergy/satella - Vernal Moments.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Zanei no Hate",
+      "preview": "https://assets.ppy.sh/artists/231/Irith/satella - Zanei no Hate.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:10:21Z"
+  "updated_at": "2026-03-31T01:48:49Z"
 }

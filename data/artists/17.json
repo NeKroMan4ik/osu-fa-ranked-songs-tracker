@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "COCOA WATERSLIDE",
+      "preview": "https://assets.ppy.sh/artists/17/previews/344.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "ONIGIRI FREEWAY",
+      "preview": "https://assets.ppy.sh/artists/17/previews/347.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -40,6 +42,7 @@
     },
     {
       "title": "PIZZA PLAZA",
+      "preview": "https://assets.ppy.sh/artists/17/previews/348.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -55,6 +58,7 @@
     },
     {
       "title": "UP UP MT. CAKE",
+      "preview": "https://assets.ppy.sh/artists/17/Songs/OISHII_-_UP_UP_MT._CAKE.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -76,19 +80,22 @@
     },
     {
       "title": "HONEY SNOWFLAKES",
+      "preview": "https://assets.ppy.sh/artists/17/previews/345.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ICE CREAM GROWS ON TREES",
+      "preview": "https://assets.ppy.sh/artists/17/previews/346.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "TOAST RUN",
+      "preview": "https://assets.ppy.sh/artists/17/previews/349.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:37:26Z"
+  "updated_at": "2026-03-31T01:15:40Z"
 }

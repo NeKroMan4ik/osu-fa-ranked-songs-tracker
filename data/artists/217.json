@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "DENNOU City Lights",
+      "preview": "https://assets.ppy.sh/artists/217/Songs/Kurubukko - DENNOU City Lights.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Heliopause",
+      "preview": "https://assets.ppy.sh/artists/217/Songs/Kurubukko - Heliopause.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Hometown in Ruins",
+      "preview": "https://assets.ppy.sh/artists/217/Songs/Kurubukko - Hometown in Ruins.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Rain",
+      "preview": "https://assets.ppy.sh/artists/217/Songs/Kurubukko - Rain.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "The 84th Flight",
+      "preview": "https://assets.ppy.sh/artists/217/Songs/Kurubukko - The 84th Flight.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -59,54 +64,64 @@
     },
     {
       "title": "AIWS",
+      "preview": "https://assets.ppy.sh/artists/217/Songs/Kurubukko - AIWS.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "AIWS -divergence-",
+      "preview": "https://assets.ppy.sh/artists/217/Songs/Kurubukko - AIWS -divergence-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "albino",
+      "preview": "https://assets.ppy.sh/artists/217/Songs/Kurubukko - albino.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "alive",
+      "preview": "https://assets.ppy.sh/artists/217/Songs/Kurubukko - alive.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "alpa -Hajimari no Mahou-",
+      "preview": "https://assets.ppy.sh/artists/217/Songs/Kurubukko - alpa -Hajimari no Mahou-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Europa",
+      "preview": "https://assets.ppy.sh/artists/217/Songs/Kurubukko - Europa.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Grain",
+      "preview": "https://assets.ppy.sh/artists/217/Songs/Kurubukko - Grain.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kurubukko vs. yukitani - Minamichita EVOLVED",
+      "preview": "https://assets.ppy.sh/artists/217/Songs/Kurubukko vs. yukitani - Minamichita EVOLVED.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Missing",
+      "preview": "https://assets.ppy.sh/artists/217/Songs/Kurubukko - Missing.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sound of Monochrome",
+      "preview": "https://assets.ppy.sh/artists/217/Songs/Kurubukko - Sound of Monochrome.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:03:26Z"
+  "updated_at": "2026-03-31T00:41:24Z"
 }

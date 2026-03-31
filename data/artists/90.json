@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Ansatsusha! 2010 Fuyu",
+      "preview": "https://assets.ppy.sh/artists/90/previews/2373.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Genkaku Catastrophe",
+      "preview": "https://assets.ppy.sh/artists/90/previews/2374.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -35,6 +37,7 @@
     },
     {
       "title": "Hajimari da ne!",
+      "preview": "https://assets.ppy.sh/artists/90/previews/2375.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -50,6 +53,7 @@
     },
     {
       "title": "Ikari",
+      "preview": "https://assets.ppy.sh/artists/90/previews/2376.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -62,6 +66,7 @@
     },
     {
       "title": "Kienai Hitomi.",
+      "preview": "https://assets.ppy.sh/artists/90/previews/2378.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -73,6 +78,7 @@
     },
     {
       "title": "Oshimai da ze!",
+      "preview": "https://assets.ppy.sh/artists/90/previews/2381.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -84,6 +90,7 @@
     },
     {
       "title": "sayonara! (ED ver)",
+      "preview": "https://assets.ppy.sh/artists/90/Songs/Numtack05_-_sayonara_ED_ver.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -95,44 +102,52 @@
     },
     {
       "title": "Jama Shinaide ne*",
+      "preview": "https://assets.ppy.sh/artists/90/previews/2377.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "kimi no hitomi ni.",
+      "preview": "https://assets.ppy.sh/artists/90/previews/2385.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nemuritai noni!",
+      "preview": "https://assets.ppy.sh/artists/90/previews/2379.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ooki na Hane de!",
+      "preview": "https://assets.ppy.sh/artists/90/previews/2380.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "you envy fancy girl",
+      "preview": "https://assets.ppy.sh/artists/90/previews/2387.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yukkiina!",
+      "preview": "https://assets.ppy.sh/artists/90/previews/2382.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yume ni Sayonara*",
+      "preview": "https://assets.ppy.sh/artists/90/previews/2383.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yume o Miyou yo.",
+      "preview": "https://assets.ppy.sh/artists/90/previews/2384.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:36:57Z"
+  "updated_at": "2026-03-31T01:15:10Z"
 }

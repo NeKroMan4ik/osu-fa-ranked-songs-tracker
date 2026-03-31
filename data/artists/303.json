@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Heliosphere",
+      "preview": "https://assets.ppy.sh/artists/303/Songs/Vorso_-_Heliosphere.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Midnight Sun (feat. Ekcle)",
+      "preview": "https://assets.ppy.sh/artists/303/Songs/Vorso - Midnight Sun (feat. Ekcle).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,29 +28,34 @@
     },
     {
       "title": "Billain & Vorso - Transhumanist",
+      "preview": "https://assets.ppy.sh/artists/303/Songs/Billain__Vorso_-_Transhumanist.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Commanded",
+      "preview": "https://assets.ppy.sh/artists/303/Songs/Vorso - Commanded.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "RefraQ & Vorso - Biomes",
+      "preview": "https://assets.ppy.sh/artists/303/Songs/RefraQ %26 Vorso - Biomes.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Imperative",
+      "preview": "https://assets.ppy.sh/artists/303/Songs/Vorso - The Imperative.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Wannabe",
+      "preview": "https://assets.ppy.sh/artists/303/Songs/Vorso - Wannabe.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:54:45Z"
+  "updated_at": "2026-03-31T02:33:30Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Billy Boogie",
+      "preview": "https://assets.ppy.sh/artists/192/Wing Beats/Wiklund - Billy Boogie.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -16,6 +17,7 @@
     },
     {
       "title": "Crystal Dimension",
+      "preview": "https://assets.ppy.sh/artists/192/Songs/Wiklund - Crystal Dimension.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -27,6 +29,7 @@
     },
     {
       "title": "Joy of Living",
+      "preview": "https://assets.ppy.sh/artists/192/Wing Beats/Wiklund - Joy of Living.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -38,6 +41,7 @@
     },
     {
       "title": "The Digital Force",
+      "preview": "https://assets.ppy.sh/artists/192/Wing Beats/Wiklund - The Digital Force.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -49,6 +53,7 @@
     },
     {
       "title": "Whip the Blip",
+      "preview": "https://assets.ppy.sh/artists/192/Wing Beats/Wiklund - Whip the Blip.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -60,6 +65,7 @@
     },
     {
       "title": "Wing Beats",
+      "preview": "https://assets.ppy.sh/artists/192/Wing Beats/Wiklund - Wing Beats.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -71,24 +77,28 @@
     },
     {
       "title": "Makeshift Clone",
+      "preview": "https://assets.ppy.sh/artists/192/Wing Beats/Wiklund - Makeshift Clone.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mr Turbo Sailor",
+      "preview": "https://assets.ppy.sh/artists/192/Wing Beats/Wiklund - Mr Turbo Sailor.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nova Factory",
+      "preview": "https://assets.ppy.sh/artists/192/Songs/Wiklund - Nova Factory.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tainted Tune",
+      "preview": "https://assets.ppy.sh/artists/192/Wing Beats/Wiklund - Tainted Tune.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:57:35Z"
+  "updated_at": "2026-03-31T02:36:20Z"
 }

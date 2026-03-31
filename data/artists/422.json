@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "FLASHBACK (Radio Edit)",
+      "preview": "https://assets.ppy.sh/artists/422/FLASHBACK/DeBisco - FLASHBACK (Radio Edit).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,34 +16,40 @@
     },
     {
       "title": "Deadbolt (Radio Edit)",
+      "preview": "https://assets.ppy.sh/artists/422/Deadbolt/DeBisco - Deadbolt (Radio Edit).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "EZ",
+      "preview": "https://assets.ppy.sh/artists/422/EZ/DeBisco - EZ.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Overclocked (Pocket Size)",
+      "preview": "https://assets.ppy.sh/artists/422/Overclocked/DeBisco - Overclocked (Pocket Size).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Right Back (Radio Edit)",
+      "preview": "https://assets.ppy.sh/artists/422/Right Back/DeBisco - Right Back (Radio Edit).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Run 4 Cover",
+      "preview": "https://assets.ppy.sh/artists/422/Run 4 Cover/DeBisco - Run 4 Cover.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "You'll B There",
+      "preview": "https://assets.ppy.sh/artists/422/You%27ll B There/DeBisco - You%27ll B There.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:13:42Z"
+  "updated_at": "2026-03-30T23:51:30Z"
 }

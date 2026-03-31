@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "We Love Idol, and Master! (Chiptune)",
+      "preview": "https://assets.ppy.sh/artists/456/Songs/ntyn - We Love Idol%2C and Master! (Chiptune).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,29 +16,34 @@
     },
     {
       "title": "Broken Sun",
+      "preview": "https://assets.ppy.sh/artists/456/Songs/ntyn - Broken Sun.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Desert",
+      "preview": "https://assets.ppy.sh/artists/456/Songs/ntyn - Desert.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Flow",
+      "preview": "https://assets.ppy.sh/artists/456/Songs/ntyn - Flow.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nyan (Version 1.21)",
+      "preview": "https://assets.ppy.sh/artists/456/Songs/ntyn - Nyan (Version 1.21).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Passage of Time",
+      "preview": "https://assets.ppy.sh/artists/456/Songs/ntyn - Passage of Time.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:36:36Z"
+  "updated_at": "2026-03-31T01:14:49Z"
 }

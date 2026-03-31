@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Abrasion",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Abrasion.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Ashes",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Ashes.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -30,6 +32,7 @@
     },
     {
       "title": "Calling",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Calling.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -45,6 +48,7 @@
     },
     {
       "title": "D4NCE",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - D4NCE.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -56,6 +60,7 @@
     },
     {
       "title": "Duplication",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Duplication.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -77,6 +82,7 @@
     },
     {
       "title": "Fallen",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Fallen.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -98,6 +104,7 @@
     },
     {
       "title": "Falling Down feat. Renko x TRIANGLE",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Falling Down feat. Renko x TRIANGLE.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -113,6 +120,7 @@
     },
     {
       "title": "Feelsleft0ut",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Feelsleft0ut.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -123,10 +131,10 @@
         "osu": [
           1811658
         ],
-        "fruits": [
+        "mania": [
           1145368
         ],
-        "mania": [
+        "fruits": [
           1145368
         ],
         "taiko": [
@@ -136,6 +144,7 @@
     },
     {
       "title": "Fluctuation",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Fluctuation.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -159,6 +168,7 @@
     },
     {
       "title": "For Your Christmas",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - For Your Christmas.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -174,6 +184,7 @@
     },
     {
       "title": "Foresight",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Foresight.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -185,6 +196,7 @@
     },
     {
       "title": "Gemini",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Gemini.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -200,6 +212,7 @@
     },
     {
       "title": "Hatsukoi Memories",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Hatsukoi Memories.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -211,6 +224,7 @@
     },
     {
       "title": "Kaleidoscope",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Kaleidoscope.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -222,6 +236,7 @@
     },
     {
       "title": "Let Me Hear",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Let Me Hear.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -234,6 +249,7 @@
     },
     {
       "title": "MEJIRUSHI",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - MEJIRUSHI.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -249,6 +265,7 @@
     },
     {
       "title": "Opal",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Opal.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -260,6 +277,7 @@
     },
     {
       "title": "Re_Construct",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Re_Construct.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -279,6 +297,7 @@
     },
     {
       "title": "Sugary Daydream",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Sugary Daydream.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -294,6 +313,7 @@
     },
     {
       "title": "SUMMER",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - SUMMER.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -313,6 +333,7 @@
     },
     {
       "title": "Swampgator",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Swampgator.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -324,6 +345,7 @@
     },
     {
       "title": "Turbulence",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Turbulence.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -335,6 +357,7 @@
     },
     {
       "title": "Vespera",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Vespera.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -346,6 +369,7 @@
     },
     {
       "title": "Voyage",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Voyage.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -357,94 +381,112 @@
     },
     {
       "title": "awfuless meets Zekk - MATOI",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/awfuless meets Zekk - MATOI.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Co1ossus",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Co1ossus.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cocoon",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Cocoon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Count",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Count.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eternal Cycle",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Eternal Cycle.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Faith",
+      "preview": "https://assets.ppy.sh/artists/76/PRISMA/Zekk - Faith.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Haetae",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Haetae.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "July 31",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - July 31.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mermaid in Mist",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Mermaid in Mist.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mistletoe",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Mistletoe.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "NIRVANA",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - NIRVANA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Quantum L3ap",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Quantum L3ap.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ReIMEI",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - ReIMEI.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Stellar Light",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Stellar Light.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Trinity Force",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Trinity Force.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Zekk & poplavor - Gloomy Flash feat. mami",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk %26 poplavor - Gloomy Flash feat. mami.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Zekk & poplavor - glow feat. Such",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk %26 poplavor - glow feat. Such.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Zekk vs. Awfuless - Glacier",
+      "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk vs. Awfuless - Glacier.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T23:06:57Z"
+  "updated_at": "2026-03-31T02:45:48Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Excelsia",
+      "preview": "https://assets.ppy.sh/artists/466/Excelsia/ak%2Bq - Excelsia.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -16,6 +17,7 @@
     },
     {
       "title": "ikasu",
+      "preview": "https://assets.ppy.sh/artists/466/ikasu/ak%2Bq - ikasu.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -27,6 +29,7 @@
     },
     {
       "title": "Violet Fragmenta",
+      "preview": "https://assets.ppy.sh/artists/466/selected works 2015 - 2019/ak%2Bq - Violet Fragmenta.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -38,49 +41,58 @@
     },
     {
       "title": "ak+q & Redeilia - Enigma Helix",
+      "preview": "https://assets.ppy.sh/artists/466/Enigma Helix/ak%2Bq %26 Redeilia - Enigma Helix.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ardentium Nova",
+      "preview": "https://assets.ppy.sh/artists/466/Ardentium Nova/ak%2Bq - Ardentium Nova.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "atqui levatio",
+      "preview": "https://assets.ppy.sh/artists/466/atqui levatio/ak%2Bq - atqui levatio.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "chromastellia",
+      "preview": "https://assets.ppy.sh/artists/466/chromastellia/ak%2Bq - chromastellia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "chronos_visionia",
+      "preview": "https://assets.ppy.sh/artists/466/Songs/ak%2Bq - chronos%27visionia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "horizon prime",
+      "preview": "https://assets.ppy.sh/artists/466/capture/ak%2Bq - horizon prime.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "radiance of cathartika",
+      "preview": "https://assets.ppy.sh/artists/466/raiance of cathartika/ak%2Bq - radiance of cathartika.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rush Indigo",
+      "preview": "https://assets.ppy.sh/artists/466/selected works 2015 - 2019/ak%2Bq - Rush Indigo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "subconsious-imaging",
+      "preview": "https://assets.ppy.sh/artists/466/Songs/ak%2Bq - subconsious-imaging.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:34:33Z"
+  "updated_at": "2026-03-30T23:12:34Z"
 }

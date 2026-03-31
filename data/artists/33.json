@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Amatium",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Amatium.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Dance With Nightsky",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Dance With Nightsky.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Encounter",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Encounter.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Fuyu no Hime",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Fuyu no Hime.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "Grin",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Grin.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -73,6 +78,7 @@
     },
     {
       "title": "Guitian",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Guitian.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -84,6 +90,7 @@
     },
     {
       "title": "Illusion of Inflict",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Illusion of Inflict.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -100,6 +107,7 @@
     },
     {
       "title": "Infinity Heaven",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN_-_Infinity_Heaven.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -119,6 +127,7 @@
     },
     {
       "title": "Legend of Genesis",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Legend of Genesis.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -130,6 +139,7 @@
     },
     {
       "title": "The Apocalypse",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - The Apocalypse.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -141,6 +151,7 @@
     },
     {
       "title": "Tokyo's Starlight",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Tokyo%27s Starlight.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -157,6 +168,7 @@
     },
     {
       "title": "White Aura",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - White Aura.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -173,6 +185,7 @@
     },
     {
       "title": "Wild Card",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Wild Card.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -184,6 +197,7 @@
     },
     {
       "title": "You'Re aRleAdY dEAd",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - You%27Re aRleAdY dEAd.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -195,184 +209,220 @@
     },
     {
       "title": "Acceleration (feat. heejing#)",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Acceleration (feat. heejing%23).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Better than your error system",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Better than your error system.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Broken White",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Broken White.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Devil's Weapon",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Devil_s Weapon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Electronic Wing (feat. Hatsune Miku)",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Electronic Wing (feat. Hatsune Miku).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "FORBIDDEN ARENA",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - FORBIDDEN ARENA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Girl Embracing the Dark for Light",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Girl Embracing the Dark for Light.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "High Last",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - High Last.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HyuN & Ritoru - Apocalypse in Love",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN %26 Ritoru - Apocalypse in Love.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HyuN feat. Aerial - Exodus",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. Aerial - Exodus.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HyuN feat. Ato - Asu wa Ame ga Yamukara",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. Ato - Asu wa Ame ga Yamukara.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HyuN feat. JeeE - Fallen Angel",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. JeeE - Fallen Angel.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HyuN feat. JP-8 Eater - THE SERVANT OF EVIL",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. JP-8 Eater - THE SERVANT OF EVIL.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HyuN feat. LyuU - CROSS OVER",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. LyuU - CROSS OVER.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HyuN feat. Ms.Valentine - CROSS FATE",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. Ms.Valentine - CROSS FATE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HyuN feat. rerone - Untitled Soul",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. rerone - Untitled Soul.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HyuN feat. Sennzai - Duplicity Shade",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN_feat._Sennzai_-_Duplicity_Shade.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HyuN feat. Syepias - CROSS SOUL",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. Syepias - CROSS SOUL.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HyuN feat. Yu-A - My life is for you",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. Yu-A - My life is for you.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HyuN feat. YURI - Disorder",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. YURI - Disorder.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ignis Heart",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Ignis Heart.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Inferno Force",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Inferno Force.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "iRELLiA",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN_-_iRELLiA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "KANONEFLIEGERFAUST",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - KANONEFLIEGERFAUST.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Love is so fall",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Love is so fall.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MURDER MACHINE",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - MURDER MACHINE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Necromancer for Suicide (feat. UNI)",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Necromancer for Suicide (feat. UNI).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Now I feel you",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Now I feel you.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ostracize",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Ostracize.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Pray For You",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Pray For You.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SHOTGUN",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - SHOTGUN.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Space Inst.",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Space Inst..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tear of Moon (2019 Remake)",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Tear of Moon (2019 Remake).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Utsukushi Memories",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Utsukushi Memories.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Watashi no Sei, Gomenne",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Watashi no Sei%2C Gomenne.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "WE ARE NEVER FUCKING BACK OFF",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - WE ARE NEVER FUCKING BACK OFF.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:44:11Z"
+  "updated_at": "2026-03-31T00:22:03Z"
 }

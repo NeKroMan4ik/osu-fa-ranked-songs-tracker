@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Celldweller - A Matter of Time",
+      "preview": "https://assets.ppy.sh/artists/56/A Matter of Time/Celldweller - A Matter of Time.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Celldweller - End of an Empire",
+      "preview": "https://assets.ppy.sh/artists/56/End of an Empire/Celldweller - End of an Empire.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -30,6 +32,7 @@
     },
     {
       "title": "Celldweller - Good L_ck (Yo_'re F_cked)",
+      "preview": "https://assets.ppy.sh/artists/56/End of an Empire/Celldweller - Good L_ck (Yo_%27re F_cked).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -41,6 +44,7 @@
     },
     {
       "title": "Celldweller - Goodbye (Remixed by Klayton)",
+      "preview": "https://assets.ppy.sh/artists/56/Celldweller Deluxe Edition/Celldweller - Goodbye (Remixed by Klayton).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -52,6 +56,7 @@
     },
     {
       "title": "Celldweller - I Can't Wait",
+      "preview": "https://assets.ppy.sh/artists/56/Wish Upon a Blackstar/Celldweller - I Can%27t Wait.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -68,6 +73,7 @@
     },
     {
       "title": "Celldweller - Just Like You",
+      "preview": "https://assets.ppy.sh/artists/56/End of an Empire/Celldweller - Just Like You.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -79,6 +85,7 @@
     },
     {
       "title": "Celldweller - Lost In Time",
+      "preview": "https://assets.ppy.sh/artists/56/End of an Empire/Celldweller - Lost In Time.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -94,6 +101,7 @@
     },
     {
       "title": "Celldweller - My Disintegration",
+      "preview": "https://assets.ppy.sh/artists/56/My Disintegration/Celldweller - My Disintegration.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -105,6 +113,7 @@
     },
     {
       "title": "Celldweller - Pulsar",
+      "preview": "https://assets.ppy.sh/artists/56/Soundtrack For The Voices In My Head Vol. 02/Celldweller - Pulsar.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -115,16 +124,17 @@
           272785,
           1081119
         ],
-        "taiko": [
+        "mania": [
           272785
         ],
-        "mania": [
+        "taiko": [
           272785
         ]
       }
     },
     {
       "title": "Celldweller - Senorita Bonita",
+      "preview": "https://assets.ppy.sh/artists/56/Soundtrack For The Voices In My Head Vol. 02/Celldweller - Senorita Bonita.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -145,6 +155,7 @@
     },
     {
       "title": "Celldweller - Shapeshifter (feat. Styles of Beyond)",
+      "preview": "https://assets.ppy.sh/artists/56/Celldweller Deluxe Edition/Celldweller - Shapeshifter (feat. Styles of Beyond).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -156,6 +167,7 @@
     },
     {
       "title": "Celldweller - Switchback",
+      "preview": "https://assets.ppy.sh/artists/56/Celldweller Deluxe Edition/Celldweller - Switchback.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -168,6 +180,7 @@
     },
     {
       "title": "Celldweller - The Best It's Gonna Get",
+      "preview": "https://assets.ppy.sh/artists/56/Wish Upon a Blackstar/Celldweller - The Best It%27s Gonna Get.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -180,84 +193,100 @@
     },
     {
       "title": "Celldweller - Against The Tide",
+      "preview": "https://assets.ppy.sh/artists/56/Wish Upon a Blackstar/Celldweller - Against The Tide.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Celldweller - Birthright",
+      "preview": "https://assets.ppy.sh/artists/56/Wish Upon a Blackstar/Celldweller - Birthright.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Celldweller - Electric Eye",
+      "preview": "https://assets.ppy.sh/artists/56/Electric Eye/Celldweller - Electric Eye.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Celldweller - Eon",
+      "preview": "https://assets.ppy.sh/artists/56/Wish Upon a Blackstar/Celldweller - Eon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Celldweller - Frozen",
+      "preview": "https://assets.ppy.sh/artists/56/Celldweller Deluxe Edition/Celldweller - Frozen.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Celldweller - I Believe You",
+      "preview": "https://assets.ppy.sh/artists/56/Celldweller Deluxe Edition/Celldweller - I Believe You.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Celldweller - One Good Reason",
+      "preview": "https://assets.ppy.sh/artists/56/Celldweller Deluxe Edition/Celldweller - One Good Reason.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Celldweller - Retros",
+      "preview": "https://assets.ppy.sh/artists/56/Blackstar/Celldweller - Retros.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Celldweller - So Long Sentiment",
+      "preview": "https://assets.ppy.sh/artists/56/Wish Upon a Blackstar/Celldweller - So Long Sentiment.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Celldweller - The Wings of Icarus (feat. James Dooley)",
+      "preview": "https://assets.ppy.sh/artists/56/Soundtrack For The Voices In My Head Vol. 02/Celldweller - The Wings of Icarus (feat. James Dooley).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Circle of Dust - Dust to Dust",
+      "preview": "https://assets.ppy.sh/artists/56/Dust to Dust/Circle of Dust - Dust to Dust.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Circle of Dust - Humanarchy",
+      "preview": "https://assets.ppy.sh/artists/56/Machines of our Disgrace/Circle of Dust - Humanarchy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Circle of Dust - Onenemy",
+      "preview": "https://assets.ppy.sh/artists/56/Circle of Dust Deluxe Edition/Circle of Dust - Onenemy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Scandroid - Monochrome",
+      "preview": "https://assets.ppy.sh/artists/56/Monochrome/Scandroid - Monochrome.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Scandroid - Neo-Tokyo",
+      "preview": "https://assets.ppy.sh/artists/56/Scandroid/Scandroid - Neo-Tokyo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Subkulture - Erasus (feat. Celldweller)",
+      "preview": "https://assets.ppy.sh/artists/56/Songs/Subkulture - Erasus (feat. Celldweller).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:58:48Z"
+  "updated_at": "2026-03-31T00:36:43Z"
 }

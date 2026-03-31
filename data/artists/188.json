@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Days Away (feat. Voicians)",
+      "preview": "https://assets.ppy.sh/artists/188/Days Away/T %26 Sugah - Days Away (feat. Voicians).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Demons (feat. Voicians)",
+      "preview": "https://assets.ppy.sh/artists/188/Walk Her Way - Demons/T %26 Sugah - Demons (feat. Voicians).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,54 +28,64 @@
     },
     {
       "title": "Demons (feat. Voicians) (Lexurus Remix)",
+      "preview": "https://assets.ppy.sh/artists/188/Liquicity Reflections (Part 3)/T %26 Sugah - Demons (feat. Voicians) (Lexurus Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Green Valleys (L.A.O.S Remix)",
+      "preview": "https://assets.ppy.sh/artists/188/Higher EP/T %26 Sugah - Green Valleys (L.A.O.S Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Higher",
+      "preview": "https://assets.ppy.sh/artists/188/Higher EP/T %26 Sugah - Higher.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Is This Love",
+      "preview": "https://assets.ppy.sh/artists/188/Wicked Days EP/T %26 Sugah - Is This Love.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "T & Sugah x Zazu - Lost On My Own",
+      "preview": "https://assets.ppy.sh/artists/188/Lost On My Own/T %26 Sugah x Zazu - Lost On My Own.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "T & Sugah x Zazu - Lost On My Own (Flite Remix)",
+      "preview": "https://assets.ppy.sh/artists/188/Liquicity Reflections (Part 1)/T %26 Sugah x Zazu - Lost On My Own (Flite Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "T & Sugah/Lexurus - No More",
+      "preview": "https://assets.ppy.sh/artists/188/High Tea Music Vol. 1/T %26 SugahLexurus - No More.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Walk On Air",
+      "preview": "https://assets.ppy.sh/artists/188/High Tea Music Vol. 2/T %26 Sugah - Walk On Air.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "What Will It Take",
+      "preview": "https://assets.ppy.sh/artists/188/Higher EP/T %26 Sugah - What Will It Take.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Wicked Days",
+      "preview": "https://assets.ppy.sh/artists/188/Wicked Days EP/T %26 Sugah - Wicked Days.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:31:25Z"
+  "updated_at": "2026-03-31T02:09:58Z"
 }

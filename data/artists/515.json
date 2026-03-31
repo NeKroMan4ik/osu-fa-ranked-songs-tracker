@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Shatter",
+      "preview": "https://assets.ppy.sh/artists/515/Songs/MIDInco - Shatter.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,24 +16,28 @@
     },
     {
       "title": "Awe",
+      "preview": "https://assets.ppy.sh/artists/515/Songs/MIDInco - Awe.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Confession",
+      "preview": "https://assets.ppy.sh/artists/515/Songs/MIDInco - Confession.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ikaros",
+      "preview": "https://assets.ppy.sh/artists/515/Songs/MIDInco - Ikaros.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Starlight",
+      "preview": "https://assets.ppy.sh/artists/515/Songs/MIDInco - Starlight.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:21:50Z"
+  "updated_at": "2026-03-31T00:59:57Z"
 }

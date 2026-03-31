@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Aleph-0",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1980.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -23,6 +24,7 @@
     },
     {
       "title": "Aleph-0 (extended ver.)",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1979.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -36,6 +38,7 @@
     },
     {
       "title": "Alice in Misanthrope -Ensei Alice-",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1981.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -60,6 +63,7 @@
     },
     {
       "title": "Arianrhod",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1982.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -81,6 +85,7 @@
     },
     {
       "title": "ATHAZA",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1978.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -92,6 +97,7 @@
     },
     {
       "title": "Calamity Fortune",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1984.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -119,6 +125,7 @@
     },
     {
       "title": "Calamity Fortune (extended ver.)",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1983.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -144,6 +151,7 @@
     },
     {
       "title": "Chronostasis",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1985.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -155,6 +163,7 @@
     },
     {
       "title": "Doppelganger",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1987.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -173,6 +182,7 @@
     },
     {
       "title": "Doppelganger (extended ver.)",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1986.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -192,6 +202,7 @@
     },
     {
       "title": "Evanescent",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1989.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -217,6 +228,7 @@
     },
     {
       "title": "Evanescent (extended ver.)",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1988.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -236,6 +248,7 @@
     },
     {
       "title": "I",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1991.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -255,6 +268,7 @@
     },
     {
       "title": "Kyouki Ranbu",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1993.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -278,6 +292,7 @@
     },
     {
       "title": "Kyouki Ranbu (extended ver.)",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1992.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -300,6 +315,7 @@
     },
     {
       "title": "MARENOL",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1995.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -320,6 +336,7 @@
     },
     {
       "title": "MEPHISTO",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1996.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -345,6 +362,7 @@
     },
     {
       "title": "Mopemope",
+      "preview": "https://assets.ppy.sh/artists/73/previews/2001.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -366,6 +384,7 @@
     },
     {
       "title": "Poison AND/OR Affection",
+      "preview": "https://assets.ppy.sh/artists/73/previews/2003.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -381,6 +400,7 @@
     },
     {
       "title": "Wizdomiot",
+      "preview": "https://assets.ppy.sh/artists/73/previews/2005.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -404,6 +424,7 @@
     },
     {
       "title": "Wizdomiot (extended ver.)",
+      "preview": "https://assets.ppy.sh/artists/73/previews/2004.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -428,49 +449,58 @@
     },
     {
       "title": "ATHAZA (extended ver.)",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1977.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Heterochromia Iridis",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1976.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "I (extended ver.)",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1990.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lyrith -Meikyuu Lilith-",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1994.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Melhenia -malchenia-",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1997.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mere Fancy",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1999.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mere Fancy (extended ver.)",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1998.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mopemope (extended ver.)",
+      "preview": "https://assets.ppy.sh/artists/73/previews/2000.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Poison AND/OR Affection (extended ver.)",
+      "preview": "https://assets.ppy.sh/artists/73/previews/2002.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:05:31Z"
+  "updated_at": "2026-03-31T00:43:30Z"
 }

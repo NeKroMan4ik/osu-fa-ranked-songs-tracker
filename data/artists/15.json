@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Ad Astra",
+      "preview": "https://assets.ppy.sh/artists/15/Monolithia/Fractal_Dreamers_-_Ad_Astra.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -20,6 +21,7 @@
     },
     {
       "title": "Blue Haven",
+      "preview": "https://assets.ppy.sh/artists/15/Everything For A Dream/Fractal Dreamers - Blue Haven.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -31,6 +33,7 @@
     },
     {
       "title": "Celestial Horizon",
+      "preview": "https://assets.ppy.sh/artists/15/Everything For A Dream/Fractal Dreamers - Celestial Horizon.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -53,6 +56,7 @@
     },
     {
       "title": "Defiance",
+      "preview": "https://assets.ppy.sh/artists/15/Everything For A Dream/Fractal Dreamers - Defiance.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -68,6 +72,7 @@
     },
     {
       "title": "Everything for a Dream",
+      "preview": "https://assets.ppy.sh/artists/15/Everything For A Dream/Fractal Dreamers - Everything for a Dream.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -79,6 +84,7 @@
     },
     {
       "title": "Ex Nihilo",
+      "preview": "https://assets.ppy.sh/artists/15/Azure of the Horizon/Fractal Dreamers - Ex Nihilo.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -90,6 +96,7 @@
     },
     {
       "title": "Fata Morgana",
+      "preview": "https://assets.ppy.sh/artists/15/Everything For A Dream/Fractal Dreamers - Fata Morgana.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -101,6 +108,7 @@
     },
     {
       "title": "Fortuna Redux",
+      "preview": "https://assets.ppy.sh/artists/15/Kingdom of Silence EP/Fractal Dreamers - Fortuna Redux.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -116,6 +124,7 @@
     },
     {
       "title": "Fragments of You",
+      "preview": "https://assets.ppy.sh/artists/15/Azure of the Horizon/Fractal Dreamers - Fragments of You.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -131,16 +140,17 @@
     },
     {
       "title": "Gardens Under A Spring Sky",
+      "preview": "https://assets.ppy.sh/artists/15/Monolithia/Fractal_Dreamers_-_Gardens_Under_A_Spring_Sky.mp3",
       "ranked_modes": [
         "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "mania": [
           1080892
         ],
-        "mania": [
+        "taiko": [
           1080892
         ],
         "osu": [
@@ -152,6 +162,7 @@
     },
     {
       "title": "Kingdom of Silence",
+      "preview": "https://assets.ppy.sh/artists/15/Kingdom of Silence EP/Fractal Dreamers - Kingdom of Silence.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -163,6 +174,7 @@
     },
     {
       "title": "Method of Illusion",
+      "preview": "https://assets.ppy.sh/artists/15/Monolithia/Fractal_Dreamers_-_Method_of_Illusion.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -174,6 +186,7 @@
     },
     {
       "title": "Module_410",
+      "preview": "https://assets.ppy.sh/artists/15/Monolithia/Fractal_Dreamers_-_Module_410.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -196,6 +209,7 @@
     },
     {
       "title": "Monolithia",
+      "preview": "https://assets.ppy.sh/artists/15/Monolithia/Fractal_Dreamers_-_Monolithia.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -207,6 +221,7 @@
     },
     {
       "title": "Paradigm Shift",
+      "preview": "https://assets.ppy.sh/artists/15/Kingdom of Silence EP/Fractal Dreamers - Paradigm Shift.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -219,6 +234,7 @@
     },
     {
       "title": "Scarlet Night",
+      "preview": "https://assets.ppy.sh/artists/15/Monolithia/Fractal_Dreamers_-_Scarlet_Night.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -230,6 +246,7 @@
     },
     {
       "title": "Whispers from a Distant Star",
+      "preview": "https://assets.ppy.sh/artists/15/Azure of the Horizon/Fractal Dreamers - Whispers from a Distant Star.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -250,6 +267,7 @@
     },
     {
       "title": "With Every Wanderer's Breath",
+      "preview": "https://assets.ppy.sh/artists/15/Everything For A Dream/Fractal Dreamers - With Every Wanderer%27s Breath.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -261,69 +279,82 @@
     },
     {
       "title": "Azure of the Horizon",
+      "preview": "https://assets.ppy.sh/artists/15/Azure of the Horizon/Fractal Dreamers - Azure of the Horizon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blueshift",
+      "preview": "https://assets.ppy.sh/artists/15/Azure of the Horizon/Fractal Dreamers - Blueshift.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Clarum Somnium",
+      "preview": "https://assets.ppy.sh/artists/15/Kingdom of Silence EP/Fractal Dreamers - Clarum Somnium.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Crossing the Waterscape",
+      "preview": "https://assets.ppy.sh/artists/15/Everything For A Dream/Fractal Dreamers - Crossing the Waterscape.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dreamscape",
+      "preview": "https://assets.ppy.sh/artists/15/Azure of the Horizon/Fractal Dreamers - Dreamscape.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Elysian Fields",
+      "preview": "https://assets.ppy.sh/artists/15/Monolithia/Fractal_Dreamers_-_Elysian_Fields.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Infinity Chasers",
+      "preview": "https://assets.ppy.sh/artists/15/Kingdom of Silence EP/Fractal Dreamers - Infinity Chasers.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Perihelion",
+      "preview": "https://assets.ppy.sh/artists/15/Azure of the Horizon/Fractal Dreamers - Perihelion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ragnarok",
+      "preview": "https://assets.ppy.sh/artists/15/Azure of the Horizon/Fractal Dreamers - Ragnarok.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Reku Mochizuki & skymuted - Realm in the Sky",
+      "preview": "https://assets.ppy.sh/artists/15/Realm in the Sky/Reku Mochizuki %26 skymuted - Realm in the Sky.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "skymuted & Evin a'k - memory at angels landing",
+      "preview": "https://assets.ppy.sh/artists/15/Memory at Angels Landing/skymuted__Evin_ak_-_memory_at_angels_landing.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Singing Swan",
+      "preview": "https://assets.ppy.sh/artists/15/Everything For A Dream/Fractal Dreamers - The Singing Swan.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Virulence",
+      "preview": "https://assets.ppy.sh/artists/15/Monolithia/Fractal_Dreamers_-_Virulence.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:29:02Z"
+  "updated_at": "2026-03-31T00:06:54Z"
 }

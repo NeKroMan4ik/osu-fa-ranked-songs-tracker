@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Blessed He With Boils",
+      "preview": "https://assets.ppy.sh/artists/152/Blessed He With Boils/Xanthochroid - Blessed He With Boils.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "In Putris Stagnum",
+      "preview": "https://assets.ppy.sh/artists/152/Blessed He With Boils/Xanthochroid - In Putris Stagnum.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -38,6 +40,7 @@
     },
     {
       "title": "Long Live Our Lifeless King",
+      "preview": "https://assets.ppy.sh/artists/152/Blessed He With Boils/Xanthochroid - Long Live Our Lifeless King.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -49,6 +52,7 @@
     },
     {
       "title": "Of Aching Empty Pain",
+      "preview": "https://assets.ppy.sh/artists/152/Of Erthe and Axen Act II/Xanthochroid - Of Aching Empty Pain.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -60,6 +64,7 @@
     },
     {
       "title": "Of Gods Bereft of Grace",
+      "preview": "https://assets.ppy.sh/artists/152/Of Erthe and Axen Act II/Xanthochroid - Of Gods Bereft of Grace.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -76,6 +81,7 @@
     },
     {
       "title": "Of Strength and the Lust for Power",
+      "preview": "https://assets.ppy.sh/artists/152/Of Erthe and Axen Act II/Xanthochroid - Of Strength and the Lust for Power.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -92,6 +98,7 @@
     },
     {
       "title": "The Sound of a Glinting Blade / The Sound Which Has No Name",
+      "preview": "https://assets.ppy.sh/artists/152/Of Erthe and Axen Act I/Xanthochroid - The Sound of a Glinting Blade  The Sound Which Has No Name.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -103,6 +110,7 @@
     },
     {
       "title": "The Sound of Hunger Rises",
+      "preview": "https://assets.ppy.sh/artists/152/Of Erthe and Axen Act I/Xanthochroid - The Sound of Hunger Rises.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -118,6 +126,7 @@
     },
     {
       "title": "To Higher Climes Where Few Might Stand",
+      "preview": "https://assets.ppy.sh/artists/152/Of Erthe and Axen Act I/Xanthochroid - To Higher Climes Where Few Might Stand.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -129,6 +138,7 @@
     },
     {
       "title": "Toward Truth and Reconciliation",
+      "preview": "https://assets.ppy.sh/artists/152/Of Erthe and Axen Act II/Xanthochroid - Toward Truth and Reconciliation.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -140,39 +150,46 @@
     },
     {
       "title": "Incultus",
+      "preview": "https://assets.ppy.sh/artists/152/Incultus/Xanthochroid - Incultus.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rebirth of an Old Nation",
+      "preview": "https://assets.ppy.sh/artists/152/Blessed He With Boils/Xanthochroid - Rebirth of an Old Nation.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Last Relic of Axen",
+      "preview": "https://assets.ppy.sh/artists/152/Incultus/Xanthochroid - The Last Relic of Axen.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Leper's Prospect",
+      "preview": "https://assets.ppy.sh/artists/152/Blessed He With Boils/Xanthochroid - The Leper's Prospect.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Sound of a Glinting Blade",
+      "preview": "https://assets.ppy.sh/artists/152/Of Erthe and Axen Act I/Xanthochroid - The Sound of a Glinting Blade.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Sound Which Has No Name",
+      "preview": "https://assets.ppy.sh/artists/152/Of Erthe and Axen Act I/Xanthochroid - The Sound Which Has No Name.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Through Chains That Drag Us Downward",
+      "preview": "https://assets.ppy.sh/artists/152/Of Erthe and Axen Act II/Xanthochroid - Through Chains That Drag Us Downward.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:59:10Z"
+  "updated_at": "2026-03-31T02:37:57Z"
 }

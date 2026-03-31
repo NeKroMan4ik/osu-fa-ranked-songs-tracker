@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "8BIT FAIRY TALE",
+      "preview": "https://assets.ppy.sh/artists/12/previews/220.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -19,6 +20,7 @@
     },
     {
       "title": "CLONED",
+      "preview": "https://assets.ppy.sh/artists/12/previews/209.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -30,6 +32,7 @@
     },
     {
       "title": "DIGITAL HEART",
+      "preview": "https://assets.ppy.sh/artists/12/previews/171.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -41,6 +44,7 @@
     },
     {
       "title": "Ghosts",
+      "preview": "https://assets.ppy.sh/artists/12/previews/609.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -56,6 +60,7 @@
     },
     {
       "title": "GLITCH",
+      "preview": "https://assets.ppy.sh/artists/12/previews/214.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -67,6 +72,7 @@
     },
     {
       "title": "H8 U",
+      "preview": "https://assets.ppy.sh/artists/12/previews/173.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -82,6 +88,7 @@
     },
     {
       "title": "H8 U 2",
+      "preview": "https://assets.ppy.sh/artists/12/previews/203.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -93,6 +100,7 @@
     },
     {
       "title": "ROOM 12",
+      "preview": "https://assets.ppy.sh/artists/12/previews/206.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -104,6 +112,7 @@
     },
     {
       "title": "SOCIAL PHOBIA",
+      "preview": "https://assets.ppy.sh/artists/12/previews/179.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -115,6 +124,7 @@
     },
     {
       "title": "TONIGHT",
+      "preview": "https://assets.ppy.sh/artists/12/previews/191.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -126,6 +136,7 @@
     },
     {
       "title": "We are Forever",
+      "preview": "https://assets.ppy.sh/artists/12/previews/1270.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -137,6 +148,7 @@
     },
     {
       "title": "WHEN AN ANGEL DIES",
+      "preview": "https://assets.ppy.sh/artists/12/previews/181.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -152,6 +164,7 @@
     },
     {
       "title": "WINTER ERROR",
+      "preview": "https://assets.ppy.sh/artists/12/previews/193.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -163,6 +176,7 @@
     },
     {
       "title": "WTF?",
+      "preview": "https://assets.ppy.sh/artists/12/previews/194.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -174,344 +188,412 @@
     },
     {
       "title": "65536",
+      "preview": "https://assets.ppy.sh/artists/12/previews/195.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "8 BIT NO TAMASHI",
+      "preview": "https://assets.ppy.sh/artists/12/previews/182.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ALL NIGHT LONG",
+      "preview": "https://assets.ppy.sh/artists/12/previews/208.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ALPHA",
+      "preview": "https://assets.ppy.sh/artists/12/previews/196.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ANDROID",
+      "preview": "https://assets.ppy.sh/artists/12/previews/221.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ANOTHER WORLD",
+      "preview": "https://assets.ppy.sh/artists/12/previews/222.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ARCADE JOURNEYS",
+      "preview": "https://assets.ppy.sh/artists/12/previews/223.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BEGINNING OF ANXIETY",
+      "preview": "https://assets.ppy.sh/artists/12/previews/183.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BROKEN STAR",
+      "preview": "https://assets.ppy.sh/artists/12/previews/197.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "CHINA",
+      "preview": "https://assets.ppy.sh/artists/12/previews/198.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "COMPUTER DATE",
+      "preview": "https://assets.ppy.sh/artists/12/previews/199.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Destroy",
+      "preview": "https://assets.ppy.sh/artists/12/previews/602.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DETACHED REALITY",
+      "preview": "https://assets.ppy.sh/artists/12/previews/200.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DIGITAL MEMORIES",
+      "preview": "https://assets.ppy.sh/artists/12/previews/184.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DO IT AGAIN",
+      "preview": "https://assets.ppy.sh/artists/12/previews/210.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DOOMSDAY",
+      "preview": "https://assets.ppy.sh/artists/12/previews/211.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Drowning",
+      "preview": "https://assets.ppy.sh/artists/12/previews/603.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "EIGHTIES",
+      "preview": "https://assets.ppy.sh/artists/12/previews/224.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "EIGHTIES (REMASTER)",
+      "preview": "https://assets.ppy.sh/artists/12/previews/212.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eighty-five",
+      "preview": "https://assets.ppy.sh/artists/12/previews/604.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Everywhere",
+      "preview": "https://assets.ppy.sh/artists/12/previews/606.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "FALLING APART",
+      "preview": "https://assets.ppy.sh/artists/12/previews/201.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "FINAL CHAPTER",
+      "preview": "https://assets.ppy.sh/artists/12/previews/172.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Funkotronic",
+      "preview": "https://assets.ppy.sh/artists/12/previews/607.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "GHOST TOWN",
+      "preview": "https://assets.ppy.sh/artists/12/previews/213.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "GONE TOO SOON",
+      "preview": "https://assets.ppy.sh/artists/12/previews/185.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "GRAVITY",
+      "preview": "https://assets.ppy.sh/artists/12/previews/202.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HALF SAVAGE",
+      "preview": "https://assets.ppy.sh/artists/12/previews/174.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Heaven",
+      "preview": "https://assets.ppy.sh/artists/12/previews/610.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HI-LAND COO",
+      "preview": "https://assets.ppy.sh/artists/12/previews/175.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HOLD BACK",
+      "preview": "https://assets.ppy.sh/artists/12/previews/225.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HONGDAE",
+      "preview": "https://assets.ppy.sh/artists/12/previews/226.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HOPE DIES LAST",
+      "preview": "https://assets.ppy.sh/artists/12/previews/227.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "IN THE PAST",
+      "preview": "https://assets.ppy.sh/artists/12/previews/177.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "INSIDE OF ME",
+      "preview": "https://assets.ppy.sh/artists/12/previews/176.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ITAEWON",
+      "preview": "https://assets.ppy.sh/artists/12/previews/228.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "LEFT BEHIND",
+      "preview": "https://assets.ppy.sh/artists/12/previews/215.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "LET'S PLAY",
+      "preview": "https://assets.ppy.sh/artists/12/previews/229.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "LIKE A DEAD PIXELS",
+      "preview": "https://assets.ppy.sh/artists/12/previews/178.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lullaby",
+      "preview": "https://assets.ppy.sh/artists/12/previews/611.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MIDNIGHT LIGHTS",
+      "preview": "https://assets.ppy.sh/artists/12/previews/230.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Museum of Failed Efforts",
+      "preview": "https://assets.ppy.sh/artists/12/previews/1265.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Neon Thrills",
+      "preview": "https://assets.ppy.sh/artists/12/previews/1266.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "NEVER BORN",
+      "preview": "https://assets.ppy.sh/artists/12/previews/186.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "NIGHTWALKING",
+      "preview": "https://assets.ppy.sh/artists/12/previews/216.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PAPERGIRL",
+      "preview": "https://assets.ppy.sh/artists/12/previews/217.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Perpetual Motion",
+      "preview": "https://assets.ppy.sh/artists/12/previews/1267.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PIXEL MY HEART",
+      "preview": "https://assets.ppy.sh/artists/12/previews/187.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PIXELOVE",
+      "preview": "https://assets.ppy.sh/artists/12/previews/204.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "POISON",
+      "preview": "https://assets.ppy.sh/artists/12/previews/231.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PRELUDE",
+      "preview": "https://assets.ppy.sh/artists/12/previews/188.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PURE COINCIDENCE",
+      "preview": "https://assets.ppy.sh/artists/12/previews/189.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "R3B0RN",
+      "preview": "https://assets.ppy.sh/artists/12/previews/205.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ROUND THE WORLD",
+      "preview": "https://assets.ppy.sh/artists/12/previews/218.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SECRET LEVEL",
+      "preview": "https://assets.ppy.sh/artists/12/previews/219.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Space Invasion",
+      "preview": "https://assets.ppy.sh/artists/12/previews/612.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "STAND ALONE",
+      "preview": "https://assets.ppy.sh/artists/12/previews/190.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sunset",
+      "preview": "https://assets.ppy.sh/artists/12/previews/613.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SURVIVE",
+      "preview": "https://assets.ppy.sh/artists/12/previews/232.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Take Control",
+      "preview": "https://assets.ppy.sh/artists/12/previews/614.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tetra Tennis",
+      "preview": "https://assets.ppy.sh/artists/12/previews/1268.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "THE OTHER SIDE",
+      "preview": "https://assets.ppy.sh/artists/12/previews/233.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Under Your Skin",
+      "preview": "https://assets.ppy.sh/artists/12/previews/616.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Walkman",
+      "preview": "https://assets.ppy.sh/artists/12/previews/1269.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "WE AIN'T FINISHED YET",
+      "preview": "https://assets.ppy.sh/artists/12/previews/180.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "WE COME TOGETHER",
+      "preview": "https://assets.ppy.sh/artists/12/previews/192.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "WOKEN UP @ 3AM",
+      "preview": "https://assets.ppy.sh/artists/12/previews/207.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Young Forever",
+      "preview": "https://assets.ppy.sh/artists/12/previews/617.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:14:56Z"
+  "updated_at": "2026-03-31T00:52:58Z"
 }

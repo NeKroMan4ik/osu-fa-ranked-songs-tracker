@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Aurora",
+      "preview": "https://assets.ppy.sh/artists/357/Fairy Tale/Synthion - Aurora.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -15,10 +16,10 @@
           1290796,
           2317522
         ],
-        "taiko": [
+        "osu": [
           2007718
         ],
-        "osu": [
+        "taiko": [
           2007718
         ],
         "mania": [
@@ -28,6 +29,7 @@
     },
     {
       "title": "Blossom",
+      "preview": "https://assets.ppy.sh/artists/357/Fairy Tale/Synthion - Blossom.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -39,6 +41,7 @@
     },
     {
       "title": "Spica",
+      "preview": "https://assets.ppy.sh/artists/357/Stardust EP/Synthion - Spica.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -50,6 +53,7 @@
     },
     {
       "title": "VIVIDVELOCITY",
+      "preview": "https://assets.ppy.sh/artists/357/VIVIDVELOCITY/Synthion - VIVIDVELOCITY.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -61,34 +65,40 @@
     },
     {
       "title": "Comet",
+      "preview": "https://assets.ppy.sh/artists/357/Bright Green/Synthion - Comet.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Galactic",
+      "preview": "https://assets.ppy.sh/artists/357/Galactic/Synthion - Galactic.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hyper Beam",
+      "preview": "https://assets.ppy.sh/artists/357/Hyper Beam/Synthion - Hyper Beam.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Konpeito",
+      "preview": "https://assets.ppy.sh/artists/357/Konpeito/Synthion - Konpeito.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Synthion, Yuuna Nini - By My Side",
+      "preview": "https://assets.ppy.sh/artists/357/PRISMA/Synthion%2C Yuuna Nini - By My Side.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Waltz Capriccio",
+      "preview": "https://assets.ppy.sh/artists/357/Waltz Capriccio/Synthion - Waltz Capriccio.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:31:08Z"
+  "updated_at": "2026-03-31T02:09:41Z"
 }

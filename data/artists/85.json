@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Jungle Cruise",
+      "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions - Jungle Cruise.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Porta Vista",
+      "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions - Porta Vista.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -30,6 +32,7 @@
     },
     {
       "title": "Ski",
+      "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions - Ski.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -41,6 +44,7 @@
     },
     {
       "title": "Snow Day",
+      "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions - Snow Day.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -52,6 +56,7 @@
     },
     {
       "title": "Surf",
+      "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions - Surf.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -63,34 +68,40 @@
     },
     {
       "title": "Hyper Potions & Mega Flare - Where We Wanna Be (feat. Slyleaf)",
+      "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions %26 Mega Flare - Where We Wanna Be (feat. Slyleaf).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hyper Potions & MYLK - Jelly",
+      "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions %26 MYLK - Jelly.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hyper Potions & Samme - Puppy Raceway",
+      "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions %26 Samme - Puppy Raceway.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hyper Potions & Skye Rocket - Shooting Star",
+      "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions %26 Skye Rocket - Shooting Star.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hyper Potions, Synthion & MYLK - Maboroshi",
+      "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions%2C Synthion %26 MYLK - Maboroshi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Trick or Treat",
+      "preview": "https://assets.ppy.sh/artists/85/Songs/Hyper Potions - Trick or Treat.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:41:53Z"
+  "updated_at": "2026-03-31T00:19:47Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "arcanegatewanderer",
+      "preview": "https://assets.ppy.sh/artists/58/Into the Void/Kurokotei - arcanegatewanderer.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "callback",
+      "preview": "https://assets.ppy.sh/artists/58/Into the Void/Kurokotei - callback.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Into the Void",
+      "preview": "https://assets.ppy.sh/artists/58/Into the Void/Kurokotei - Into the Void.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Lusamine in a Perfect World",
+      "preview": "https://assets.ppy.sh/artists/58/previews/1674.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -56,54 +60,64 @@
     },
     {
       "title": "Astar (Extended)",
+      "preview": "https://assets.ppy.sh/artists/58/Into the Void/Kurokotei - Astar (Extended).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dystopian Warriors",
+      "preview": "https://assets.ppy.sh/artists/58/Into the Void/Kurokotei - Dystopian Warriors.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fracture Temporelle (Extended)",
+      "preview": "https://assets.ppy.sh/artists/58/Into the Void/Kurokotei - Fracture Temporelle (Extended).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kara & Kurokotei - Valley of Voices",
+      "preview": "https://assets.ppy.sh/artists/58/Songs/Kara %26 Kurokotei - Valley of Voices.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kurokotei as Lidelle + eili - Sfir'elle ~ la novella ~",
+      "preview": "https://assets.ppy.sh/artists/58/Songs/Kurokotei_as_Lidelle__eili_-_Sfirelle__la_novella_.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there)",
+      "preview": "https://assets.ppy.sh/artists/58/Songs/Kurokotei feat. Sennzai - escape (the looking-glass%2C and what alice found there).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "l'Historia",
+      "preview": "https://assets.ppy.sh/artists/58/Into the Void/Kurokotei - l%27Historia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Neurotoxicity",
+      "preview": "https://assets.ppy.sh/artists/58/Into the Void/Kurokotei - Neurotoxicity.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "stdpriority_queueT",
+      "preview": "https://assets.ppy.sh/artists/58/Into the Void/Kurokotei - stdpriority_queueT.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "TWC Sound Team \"Zeroth Powers\" - One One",
+      "preview": "https://assets.ppy.sh/artists/58/Songs/TWC_Sound_Team_Zeroth_Powers_-_One_One.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:03:05Z"
+  "updated_at": "2026-03-31T00:41:03Z"
 }

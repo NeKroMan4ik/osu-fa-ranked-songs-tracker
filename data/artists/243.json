@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Amnehilesie",
+      "preview": "https://assets.ppy.sh/artists/243/Songs/MisomyL - Amnehilesie.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -20,6 +21,7 @@
     },
     {
       "title": "Catalinesie",
+      "preview": "https://assets.ppy.sh/artists/243/Songs/MisomyL - Catalinesie.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -31,6 +33,7 @@
     },
     {
       "title": "Mukishitsu Sekai ni Irodori o",
+      "preview": "https://assets.ppy.sh/artists/243/Songs/MisomyL - Mukishitsu Sekai ni Irudori o.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -42,24 +45,28 @@
     },
     {
       "title": "Atashi no Juuoumujin Chou Jiyuu Yuugiki Sekai Keikaku feat. Haachi",
+      "preview": "https://assets.ppy.sh/artists/243/Songs/MisomyL - Atashi no Juuoumujin Chou Jiyuu Yuugiki Sekai Keikaku feat. Haachi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Coming*True!!",
+      "preview": "https://assets.ppy.sh/artists/243/Songs/MisomyL - ComingTrue!!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mirai no Uchuu ni Omoi o Nosete",
+      "preview": "https://assets.ppy.sh/artists/243/Songs/MisomyL - Mirai no Uchuu ni Omoi o Nosete.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SynG feat. Pumpkin",
+      "preview": "https://assets.ppy.sh/artists/243/Songs/MisomyL - SynG feat. Pumpkin.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:24:06Z"
+  "updated_at": "2026-03-31T01:02:14Z"
 }

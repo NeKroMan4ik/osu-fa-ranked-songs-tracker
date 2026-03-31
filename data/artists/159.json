@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "A Song About Naps (Vessence Remix)",
+      "preview": "https://assets.ppy.sh/artists/159/Songs/Grynpyret - A Song About Naps (Vessence Remix).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Boba Beach",
+      "preview": "https://assets.ppy.sh/artists/159/Songs/Grynpyret - Boba Beach.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,39 +28,46 @@
     },
     {
       "title": "A Song About Naps",
+      "preview": "https://assets.ppy.sh/artists/159/Songs/Grynpyret - A Song About Naps.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Easy Bean",
+      "preview": "https://assets.ppy.sh/artists/159/Songs/Grynpyret - Easy Bean.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "I Forgive",
+      "preview": "https://assets.ppy.sh/artists/159/Songs/Grynpyret - I Forgive.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kites",
+      "preview": "https://assets.ppy.sh/artists/159/Songs/Grynpyret - Kites.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tamagotchi",
+      "preview": "https://assets.ppy.sh/artists/159/Songs/Grynpyret - Tamagotchi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Trinket Island",
+      "preview": "https://assets.ppy.sh/artists/159/Songs/Grynpyret - Trinket Island.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Wings",
+      "preview": "https://assets.ppy.sh/artists/159/Songs/Grynpyret - Wings.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:35:33Z"
+  "updated_at": "2026-03-31T00:13:27Z"
 }

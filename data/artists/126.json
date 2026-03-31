@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "MOON LIGHT WAVE",
+      "preview": "https://assets.ppy.sh/artists/126/Epsilon/BLOOD STAIN CHILD - MOON LIGHT WAVE.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,64 +16,76 @@
     },
     {
       "title": "Dedicated to VIOLATOR",
+      "preview": "https://assets.ppy.sh/artists/126/Epsilon/BLOOD STAIN CHILD - Dedicated to VIOLATOR.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ELECTRICITY",
+      "preview": "https://assets.ppy.sh/artists/126/Epsilon/BLOOD STAIN CHILD - ELECTRICITY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ETERNAL",
+      "preview": "https://assets.ppy.sh/artists/126/Epsilon/BLOOD STAIN CHILD - ETERNAL.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "FOREVER FREE",
+      "preview": "https://assets.ppy.sh/artists/126/Epsilon/BLOOD STAIN CHILD - FOREVER FREE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "La+",
+      "preview": "https://assets.ppy.sh/artists/126/Epsilon/BLOOD STAIN CHILD - La+.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Merry-Go-Round",
+      "preview": "https://assets.ppy.sh/artists/126/Epsilon/BLOOD STAIN CHILD - Merry-Go-Round.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Royal Sky",
+      "preview": "https://assets.ppy.sh/artists/126/Epsilon/BLOOD STAIN CHILD - Royal Sky.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "S.O.P.H.I.A.",
+      "preview": "https://assets.ppy.sh/artists/126/Epsilon/BLOOD STAIN CHILD - S.O.P.H.I.A..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SAI-KA-NO",
+      "preview": "https://assets.ppy.sh/artists/126/Epsilon/BLOOD STAIN CHILD - SAI-KA-NO.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SIRIUS VI",
+      "preview": "https://assets.ppy.sh/artists/126/Epsilon/BLOOD STAIN CHILD - SIRIUS VI.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "STARGAZER",
+      "preview": "https://assets.ppy.sh/artists/126/Epsilon/BLOOD STAIN CHILD - STARGAZER.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Unlimited Alchemist",
+      "preview": "https://assets.ppy.sh/artists/126/Epsilon/BLOOD STAIN CHILD - Unlimited Alchemist.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:54:39Z"
+  "updated_at": "2026-03-30T23:32:36Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Gemini",
+      "preview": "https://assets.ppy.sh/artists/202/Songs/tokiwa - Gemini.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Memoirs feat. Aitsuki Nakuru",
+      "preview": "https://assets.ppy.sh/artists/202/Songs/tokiwa - Memoirs feat. Aitsuki Nakuru.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -28,16 +30,17 @@
         "fruits": [
           1664624
         ],
-        "taiko": [
+        "mania": [
           976366
         ],
-        "mania": [
+        "taiko": [
           976366
         ]
       }
     },
     {
       "title": "Orthodox",
+      "preview": "https://assets.ppy.sh/artists/202/Songs/tokiwa - Orthodox.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -49,6 +52,7 @@
     },
     {
       "title": "Syuou Sange",
+      "preview": "https://assets.ppy.sh/artists/202/Songs/tokiwa - Syuou Sange.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -65,6 +69,7 @@
     },
     {
       "title": "wasurena feat. Sennzai",
+      "preview": "https://assets.ppy.sh/artists/202/Songs/tokiwa - Wasurena feat. Sennzai.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -89,19 +94,22 @@
     },
     {
       "title": "La rose jaune",
+      "preview": "https://assets.ppy.sh/artists/202/Songs/tokiwa - La rose jaune.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Snow White",
+      "preview": "https://assets.ppy.sh/artists/202/Songs/tokiwa - Snow White.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "tokiwa feat. Nakamura Sanso - Kotodama Refrain",
+      "preview": "https://assets.ppy.sh/artists/202/Songs/tokiwa - Kotodama Refrain.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:41:01Z"
+  "updated_at": "2026-03-31T02:19:41Z"
 }

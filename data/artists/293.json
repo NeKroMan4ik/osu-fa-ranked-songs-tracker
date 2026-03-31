@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Good Enough",
+      "preview": "https://assets.ppy.sh/artists/293/Good Enough/Koven - Good Enough.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Love Wins Again",
+      "preview": "https://assets.ppy.sh/artists/293/Love Wins Again/Koven - Love Wins Again.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,19 +28,22 @@
     },
     {
       "title": "Feint - Take It In (feat. Koven)",
+      "preview": "https://assets.ppy.sh/artists/293/Liquicity Alchemy 2/Feint - Take It In (feat. Koven).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MUZZ, Koven & Feint - Worth The Lie",
+      "preview": "https://assets.ppy.sh/artists/293/Monstercat Uncaged - Vol. 3/MUZZ%2C Koven %26 Feint - Worth The Lie.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "My Love",
+      "preview": "https://assets.ppy.sh/artists/293/Reality Reach/Koven - My Love.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:01:23Z"
+  "updated_at": "2026-03-31T00:39:20Z"
 }

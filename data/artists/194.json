@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "A Passing Point",
+      "preview": "https://assets.ppy.sh/artists/194/Imperfection of Imaginary Number/Release Hallucination - A Passing Point.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Alone In The Chaos",
+      "preview": "https://assets.ppy.sh/artists/194/ANIMA/Release Hallucination - Alone In The Chaos.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -30,6 +32,7 @@
     },
     {
       "title": "Ariadne",
+      "preview": "https://assets.ppy.sh/artists/194/Ariadne/Release Hallucination - Ariadne.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -49,6 +52,7 @@
     },
     {
       "title": "ASTERIA",
+      "preview": "https://assets.ppy.sh/artists/194/Songs/Release_Hallucination_-_ASTERIA.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -60,6 +64,7 @@
     },
     {
       "title": "Chronostasis",
+      "preview": "https://assets.ppy.sh/artists/194/Chronostasis/Release Hallucination - Chronostasis.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -84,6 +89,7 @@
     },
     {
       "title": "Deus ex Machina",
+      "preview": "https://assets.ppy.sh/artists/194/Imperfection of Imaginary Number/Release Hallucination - Deus ex Machina.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -95,6 +101,7 @@
     },
     {
       "title": "Dystopia",
+      "preview": "https://assets.ppy.sh/artists/194/Dystopia/Release Hallucination - Dystopia.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -106,6 +113,7 @@
     },
     {
       "title": "I.F.",
+      "preview": "https://assets.ppy.sh/artists/194/Imperfection of Imaginary Number/Release Hallucination - I.F..mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -130,6 +138,7 @@
     },
     {
       "title": "Lovers in Abyss",
+      "preview": "https://assets.ppy.sh/artists/194/Lovers in Abyss/Release Hallucination - Lovers in Abyss.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -149,6 +158,7 @@
     },
     {
       "title": "VANITAS",
+      "preview": "https://assets.ppy.sh/artists/194/Songs/Release_Hallucination_-_VANITAS.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -173,79 +183,94 @@
     },
     {
       "title": "ANIMA",
+      "preview": "https://assets.ppy.sh/artists/194/ANIMA/Release Hallucination - ANIMA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cure",
+      "preview": "https://assets.ppy.sh/artists/194/Chronostasis/Release Hallucination - Cure.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cure(reprise)",
+      "preview": "https://assets.ppy.sh/artists/194/Imperfection of Imaginary Number/Release_Hallucination_-_Curereprise.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Death with Dignity",
+      "preview": "https://assets.ppy.sh/artists/194/Imperfection of Imaginary Number/Release Hallucination - Death with Dignity.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fate",
+      "preview": "https://assets.ppy.sh/artists/194/Nightmare Outbreak/Release Hallucination - Fate.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Keep The Memories Brilliant",
+      "preview": "https://assets.ppy.sh/artists/194/Melancholia/Release Hallucination - Keep The Memories Brilliant.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Melancholia",
+      "preview": "https://assets.ppy.sh/artists/194/Melancholia/Release Hallucination - Melancholia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Memento Mori",
+      "preview": "https://assets.ppy.sh/artists/194/Imperfection of Imaginary Number/Release Hallucination - Memento Mori.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Minikui Uso to Boku",
+      "preview": "https://assets.ppy.sh/artists/194/Chronostasis/Release Hallucination - Minikui Uso to Boku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "My Unforgettable Day",
+      "preview": "https://assets.ppy.sh/artists/194/Imperfection of Imaginary Number/Release Hallucination - My Unforgettable Day.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sepia-end of summer-",
+      "preview": "https://assets.ppy.sh/artists/194/Imperfection of Imaginary Number/Release Hallucination - Sepia-end of summer-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Stray Sheep",
+      "preview": "https://assets.ppy.sh/artists/194/Imperfection of Imaginary Number/Release Hallucination - Stray Sheep.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Children For Justice",
+      "preview": "https://assets.ppy.sh/artists/194/ANIMA/Release Hallucination - The Children For Justice.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Executioner's Eye",
+      "preview": "https://assets.ppy.sh/artists/194/Imperfection of Imaginary Number/Release Hallucination - The Executioner%27s Eye.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Night Before Halation",
+      "preview": "https://assets.ppy.sh/artists/194/Nightmare Outbreak/Release Hallucination - The Night Before Halation.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:53:54Z"
+  "updated_at": "2026-03-31T01:32:19Z"
 }

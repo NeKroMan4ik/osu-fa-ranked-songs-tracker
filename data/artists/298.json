@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "AaAaAaAAaAaAAa",
+      "preview": "https://assets.ppy.sh/artists/298/Songs/Nashimoto Ui - AaAaAaAAaAaAAa.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Enkou Shoujo",
+      "preview": "https://assets.ppy.sh/artists/298/Songs/Nashimoto Ui - Enkou Shoujo.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Zekkyou Mob B",
+      "preview": "https://assets.ppy.sh/artists/298/Songs/Nashimoto Ui - Zekkyou Mob B.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,24 +40,28 @@
     },
     {
       "title": "Kakokyou Dance",
+      "preview": "https://assets.ppy.sh/artists/298/Songs/Nashimoto Ui - Kakokyou Dance.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shinitagari",
+      "preview": "https://assets.ppy.sh/artists/298/Songs/Nashimoto Ui - Shinitagari.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "TV Zombie",
+      "preview": "https://assets.ppy.sh/artists/298/Songs/Nashimoto Ui - TV Zombie.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yakousei Niwatori Koushinkyoku",
+      "preview": "https://assets.ppy.sh/artists/298/Songs/Nashimoto Ui - Yakousei Niwatori Koushinkyoku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:31:41Z"
+  "updated_at": "2026-03-31T01:09:51Z"
 }

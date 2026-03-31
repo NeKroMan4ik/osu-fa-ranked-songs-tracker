@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Challenger",
+      "preview": "https://assets.ppy.sh/artists/36/previews/872.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Glome",
+      "preview": "https://assets.ppy.sh/artists/36/previews/878.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Gravitate",
+      "preview": "https://assets.ppy.sh/artists/36/previews/866.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Idolize",
+      "preview": "https://assets.ppy.sh/artists/36/previews/879.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "In Circles",
+      "preview": "https://assets.ppy.sh/artists/36/previews/867.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -59,6 +64,7 @@
     },
     {
       "title": "Nautilus",
+      "preview": "https://assets.ppy.sh/artists/36/previews/880.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -74,6 +80,7 @@
     },
     {
       "title": "Rivals",
+      "preview": "https://assets.ppy.sh/artists/36/previews/874.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -85,6 +92,7 @@
     },
     {
       "title": "Shape of the Sun",
+      "preview": "https://assets.ppy.sh/artists/36/previews/882.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -100,49 +108,58 @@
     },
     {
       "title": "Aura",
+      "preview": "https://assets.ppy.sh/artists/36/previews/875.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Black Ice",
+      "preview": "https://assets.ppy.sh/artists/36/previews/868.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Carnivores",
+      "preview": "https://assets.ppy.sh/artists/36/previews/876.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Crystallize",
+      "preview": "https://assets.ppy.sh/artists/36/previews/877.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dune",
+      "preview": "https://assets.ppy.sh/artists/36/previews/869.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Enigma",
+      "preview": "https://assets.ppy.sh/artists/36/previews/870.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Exoplanet",
+      "preview": "https://assets.ppy.sh/artists/36/previews/871.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nemophore",
+      "preview": "https://assets.ppy.sh/artists/36/previews/873.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Outlaw",
+      "preview": "https://assets.ppy.sh/artists/36/previews/881.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:08:27Z"
+  "updated_at": "2026-03-30T23:46:16Z"
 }

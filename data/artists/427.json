@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Dice",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Dice.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Doinkus",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Doinkus.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -30,6 +32,7 @@
     },
     {
       "title": "Goodbye to Your Vicious Cycles",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Goodbye_to_Your_Vicious_Cycles.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -41,6 +44,7 @@
     },
     {
       "title": "Grain Burger",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Grain_Burger.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -52,6 +56,7 @@
     },
     {
       "title": "Island of Orchids",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Island_of_Orchids.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -63,6 +68,7 @@
     },
     {
       "title": "Journey to the Rabbit Moon Base",
+      "preview": "https://assets.ppy.sh/artists/427/Rabbit%27s Journey/WangleLine_-_Journey_to_the_Rabbit_Moon_Base.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -74,6 +80,7 @@
     },
     {
       "title": "Super Kitten Travel Hex",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Super_Kitten_Travel_Hex.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -85,129 +92,154 @@
     },
     {
       "title": "A Creature Made of Slices",
+      "preview": "https://assets.ppy.sh/artists/427/Rabbit%27s Journey/WangleLine - A Creature Made of Slices.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Attacked by the Cosmic Beast",
+      "preview": "https://assets.ppy.sh/artists/427/Rabbit%27s Journey/WangleLine_-_Attacked_by_the_Cosmic_Beast.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blink and You'll Miss It",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Blink_and_Youll_Miss_It.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Building the Spaceship",
+      "preview": "https://assets.ppy.sh/artists/427/Rabbit%27s Journey/WangleLine - Building the Spaceship.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cache",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Cache.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chicken Nugget",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Chicken_Nugget.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Data Hammer",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Data_Hammer.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Downtown Pandas (WangleLine's -First Bus Drive at Warp-Speed- Self-Remix)",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Downtown_Pandas_WangleLines_-First_Bus_Drive_at_Warp-Speed-_Self-Remix.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Farewell to Syzygia",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Farewell_to_Syzygia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "fist-fighting with the pearl sand insect",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_fist-fighting_with_the_pearl_sand_insect.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Foor",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Foor.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Liney Lemons (WangleLine's -CITRUS CATASTROPHE- Self-Remix)",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Liney_Lemons_WangleLines_-CITRUS_CATASTROPHE-_Self-Remix.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Pussy Nuke",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Pussy_Nuke.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "queenjazz - Reload feat. Aran P. Ink (WangleLine's \"MEGATON MISSILE\" Remix)",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/queenjazz_-_Reload_feat._Aran_P._Ink_WangleLines_MEGATON_MISSILE_Remix.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Restful Day with the Rabbits",
+      "preview": "https://assets.ppy.sh/artists/427/Rabbit%27s Journey/WangleLine - Restful Day with the Rabbits.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Satellite",
+      "preview": "https://assets.ppy.sh/artists/427/Rabbit%27s Journey/WangleLine - Satellite.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Six-Sided Sentillon",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Six-Sided_Sentillon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SPELL DIVER",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_SPELL_DIVER.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Strange Relic",
+      "preview": "https://assets.ppy.sh/artists/427/Rabbit%27s Journey/WangleLine_-_Strange_Relic.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Super Shwoopsie",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Super_Shwoopsie.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sushi (WangleLine's -GEOMETRI- Self-Remix)",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Sushi_WangleLines_-GEOMETRI-_Self-Remix.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Through the Lunar Marketplace",
+      "preview": "https://assets.ppy.sh/artists/427/Rabbit%27s Journey/WangleLine - Through the Lunar Marketplace.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tourmaline Drill",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Tourmaline_Drill.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Turbo Burger",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Turbo_Burger.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "With Tears in my Eyes",
+      "preview": "https://assets.ppy.sh/artists/427/Rabbit%27s Journey/WangleLine - With Tears in my Eyes.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:55:29Z"
+  "updated_at": "2026-03-31T02:34:14Z"
 }

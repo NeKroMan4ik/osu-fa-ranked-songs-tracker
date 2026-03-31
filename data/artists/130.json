@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Angelology",
+      "preview": "https://assets.ppy.sh/artists/130/Vengel (Symholic 7th CD)/Symholic - Angelology.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Ghostology",
+      "preview": "https://assets.ppy.sh/artists/130/Maisery (Symholic 8th CD)/Symholic - Ghostology.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Ginpatsu no Miko",
+      "preview": "https://assets.ppy.sh/artists/130/Kagura e Yadosu Shirayukimiko no Madou (Symholic 4th CD)/Symholic - Ginpatsu no Miko.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Kimi ni Tewatashita Ichirin no Hana",
+      "preview": "https://assets.ppy.sh/artists/130/Ansrail (Symholic 11th CD)/Symholic - Kimi ni Tewatashita Ichirin no Hana.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "Kotowari no Saihate ni Saku Hana",
+      "preview": "https://assets.ppy.sh/artists/130/Qualia - Mahousho ni Kizamu Itsutsu no Kioku - (Symholic 6th CD)/Symholic - Kotowari no Saihate ni Saku Hana.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -59,6 +64,7 @@
     },
     {
       "title": "Maisery",
+      "preview": "https://assets.ppy.sh/artists/130/Maisery (Symholic 8th CD)/Symholic - Maisery.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -70,6 +76,7 @@
     },
     {
       "title": "Tokei no Tsue",
+      "preview": "https://assets.ppy.sh/artists/130/Maisery (Symholic 8th CD)/Symholic - Tokei no Tsue.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -81,244 +88,292 @@
     },
     {
       "title": "-----",
+      "preview": "https://assets.ppy.sh/artists/130/Ansrail (Symholic 11th CD)/Symholic - -----.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Akuma no Gyakugobousei",
+      "preview": "https://assets.ppy.sh/artists/130/Qualia - Mahousho ni Kizamu Itsutsu no Kioku - (Symholic 6th CD)/Symholic - Akuma no Gyakugobousei.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Altaria",
+      "preview": "https://assets.ppy.sh/artists/130/Altaria/Symholic - Altaria.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chinurareta Kanojo no Tsuioku",
+      "preview": "https://assets.ppy.sh/artists/130/Senketsu ni Sasagu Sandome no Kokkyou (Symholic 5th CD)/Symholic - Chinurareta Kanojo no Tsuioku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chiriyuku Kazahana",
+      "preview": "https://assets.ppy.sh/artists/130/Kagura e Yadosu Shirayukimiko no Madou (Symholic 4th CD)/Symholic - Chiriyuku Kazahana.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Demythology",
+      "preview": "https://assets.ppy.sh/artists/130/Zenoth (Symholic 9th CD)/Symholic - Demythology.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Guren ni Ochiru Kokoro",
+      "preview": "https://assets.ppy.sh/artists/130/Hikuu ni Negatta Hangyaku no Hime (Symholic 2nd CD)/Symholic - Guren ni Ochiru Kokoro.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Haguruma",
+      "preview": "https://assets.ppy.sh/artists/130/Zahnrad -Suikuu to Michibiki no Haguruma- (Symholic 3rd CD)/Symholic - Haguruma.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hangyaku no Hime",
+      "preview": "https://assets.ppy.sh/artists/130/Hikuu ni Negatta Hangyaku no Hime (Symholic 2nd CD)/Symholic - Hangyaku no Hime.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hime ni Natta Hi",
+      "preview": "https://assets.ppy.sh/artists/130/Hikuu ni Negatta Hangyaku no Hime (Symholic 2nd CD)/Symholic - Hime ni Natta Hi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hushi no Mahotsukai",
+      "preview": "https://assets.ppy.sh/artists/130/Zahnrad -Suikuu to Michibiki no Haguruma- (Symholic 3rd CD)/Symholic - Hushi no Mahotsukai.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hutaridake no Sekai",
+      "preview": "https://assets.ppy.sh/artists/130/Vengel (Symholic 7th CD)/Symholic - Hutaridake no Sekai.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Huugawari na Tenshi",
+      "preview": "https://assets.ppy.sh/artists/130/Vengel (Symholic 7th CD)/Symholic - Huugawari na Tenshi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Issatsu no Omoi",
+      "preview": "https://assets.ppy.sh/artists/130/Qualia - Mahousho ni Kizamu Itsutsu no Kioku - (Symholic 6th CD)/Symholic - Issatsu no Omoi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kaihou he no Jokyoku",
+      "preview": "https://assets.ppy.sh/artists/130/Hikuu ni Negatta Hangyaku no Hime (Symholic 2nd CD)/Symholic - Kaihou he no Jokyoku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kami ga Suberu Rakuen",
+      "preview": "https://assets.ppy.sh/artists/130/Zenoth (Symholic 9th CD)/Symholic - Kami ga Suberu Rakuen.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kaze ni Noseta Touhikou",
+      "preview": "https://assets.ppy.sh/artists/130/Qualia - Mahousho ni Kizamu Itsutsu no Kioku - (Symholic 6th CD)/Symholic - Kaze ni Noseta Touhikou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kikai no Tsubasa",
+      "preview": "https://assets.ppy.sh/artists/130/Vengel (Symholic 7th CD)/Symholic - Kikai no Tsubasa.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kioku no Hana",
+      "preview": "https://assets.ppy.sh/artists/130/Zenoth (Symholic 9th CD)/Symholic - Kioku no Hana.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kokkyou no Noroi",
+      "preview": "https://assets.ppy.sh/artists/130/Senketsu ni Sasagu Sandome no Kokkyou (Symholic 5th CD)/Symholic - Kokkyou no Noroi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kurumizaka Iori & Paspal feat. Hatsuki Yura & Konori - Keikoku no Syuen ~Kousou no Shihaisya~",
+      "preview": "https://assets.ppy.sh/artists/130/Queen A%27rcadia/Kurumizaka_Iori__Paspal_feat._Hatsuki_Yura__Konori_-_Keikoku_no_Syuen_Kousou_no_Shihaisya.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kurumizaka Iori feat. Hatsuki Yura - S Jou no Gitai ~Black Butterfly~",
+      "preview": "https://assets.ppy.sh/artists/130/Queen A%27rcadia/Kurumizaka_Iori_feat._Hatsuki_Yura_-_S_Jou_no_Gitai_Black_Butterfly.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kurumizaka Iori feat. Umi Usagi - Bloody Duchess",
+      "preview": "https://assets.ppy.sh/artists/130/Queen A%27rcadia/Kurumizaka_Iori_feat._Umi_Usagi_-_Bloody_Duchess.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Madou no Uwasa",
+      "preview": "https://assets.ppy.sh/artists/130/Kagura e Yadosu Shirayukimiko no Madou (Symholic 4th CD)/Symholic - Madou no Uwasa.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nagareru Hosi no Uranaishi",
+      "preview": "https://assets.ppy.sh/artists/130/Qualia - Mahousho ni Kizamu Itsutsu no Kioku - (Symholic 6th CD)/Symholic - Nagareru Hosi no Uranaishi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Paspal - Ideal",
+      "preview": "https://assets.ppy.sh/artists/130/Queen A%27rcadia/Paspal_-_Ideal.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Paspal - Night Blooming Lilies",
+      "preview": "https://assets.ppy.sh/artists/130/Songs/Paspal - Night Blooming Lilies.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Paspal feat. Umi Usagi - Fairlady:Reincarnation",
+      "preview": "https://assets.ppy.sh/artists/130/Queen A%27rcadia/Paspal_feat._Umi_Usagi_-_FairladyReincarnation.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Paspal feat. Umi Usagi - Hakusyakureijo to Yousei",
+      "preview": "https://assets.ppy.sh/artists/130/Queen A%27rcadia/Paspal_feat._Umi_Usagi_-_Hakusyakureijo_to_Yousei.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rengoku no Kenshi",
+      "preview": "https://assets.ppy.sh/artists/130/Zahnrad -Suikuu to Michibiki no Haguruma- (Symholic 3rd CD)/Symholic - Rengoku no Kenshi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Senketsu ni Sasagu Joou",
+      "preview": "https://assets.ppy.sh/artists/130/Maisery (Symholic 8th CD)/Symholic - Senketsu ni Sasagu Joou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Senketsu no Seisho",
+      "preview": "https://assets.ppy.sh/artists/130/Senketsu ni Sasagu Sandome no Kokkyou (Symholic 5th CD)/Symholic - Senketsu no Seisho.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shiawase na Watashi no Tsuioku",
+      "preview": "https://assets.ppy.sh/artists/130/Senketsu ni Sasagu Sandome no Kokkyou (Symholic 5th CD)/Symholic - Shiawase na Watashi no Tsuioku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shinku no Reminiscence",
+      "preview": "https://assets.ppy.sh/artists/130/Maisery (Symholic 8th CD)/Symholic - Shinku no Reminiscence.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shiroku Hakanai Tsubasa",
+      "preview": "https://assets.ppy.sh/artists/130/Qualia - Mahousho ni Kizamu Itsutsu no Kioku - (Symholic 6th CD)/Symholic - Shiroku Hakanai Tsubasa.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sonzairiyu",
+      "preview": "https://assets.ppy.sh/artists/130/Zahnrad -Suikuu to Michibiki no Haguruma- (Symholic 3rd CD)/Symholic - Sonzairiyu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Symholic / Xorsizer - Junshin no tsurugi -Virgin Blade-",
+      "preview": "https://assets.ppy.sh/artists/130/X -Kaikou Seshi Souheki no Claymore -/Symholic  Xorsizer - Junshin no tsurugi -Virgin Blade-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Symholic / Xorsizer - Orthology",
+      "preview": "https://assets.ppy.sh/artists/130/X -Kaikou Seshi Souheki no Claymore -/Symholic  Xorsizer - Orthology.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Symholic / Xorsizer - RESONANCE",
+      "preview": "https://assets.ppy.sh/artists/130/X -Kaikou Seshi Souheki no Claymore -/Symholic  Xorsizer - RESONANCE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Symholic / Xorsizer - Souheki no Sonata",
+      "preview": "https://assets.ppy.sh/artists/130/X -Kaikou Seshi Souheki no Claymore -/Symholic  Xorsizer - Souheki no Sonata.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Symholic feat. Rina Komatsu - Veil of Ash",
+      "preview": "https://assets.ppy.sh/artists/130/Songs/Symholic_feat._Rina_Komatsu_-_Veil_of_Ash.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tadahitotsu no Senritsu",
+      "preview": "https://assets.ppy.sh/artists/130/Zahnrad -Suikuu to Michibiki no Haguruma- (Symholic 3rd CD)/Symholic - Tadahitotsu no Senritsu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tokihanatareta Kioku",
+      "preview": "https://assets.ppy.sh/artists/130/Qualia - Mahousho ni Kizamu Itsutsu no Kioku - (Symholic 6th CD)/Symholic - Tokihanatareta Kioku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Torawareta Kodoku no Cho",
+      "preview": "https://assets.ppy.sh/artists/130/Qualia - Mahousho ni Kizamu Itsutsu no Kioku - (Symholic 6th CD)/Symholic - Torawareta Kodoku no Cho.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Vengel",
+      "preview": "https://assets.ppy.sh/artists/130/Vengel (Symholic 7th CD)/Symholic - Vengel.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yuki to Tsuki to Hanabira",
+      "preview": "https://assets.ppy.sh/artists/130/Kagura e Yadosu Shirayukimiko no Madou (Symholic 4th CD)/Symholic - Yuki to Tsuki to Hanabira.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Zenoth",
+      "preview": "https://assets.ppy.sh/artists/130/Zenoth (Symholic 9th CD)/Symholic - Zenoth.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Zetsubou no Quartet",
+      "preview": "https://assets.ppy.sh/artists/130/Senketsu ni Sasagu Sandome no Kokkyou (Symholic 5th CD)/Symholic - Zetsubou no Quartet.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:30:55Z"
+  "updated_at": "2026-03-31T02:09:27Z"
 }

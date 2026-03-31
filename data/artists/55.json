@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Crystal Cave",
+      "preview": "https://assets.ppy.sh/artists/55/KIKO/Panda Eyes - Crystal Cave.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Euphoria",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - Euphoria.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Fake Princess",
+      "preview": "https://assets.ppy.sh/artists/55/Continue/Panda Eyes - Fake Princess.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Fruits",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - Fruits.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -48,22 +52,24 @@
     },
     {
       "title": "ILY",
+      "preview": "https://assets.ppy.sh/artists/55/KIKO/Panda Eyes - ILY.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          1066709
-        ],
         "osu": [
           653534,
+          1066709
+        ],
+        "taiko": [
           1066709
         ]
       }
     },
     {
       "title": "Insomnia",
+      "preview": "https://assets.ppy.sh/artists/55/Continue/Panda Eyes - Insomnia.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -75,6 +81,7 @@
     },
     {
       "title": "Neve's Theme",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - Neve%27s Theme.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -86,6 +93,7 @@
     },
     {
       "title": "On My Own",
+      "preview": "https://assets.ppy.sh/artists/55/KIKO/Panda Eyes - On My Own.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -101,6 +109,7 @@
     },
     {
       "title": "Pump It Up",
+      "preview": "https://assets.ppy.sh/artists/55/Nostalgia 64/Panda Eyes - Pump It Up.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -112,334 +121,400 @@
     },
     {
       "title": "95K",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - 95K.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Anybody Else",
+      "preview": "https://assets.ppy.sh/artists/55/Journey Pt. 1/Panda Eyes - Anybody Else.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Apocalypse",
+      "preview": "https://assets.ppy.sh/artists/55/Continue/Panda Eyes - Apocalypse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Artificial",
+      "preview": "https://assets.ppy.sh/artists/55/Nostalgia 64/Panda Eyes - Artificial.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Back Again",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - Back Again.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blastin' Em",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - Blastin%27 Em.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Boss Level",
+      "preview": "https://assets.ppy.sh/artists/55/Nostalgia 64/Panda Eyes - Boss Level.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Burnout",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - Burnout.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Can't Move (feat. Mindy)",
+      "preview": "https://assets.ppy.sh/artists/55/Journey Pt. 1/Panda Eyes - Can%27t Move (feat. Mindy).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Colorblind",
+      "preview": "https://assets.ppy.sh/artists/55/KIKO/Panda Eyes - Colorblind.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Colors",
+      "preview": "https://assets.ppy.sh/artists/55/Journey Pt. 2/Panda Eyes - Colors.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dakara",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - Dakara.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Daydreamer",
+      "preview": "https://assets.ppy.sh/artists/55/Continue/Panda Eyes - Daydreamer.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Die Alone",
+      "preview": "https://assets.ppy.sh/artists/55/Journey Pt. 2/Panda Eyes - Die Alone.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Drippy Dub",
+      "preview": "https://assets.ppy.sh/artists/55/Nostalgia 64/Panda Eyes - Drippy Dub.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Exodus",
+      "preview": "https://assets.ppy.sh/artists/55/Society/Panda Eyes - Exodus.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "For You",
+      "preview": "https://assets.ppy.sh/artists/55/KIKO/Panda Eyes - For You.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fuck Off",
+      "preview": "https://assets.ppy.sh/artists/55/KIKO/Panda Eyes - Fuck Off.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Im Numb",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - Im Numb.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "KIKO",
+      "preview": "https://assets.ppy.sh/artists/55/KIKO/Panda Eyes - KIKO.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lightbreaker",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - Lightbreaker.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lonely Island",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - Lonely Island.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Love Game",
+      "preview": "https://assets.ppy.sh/artists/55/KIKO/Panda Eyes - Love Game.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Master Sword",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - Master Sword.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Miracle",
+      "preview": "https://assets.ppy.sh/artists/55/KIKO/Panda Eyes - Miracle.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MIZU",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - MIZU.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nostalgia 64",
+      "preview": "https://assets.ppy.sh/artists/55/Nostalgia 64/Panda Eyes - Nostalgia 64.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Opposite Side",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - Opposite Side.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Panda Eyes & Chime - White Magic",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes %26 Chime - White Magic.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Panda Eyes & Datphoria feat. Cozy - Keep Going",
+      "preview": "https://assets.ppy.sh/artists/55/KIKO/Panda Eyes %26 Datphoria feat. Cozy - Keep Going.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Panda Eyes & Fyer - Shuriken",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes %26 Fyer - Shuriken.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Panda Eyes & Gabriel Guardian - Who Am I",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes %26 Gabriel Guardian - Who Am I.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Panda Eyes & Shivaji - Aurora",
+      "preview": "https://assets.ppy.sh/artists/55/Nostalgia 64/Panda Eyes %26 Shivaji - Aurora.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Panda Eyes & Snail's House - Purple Smoothie",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes %26 Snail%27s House - Purple Smoothie.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Panda Eyes & Teminite - Adventure Time",
+      "preview": "https://assets.ppy.sh/artists/55/KIKO/Panda Eyes %26 Teminite - Adventure Time.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Panda Eyes & Teminite - Highscore",
+      "preview": "https://assets.ppy.sh/artists/55/KIKO/Panda Eyes %26 Teminite - Highscore.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Panda Eyes & Teminite - Immortal Flame (feat. Anna Yvette)",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes %26 Teminite - Immortal Flame (feat. Anna Yvette).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Panda Eyes feat. Azuria Sky - One Smile",
+      "preview": "https://assets.ppy.sh/artists/55/Continue/Panda Eyes feat. Azuria Sky - One Smile.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Panda Eyes x Gabriel Guardian - I'll Never Be",
+      "preview": "https://assets.ppy.sh/artists/55/Journey Pt. 2/Panda Eyes x Gabriel Guardian - I%27ll Never Be.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Panda Eyes x Gabriel Guardian - Think Different",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes x Gabriel Guardian - Think Different.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Panda Eyes x Mindy - All For U",
+      "preview": "https://assets.ppy.sh/artists/55/Journey Pt. 2/Panda Eyes x Mindy - All For U.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Panda Eyes x Nasko - Home Alone",
+      "preview": "https://assets.ppy.sh/artists/55/Journey Pt. 1/Panda Eyes x Nasko - Home Alone.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Panda Eyes, Subkey - Continue",
+      "preview": "https://assets.ppy.sh/artists/55/Continue/Panda Eyes%2C Subkey - Continue.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Panda Eyes, Subkey - Dark Matter",
+      "preview": "https://assets.ppy.sh/artists/55/Continue/Panda Eyes%2C Subkey - Dark Matter.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Panda Eyes, Subkey - Galaxica",
+      "preview": "https://assets.ppy.sh/artists/55/Continue/Panda Eyes%2C Subkey - Galaxica.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Pretty Things",
+      "preview": "https://assets.ppy.sh/artists/55/Continue/Panda Eyes - Pretty Things.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Radiate",
+      "preview": "https://assets.ppy.sh/artists/55/Nostalgia 64/Panda Eyes - Radiate.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rainbow Road",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - Rainbow Road.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Repeat (feat. Mickey Shiloh)",
+      "preview": "https://assets.ppy.sh/artists/55/Journey Pt. 2/Panda Eyes - Repeat (feat. Mickey Shiloh).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Second Life",
+      "preview": "https://assets.ppy.sh/artists/55/Continue/Panda Eyes - Second Life.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Serotonin",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - Serotonin.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sky Race",
+      "preview": "https://assets.ppy.sh/artists/55/KIKO/Panda Eyes - Sky Race.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Society",
+      "preview": "https://assets.ppy.sh/artists/55/Society/Panda Eyes - Society.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Soulmate",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - Soulmate.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Stand Still",
+      "preview": "https://assets.ppy.sh/artists/55/Continue/Panda Eyes - Stand Still.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Super Panda 64",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - Super Panda 64.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Take My Hand (feat. Azuria Sky)",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - Take My Hand (feat. Azuria Sky).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Take My Hand (feat. Azuria Sky) (Teminite Remix)",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - Take My Hand (feat. Azuria Sky) (Teminite Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Take My Hand (feat. Azuria Sky) (ZANE Remix)",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - Take My Hand (feat. Azuria Sky) (ZANE Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Lights",
+      "preview": "https://assets.ppy.sh/artists/55/KIKO/Panda Eyes - The Lights.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Returning",
+      "preview": "https://assets.ppy.sh/artists/55/KIKO/Panda Eyes - The Returning.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Too Much Sugar",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - Too Much Sugar.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Turning Point",
+      "preview": "https://assets.ppy.sh/artists/55/Continue/Panda Eyes - Turning Point.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Vortex",
+      "preview": "https://assets.ppy.sh/artists/55/Songs/Panda Eyes - Vortex.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Wake Up",
+      "preview": "https://assets.ppy.sh/artists/55/Society/Panda Eyes - Wake Up.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Weed N Fries",
+      "preview": "https://assets.ppy.sh/artists/55/KIKO/Panda Eyes - Weed N Fries.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:46:07Z"
+  "updated_at": "2026-03-31T01:24:20Z"
 }

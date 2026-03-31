@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Cold Winds",
+      "preview": "https://assets.ppy.sh/artists/135/Infinite Fields/Irreversible Mechanism - Cold Winds.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Existence II: Collision",
+      "preview": "https://assets.ppy.sh/artists/135/Immersion/Irreversible Mechanism - Existence II Collision.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Into the Void",
+      "preview": "https://assets.ppy.sh/artists/135/Infinite Fields/Irreversible Mechanism - Into the Void.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -45,6 +48,7 @@
     },
     {
       "title": "Outburst",
+      "preview": "https://assets.ppy.sh/artists/135/Infinite Fields/Irreversible Mechanism - Outburst.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -56,54 +60,64 @@
     },
     {
       "title": "Abolution",
+      "preview": "https://assets.ppy.sh/artists/135/Immersion/Irreversible Mechanism - Abolution.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Awakening",
+      "preview": "https://assets.ppy.sh/artists/135/Immersion/Irreversible Mechanism - Awakening.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Beyond",
+      "preview": "https://assets.ppy.sh/artists/135/Immersion/Irreversible Mechanism - Beyond.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Footprints In The Sand",
+      "preview": "https://assets.ppy.sh/artists/135/Immersion/Irreversible Mechanism - Footprints In The Sand.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fragile",
+      "preview": "https://assets.ppy.sh/artists/135/Infinite Fields/Irreversible Mechanism - Fragile.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Immersion",
+      "preview": "https://assets.ppy.sh/artists/135/Immersion/Irreversible Mechanism - Immersion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Incipience",
+      "preview": "https://assets.ppy.sh/artists/135/Infinite Fields/Irreversible Mechanism - Incipience.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Infinite Fields",
+      "preview": "https://assets.ppy.sh/artists/135/Infinite Fields/Irreversible Mechanism - Infinite Fields.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Agony",
+      "preview": "https://assets.ppy.sh/artists/135/Infinite Fields/Irreversible Mechanism - The Agony.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Betrayer of Time",
+      "preview": "https://assets.ppy.sh/artists/135/Infinite Fields/Irreversible Mechanism - The Betrayer of Time.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:49:50Z"
+  "updated_at": "2026-03-31T00:27:41Z"
 }

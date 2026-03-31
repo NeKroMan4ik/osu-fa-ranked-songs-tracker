@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Love Language",
+      "preview": "https://assets.ppy.sh/artists/508/Songs/MEMODEMO - Love Language.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Showoff Showdown",
+      "preview": "https://assets.ppy.sh/artists/508/Songs/MEMODEMO - Showoff Showdown.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -30,34 +32,40 @@
     },
     {
       "title": "DANGER! DANGER!! DANGER!!!",
+      "preview": "https://assets.ppy.sh/artists/508/Songs/MEMODEMO - DANGER! DANGER!! DANGER!!!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Digital Comet",
+      "preview": "https://assets.ppy.sh/artists/508/Songs/MEMODEMO - Digital Comet.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Extragalactic",
+      "preview": "https://assets.ppy.sh/artists/508/Songs/MEMODEMO - Extragalactic.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mochi Marchie",
+      "preview": "https://assets.ppy.sh/artists/508/Songs/MEMODEMO - Mochi Marchie.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shine!",
+      "preview": "https://assets.ppy.sh/artists/508/Songs/MEMODEMO - Shine!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SMACK 'em",
+      "preview": "https://assets.ppy.sh/artists/508/Songs/MEMODEMO - SMACK %27em.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:20:57Z"
+  "updated_at": "2026-03-31T00:59:03Z"
 }

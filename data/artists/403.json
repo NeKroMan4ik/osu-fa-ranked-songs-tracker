@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Joyride",
+      "preview": "https://assets.ppy.sh/artists/403/Songs/Draper_-_Joyride.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Set Me Free",
+      "preview": "https://assets.ppy.sh/artists/403/Songs/Draper_-_Set_Me_Free.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Set Me Free (Cut Ver.)",
+      "preview": "https://assets.ppy.sh/artists/403/Songs/Draper_-_Set_Me_Free_Cut_Ver..mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,9 +40,10 @@
     },
     {
       "title": "Joyride (Cut Ver.)",
+      "preview": "https://assets.ppy.sh/artists/403/Songs/Draper_-_Joyride_Cut_Ver..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:18:48Z"
+  "updated_at": "2026-03-30T23:56:36Z"
 }

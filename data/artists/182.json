@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Admiral",
+      "preview": "https://assets.ppy.sh/artists/182/I Don't Know How To Explain It/Michael Cera Palin - Admiral.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Laughing Makes It Worse",
+      "preview": "https://assets.ppy.sh/artists/182/Growing Pains/Michael Cera Palin - Laughing Makes It Worse.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Portrait of a Woman on a Couch with Cats",
+      "preview": "https://assets.ppy.sh/artists/182/I Don't Know How To Explain It/Michael Cera Palin - Portrait of a Woman on a Couch with Cats.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,34 +40,40 @@
     },
     {
       "title": "Bono!! Bono!!",
+      "preview": "https://assets.ppy.sh/artists/182/Bono!! Bono!!/Michael Cera Palin - Bono!! Bono!!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Boots N Cats",
+      "preview": "https://assets.ppy.sh/artists/182/Growing Pains/Michael Cera Palin - Boots N Cats.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Go Home. Play Music. Feel Better.",
+      "preview": "https://assets.ppy.sh/artists/182/I Don't Know How To Explain It/Michael Cera Palin - Go Home. Play Music. Feel Better..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Growing Pains",
+      "preview": "https://assets.ppy.sh/artists/182/Growing Pains/Michael Cera Palin - Growing Pains.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mystery",
+      "preview": "https://assets.ppy.sh/artists/182/Growing Pains/Michael Cera Palin - Mystery.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Southern Comfort",
+      "preview": "https://assets.ppy.sh/artists/182/I Don't Know How To Explain It/Michael Cera Palin - Southern Comfort.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:21:43Z"
+  "updated_at": "2026-03-31T00:59:49Z"
 }

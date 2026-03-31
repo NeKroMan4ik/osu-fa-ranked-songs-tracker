@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Avontuure",
+      "preview": "https://assets.ppy.sh/artists/424/Songs/0_K_-_Avontuure.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Nivem City",
+      "preview": "https://assets.ppy.sh/artists/424/Songs/0_K_-_Nivem_City.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -34,6 +36,7 @@
     },
     {
       "title": "Virtual Beach",
+      "preview": "https://assets.ppy.sh/artists/424/Songs/0_K_-_Virtual_Beach.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -45,44 +48,52 @@
     },
     {
       "title": "alte vola!",
+      "preview": "https://assets.ppy.sh/artists/424/Songs/0_K_-_alte_vola.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Brilliant Silver, Shining Blade",
+      "preview": "https://assets.ppy.sh/artists/424/Songs/0 K - Brilliant Silver%2C Shining Blade.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Flux Turbulenti",
+      "preview": "https://assets.ppy.sh/artists/424/Songs/0_K_-_Flux_Turbulenti.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Luminous * Ciel",
+      "preview": "https://assets.ppy.sh/artists/424/Songs/0_K_-_Luminous_Ciel.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Panorama (feat. AKA)",
+      "preview": "https://assets.ppy.sh/artists/424/Songs/0_K_-_Panorama_feat._AKA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sapphire Sky",
+      "preview": "https://assets.ppy.sh/artists/424/Songs/0_K_-_Sapphire_Sky.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Visio Electri",
+      "preview": "https://assets.ppy.sh/artists/424/Songs/0_K_-_Visio_Electri.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Voyager III",
+      "preview": "https://assets.ppy.sh/artists/424/Songs/0_K_-_Voyager_III.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:26:20Z"
+  "updated_at": "2026-03-30T23:04:21Z"
 }

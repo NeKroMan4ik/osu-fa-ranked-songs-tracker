@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "[@__@]",
+      "preview": "https://assets.ppy.sh/artists/215/Songs/Chroma - %5B%40__%40%5D.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -26,6 +27,7 @@
     },
     {
       "title": "Daisan Kuuchuu Jikken",
+      "preview": "https://assets.ppy.sh/artists/215/Ai o Yorokobu Machi/Chroma - Daisan Kuuchuu Jikken.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -39,6 +41,7 @@
     },
     {
       "title": "Dark Sheep",
+      "preview": "https://assets.ppy.sh/artists/215/Dark Sheep/Chroma - Dark Sheep.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -50,6 +53,7 @@
     },
     {
       "title": "Destroy, Destroy, Destroy The Happy End",
+      "preview": "https://assets.ppy.sh/artists/215/Songs/Chroma - Destroy%2C Destroy%2C Destroy The Happy End.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -71,6 +75,7 @@
     },
     {
       "title": "Field : Kaerezu no Chi",
+      "preview": "https://assets.ppy.sh/artists/215/Songs/Chroma_-_Field_Kaerezu_no_Chi.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -86,6 +91,7 @@
     },
     {
       "title": "fly in the galaxy",
+      "preview": "https://assets.ppy.sh/artists/215/Songs/Chroma - fly in the galaxy.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -97,6 +103,7 @@
     },
     {
       "title": "Genyo Ressha no Tabi",
+      "preview": "https://assets.ppy.sh/artists/215/Ai o Yorokobu Machi/Chroma - Genyo Ressha no Tabi.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -108,6 +115,7 @@
     },
     {
       "title": "Hoshi ga Furanai Machi",
+      "preview": "https://assets.ppy.sh/artists/215/Songs/Chroma - Hoshi ga Furanai Machi.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -128,6 +136,7 @@
     },
     {
       "title": "Kenka no Bannin",
+      "preview": "https://assets.ppy.sh/artists/215/Ai o Yorokobu Machi/Chroma - Kenka no Bannin.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -140,6 +149,7 @@
     },
     {
       "title": "Little Heart no Bouken",
+      "preview": "https://assets.ppy.sh/artists/215/Songs/Chroma - Little Heart no Bouken.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -151,6 +161,7 @@
     },
     {
       "title": "lost found melody",
+      "preview": "https://assets.ppy.sh/artists/215/Songs/Chroma - lost found melody.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -162,6 +173,7 @@
     },
     {
       "title": "lost memory",
+      "preview": "https://assets.ppy.sh/artists/215/Ai o Yorokobu Machi/Chroma - lost memory.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -178,6 +190,7 @@
     },
     {
       "title": "Ryuuseigun ni Aeta Natsu",
+      "preview": "https://assets.ppy.sh/artists/215/Ryuuseigun ni Aeta Natsu - Gorogoro/Chroma - Ryuuseigun ni Aeta Natsu.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -195,6 +208,7 @@
     },
     {
       "title": "Saraba Senyuu",
+      "preview": "https://assets.ppy.sh/artists/215/Songs/Chroma - Saraba Senyuu.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -206,6 +220,7 @@
     },
     {
       "title": "sink to the deep sea world",
+      "preview": "https://assets.ppy.sh/artists/215/Songs/Chroma - sink to the deep sea world.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -221,6 +236,7 @@
     },
     {
       "title": "Strange Inventor",
+      "preview": "https://assets.ppy.sh/artists/215/Songs/Chroma - Strange Inventor.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -236,6 +252,7 @@
     },
     {
       "title": "The First Snowfall On My Secret Base",
+      "preview": "https://assets.ppy.sh/artists/215/Songs/Chroma - The First Snowfall On My Secret Base.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -247,19 +264,22 @@
     },
     {
       "title": "Chroma feat. mikanzil - Koi no Kuuchuu Bunkai",
+      "preview": "https://assets.ppy.sh/artists/215/Songs/Chroma feat. mikanzil - Koi no Kuuchuu Bunkai.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Learn The Language",
+      "preview": "https://assets.ppy.sh/artists/215/Songs/Chroma - Learn The Language.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Umeboshi Chazuke + Chroma - Omoide Note",
+      "preview": "https://assets.ppy.sh/artists/215/Songs/Umeboshi Chazuke %2B Chroma - Omoide Note.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:04:37Z"
+  "updated_at": "2026-03-30T23:42:27Z"
 }

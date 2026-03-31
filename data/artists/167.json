@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Amusing Reflection Rag.",
+      "preview": "https://assets.ppy.sh/artists/167/Songs/yukitani - Amusing Reflection Rag..mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,35 +16,39 @@
     },
     {
       "title": "Minamichita EVOLVED",
+      "preview": "https://assets.ppy.sh/artists/167/Songs/Kurubukko vs. yukitani - Minamichita EVOLVED.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          136632
+        ],
         "taiko": [
           136632,
           1756970
-        ],
-        "osu": [
-          136632
         ]
       }
     },
     {
       "title": "Amusing Colorful Pudding.",
+      "preview": "https://assets.ppy.sh/artists/167/Songs/yukitani - Amusing Colorful Pudding..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kaiden joy Aura",
+      "preview": "https://assets.ppy.sh/artists/167/Songs/yukitani - Kaiden joy Aura.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Otodan Choujin Gorillaizer",
+      "preview": "https://assets.ppy.sh/artists/167/Songs/yukitani - Otodan Choujin Gorillaizer.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T23:04:23Z"
+  "updated_at": "2026-03-31T02:43:14Z"
 }

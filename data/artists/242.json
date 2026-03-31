@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Final Overtake",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit House - Final Overtake.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Muspelheim",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit House - Muspelheim.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Rabbit in the Black Room",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit House - Rabbit in the Black Room.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Sanctuary",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit House - Sanctuary.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "Seculo Seculorum",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit_House_-_Seculo_Seculorum.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -64,99 +69,118 @@
     },
     {
       "title": "0716",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit House - 0716.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "das Leben nach dem Tode",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit House - das Leben nach dem Tode.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dead Rabbit and Witch's Blood",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit_House_-_Dead_Rabbit_and_Witchs_Blood.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Direction 2 the Night",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit House - Direction 2 the Night.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Distorted People",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit House - Distorted People.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Euphoric World",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit House - Euphoric World.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fleur de Lapin - Chaotic*Dream*Festival",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Fleur_de_Lapin_-_ChaoticDreamFestival.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Future Energy",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit House - Future Energy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gehenna",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit House - Gehenna.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Happiness in memory",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit House - Happiness in memory.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Have A Party Time!",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit House - Have A Party Time!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Knowledge of Insanity",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit House - Knowledge of Insanity.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Koufuku o Tsutaeru Bakery",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit House - Koufuku o Tsutaeru Bakery.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lovely One Day",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit House - Lovely One Day.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lune Adventure",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit House - Lune Adventure.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rabbit House & Evin a'k - optimal solution",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit House %26 Evin a%27k - optimal solution.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rabbit's Nightmare",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit House - Rabbit%27s Nightmare.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Randa no Hen feat. Mitchell",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit House - Randa no Hen feat. Mitchell.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The First White Christmas",
+      "preview": "https://assets.ppy.sh/artists/242/Songs/Rabbit House - The First White Christmas.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:50:04Z"
+  "updated_at": "2026-03-31T01:28:21Z"
 }

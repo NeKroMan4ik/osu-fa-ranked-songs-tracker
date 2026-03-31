@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Alchemist",
+      "preview": "https://assets.ppy.sh/artists/240/Good Kid/Good Kid - Alchemist.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Aloe Lite",
+      "preview": "https://assets.ppy.sh/artists/240/Good Kid 2/Good Kid - Aloe Lite.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Atlas",
+      "preview": "https://assets.ppy.sh/artists/240/Good Kid/Good Kid - Atlas.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -38,6 +41,7 @@
     },
     {
       "title": "Break",
+      "preview": "https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Break.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -49,6 +53,7 @@
     },
     {
       "title": "Dance Class",
+      "preview": "https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Dance_Class.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -60,6 +65,7 @@
     },
     {
       "title": "Down With The King",
+      "preview": "https://assets.ppy.sh/artists/240/Good Kid 3/Good Kid - Down With The King.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -71,6 +77,7 @@
     },
     {
       "title": "Drifting",
+      "preview": "https://assets.ppy.sh/artists/240/Good Kid 2/Good Kid - Drifting.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -82,6 +89,7 @@
     },
     {
       "title": "Faster",
+      "preview": "https://assets.ppy.sh/artists/240/Good Kid/Good Kid - Faster.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -93,6 +101,7 @@
     },
     {
       "title": "First Rate Town",
+      "preview": "https://assets.ppy.sh/artists/240/Good Kid 3/Good Kid - First Rate Town.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -104,6 +113,7 @@
     },
     {
       "title": "Mimi's Delivery Service",
+      "preview": "https://assets.ppy.sh/artists/240/Good Kid 3/Good Kid - Mimi%27s Delivery Service.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -115,6 +125,7 @@
     },
     {
       "title": "No Time to Explain",
+      "preview": "https://assets.ppy.sh/artists/240/Good Kid 3/Good Kid - No Time to Explain.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -130,6 +141,7 @@
     },
     {
       "title": "Nomu",
+      "preview": "https://assets.ppy.sh/artists/240/Good Kid/Good Kid - Nomu.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -141,6 +153,7 @@
     },
     {
       "title": "Osmosis",
+      "preview": "https://assets.ppy.sh/artists/240/Good Kid 3/Good Kid - Osmosis.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -152,6 +165,7 @@
     },
     {
       "title": "Premier Inn",
+      "preview": "https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Premier_Inn.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -163,6 +177,7 @@
     },
     {
       "title": "Slingshot",
+      "preview": "https://assets.ppy.sh/artists/240/Good Kid 2/Good Kid - Slingshot.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -178,6 +193,7 @@
     },
     {
       "title": "Summer",
+      "preview": "https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Summer.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -193,6 +209,7 @@
     },
     {
       "title": "Tell Me You Know",
+      "preview": "https://assets.ppy.sh/artists/240/Good Kid/Good Kid - Tell Me You Know.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -204,6 +221,7 @@
     },
     {
       "title": "Witches",
+      "preview": "https://assets.ppy.sh/artists/240/Good Kid/Good Kid - Witches.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -215,19 +233,22 @@
     },
     {
       "title": "Everything Everything",
+      "preview": "https://assets.ppy.sh/artists/240/Good Kid 2/Good Kid - Everything Everything.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rift",
+      "preview": "https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Rift.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Wall",
+      "preview": "https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Wall.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:34:41Z"
+  "updated_at": "2026-03-31T00:12:35Z"
 }

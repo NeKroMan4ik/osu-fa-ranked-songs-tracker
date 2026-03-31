@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Love Infection",
+      "preview": "https://assets.ppy.sh/artists/275/Love Infection/Poin7less - Love Infection.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,49 +16,58 @@
     },
     {
       "title": "Flakes Party",
+      "preview": "https://assets.ppy.sh/artists/275/Songs/Poin7less - Flakes Party.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fleur de Lapin - Chaotic*Dream*Festival",
+      "preview": "https://assets.ppy.sh/artists/275/Songs/Fleur_de_Lapin_-_ChaoticDreamFestival.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "GAME ON",
+      "preview": "https://assets.ppy.sh/artists/275/GAME ON/Poin7less - GAME ON.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HARDCORE INTEGRATION",
+      "preview": "https://assets.ppy.sh/artists/275/Songs/Poin7less - HARDCORE INTEGRATION.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MELTDOWN",
+      "preview": "https://assets.ppy.sh/artists/275/Songs/Poin7less - MELTDOWN.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rainbow Chipstars",
+      "preview": "https://assets.ppy.sh/artists/275/Songs/Poin7less - Rainbow Chipstars.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rainbow Chipstars (Radio Mix)",
+      "preview": "https://assets.ppy.sh/artists/275/Songs/Poin7less - Rainbow Chipstars (Radio Mix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "RAINBOW HARDCORE",
+      "preview": "https://assets.ppy.sh/artists/275/RAINBOW HARDCORE/Poin7less - RAINBOW HARDCORE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Stardust Heaven",
+      "preview": "https://assets.ppy.sh/artists/275/Songs/Poin7less - Stardust Heaven.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:28:55Z"
+  "updated_at": "2026-03-30T23:06:57Z"
 }

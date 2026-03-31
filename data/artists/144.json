@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Tanchiky - Bridge",
+      "preview": "https://assets.ppy.sh/artists/144/Songs/Tanchiky - Bridge.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Tanchiky - ENERGY SYNERGY MATRIX",
+      "preview": "https://assets.ppy.sh/artists/144/POWER/Tanchiky - ENERGY SYNERGY MATRIX.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -34,6 +36,7 @@
     },
     {
       "title": "Tanchiky - Sanshi Suimei",
+      "preview": "https://assets.ppy.sh/artists/144/Songs/Tanchiky - Sanshi Suimei.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -49,124 +52,148 @@
     },
     {
       "title": "l2ka x Tanchiky - Voice",
+      "preview": "https://assets.ppy.sh/artists/144/Songs/I2ka x Tanchiky - Voice.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Spide vs. Tanchiky - 4th REVOLT",
+      "preview": "https://assets.ppy.sh/artists/144/4TH REVOLT/Spide vs. Tanchiky - 4th REVOLT.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanchiky & Street - Empty Flow",
+      "preview": "https://assets.ppy.sh/artists/144/REDOUT/Tanchiky & Street - Empty Flow.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanchiky - 3rd Impact feat. Torika",
+      "preview": "https://assets.ppy.sh/artists/144/3RD/Tanchiky - 3rd Impact feat. Torika.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanchiky - Build",
+      "preview": "https://assets.ppy.sh/artists/144/rEloaD/Tanchiky - Build.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanchiky - Count Up feat. Torika",
+      "preview": "https://assets.ppy.sh/artists/144/3RD/Tanchiky - Count Up feat. Torika.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanchiky - Eternal01",
+      "preview": "https://assets.ppy.sh/artists/144/Songs/Tanchiky - Eternal01.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanchiky - Hagoromo Nomai",
+      "preview": "https://assets.ppy.sh/artists/144/Songs/Tanchiky - Hagoromo Nomai.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanchiky - Horizon",
+      "preview": "https://assets.ppy.sh/artists/144/REDOUT/Tanchiky - Horizon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanchiky - i was a born",
+      "preview": "https://assets.ppy.sh/artists/144/i was a born EP/Tanchiky - i was a born.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanchiky - JUMP",
+      "preview": "https://assets.ppy.sh/artists/144/REDOUT/Tanchiky - JUMP.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanchiky - Maneuver",
+      "preview": "https://assets.ppy.sh/artists/144/REDOUT/Tanchiky - Maneuver.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanchiky - rE:loaD",
+      "preview": "https://assets.ppy.sh/artists/144/rEloaD/Tanchiky - rEloaD.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanchiky - REDOUT feat. Torika",
+      "preview": "https://assets.ppy.sh/artists/144/REDOUT/Tanchiky - REDOUT feat. Torika.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanchiky - Revolution",
+      "preview": "https://assets.ppy.sh/artists/144/4TH REVOLT/Tanchiky - Revolution.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanchiky - Riot",
+      "preview": "https://assets.ppy.sh/artists/144/rEloaD/Tanchiky - Riot.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanchiky - SENSOU",
+      "preview": "https://assets.ppy.sh/artists/144/POWER/Tanchiky - SENSOU.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanchiky - This is Power",
+      "preview": "https://assets.ppy.sh/artists/144/POWER/Tanchiky - This is Power.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanchiky - TouchDown",
+      "preview": "https://assets.ppy.sh/artists/144/POWER/Tanchiky - TouchDown.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanchiky - vertigo",
+      "preview": "https://assets.ppy.sh/artists/144/REDOUT/Tanchiky - vertigo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanchiky - WABI-CIRCUIT",
+      "preview": "https://assets.ppy.sh/artists/144/Songs/Tanchiky - WABI-CIRCUIT.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanchiky vs. Hagane - Legacy 8086",
+      "preview": "https://assets.ppy.sh/artists/144/REDOUT/Tanchiky vs. Hagane - Legacy 8086.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanchiky vs. sky_delta - Fuse",
+      "preview": "https://assets.ppy.sh/artists/144/4TH REVOLT/Tanchiky vs. sky_delta - Fuse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tanchiky vs. Street - Mist",
+      "preview": "https://assets.ppy.sh/artists/144/4TH REVOLT/Tanchiky vs. Street - Mist.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:34:12Z"
+  "updated_at": "2026-03-31T02:12:46Z"
 }

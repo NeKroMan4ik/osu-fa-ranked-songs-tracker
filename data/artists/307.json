@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Peaceful+Piece",
+      "preview": "https://assets.ppy.sh/artists/307/Songs/Mono. - Peaceful%2BPiece.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Soumatou",
+      "preview": "https://assets.ppy.sh/artists/307/Songs/Mono. - Soumatou.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -26,34 +28,40 @@
     },
     {
       "title": "Mono. (feat. Hatsune Miku) - Everlasting Game",
+      "preview": "https://assets.ppy.sh/artists/307/Songs/Mono._feat._Hatsune_Miku_-_Everlasting_Game.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ROCKET START",
+      "preview": "https://assets.ppy.sh/artists/307/Songs/Mono. - ROCKET START.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "skip&step",
+      "preview": "https://assets.ppy.sh/artists/307/Songs/Mono. - skip%26step.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ST4RDUST*XABER",
+      "preview": "https://assets.ppy.sh/artists/307/Songs/Mono. - ST4RDUSTXABER.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Susceptible",
+      "preview": "https://assets.ppy.sh/artists/307/Songs/Mono. - Susceptible.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tricolor Prizm***",
+      "preview": "https://assets.ppy.sh/artists/307/Songs/Mono. - Tricolor Prizm.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:24:34Z"
+  "updated_at": "2026-03-31T01:02:43Z"
 }

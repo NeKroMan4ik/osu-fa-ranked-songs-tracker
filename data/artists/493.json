@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Guilty feat. Kasane Teto",
+      "preview": "https://assets.ppy.sh/artists/493/0401%2B/d0tc0mmie - Guilty feat. Kasane Teto.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,59 +16,70 @@
     },
     {
       "title": "Can You Feel It feat. Hatsune Miku",
+      "preview": "https://assets.ppy.sh/artists/493/Can You Feel It/d0tc0mmie - Can You Feel It feat. Hatsune Miku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Do It Over feat. Kasane Teto",
+      "preview": "https://assets.ppy.sh/artists/493/0401%2B/d0tc0mmie - Do It Over feat. Kasane Teto.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dokifeel feat. Hanakuma Chifuyu",
+      "preview": "https://assets.ppy.sh/artists/493/0401%2B/d0tc0mmie - Dokifeel feat. Hanakuma Chifuyu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "I fell asleep on the train to my destination feat. Hatsune Miku",
+      "preview": "https://assets.ppy.sh/artists/493/0401%2B/d0tc0mmie - I fell asleep on the train to my destination feat. Hatsune Miku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mental Illness Injection",
+      "preview": "https://assets.ppy.sh/artists/493/Mental Illness Injection/d0tc0mmie - Mental Illness Injection.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mirai Glide feat. GUMI",
+      "preview": "https://assets.ppy.sh/artists/493/Mirai Glide/d0tc0mmie - Mirai Glide feat. GUMI.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "NekoTeto feat. Kasane Teto",
+      "preview": "https://assets.ppy.sh/artists/493/NekoTeto/d0tc0mmie - NekoTeto feat. Kasane Teto.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Strobe Light feat. Kasane Teto",
+      "preview": "https://assets.ppy.sh/artists/493/0401%2B/d0tc0mmie - Strobe Light feat. Kasane Teto.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Traffic Lights feat. Kasane Teto, Adachi Rei & GUMI",
+      "preview": "https://assets.ppy.sh/artists/493/Traffic Lights/d0tc0mmie - Traffic Lights feat. Kasane Teto%2C Adachi Rei %26 GUMI.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "What Do I Love feat. Kasane Teto",
+      "preview": "https://assets.ppy.sh/artists/493/0401%2B/d0tc0mmie - What Do I Love feat. Kasane Teto.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Will This Work feat. Kasane Teto",
+      "preview": "https://assets.ppy.sh/artists/493/0401%2B/d0tc0mmie - Will This Work feat. Kasane Teto.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:12:49Z"
+  "updated_at": "2026-03-30T23:50:36Z"
 }

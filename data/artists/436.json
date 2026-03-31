@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "empathy spike",
+      "preview": "https://assets.ppy.sh/artists/436/empathy spike/cast heal - empathy spike.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "fragments",
+      "preview": "https://assets.ppy.sh/artists/436/fragments/cast heal - fragments.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "lasting entropy",
+      "preview": "https://assets.ppy.sh/artists/436/lasting entropy/cast heal - lasting entropy.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "run to her",
+      "preview": "https://assets.ppy.sh/artists/436/run to her/cast heal - run to her.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "traumacide",
+      "preview": "https://assets.ppy.sh/artists/436/traumacide/cast heal - traumacide.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -59,29 +64,34 @@
     },
     {
       "title": "analog decay",
+      "preview": "https://assets.ppy.sh/artists/436/analog decay/cast heal - analog decay.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "destroy me",
+      "preview": "https://assets.ppy.sh/artists/436/destroy me/cast heal - destroy me.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "dissolve",
+      "preview": "https://assets.ppy.sh/artists/436/dissolve/cast heal - dissolve.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "message not delivered",
+      "preview": "https://assets.ppy.sh/artists/436/message not delivered/cast heal - message not delivered.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "obsession",
+      "preview": "https://assets.ppy.sh/artists/436/obsession/cast heal - obsession.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:03:42Z"
+  "updated_at": "2026-03-30T23:41:34Z"
 }

@@ -4,29 +4,34 @@
   "tracks": [
     {
       "title": "Aethral - Cyber Surge",
+      "preview": "https://assets.ppy.sh/artists/420/TEST Originals/Aethral - Cyber Surge.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aethral - Phoenix",
+      "preview": "https://assets.ppy.sh/artists/420/TEST Originals/Aethral - Phoenix.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "kanemiko - Twilight of the Abyss",
+      "preview": "https://assets.ppy.sh/artists/420/TEST Originals/kanemiko - Twilight of the Abyss.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kou! - Fermion Amplification",
+      "preview": "https://assets.ppy.sh/artists/420/TEST Originals/Kou! - Fermion Amplification.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kou! - RE_generate:fractal",
+      "preview": "https://assets.ppy.sh/artists/420/TEST Originals/Kou! - RE_generatefractal.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:38:46Z"
+  "updated_at": "2026-03-31T02:17:22Z"
 }

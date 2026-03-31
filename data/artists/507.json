@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "tiny windows (feat. Frizk)",
+      "preview": "https://assets.ppy.sh/artists/507/tinywindows/Tanger - tiny windows (feat. Frizk).mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -19,109 +20,130 @@
     },
     {
       "title": "! SIREN PARTY !",
+      "preview": "https://assets.ppy.sh/artists/507/BONUSx2/Tanger - ! SIREN PARTY !.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "(\"pnfrlenm;\")",
+      "preview": "https://assets.ppy.sh/artists/507/splice ep/Tanger - (pnfrlenm%27).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "31Hz",
+      "preview": "https://assets.ppy.sh/artists/507/splice ep/Tanger - 31Hz.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "^IKE",
+      "preview": "https://assets.ppy.sh/artists/507/BONUSx2/Tanger - %5EIKE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Acid Rumble",
+      "preview": "https://assets.ppy.sh/artists/507/BONUSx2/Tanger - Acid Rumble.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "cloud city",
+      "preview": "https://assets.ppy.sh/artists/507/cloud city/Tanger - cloud city.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "downpour.rainstorm.ver",
+      "preview": "https://assets.ppy.sh/artists/507/downpour.ep/Tanger - downpour.rainstorm.ver.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "downpour.remastered",
+      "preview": "https://assets.ppy.sh/artists/507/downpour.ep/Tanger - downpour.remastered.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "downpour.vip",
+      "preview": "https://assets.ppy.sh/artists/507/downpour.ep/Tanger - downpour.vip.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "GlowingTM",
+      "preview": "https://assets.ppy.sh/artists/507/splice ep/Tanger - GlowingTM.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "hugging.in.the.rain",
+      "preview": "https://assets.ppy.sh/artists/507/downpour.ep/Tanger - hugging.in.the.rain.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "IMPULSE! (feat. Inferno)",
+      "preview": "https://assets.ppy.sh/artists/507/IMPULSE!/Tanger - IMPULSE! (feat. Inferno).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "K1LL SOMEBODY",
+      "preview": "https://assets.ppy.sh/artists/507/K1LL SOMEBODY/Tanger - K1LL SOMEBODY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "LETHAL",
+      "preview": "https://assets.ppy.sh/artists/507/splice ep/Tanger - LETHAL.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "schranzgender (with REQUiRE)",
+      "preview": "https://assets.ppy.sh/artists/507/BONUSx2/Tanger - schranzgender (with REQUiRE).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "splice",
+      "preview": "https://assets.ppy.sh/artists/507/splice ep/Tanger - splice.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "spliced",
+      "preview": "https://assets.ppy.sh/artists/507/splice ep/Tanger - spliced.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SUGARUSH~!!!",
+      "preview": "https://assets.ppy.sh/artists/507/SUGARUSH%7E!!!/Tanger - SUGARUSH%7E!!!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tangier",
+      "preview": "https://assets.ppy.sh/artists/507/BONUSx2/Tanger - Tangier.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "tiny windows (instrumental)",
+      "preview": "https://assets.ppy.sh/artists/507/tinywindows/Tanger - tiny windows (instrumental).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "unfamiliar",
+      "preview": "https://assets.ppy.sh/artists/507/unfamiliar/Tanger - unfamiliar.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:34:42Z"
+  "updated_at": "2026-03-31T02:13:16Z"
 }

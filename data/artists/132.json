@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Emerald Galaxy",
+      "preview": "https://assets.ppy.sh/artists/132/Songs/Yuyoyuppe - Emerald Galaxy.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Gerbera",
+      "preview": "https://assets.ppy.sh/artists/132/Draw/Yuyoyuppe - Gerbera.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -28,6 +30,7 @@
     },
     {
       "title": "Hidamari no Uta",
+      "preview": "https://assets.ppy.sh/artists/132/DJ'TEKINA--SOMETHING/DJ'TEKINASOMETHING - Hidamari no Uta.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -38,10 +41,10 @@
         "taiko": [
           2505838
         ],
-        "fruits": [
+        "mania": [
           2505838
         ],
-        "mania": [
+        "fruits": [
           2505838
         ],
         "osu": [
@@ -55,6 +58,7 @@
     },
     {
       "title": "Kimi Iro, Yami ni, Tokete.",
+      "preview": "https://assets.ppy.sh/artists/132/Songs/Yuyoyuppe feat. YUC'e - Kimi Iro, Yami ni, Tokete..mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -66,6 +70,7 @@
     },
     {
       "title": "PYONTA",
+      "preview": "https://assets.ppy.sh/artists/132/DJ'TEKINA--SOMETHING/DJ'TEKINASOMETHING - PYONTA.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -77,6 +82,7 @@
     },
     {
       "title": "Yuyoyuppe - 7/8",
+      "preview": "https://assets.ppy.sh/artists/132/Story of Hope/Yuyoyuppe_-_78.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -92,6 +98,7 @@
     },
     {
       "title": "Yuyoyuppe - ALONE",
+      "preview": "https://assets.ppy.sh/artists/132/Story of Hope/Yuyoyuppe_-_ALONE.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -103,6 +110,7 @@
     },
     {
       "title": "Yuyoyuppe - Hope",
+      "preview": "https://assets.ppy.sh/artists/132/Story of Hope/Yuyoyuppe_-_Hope.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -118,6 +126,7 @@
     },
     {
       "title": "Yuyoyuppe - Kami no Kotoba",
+      "preview": "https://assets.ppy.sh/artists/132/Story of Hope/Yuyoyuppe_-_Kami_no_Kotoba.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -133,6 +142,7 @@
     },
     {
       "title": "Yuyoyuppe - Leia",
+      "preview": "https://assets.ppy.sh/artists/132/Story of Hope/Yuyoyuppe_-_Leia.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -144,6 +154,7 @@
     },
     {
       "title": "Yuyoyuppe - Palette",
+      "preview": "https://assets.ppy.sh/artists/132/Story of Hope/Yuyoyuppe_-_Palette.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -156,6 +167,7 @@
     },
     {
       "title": "Yuyoyuppe - Reon",
+      "preview": "https://assets.ppy.sh/artists/132/Story of Hope/Yuyoyuppe_-_Reon.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -172,6 +184,7 @@
     },
     {
       "title": "Yuyoyuppe - Story of Hope",
+      "preview": "https://assets.ppy.sh/artists/132/Story of Hope/Yuyoyuppe_-_Story_of_Hope.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -183,6 +196,7 @@
     },
     {
       "title": "Yuyoyuppe - You and beautiful world",
+      "preview": "https://assets.ppy.sh/artists/132/Solitude Freak/Yuyoyuppe_-_You_and_beautiful_world.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -194,29 +208,34 @@
     },
     {
       "title": "You Need Fxxkin' Anthem",
+      "preview": "https://assets.ppy.sh/artists/132/DJ'TEKINA--SOMETHING/DJ'TEKINASOMETHING - You Need Fxxkin' Anthem.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "You Need Fxxkin' Anthem (Powerless Remix)",
+      "preview": "https://assets.ppy.sh/artists/132/DJ'TEKINA--SOMETHING/DJ'TEKINASOMETHING - You Need Fxxkin' Anthem (Powerless Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Your Boobs",
+      "preview": "https://assets.ppy.sh/artists/132/DJ'TEKINA--SOMETHING/DJ'TEKINASOMETHING - Your Boobs.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yuyoyuppe - \"S\"",
+      "preview": "https://assets.ppy.sh/artists/132/Story of Hope/Yuyoyuppe_-_S.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yuyoyuppe - Lost Story",
+      "preview": "https://assets.ppy.sh/artists/132/Story of Hope/Yuyoyuppe_-_Lost_Story.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T23:05:43Z"
+  "updated_at": "2026-03-31T02:44:34Z"
 }

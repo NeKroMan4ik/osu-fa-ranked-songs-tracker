@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "COMA",
+      "preview": "https://assets.ppy.sh/artists/320/COMA/Ensou - COMA.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -27,6 +28,7 @@
     },
     {
       "title": "Event Horizon",
+      "preview": "https://assets.ppy.sh/artists/320/THEIA/Ensou - Event Horizon.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -38,6 +40,7 @@
     },
     {
       "title": "Time Traveler",
+      "preview": "https://assets.ppy.sh/artists/320/THEIA/Ensou - Time Traveler.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -49,29 +52,34 @@
     },
     {
       "title": "Entropy",
+      "preview": "https://assets.ppy.sh/artists/320/THEIA/Ensou - Entropy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lightspeed",
+      "preview": "https://assets.ppy.sh/artists/320/Lightspeed/Ensou - Lightspeed.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Living A Lie",
+      "preview": "https://assets.ppy.sh/artists/320/Living A Lie/Ensou - Living A Lie.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sedna",
+      "preview": "https://assets.ppy.sh/artists/320/THEIA/Ensou_-_Sedna.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Singularity",
+      "preview": "https://assets.ppy.sh/artists/320/THEIA/Ensou - Singularity.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:23:35Z"
+  "updated_at": "2026-03-31T00:01:24Z"
 }

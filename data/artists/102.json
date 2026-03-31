@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Dirigeant Decision",
+      "preview": "https://assets.ppy.sh/artists/102/previews/2708.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Forest Haze",
+      "preview": "https://assets.ppy.sh/artists/102/previews/2709.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -30,6 +32,7 @@
     },
     {
       "title": "Me & U",
+      "preview": "https://assets.ppy.sh/artists/102/previews/2711.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -45,6 +48,7 @@
     },
     {
       "title": "Midnight, Sunrise Sign",
+      "preview": "https://assets.ppy.sh/artists/102/previews/2712.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -56,6 +60,7 @@
     },
     {
       "title": "One Way Street",
+      "preview": "https://assets.ppy.sh/artists/102/previews/2714.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -75,6 +80,7 @@
     },
     {
       "title": "parsley",
+      "preview": "https://assets.ppy.sh/artists/102/previews/2719.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -94,6 +100,7 @@
     },
     {
       "title": "YInMn Blue",
+      "preview": "https://assets.ppy.sh/artists/102/previews/2718.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -105,34 +112,40 @@
     },
     {
       "title": "Growth Call",
+      "preview": "https://assets.ppy.sh/artists/102/previews/2720.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Laser Mirage",
+      "preview": "https://assets.ppy.sh/artists/102/previews/2710.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ogre and Beans",
+      "preview": "https://assets.ppy.sh/artists/102/previews/2713.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Purple Hyacinth (feat. Norico)",
+      "preview": "https://assets.ppy.sh/artists/102/previews/2715.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Throw Shade",
+      "preview": "https://assets.ppy.sh/artists/102/previews/2716.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "U SAiD",
+      "preview": "https://assets.ppy.sh/artists/102/previews/2717.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:20:14Z"
+  "updated_at": "2026-03-31T01:58:44Z"
 }

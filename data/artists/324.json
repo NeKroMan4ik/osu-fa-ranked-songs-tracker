@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Barracuda",
+      "preview": "https://assets.ppy.sh/artists/324/Songs/Noisestorm - Barracuda.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Crab Rave",
+      "preview": "https://assets.ppy.sh/artists/324/Songs/Noisestorm - Crab Rave.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -34,14 +36,16 @@
     },
     {
       "title": "Breakdown VIP",
+      "preview": "https://assets.ppy.sh/artists/324/Songs/Noisestorm - Breakdown VIP.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Excision & Pegboard Nerds - Bring The Madness (feat. Mayor Apeshit) (Noisestorm Remix)",
+      "preview": "https://assets.ppy.sh/artists/324/Songs/Excision %26 Pegboard Nerds - Bring The Madness (feat. Mayor Apeshit) (Noisestorm Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:35:26Z"
+  "updated_at": "2026-03-31T01:13:37Z"
 }

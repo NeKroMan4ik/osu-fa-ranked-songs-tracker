@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Cloud Material",
+      "preview": "https://assets.ppy.sh/artists/290/Unique Dreams/Darkney - Cloud Material.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Rush Hour",
+      "preview": "https://assets.ppy.sh/artists/290/Songs/Darkney - Rush Hour.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -30,6 +32,7 @@
     },
     {
       "title": "Tonight",
+      "preview": "https://assets.ppy.sh/artists/290/Tonight/Darkney - Tonight.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -41,59 +44,70 @@
     },
     {
       "title": "Absorption",
+      "preview": "https://assets.ppy.sh/artists/290/Absorption EP/Darkney - Absorption.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cloud Material (Cut Ver.)",
+      "preview": "https://assets.ppy.sh/artists/290/Unique Dreams/Darkney - Cloud Material (Cut Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Enlighten",
+      "preview": "https://assets.ppy.sh/artists/290/Absorption EP/Darkney - Enlighten.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fading Away",
+      "preview": "https://assets.ppy.sh/artists/290/Absorption EP/Darkney - Fading Away.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fading Away (Cut Ver.)",
+      "preview": "https://assets.ppy.sh/artists/290/Absorption EP/Darkney - Fading Away (Cut Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fly Away",
+      "preview": "https://assets.ppy.sh/artists/290/Songs/Darkney - Fly Away.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Moonlight",
+      "preview": "https://assets.ppy.sh/artists/290/Moonlight/Darkney - Moonlight.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Prism Fall",
+      "preview": "https://assets.ppy.sh/artists/290/Songs/Darkney_-_Prism_Fall.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shatter",
+      "preview": "https://assets.ppy.sh/artists/290/Songs/Darkney - Shatter.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Skyline",
+      "preview": "https://assets.ppy.sh/artists/290/Absorption EP/Darkney - Skyline.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Stars",
+      "preview": "https://assets.ppy.sh/artists/290/Absorption EP/Darkney - Stars.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:13:32Z"
+  "updated_at": "2026-03-30T23:51:20Z"
 }

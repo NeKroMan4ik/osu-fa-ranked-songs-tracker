@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Akira Complex - rift.exe",
+      "preview": "https://assets.ppy.sh/artists/51/Beats!!/Akira Complex - Akira Complex - rift.exe.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Dying Scarlet",
+      "preview": "https://assets.ppy.sh/artists/51/Break Stasis/Akira Complex - Dying Scarlet.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Odyssey",
+      "preview": "https://assets.ppy.sh/artists/51/Hardcore United Tokyo/Akira Complex - Odyssey.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Odyssey (Au5 Remix)",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/Akira Complex - Odyssey (Au5 Remix).mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -52,6 +56,7 @@
     },
     {
       "title": "rift.exe (Camellia's \"De-compiling\" Remix)",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/Akira Complex - rift.exe (Camellia%27s De-compiling Remix).mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -63,6 +68,7 @@
     },
     {
       "title": "S2TB-303",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/Akira Complex - S2TB-303.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -74,139 +80,166 @@
     },
     {
       "title": "6AM Tokyo Funky Town feat. NO+CHIN",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/Akira Complex - 6AM Tokyo Funky Town feat. NO%2BCHIN.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Akira Complex & Melancholiaah - Sekai no Owari",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/Akira Complex %26 Melancholiaah - Sekai no Owari.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Akira Complex & N2 - Boot Sequence",
+      "preview": "https://assets.ppy.sh/artists/51/HYPERSYNTHETIC/Akira Complex %26 N2 - Boot Sequence.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Akira Complex & PSYQUI - Come to me",
+      "preview": "https://assets.ppy.sh/artists/51/HYPERSYNTHETIC/Akira Complex %26 PSYQUI - Come to me.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Akira Complex feat. ARISA - Transmission",
+      "preview": "https://assets.ppy.sh/artists/51/The Synthesis Collective/Akira Complex feat. ARISA - Transmission.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Akira Complex feat. Such - Consequence Of Nature",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/Akira Complex feat. Such - Consequence Of Nature.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Akira Complex vs. kors k - Up To You",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/Akira Complex vs. kors k - Up To You.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "AUTUMN+GHOST feat. Akira Complex - PURE FURY",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/AUTUMN%2BGHOST feat. Akira Complex - PURE FURY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Camellia - d:for the DELTA (Akira Complex Remix)",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/Camellia - dfor the DELTA (Akira Complex Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Camellia vs. Akira Complex - Railgun Roulette",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/Camellia vs. Akira Complex - Railgun Roulette.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Camellia vs. Akira Complex - Railgun Roulette (VIP)",
+      "preview": "https://assets.ppy.sh/artists/51/Reality Distortion/Camellia vs. Akira Complex - Railgun Roulette (VIP).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Camellia vs. Akira Complex - Reality Distortion",
+      "preview": "https://assets.ppy.sh/artists/51/Reality Distortion/Camellia vs. Akira Complex - Reality Distortion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Camellia vs. Akira Complex - World Collapse (Introduction)",
+      "preview": "https://assets.ppy.sh/artists/51/Reality Distortion/Camellia vs. Akira Complex - World Collapse (Introduction).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Courage",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/Akira Complex - Courage.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Foresight",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/Akira Complex - Foresight.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Huntress Spirit",
+      "preview": "https://assets.ppy.sh/artists/51/Reality Distortion/Akira Complex - Huntress Spirit.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Infinity Stage 2019 Anthem",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/Akira_Complex_-_Infinity_Stage_2019_Anthem.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "kors k & Akira Complex - message within the rift (Arcien Remix)",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/kors k %26 Akira Complex - message within the rift (Arcien Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "lapix - Crossroad (Akira Complex Remix)",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/lapix - Crossroad (Akira Complex Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "LVL.99 Mimic",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/Akira Complex - LVL.99 Mimic.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mantis",
+      "preview": "https://assets.ppy.sh/artists/51/Break Stasis/Akira Complex - Mantis.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Necromancer's Circle",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/Akira Complex - Necromancer%27s Circle.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Odyssey (Hardcore VIP)",
+      "preview": "https://assets.ppy.sh/artists/51/Hardcore United Tokyo/Akira Complex - Odyssey (Hardcore VIP).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "onumi & Akira Complex - Ethereal Cyber Angel XV",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/onumi__Akira_Complex_-_Ethereal_Cyber_Angel_XV.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Show Me How (Defsharp Remix)",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/Akira Complex - Show Me How (Defsharp Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "STINGER MISSILE",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/Akira Complex - STINGER MISSILE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "TERRA",
+      "preview": "https://assets.ppy.sh/artists/51/Songs/Akira Complex - TERRA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:35:30Z"
+  "updated_at": "2026-03-30T23:13:30Z"
 }

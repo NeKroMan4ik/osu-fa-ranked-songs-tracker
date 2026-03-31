@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Avalon",
+      "preview": "https://assets.ppy.sh/artists/332/The Saberlight Chronicles/Fellowship - Avalon.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Glory Days",
+      "preview": "https://assets.ppy.sh/artists/332/The Saberlight Chronicles/Fellowship - Glory Days.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -30,6 +32,7 @@
     },
     {
       "title": "The Frozen Land",
+      "preview": "https://assets.ppy.sh/artists/332/Songs/Fellowship - The Frozen Land.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -46,6 +49,7 @@
     },
     {
       "title": "The Saint Beyond the River",
+      "preview": "https://assets.ppy.sh/artists/332/The Saberlight Chronicles/Fellowship - The Saint Beyond the River.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -57,48 +61,54 @@
     },
     {
       "title": "Until the Fires Die",
+      "preview": "https://assets.ppy.sh/artists/332/The Saberlight Chronicles/Fellowship - Until the Fires Die.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "fruits": [
           2489329
         ],
         "osu": [
           2489329
         ],
-        "fruits": [
+        "taiko": [
           2489329
         ]
       }
     },
     {
       "title": "Glint",
+      "preview": "https://assets.ppy.sh/artists/332/The Saberlight Chronicles/Fellowship - Glint.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Oak and Ash",
+      "preview": "https://assets.ppy.sh/artists/332/The Saberlight Chronicles/Fellowship - Oak and Ash.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Scars and Shrapnel Wounds",
+      "preview": "https://assets.ppy.sh/artists/332/The Saberlight Chronicles/Fellowship - Scars and Shrapnel Wounds.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Still Enough",
+      "preview": "https://assets.ppy.sh/artists/332/The Saberlight Chronicles/Fellowship - Still Enough.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Hours of Wintertime",
+      "preview": "https://assets.ppy.sh/artists/332/The Saberlight Chronicles/Fellowship - The Hours of Wintertime.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:27:38Z"
+  "updated_at": "2026-03-31T00:05:30Z"
 }

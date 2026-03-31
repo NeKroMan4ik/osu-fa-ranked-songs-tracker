@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "A Tree Without A Branch",
+      "preview": "https://assets.ppy.sh/artists/120/Resonance/MuryokuP - A Tree Without A Branch.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -20,6 +21,7 @@
     },
     {
       "title": "Catastrophe",
+      "preview": "https://assets.ppy.sh/artists/120/Eschatology/MuryokuP - Catastrophe.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -29,16 +31,17 @@
         "fruits": [
           2313020
         ],
-        "taiko": [
+        "osu": [
           72740
         ],
-        "osu": [
+        "taiko": [
           72740
         ]
       }
     },
     {
       "title": "Epimetheus",
+      "preview": "https://assets.ppy.sh/artists/120/Eschatology/MuryokuP - Epimetheus.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -50,6 +53,7 @@
     },
     {
       "title": "Frey's Philosophy",
+      "preview": "https://assets.ppy.sh/artists/120/Powerless/Powerless - Frey's Philosophy.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -65,6 +69,7 @@
     },
     {
       "title": "Frozen World",
+      "preview": "https://assets.ppy.sh/artists/120/Resonance/MuryokuP - Frozen World.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -88,23 +93,25 @@
     },
     {
       "title": "hypnoSpirA",
+      "preview": "https://assets.ppy.sh/artists/120/Eschatology/MuryokuP - hypnoSpirA.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          57908,
-          1371448
-        ],
         "osu": [
           57908,
           847415
+        ],
+        "taiko": [
+          57908,
+          1371448
         ]
       }
     },
     {
       "title": "Overture",
+      "preview": "https://assets.ppy.sh/artists/120/Your Pianist/MuryokuP - Overture.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -120,6 +127,7 @@
     },
     {
       "title": "Soleil",
+      "preview": "https://assets.ppy.sh/artists/120/Powerless/Powerless - Soleil.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -131,6 +139,7 @@
     },
     {
       "title": "Todestrieb",
+      "preview": "https://assets.ppy.sh/artists/120/Powerless/Powerless feat. Sennzai - Todestrieb.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -142,6 +151,7 @@
     },
     {
       "title": "Unrequited",
+      "preview": "https://assets.ppy.sh/artists/120/Powerless/Powerless feat. Sennzai - Unrequited.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -153,6 +163,7 @@
     },
     {
       "title": "Vanity",
+      "preview": "https://assets.ppy.sh/artists/120/Powerless/Powerless feat. kakichoco - Vanity.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -165,59 +176,70 @@
     },
     {
       "title": "Core",
+      "preview": "https://assets.ppy.sh/artists/120/Unfinished Eden/MuryokuP - Core.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Crescent Mark",
+      "preview": "https://assets.ppy.sh/artists/120/Your Pianist/MuryokuP - Crescent Mark.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fortuna",
+      "preview": "https://assets.ppy.sh/artists/120/Powerless/Powerless - Fortuna.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hour of Execution",
+      "preview": "https://assets.ppy.sh/artists/120/Eschatology/MuryokuP - Hour of Execution.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Jihad?",
+      "preview": "https://assets.ppy.sh/artists/120/Unfinished Eden/MuryokuP - Jihad.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Latter Letter",
+      "preview": "https://assets.ppy.sh/artists/120/Your Pianist/MuryokuP - Latter Letter.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Live-Right",
+      "preview": "https://assets.ppy.sh/artists/120/Unfinished Eden/MuryokuP - Live-Right.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mephisto",
+      "preview": "https://assets.ppy.sh/artists/120/Eschatology/MuryokuP - Mephisto.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "My Savior",
+      "preview": "https://assets.ppy.sh/artists/120/Unfinished Eden/MuryokuP - My Savior.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Re-Bright",
+      "preview": "https://assets.ppy.sh/artists/120/Unfinished Eden/MuryokuP - Re-Bright.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Still,",
+      "preview": "https://assets.ppy.sh/artists/120/Resonance/MuryokuP - Still,.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:29:19Z"
+  "updated_at": "2026-03-31T01:07:26Z"
 }

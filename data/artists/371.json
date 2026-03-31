@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Coeval Era",
+      "preview": "https://assets.ppy.sh/artists/371/Coeval Era/Krimek - Coeval Era.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Golden Tears (feat. eili)",
+      "preview": "https://assets.ppy.sh/artists/371/Golden Tears EP/Krimek - Golden Tears (feat. eili).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "HyperColor",
+      "preview": "https://assets.ppy.sh/artists/371/HyperColor/Krimek - HyperColor.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Idyllic World",
+      "preview": "https://assets.ppy.sh/artists/371/GALAXY OF MIND/MINE/Krimek_-_Idyllic_World.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "Lunar Eclipse",
+      "preview": "https://assets.ppy.sh/artists/371/GALAXY OF MIND/MINE/Krimek_-_Lunar_Eclipse.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -59,149 +64,178 @@
     },
     {
       "title": "AzurRush",
+      "preview": "https://assets.ppy.sh/artists/371/AzurRush/Krimek - AzurRush.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Beneath The Surface",
+      "preview": "https://assets.ppy.sh/artists/371/Songs/Krimek_-_Beneath_The_Surface.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Breakneck Speed",
+      "preview": "https://assets.ppy.sh/artists/371/GALAXY OF MIND/MINE/Krimek_-_Breakneck_Speed.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Celeste",
+      "preview": "https://assets.ppy.sh/artists/371/GALAXY OF MIND/MINE/Krimek_-_Celeste.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Conservation Of Momentum",
+      "preview": "https://assets.ppy.sh/artists/371/GALAXY OF MIND/MINE/Krimek_-_Conservation_Of_Momentum.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cybernetic Reverie",
+      "preview": "https://assets.ppy.sh/artists/371/Cybernetic Reverie/Krimek - Cybernetic Reverie.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dissociation",
+      "preview": "https://assets.ppy.sh/artists/371/GALAXY OF MIND/MINE/Krimek_-_Dissociation.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Distant Light (feat. eili)",
+      "preview": "https://assets.ppy.sh/artists/371/Golden Tears EP/Krimek - Distant Light (feat. eili).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "e Lyrae",
+      "preview": "https://assets.ppy.sh/artists/371/GALAXY OF MIND/MINE/Krimek_-_e_Lyrae.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Enceladus",
+      "preview": "https://assets.ppy.sh/artists/371/GALAXY OF MIND/MINE/Krimek_-_Enceladus.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Facing Dreams (feat. eili)",
+      "preview": "https://assets.ppy.sh/artists/371/Golden Tears EP/Krimek - Facing Dreams (feat. eili).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fragile Heart (feat. eili)",
+      "preview": "https://assets.ppy.sh/artists/371/Golden Tears EP/Krimek - Fragile Heart (feat. eili).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Krimek feat. dokxid - Gravity Hole",
+      "preview": "https://assets.ppy.sh/artists/371/GALAXY OF MIND/MINE/Krimek_feat._dokxid_-_Gravity_Hole.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Krimek feat. eili - Silent Sentinel",
+      "preview": "https://assets.ppy.sh/artists/371/Silent Sentinel/Krimek feat. eili - Silent Sentinel.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Krimek feat. Hexxone - Take Off",
+      "preview": "https://assets.ppy.sh/artists/371/GALAXY OF MIND/MINE/Krimek_feat._Hexxone_-_Take_Off.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Krimek feat. michiri9 - Lunaria",
+      "preview": "https://assets.ppy.sh/artists/371/Lunaria/Krimek feat. michiri9 - Lunaria.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kyoto Drive (Krimek's 'galaxy' remix)",
+      "preview": "https://assets.ppy.sh/artists/371/GALAXY OF MIND/MINE/Krimek_-_Kyoto_Drive_Krimeks_galaxy_remix.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MasterMaker",
+      "preview": "https://assets.ppy.sh/artists/371/GALAXY OF MIND/MINE/Krimek_-_MasterMaker.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Michi no Zankyou (feat. eili & Rafterz)",
+      "preview": "https://assets.ppy.sh/artists/371/Golden Tears EP/Krimek - Michi no Zankyou (feat. eili %26 Rafterz).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mondlichtzauber",
+      "preview": "https://assets.ppy.sh/artists/371/Songs/Krimek_-_Mondlichtzauber.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "NeurodriveX",
+      "preview": "https://assets.ppy.sh/artists/371/Songs/Krimek_-_NeurodriveX.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Planet Duo",
+      "preview": "https://assets.ppy.sh/artists/371/GALAXY OF MIND/MINE/Krimek_-_Planet_Duo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Revival Of A New Master",
+      "preview": "https://assets.ppy.sh/artists/371/Revival Of A New Master/Krimek - Revival Of A New Master.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Somnia Animae",
+      "preview": "https://assets.ppy.sh/artists/371/Golden Tears EP/Krimek - Somnia Animae.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Song Of The Submerged",
+      "preview": "https://assets.ppy.sh/artists/371/Songs/Krimek_-_Song_Of_The_Submerged.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Souki (feat. eili)",
+      "preview": "https://assets.ppy.sh/artists/371/Golden Tears EP/Krimek - Souki (feat. eili).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Star Fall",
+      "preview": "https://assets.ppy.sh/artists/371/GALAXY OF MIND/MINE/Krimek_-_Star_Fall.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Dark",
+      "preview": "https://assets.ppy.sh/artists/371/The Dark/Krimek - The Dark.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Transientia",
+      "preview": "https://assets.ppy.sh/artists/371/Golden Tears EP/Krimek - Transientia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:02:10Z"
+  "updated_at": "2026-03-31T00:40:07Z"
 }

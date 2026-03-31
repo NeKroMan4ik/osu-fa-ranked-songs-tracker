@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "As the wind blows",
+      "preview": "https://assets.ppy.sh/artists/317/As the wind blows/happy30 - As the wind blows.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -16,6 +17,7 @@
     },
     {
       "title": "let me smile again",
+      "preview": "https://assets.ppy.sh/artists/317/Songs/happy30 - let me smile again.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -27,6 +29,7 @@
     },
     {
       "title": "You spin my world",
+      "preview": "https://assets.ppy.sh/artists/317/As the wind blows/happy30 - You spin my world.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -40,30 +43,33 @@
         "fruits": [
           2038439
         ],
-        "taiko": [
-          1933822
-        ],
         "osu": [
           1873680,
+          1933822
+        ],
+        "taiko": [
           1933822
         ]
       }
     },
     {
       "title": "Circles!",
+      "preview": "https://assets.ppy.sh/artists/317/As the wind blows/happy30 - Circles!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Relentless",
+      "preview": "https://assets.ppy.sh/artists/317/As the wind blows/happy30 - Relentless.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shoot the star",
+      "preview": "https://assets.ppy.sh/artists/317/As the wind blows/happy30 - Shoot the star.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:36:19Z"
+  "updated_at": "2026-03-31T00:14:14Z"
 }

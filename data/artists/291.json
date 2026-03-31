@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Electroman Adventures",
+      "preview": "https://assets.ppy.sh/artists/291/Songs/Waterflame - Electroman Adventures.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -16,6 +17,7 @@
     },
     {
       "title": "Final Battle",
+      "preview": "https://assets.ppy.sh/artists/291/Final Battle/Waterflame - Final Battle.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -27,6 +29,7 @@
     },
     {
       "title": "Glorious Morning",
+      "preview": "https://assets.ppy.sh/artists/291/Glorious Morning/Waterflame - Glorious Morning.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -42,6 +45,7 @@
     },
     {
       "title": "Jumper",
+      "preview": "https://assets.ppy.sh/artists/291/Jumper/Waterflame - Jumper.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -53,6 +57,7 @@
     },
     {
       "title": "Ricochet Love",
+      "preview": "https://assets.ppy.sh/artists/291/Ricochet Love/Waterflame - Ricochet Love.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -68,6 +73,7 @@
     },
     {
       "title": "The Show",
+      "preview": "https://assets.ppy.sh/artists/291/The Show/Waterflame - The Show.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -83,6 +89,7 @@
     },
     {
       "title": "Time Machine",
+      "preview": "https://assets.ppy.sh/artists/291/Time Machine/Waterflame - Time Machine.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -94,164 +101,196 @@
     },
     {
       "title": "Blast Processing",
+      "preview": "https://assets.ppy.sh/artists/291/Blast Processing/Waterflame - Blast Processing.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Body Jammer",
+      "preview": "https://assets.ppy.sh/artists/291/Songs/Waterflame_-_Body_Jammer.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Clownparty",
+      "preview": "https://assets.ppy.sh/artists/291/Songs/Waterflame - Clownparty.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ClutterFunk",
+      "preview": "https://assets.ppy.sh/artists/291/Clutterfunk/Waterflame - ClutterFunk.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Clutterfunk 2.2",
+      "preview": "https://assets.ppy.sh/artists/291/Songs/Waterflame_-_Clutterfunk_2.2.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Conclusion",
+      "preview": "https://assets.ppy.sh/artists/291/Songs/Waterflame - Conclusion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Endgame",
+      "preview": "https://assets.ppy.sh/artists/291/Endgame/Waterflame - Endgame.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Field of memories",
+      "preview": "https://assets.ppy.sh/artists/291/Field of Memories/Waterflame - Field of memories.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Frenetic",
+      "preview": "https://assets.ppy.sh/artists/291/Frenetic/Waterflame - Frenetic.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fuzzy",
+      "preview": "https://assets.ppy.sh/artists/291/Fuzzy/Waterflame - Fuzzy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Geometrical Dominator",
+      "preview": "https://assets.ppy.sh/artists/291/Geometrical Dominator/Waterflame - Geometrical Dominator.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Glorious Morning 2",
+      "preview": "https://assets.ppy.sh/artists/291/Glorious Morning 2/Waterflame - Glorious Morning 2.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Grind District",
+      "preview": "https://assets.ppy.sh/artists/291/Grind District/Waterflame - Grind District.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Haunted Woods",
+      "preview": "https://assets.ppy.sh/artists/291/Haunted Woods/Waterflame - Haunted Woods.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hexagon Force",
+      "preview": "https://assets.ppy.sh/artists/291/Hexagon Force/Waterflame - Hexagon Force.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Jungle Driver",
+      "preview": "https://assets.ppy.sh/artists/291/Songs/Waterflame_-_Jungle_Driver.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lightspeed",
+      "preview": "https://assets.ppy.sh/artists/291/Songs/Waterflame - Lightspeed.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lines Fading",
+      "preview": "https://assets.ppy.sh/artists/291/Lines Fading/Waterflame - Lines Fading.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Radioactive",
+      "preview": "https://assets.ppy.sh/artists/291/Radioactive/Waterflame - Radioactive.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "RadioCutter",
+      "preview": "https://assets.ppy.sh/artists/291/RadioCutter/Waterflame - RadioCutter.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rampart",
+      "preview": "https://assets.ppy.sh/artists/291/Songs/Waterflame_-_Rampart.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rawstar",
+      "preview": "https://assets.ppy.sh/artists/291/Songs/Waterflame_-_Rawstar.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rocket Race",
+      "preview": "https://assets.ppy.sh/artists/291/Rocket Race/Waterflame - Rocket Race.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rupture",
+      "preview": "https://assets.ppy.sh/artists/291/Rupture/Waterflame - Rupture.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sky Fortress",
+      "preview": "https://assets.ppy.sh/artists/291/Sky Fortress/Waterflame - Sky Fortress.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Space Pirates",
+      "preview": "https://assets.ppy.sh/artists/291/Space Pirates/Waterflame - Space Pirates.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Stalker",
+      "preview": "https://assets.ppy.sh/artists/291/Stalker/Waterflame - Stalker.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Streetwise",
+      "preview": "https://assets.ppy.sh/artists/291/Streetwise/Waterflame - Streetwise.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Race Around the World",
+      "preview": "https://assets.ppy.sh/artists/291/The Race Around the World/Waterflame - The Race Around the World.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ThunderZone v2",
+      "preview": "https://assets.ppy.sh/artists/291/ThunderZone v2/Waterflame - ThunderZone v2.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Toy Soldiers Orchestral",
+      "preview": "https://assets.ppy.sh/artists/291/Toy Soldiers Orchestral/Waterflame - Toy Soldiers Orchestral.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Village Up North",
+      "preview": "https://assets.ppy.sh/artists/291/Songs/Waterflame - Village Up North.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:56:23Z"
+  "updated_at": "2026-03-31T02:35:07Z"
 }

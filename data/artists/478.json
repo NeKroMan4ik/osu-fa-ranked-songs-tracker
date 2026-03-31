@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Thinking Of",
+      "preview": "https://assets.ppy.sh/artists/478/Thinking Of/The Musical Ghost - Thinking Of.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "You Wouldn't Get This",
+      "preview": "https://assets.ppy.sh/artists/478/You Wouldn%27t Get This/The Musical Ghost - You Wouldn%27t Get This.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -30,34 +32,40 @@
     },
     {
       "title": "Avallonis",
+      "preview": "https://assets.ppy.sh/artists/478/Avallonis/The Musical Ghost - Avallonis.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Epithet Erased - Great at Crime (feat. OR3O)",
+      "preview": "https://assets.ppy.sh/artists/478/Epithet Erased - Great at Crime (feat. OR3O)/The Musical Ghost - Epithet Erased - Great at Crime (feat. OR3O).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hi Tech Sakura",
+      "preview": "https://assets.ppy.sh/artists/478/Hi-Tech Sakura/The Musical Ghost - Hi Tech Sakura.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mahika",
+      "preview": "https://assets.ppy.sh/artists/478/Mahika/The Musical Ghost - Mahika.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Musical Ghost vs arc.sys - Re:Define ~Beyond The Divine Ordeal~",
+      "preview": "https://assets.ppy.sh/artists/478/Re%27Define -Beyond the Divine Ordeal-/The Musical Ghost vs arc.sys - ReDefine %7EBeyond The Divine Ordeal%7E.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Zpace Invaderz",
+      "preview": "https://assets.ppy.sh/artists/478/Zpace Invaderz/The Musical Ghost - Zpace Invaderz.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:40:16Z"
+  "updated_at": "2026-03-31T02:18:55Z"
 }

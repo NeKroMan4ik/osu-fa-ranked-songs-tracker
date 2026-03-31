@@ -4,25 +4,27 @@
   "tracks": [
     {
       "title": "Jika -ST.-",
+      "preview": "https://assets.ppy.sh/artists/440/Jika -ST.-/Trina Lydia - Jika -ST.-.mp3",
       "ranked_modes": [
         "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          2484664
-        ],
         "osu": [
           2484664
         ],
         "mania": [
+          2484664
+        ],
+        "taiko": [
           2484664
         ]
       }
     },
     {
       "title": "Stellar Immortality",
+      "preview": "https://assets.ppy.sh/artists/440/Stellar Immortality/Trina Lydia - Stellar Immortality.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -34,6 +36,7 @@
     },
     {
       "title": "TETRATONE ALTiSSiMO",
+      "preview": "https://assets.ppy.sh/artists/440/TETRATONE ALTiSSiMO/Trina Lydia - TETRATONE ALTiSSiMO.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -45,6 +48,7 @@
     },
     {
       "title": "The Blank Canvas",
+      "preview": "https://assets.ppy.sh/artists/440/The Blank Canvas/Trina Lydia - The Blank Canvas.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -56,29 +60,34 @@
     },
     {
       "title": "Ad astra itur =*",
+      "preview": "https://assets.ppy.sh/artists/440/Ad astra itur/Trina Lydia - Ad astra itur %3D.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Bend The Bullet",
+      "preview": "https://assets.ppy.sh/artists/440/Bend The Bullet/Trina Lydia - Bend The Bullet.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Late-Night Rocket Ride",
+      "preview": "https://assets.ppy.sh/artists/440/Late-Night Rocket Ride/Trina Lydia - Late-Night Rocket Ride.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Library at Noon",
+      "preview": "https://assets.ppy.sh/artists/440/Library at Noon/Trina Lydia - Library at Noon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MORTALiZE",
+      "preview": "https://assets.ppy.sh/artists/440/MORTALiZE/Trina Lydia - MORTALiZE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:43:40Z"
+  "updated_at": "2026-03-31T02:22:23Z"
 }

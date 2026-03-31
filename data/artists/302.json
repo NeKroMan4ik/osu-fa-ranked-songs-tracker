@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Insert Coin",
+      "preview": "https://assets.ppy.sh/artists/302/Arcade Metal/Andy Gillion - Insert Coin.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Skyless (feat. Jeff Loomis)",
+      "preview": "https://assets.ppy.sh/artists/302/Neverafter/Andy Gillion - Skyless (feat. Jeff Loomis).mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -30,64 +32,76 @@
     },
     {
       "title": "1988 (feat. Li-sa-X)",
+      "preview": "https://assets.ppy.sh/artists/302/Arcade Metal/Andy Gillion - 1988 (feat. Li-sa-X).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Becoming the Dream",
+      "preview": "https://assets.ppy.sh/artists/302/Neverafter/Andy Gillion - Becoming the Dream.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Becoming the Nightmare",
+      "preview": "https://assets.ppy.sh/artists/302/Neverafter/Andy Gillion - Becoming the Nightmare.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Black Lotus",
+      "preview": "https://assets.ppy.sh/artists/302/Neverafter/Andy Gillion - Black Lotus.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Enter The Castle (feat. Jeff Loomis)",
+      "preview": "https://assets.ppy.sh/artists/302/Arcade Metal/Andy Gillion - Enter The Castle (feat. Jeff Loomis).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Final Boss (feat. Per Nilsson)",
+      "preview": "https://assets.ppy.sh/artists/302/Arcade Metal/Andy Gillion - Final Boss (feat. Per Nilsson).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Glitch",
+      "preview": "https://assets.ppy.sh/artists/302/Arcade Metal/Andy Gillion - Glitch.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Neverafter",
+      "preview": "https://assets.ppy.sh/artists/302/Neverafter/Andy Gillion - Neverafter.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nocturne",
+      "preview": "https://assets.ppy.sh/artists/302/Neverafter/Andy Gillion - Nocturne.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Prophecy",
+      "preview": "https://assets.ppy.sh/artists/302/Exilium/Andy Gillion - Prophecy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shards of a Forgotten World",
+      "preview": "https://assets.ppy.sh/artists/302/Neverafter/Andy Gillion - Shards of a Forgotten World.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Lost Melody",
+      "preview": "https://assets.ppy.sh/artists/302/Neverafter/Andy Gillion - The Lost Melody.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:40:33Z"
+  "updated_at": "2026-03-30T23:18:33Z"
 }

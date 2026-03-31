@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "1xMISS",
+      "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto - 1xMISS.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Amethyst Aurora",
+      "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto_-_Amethyst_Aurora.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -30,6 +32,7 @@
     },
     {
       "title": "four veiled stars",
+      "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto - four veiled stars.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -46,6 +49,7 @@
     },
     {
       "title": "HDHR",
+      "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto - HDHR.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -61,6 +65,7 @@
     },
     {
       "title": "life flashes before weeb eyes",
+      "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto - life flashes before weeb eyes.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -76,6 +81,7 @@
     },
     {
       "title": "LIGHT LEFT BEHIND",
+      "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto_-_LIGHT_LEFT_BEHIND.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -87,6 +93,7 @@
     },
     {
       "title": "LINK[INIT]",
+      "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto_-_LINKINIT.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -98,6 +105,7 @@
     },
     {
       "title": "Rocky Buinne",
+      "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto - Rocky Buinne (Short Ver.).mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -109,6 +117,7 @@
     },
     {
       "title": "walking to school trippin",
+      "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto - walking to school trippin.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -120,99 +129,118 @@
     },
     {
       "title": "100 Carat Smoke Point",
+      "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto_-_100_Carat_Smoke_Point.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": ":D",
+      "preview": "https://assets.ppy.sh/artists/38/Rabbithole/BilliumMoto - D.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "behind stoic",
+      "preview": "https://assets.ppy.sh/artists/38/Rabbithole/BilliumMoto - behind stoic.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BilliumMoto & Dictate - 1KARUGA",
+      "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto %26 Dictate - 1KARUGA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BilliumMoto & Miyolophone - IX's Shadow",
+      "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto__Miyolophone_-_IXs_Shadow.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BilliumMoto x Akiri - Cryochemistry",
+      "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto_x_Akiri_-_Cryochemistry.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "cap",
+      "preview": "https://assets.ppy.sh/artists/38/Rabbithole/BilliumMoto - cap.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dazzling",
+      "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto - Dazzling (Short Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "encased",
+      "preview": "https://assets.ppy.sh/artists/38/Rabbithole/BilliumMoto - encased.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gimme More",
+      "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto - Gimme More.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hypersurface",
+      "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto_-_Hypersurface.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "muniflora",
+      "preview": "https://assets.ppy.sh/artists/38/Rabbithole/BilliumMoto - muniflora.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "night sky",
+      "preview": "https://assets.ppy.sh/artists/38/Rabbithole/BilliumMoto - night sky.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "rabbithole",
+      "preview": "https://assets.ppy.sh/artists/38/Rabbithole/BilliumMoto - rabbithole.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ruby",
+      "preview": "https://assets.ppy.sh/artists/38/Rabbithole/BilliumMoto - ruby.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Stained Satin",
+      "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto_-_Stained_Satin.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SUPER MWC KART - Purple Palace",
+      "preview": "https://assets.ppy.sh/artists/38/Songs/SUPER_MWC_KART_-_Purple_Palace.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "sway",
+      "preview": "https://assets.ppy.sh/artists/38/Rabbithole/BilliumMoto - sway.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "TWC Sound Team \"Zeroth Powers\" - One One",
+      "preview": "https://assets.ppy.sh/artists/38/Songs/TWC_Sound_Team_Zeroth_Powers_-_One_One.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:50:35Z"
+  "updated_at": "2026-03-30T23:28:35Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "End Time",
+      "preview": "https://assets.ppy.sh/artists/147/Songs/Cres. - End Time.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -31,69 +32,82 @@
     },
     {
       "title": "Afternoon Tea",
+      "preview": "https://assets.ppy.sh/artists/147/Songs/Cres. - Afternoon Tea.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "At a bottom of the Abyss",
+      "preview": "https://assets.ppy.sh/artists/147/An Anecdote of Succubus Quest OST/Cres. - At a bottom of the Abyss.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "AttaX",
+      "preview": "https://assets.ppy.sh/artists/147/Succubus Academia OST/Cres. - AttaX.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BOSSRUSH",
+      "preview": "https://assets.ppy.sh/artists/147/An Anecdote of Succubus Quest OST/Cres. - BOSSRUSH.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Devourer",
+      "preview": "https://assets.ppy.sh/artists/147/Succubus Academia OST/Cres. - Devourer.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dragger into the sea",
+      "preview": "https://assets.ppy.sh/artists/147/An Anecdote of Succubus Quest OST/Cres. - Dragger into the sea.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Emptiness",
+      "preview": "https://assets.ppy.sh/artists/147/Succubus Academia OST/Cres. - Emptiness.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Falcon",
+      "preview": "https://assets.ppy.sh/artists/147/Succubus Academia OST/Cres. - Falcon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gargoyle",
+      "preview": "https://assets.ppy.sh/artists/147/Songs/Cres. - Gargoyle.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mastermind",
+      "preview": "https://assets.ppy.sh/artists/147/Succubus Rhapsodia OST/Cres. - Mastermind.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Obstructer",
+      "preview": "https://assets.ppy.sh/artists/147/An Anecdote of Succubus Quest OST/Cres. - Obstructer.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "One night in a harem",
+      "preview": "https://assets.ppy.sh/artists/147/An Anecdote of Succubus Quest OST/Cres. - One night in a harem.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rarmil Battle",
+      "preview": "https://assets.ppy.sh/artists/147/Succubus Rhapsodia OST/Cres. - Rarmil Battle.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:08:46Z"
+  "updated_at": "2026-03-30T23:46:35Z"
 }

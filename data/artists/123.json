@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Blue Dragoon",
+      "preview": "https://assets.ppy.sh/artists/123/Songs/kanone - Blue Dragoon.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "CO5M1C R4ILR0AD",
+      "preview": "https://assets.ppy.sh/artists/123/Songs/kanone - CO5M1C R4ILR0AD.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -34,6 +36,7 @@
     },
     {
       "title": "Ground Z.E.R.O.",
+      "preview": "https://assets.ppy.sh/artists/123/Songs/kanone - Ground Z.E.R.O..mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -45,6 +48,7 @@
     },
     {
       "title": "Infinite Galaxy",
+      "preview": "https://assets.ppy.sh/artists/123/Songs/kanone - Infinite Galaxy.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -56,6 +60,7 @@
     },
     {
       "title": "The Sea of Memory",
+      "preview": "https://assets.ppy.sh/artists/123/Songs/kanone - The Sea of Memory.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -67,44 +72,52 @@
     },
     {
       "title": "Atlantis Hawk",
+      "preview": "https://assets.ppy.sh/artists/123/Songs/kanone - Atlantis Hawk.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cross Galaxy",
+      "preview": "https://assets.ppy.sh/artists/123/Songs/kanone - Cross Galaxy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "EGOISTIC KILLER",
+      "preview": "https://assets.ppy.sh/artists/123/Songs/DecisionS (kanone + nora2r) - EGOISTIC KILLER.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Energy Of The Moon",
+      "preview": "https://assets.ppy.sh/artists/123/Songs/Next Reflection - Energy Of The Moon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Here we GO!!!",
+      "preview": "https://assets.ppy.sh/artists/123/Songs/kanone feat. DJ.DAI - Here we GO!!!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MASAMUNE",
+      "preview": "https://assets.ppy.sh/artists/123/Songs/kanone - MASAMUNE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Twilight Galaxy",
+      "preview": "https://assets.ppy.sh/artists/123/Songs/kanone - Twilight Galaxy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "U+NI",
+      "preview": "https://assets.ppy.sh/artists/123/Songs/kanone - U+NI.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:54:05Z"
+  "updated_at": "2026-03-31T00:31:57Z"
 }

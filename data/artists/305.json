@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Synergy",
+      "preview": "https://assets.ppy.sh/artists/305/Synergy/Ritorikal - Synergy.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,59 +16,70 @@
     },
     {
       "title": "D I V I N I T Y - Our Final Goodbyes (feat. Leorinda & Hatim) (Ritorikal Remix)",
+      "preview": "https://assets.ppy.sh/artists/305/Our Final Goodbyes/D I V I N I T Y - Our Final Goodbyes (feat. Leorinda %26 Hatim) (Ritorikal Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Don't Let Me Go",
+      "preview": "https://assets.ppy.sh/artists/305/Don%27t Let Me Go/Ritorikal - Don%27t Let Me Go.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dusk",
+      "preview": "https://assets.ppy.sh/artists/305/Dusk/Ritorikal - Dusk.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hope",
+      "preview": "https://assets.ppy.sh/artists/305/Hope/Ritorikal - Hope.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Imagine",
+      "preview": "https://assets.ppy.sh/artists/305/Imagine/Ritorikal - Imagine.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Jive",
+      "preview": "https://assets.ppy.sh/artists/305/Jive/Ritorikal - Jive.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "One Final Push",
+      "preview": "https://assets.ppy.sh/artists/305/One Final Push/Ritorikal - One Final Push.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Paranormal",
+      "preview": "https://assets.ppy.sh/artists/305/Paranormal/Ritorikal - Paranormal.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ritorikal & Louie Zong - Music Faces",
+      "preview": "https://assets.ppy.sh/artists/305/Music Faces/Ritorikal %26 Louie Zong - Music Faces.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Searching",
+      "preview": "https://assets.ppy.sh/artists/305/Searching/Ritorikal - Searching.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thank You",
+      "preview": "https://assets.ppy.sh/artists/305/Thank You/Ritorikal - Thank You.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:05:03Z"
+  "updated_at": "2026-03-31T01:43:29Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Arandano",
+      "preview": "https://assets.ppy.sh/artists/278/POPGATO/NILFRUITS - Arandano.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Ironina",
+      "preview": "https://assets.ppy.sh/artists/278/POPGATO/NILFRUITS_-_Ironina.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Salvador",
+      "preview": "https://assets.ppy.sh/artists/278/POPGATO/NILFRUITS - Salvador.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,24 +40,28 @@
     },
     {
       "title": "Haiya",
+      "preview": "https://assets.ppy.sh/artists/278/SHIMNEY/NILFRUITS - Haiya.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "High-Low Menou",
+      "preview": "https://assets.ppy.sh/artists/278/SHIMNEY/NILFRUITS - High-Low Menou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Unniv.",
+      "preview": "https://assets.ppy.sh/artists/278/SHIMNEY/NILFRUITS - Unniv..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "YESMAN",
+      "preview": "https://assets.ppy.sh/artists/278/SHIMNEY/NILFRUITS - YESMAN.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:34:25Z"
+  "updated_at": "2026-03-31T01:12:36Z"
 }

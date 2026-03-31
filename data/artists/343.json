@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Aqua Regia",
+      "preview": "https://assets.ppy.sh/artists/343/Songs/KASHIWA Daisuke - Aqua Regia.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Red Skirts",
+      "preview": "https://assets.ppy.sh/artists/343/Songs/KASHIWA Daisuke - Red Skirts.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Sacred Play Secret Place",
+      "preview": "https://assets.ppy.sh/artists/343/Songs/KASHIWA Daisuke - Sacred Play Secret Place.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "SHARAKU",
+      "preview": "https://assets.ppy.sh/artists/343/Songs/KASHIWA_Daisuke_-_SHARAKU.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -48,39 +52,46 @@
     },
     {
       "title": "april.#02",
+      "preview": "https://assets.ppy.sh/artists/343/Songs/KASHIWA Daisuke - april.%2302.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "april.#19",
+      "preview": "https://assets.ppy.sh/artists/343/Songs/KASHIWA Daisuke - april.%2319.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hail storms",
+      "preview": "https://assets.ppy.sh/artists/343/Songs/KASHIWA Daisuke - Hail storms.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "meteor",
+      "preview": "https://assets.ppy.sh/artists/343/Songs/KASHIWA Daisuke - meteor.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Skyliner (album edit)",
+      "preview": "https://assets.ppy.sh/artists/343/Songs/KASHIWA Daisuke - Skyliner (album edit).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Swan Song",
+      "preview": "https://assets.ppy.sh/artists/343/Songs/KASHIWA Daisuke - Swan Song.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "write once, run melos",
+      "preview": "https://assets.ppy.sh/artists/343/Songs/KASHIWA Daisuke - write once%2C run melos.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:54:50Z"
+  "updated_at": "2026-03-31T00:32:43Z"
 }

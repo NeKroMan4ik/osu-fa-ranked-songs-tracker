@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Border Of Life",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2134.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Falling Falls",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2121.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -33,6 +35,7 @@
     },
     {
       "title": "Far From Truth",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2126.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -44,6 +47,7 @@
     },
     {
       "title": "Flags on the Moon",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2133.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -60,6 +64,7 @@
     },
     {
       "title": "Flowering Game Night",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2137.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -75,6 +80,7 @@
     },
     {
       "title": "Guilty People, Innocent Doll",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2128.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -86,6 +92,7 @@
     },
     {
       "title": "Retrospective City",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2138.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -101,6 +108,7 @@
     },
     {
       "title": "Voyage",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2125.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -116,119 +124,142 @@
     },
     {
       "title": "Before He Dies",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2118.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Betrayal of the Eiya",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2140.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cross",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2115.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dark Road",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2135.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Darkness Falls",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2136.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Desolation",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2119.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Division",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2116.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Esoteria",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2120.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Flat World, Plain Asia",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2141.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Green Jealous",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2127.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Half Ghost",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2129.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Last Remote",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2130.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Missing Power",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2122.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Night Blind",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2142.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Poison and Medicine",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2131.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Raise the White Flag",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2143.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Start From Zero",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2123.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sunset",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2117.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Fate Of Three Billion Seven Hundred Twenty Million Judgements",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2145.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Princess Is Dead",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2132.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Red and White",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2124.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "This Is the Dead, and I Reached the Deathless.",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2144.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Wriggle.",
+      "preview": "https://assets.ppy.sh/artists/80/previews/2139.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:53:53Z"
+  "updated_at": "2026-03-30T23:31:50Z"
 }

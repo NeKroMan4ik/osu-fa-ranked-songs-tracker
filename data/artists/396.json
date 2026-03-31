@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Because I was so Young",
+      "preview": "https://assets.ppy.sh/artists/396/Answer from X Girlz/t%2Bpazolite - Because I was so Young.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Burnout",
+      "preview": "https://assets.ppy.sh/artists/396/complete deposition/t%2Bpazolite - Burnout.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Call me it. (500 Tortures)",
+      "preview": "https://assets.ppy.sh/artists/396/The Best of tpz 2 the Best!!!/t%2Bpazolite - Call me it. (500 Tortures).mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -41,6 +44,7 @@
     },
     {
       "title": "CANDY CRACK CURTAIN CALL",
+      "preview": "https://assets.ppy.sh/artists/396/The Best of tpz 2 the Best!!!/t%2Bpazolite - CANDY CRACK CURTAIN CALL.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -52,6 +56,7 @@
     },
     {
       "title": "cheatreal",
+      "preview": "https://assets.ppy.sh/artists/396/Answer from X Girlz/t%2Bpazolite - cheatreal.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -69,6 +74,7 @@
     },
     {
       "title": "chipscape",
+      "preview": "https://assets.ppy.sh/artists/396/Songs/t%2Bpazolite - chipscape.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -78,16 +84,17 @@
         "fruits": [
           2137143
         ],
-        "taiko": [
+        "osu": [
           27752
         ],
-        "osu": [
+        "taiko": [
           27752
         ]
       }
     },
     {
       "title": "Dogbite",
+      "preview": "https://assets.ppy.sh/artists/396/without Permission/t%2Bpazolite - Dogbite.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -99,6 +106,7 @@
     },
     {
       "title": "Electric Butterfly",
+      "preview": "https://assets.ppy.sh/artists/396/The Best of tpz 2 the Best!!!/t%2Bpazolite - Electric Butterfly.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -110,6 +118,7 @@
     },
     {
       "title": "Gumbarlzo!",
+      "preview": "https://assets.ppy.sh/artists/396/Songs/tpazolite_-_Gumbarlzo.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -132,6 +141,7 @@
     },
     {
       "title": "Howling Down",
+      "preview": "https://assets.ppy.sh/artists/396/songs for X Girlz/t%2Bpazolite - Howling Down.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -143,6 +153,7 @@
     },
     {
       "title": "illanai-assorted",
+      "preview": "https://assets.ppy.sh/artists/396/See you Again%2C HOLLOWood/t%2Bpazolite - illanai-assorted.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -154,6 +165,7 @@
     },
     {
       "title": "Intro - Dockaaaahhhnnn!!",
+      "preview": "https://assets.ppy.sh/artists/396/Kenran Kensou Oriental/tpazolite_-_Intro_-_Dockaaaahhhnnn.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -169,6 +181,7 @@
     },
     {
       "title": "intrO - Don't be Foolish",
+      "preview": "https://assets.ppy.sh/artists/396/Ponko2 Girlish/t%2Bpazolite - intrO - Don_t be Foolish.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -184,6 +197,7 @@
     },
     {
       "title": "Intro - the other Side",
+      "preview": "https://assets.ppy.sh/artists/396/I bun densho A la carte/t%2Bpazolite - Intro - the other Side.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -195,6 +209,7 @@
     },
     {
       "title": "Kick-ass Kung-fu Carnival",
+      "preview": "https://assets.ppy.sh/artists/396/The Best of tpz 2 the Best!!!/t%2Bpazolite - Kick-ass Kung-fu Carnival.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -214,6 +229,7 @@
     },
     {
       "title": "Knotfunk",
+      "preview": "https://assets.ppy.sh/artists/396/108 Sketches 5/t%2Bpazolite - Knotfunk.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -226,6 +242,7 @@
     },
     {
       "title": "Lemon Heart",
+      "preview": "https://assets.ppy.sh/artists/396/songs for X Girlz/t%2Bpazolite - Lemon Heart.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -237,6 +254,7 @@
     },
     {
       "title": "Messed Up Gravity",
+      "preview": "https://assets.ppy.sh/artists/396/Heartache Debug/t%2Bpazolite - Messed Up Gravity.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -248,6 +266,7 @@
     },
     {
       "title": "Never Let me Go",
+      "preview": "https://assets.ppy.sh/artists/396/Songs/t%2Bpazolite - Never Let me Go.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -263,21 +282,23 @@
     },
     {
       "title": "Nous",
+      "preview": "https://assets.ppy.sh/artists/396/Songs/t%2Bpazolite - Nous.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "osu": [
           42669
         ],
-        "osu": [
+        "taiko": [
           42669
         ]
       }
     },
     {
       "title": "Party in the HOLLOWood feat. Nanahira",
+      "preview": "https://assets.ppy.sh/artists/396/Good Evening%2C HOLLOWood/t%2Bpazolite - Party in the HOLLOWood feat. Nanahira.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -298,6 +319,7 @@
     },
     {
       "title": "Pump up UR NRG",
+      "preview": "https://assets.ppy.sh/artists/396/Answer from X Girlz/t%2Bpazolite - Pump up UR NRG.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -310,6 +332,7 @@
     },
     {
       "title": "Pumpin' Junkies",
+      "preview": "https://assets.ppy.sh/artists/396/Kenran Kensou Oriental/t%2Bpazolite - Pumpin_ Junkies.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -335,6 +358,7 @@
     },
     {
       "title": "Rumble Kung-fu Showdown",
+      "preview": "https://assets.ppy.sh/artists/396/Kenran Kensou Oriental/t%2Bpazolite - Rumble Kung-fu Showdown.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -346,6 +370,7 @@
     },
     {
       "title": "Say Hello to HOLLOWood feat. Akagawa Nene",
+      "preview": "https://assets.ppy.sh/artists/396/See you Again%2C HOLLOWood/t%2Bpazolite - Say Hello to HOLLOWood feat. Akagawa Nene.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -357,6 +382,7 @@
     },
     {
       "title": "seedy try",
+      "preview": "https://assets.ppy.sh/artists/396/The Best of tpz 2 the Best!!!/t%2Bpazolite - seedy try.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -372,164 +398,196 @@
     },
     {
       "title": "Bad Boy's missa",
+      "preview": "https://assets.ppy.sh/artists/396/KAKATTEKOYEAH%E2%80%8B!%E2%80%8B!%E2%80%8B!%E2%80%8B!/t%2Bpazolite - Bad Boy_s missa.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BPM=RT (Uncut Edition)",
+      "preview": "https://assets.ppy.sh/artists/396/without Permission/t%2Bpazolite - BPM%3DRT (Uncut Edition).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Buzy Lake (An Remix)",
+      "preview": "https://assets.ppy.sh/artists/396/I bun densho A la carte/t%2Bpazolite - Buzy Lake (An Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "C-Show - sideflip (tpz Despair Remix)",
+      "preview": "https://assets.ppy.sh/artists/396/Don_t Waste Me! EP/C-Show - sideflip (tpz Despair Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chartreuse Green",
+      "preview": "https://assets.ppy.sh/artists/396/without Permission/t%2Bpazolite - Chartreuse Green.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Count down 321",
+      "preview": "https://assets.ppy.sh/artists/396/KAKATTEKOYEAH%E2%80%8B!%E2%80%8B!%E2%80%8B!%E2%80%8B!/t%2Bpazolite - Count down 321.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "diskommunication",
+      "preview": "https://assets.ppy.sh/artists/396/Answer from X Girlz/t%2Bpazolite - diskommunication.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Do I Smile?",
+      "preview": "https://assets.ppy.sh/artists/396/Songs/t%2Bpazolite - Do I Smile.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hong-Kong-Tea-Soda (replay2014)",
+      "preview": "https://assets.ppy.sh/artists/396/I bun densho A la carte/t%2Bpazolite - Hong-Kong-Tea-Soda (replay2014).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "HYPER4ID",
+      "preview": "https://assets.ppy.sh/artists/396/REALLY Don%E2%80%8B%E2%80%99%E2%80%8Bt Waste Me!/t%2Bpazolite - HYPER4ID.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lite Show Magic - Stronghold",
+      "preview": "https://assets.ppy.sh/artists/396/Songs/Lite Show Magic - Stronghold.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lite Show Magic - TRICKL4SH 220",
+      "preview": "https://assets.ppy.sh/artists/396/Don_t Waste Me! EP/Lite Show Magic - TRICKL4SH 220.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Magic Raffles",
+      "preview": "https://assets.ppy.sh/artists/396/Songs/t%2Bpazolite - Magic Raffles.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "monochrome dream",
+      "preview": "https://assets.ppy.sh/artists/396/complete deposition/t%2Bpazolite - monochrome dream.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "NAughty ADventure",
+      "preview": "https://assets.ppy.sh/artists/396/KAKATTEKOYEAH%E2%80%8B!%E2%80%8B!%E2%80%8B!%E2%80%8B!/t%2Bpazolite - NAughty ADventure.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ofcourse you Need and nEed and neEd and neeD and NEED ME?",
+      "preview": "https://assets.ppy.sh/artists/396/Answer from X Girlz/t%2Bpazolite - Ofcourse you Need and nEed and neEd and neeD and NEED ME.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Pleasure Ritual",
+      "preview": "https://assets.ppy.sh/artists/396/I bun densho A la carte/t%2Bpazolite - Pleasure Ritual.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PSYCHED AGOSTO",
+      "preview": "https://assets.ppy.sh/artists/396/The Best of tpz 2 the Best!!!/t%2Bpazolite - PSYCHED AGOSTO.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Psyched Fevereiro (Uncut Edition)",
+      "preview": "https://assets.ppy.sh/artists/396/without Permission/tpazolite_-_Psyched_Fevereiro_Uncut_Edition.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Scatter Blast",
+      "preview": "https://assets.ppy.sh/artists/396/108 Sketches 3/t%2Bpazolite - Scatter Blast.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "t+pazolite & Getty - Twisted Drop Party",
+      "preview": "https://assets.ppy.sh/artists/396/Songs/t%2Bpazolite _ Getty - Twisted Drop Party.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "t+pazolite & Komiya Mao - Elustametat",
+      "preview": "https://assets.ppy.sh/artists/396/Songs/t%2Bpazolite _ Komiya Mao - Elustametat.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "t+pazolite feat. Kabocha - OPENING",
+      "preview": "https://assets.ppy.sh/artists/396/KAKATTEKOYEAH%E2%80%8B!%E2%80%8B!%E2%80%8B!%E2%80%8B!/t%2Bpazolite feat. Kabocha - OPENING.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "t+pazolite feat. Komiya Mao - Sugary Sweets",
+      "preview": "https://assets.ppy.sh/artists/396/Ponko2 Girlish/t%2Bpazolite feat. Komiya Mao - Sugary Sweets.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "t+pazolite feat. Nanahira - Otsukimi PARTY HARD",
+      "preview": "https://assets.ppy.sh/artists/396/KAKATTEKOYEAH%E2%80%8B!%E2%80%8B!%E2%80%8B!%E2%80%8B!/t%2Bpazolite feat. Nanahira - Otsukimi PARTY HARD.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "t+pazolite feat. Rizna - Distorted Lovesong (Full length)",
+      "preview": "https://assets.ppy.sh/artists/396/songs for X Girlz/t%2Bpazolite feat. Rizna - Distorted Lovesong (Full length).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "t+pazolite vs. RoughSketch - GRK Spice",
+      "preview": "https://assets.ppy.sh/artists/396/108 Sketches 3/t%2Bpazolite vs. RoughSketch - GRK Spice.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "t+pazolite with Kabocha - Elder Dragon Legend",
+      "preview": "https://assets.ppy.sh/artists/396/Elder Dragon Legend/tpazolite_with_Kabocha_-_Elder_Dragon_Legend.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "t+pazolite with siromaru - Chambarising",
+      "preview": "https://assets.ppy.sh/artists/396/Kenran Kensou Oriental/t%2Bpazolite with siromaru - Chambarising.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "to Luv me I *** for u.",
+      "preview": "https://assets.ppy.sh/artists/396/Songs/t%2Bpazolite - to Luv me I  for u..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "to Luv me, I *** for u. (reprise)",
+      "preview": "https://assets.ppy.sh/artists/396/songs for X Girlz/t%2Bpazolite - to Luv me%2C I  for u. (reprise).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yeehaw Nihao",
+      "preview": "https://assets.ppy.sh/artists/396/Kenran Kensou Oriental/t%2Bpazolite - Yeehaw Nihao.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:32:45Z"
+  "updated_at": "2026-03-31T02:11:17Z"
 }

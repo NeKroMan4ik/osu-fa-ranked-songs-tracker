@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Chosun",
+      "preview": "https://assets.ppy.sh/artists/350/Songs/Down - Chosun.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Down",
+      "preview": "https://assets.ppy.sh/artists/350/Songs/Down - Down.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -30,6 +32,7 @@
     },
     {
       "title": "Duo Cup",
+      "preview": "https://assets.ppy.sh/artists/350/Songs/Down - Duo Cup.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -42,16 +45,17 @@
     },
     {
       "title": "Ekoro",
+      "preview": "https://assets.ppy.sh/artists/350/Songs/Down - Ekoro.mp3",
       "ranked_modes": [
         "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "mania": [
           2197940
         ],
-        "mania": [
+        "taiko": [
           2197940
         ],
         "osu": [
@@ -61,6 +65,7 @@
     },
     {
       "title": "Halfslashed",
+      "preview": "https://assets.ppy.sh/artists/350/Songs/Down - Halfslashed.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -72,6 +77,7 @@
     },
     {
       "title": "Kizan",
+      "preview": "https://assets.ppy.sh/artists/350/Songs/Down_-_Kizan.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -95,6 +101,7 @@
     },
     {
       "title": "Lince Cosmico",
+      "preview": "https://assets.ppy.sh/artists/350/Songs/Down - Lince Cosmico.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -106,6 +113,7 @@
     },
     {
       "title": "Luscent",
+      "preview": "https://assets.ppy.sh/artists/350/Songs/Down - Luscent.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -113,13 +121,13 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          2503577
-        ],
         "fruits": [
           2503577
         ],
         "mania": [
+          2503577
+        ],
+        "taiko": [
           2503577
         ],
         "osu": [
@@ -129,6 +137,7 @@
     },
     {
       "title": "Solo Cup",
+      "preview": "https://assets.ppy.sh/artists/350/Songs/Down - Solo Cup.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -140,6 +149,7 @@
     },
     {
       "title": "Trio Cup",
+      "preview": "https://assets.ppy.sh/artists/350/Songs/Down - Trio Cup.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -151,6 +161,7 @@
     },
     {
       "title": "Yamangomcpro6th",
+      "preview": "https://assets.ppy.sh/artists/350/Songs/Down - Yamangomcpro6th.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -170,19 +181,22 @@
     },
     {
       "title": "ddm",
+      "preview": "https://assets.ppy.sh/artists/350/Songs/Down - ddm.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DeviousPanda",
+      "preview": "https://assets.ppy.sh/artists/350/Songs/Down - DeviousPanda.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "UberFazz",
+      "preview": "https://assets.ppy.sh/artists/350/Songs/Down - UberFazz.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:18:32Z"
+  "updated_at": "2026-03-30T23:56:20Z"
 }

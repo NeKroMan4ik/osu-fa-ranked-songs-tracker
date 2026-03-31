@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Hakudou",
+      "preview": "https://assets.ppy.sh/artists/336/Enrai/kakichoco - Hakudou.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Hanabira no Koi",
+      "preview": "https://assets.ppy.sh/artists/336/Enrai/kakichoco - Hanabira no Koi.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Reirou no Hibiki",
+      "preview": "https://assets.ppy.sh/artists/336/Enrai/kakichoco - Reirou no Hibiki.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Zan'ei",
+      "preview": "https://assets.ppy.sh/artists/336/Enrai/kakichoco - Zan%27ei.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -53,19 +57,22 @@
     },
     {
       "title": "Enrai -Enlight-",
+      "preview": "https://assets.ppy.sh/artists/336/Enrai/kakichoco - Enrai -Enlight-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kizuna ~Kochi version~",
+      "preview": "https://assets.ppy.sh/artists/336/Enrai/kakichoco - Kizuna %7EKochi version%7E.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "KUMONOITO",
+      "preview": "https://assets.ppy.sh/artists/336/Enrai/kakichoco - KUMONOITO.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:53:27Z"
+  "updated_at": "2026-03-31T00:31:19Z"
 }

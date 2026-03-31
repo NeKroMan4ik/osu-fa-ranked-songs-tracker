@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Headless Goddess",
+      "preview": "https://assets.ppy.sh/artists/216/Headless Goddess/FATE GEAR - Headless Goddess.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Heart's Grave",
+      "preview": "https://assets.ppy.sh/artists/216/7 years ago/FATE GEAR - Heart%27s Grave.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -30,6 +32,7 @@
     },
     {
       "title": "Scars in my Life",
+      "preview": "https://assets.ppy.sh/artists/216/OZ -Rebellion-/FATE GEAR - Scars in my Life.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -41,59 +44,70 @@
     },
     {
       "title": "7 years ago",
+      "preview": "https://assets.ppy.sh/artists/216/7 years ago/FATE GEAR - 7 years ago.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Farewell -Honou no Hanamuke-",
+      "preview": "https://assets.ppy.sh/artists/216/OZ -Rebellion-/FATE GEAR - Farewell -Honou no Hanamuke-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Good old days",
+      "preview": "https://assets.ppy.sh/artists/216/OZ -Rebellion-/FATE GEAR - Good old days.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hakai no Bara",
+      "preview": "https://assets.ppy.sh/artists/216/Headless Goddess/FATE GEAR - Hakai no Bara.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lifer",
+      "preview": "https://assets.ppy.sh/artists/216/Headless Goddess/FATE GEAR - Lifer.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Little Spring",
+      "preview": "https://assets.ppy.sh/artists/216/7 years ago/FATE GEAR - Little Spring.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lunatic-faced",
+      "preview": "https://assets.ppy.sh/artists/216/OZ -Rebellion-/FATE GEAR - Lunatic-faced.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "New Gate",
+      "preview": "https://assets.ppy.sh/artists/216/OZ -Rebellion-/FATE GEAR - New Gate.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Queen of the War",
+      "preview": "https://assets.ppy.sh/artists/216/OZ -Rebellion-/FATE GEAR - Queen of the War.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shinsou",
+      "preview": "https://assets.ppy.sh/artists/216/7 years ago/FATE GEAR - Shinsou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Skykiller",
+      "preview": "https://assets.ppy.sh/artists/216/Headless Goddess/FATE GEAR - Skykiller.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:26:41Z"
+  "updated_at": "2026-03-31T00:04:31Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Copycat",
+      "preview": "https://assets.ppy.sh/artists/78/previews/2087.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Goodbye",
+      "preview": "https://assets.ppy.sh/artists/78/previews/2089.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -33,6 +35,7 @@
     },
     {
       "title": "iNSaNiTY",
+      "preview": "https://assets.ppy.sh/artists/78/previews/2093.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -48,6 +51,7 @@
     },
     {
       "title": "Karma",
+      "preview": "https://assets.ppy.sh/artists/78/previews/2086.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -59,6 +63,7 @@
     },
     {
       "title": "Last of Me",
+      "preview": "https://assets.ppy.sh/artists/78/previews/2090.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -70,6 +75,7 @@
     },
     {
       "title": "Lie",
+      "preview": "https://assets.ppy.sh/artists/78/previews/2091.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -81,14 +87,16 @@
     },
     {
       "title": "Fade",
+      "preview": "https://assets.ppy.sh/artists/78/previews/2088.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Poltergeist",
+      "preview": "https://assets.ppy.sh/artists/78/previews/2092.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:04:56Z"
+  "updated_at": "2026-03-30T23:42:47Z"
 }

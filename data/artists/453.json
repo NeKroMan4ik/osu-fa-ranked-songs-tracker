@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Mach space journey",
+      "preview": "https://assets.ppy.sh/artists/453/Songs/uynet - Mach space journey.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Never Rezort",
+      "preview": "https://assets.ppy.sh/artists/453/Songs/uynet - Never Rezort.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -30,29 +32,34 @@
     },
     {
       "title": "Astral Heaven",
+      "preview": "https://assets.ppy.sh/artists/453/Songs/uynet - Astral Heaven.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Disaster",
+      "preview": "https://assets.ppy.sh/artists/453/Songs/uynet - Disaster.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lunar Eclipse",
+      "preview": "https://assets.ppy.sh/artists/453/Songs/uynet_-_Lunar_Eclipse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Seisouken",
+      "preview": "https://assets.ppy.sh/artists/453/Songs/uynet - Seisouken.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Twin Cluster",
+      "preview": "https://assets.ppy.sh/artists/453/Songs/uynet - Twin Cluster.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:52:39Z"
+  "updated_at": "2026-03-31T02:31:22Z"
 }

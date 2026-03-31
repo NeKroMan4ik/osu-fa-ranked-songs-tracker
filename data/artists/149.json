@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "BAERUNA",
+      "preview": "https://assets.ppy.sh/artists/149/AVANTDEMIC/URBANGARDE - BAERUNA.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -23,6 +24,7 @@
     },
     {
       "title": "CLUB27",
+      "preview": "https://assets.ppy.sh/artists/149/AVANTDEMIC/URBANGARDE - CLUB27.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -34,6 +36,7 @@
     },
     {
       "title": "KIMI WA OKUMAGASO",
+      "preview": "https://assets.ppy.sh/artists/149/AVANTDEMIC/URBANGARDE - KIMI WA OKUMAGASO.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -45,19 +48,22 @@
     },
     {
       "title": "CHIBORG KYOKO",
+      "preview": "https://assets.ppy.sh/artists/149/AVANTDEMIC/URBANGARDE - CHIBORG KYOKO.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DARK RIDE",
+      "preview": "https://assets.ppy.sh/artists/149/AVANTDEMIC/URBANGARDE - DARK RIDE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "KAMING OUT",
+      "preview": "https://assets.ppy.sh/artists/149/AVANTDEMIC/URBANGARDE - KAMING OUT.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:51:39Z"
+  "updated_at": "2026-03-31T02:30:22Z"
 }

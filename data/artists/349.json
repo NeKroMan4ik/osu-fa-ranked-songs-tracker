@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Cinderella Cage ~Falling in Love Again~",
+      "preview": "https://assets.ppy.sh/artists/349/Hopeless Desire/Minstrel - Cinderella Cage %7EFalling in Love Again%7E.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Fiction",
+      "preview": "https://assets.ppy.sh/artists/349/recollection/Minstrel - Fiction.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -31,6 +33,7 @@
     },
     {
       "title": "futuristic recollection",
+      "preview": "https://assets.ppy.sh/artists/349/recollection/Minstrel - futuristic recollection.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -42,6 +45,7 @@
     },
     {
       "title": "Heian Alien",
+      "preview": "https://assets.ppy.sh/artists/349/Ano Hi no Shinkirou/Minstrel - Heian Alien.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -53,6 +57,7 @@
     },
     {
       "title": "today is the day",
+      "preview": "https://assets.ppy.sh/artists/349/Songs/Minstrel_-_today_is_the_day.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -68,6 +73,7 @@
     },
     {
       "title": "Yotogibanashi no Kamikakushi",
+      "preview": "https://assets.ppy.sh/artists/349/Yotogibanashi no Kamikakushi/Minstrel - Yotogibanashi no Kamikakushi.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -80,39 +86,46 @@
     },
     {
       "title": "Ano Hi no Shinkirou",
+      "preview": "https://assets.ppy.sh/artists/349/Ano Hi no Shinkirou/Minstrel - Ano Hi no Shinkirou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Attractor",
+      "preview": "https://assets.ppy.sh/artists/349/Minstrel Demo Vol. 4/Minstrel - Attractor.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "D+D -> T+p",
+      "preview": "https://assets.ppy.sh/artists/349/Hana ni Yuumei Yoru ni Murasaki/Minstrel - D%2BD - T%2Bp.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "frozen.",
+      "preview": "https://assets.ppy.sh/artists/349/Minstrel vs BLACKFIELD 2/Minstrel - frozen..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Happy End ni Sayonara o",
+      "preview": "https://assets.ppy.sh/artists/349/recollection/Minstrel - Happy End ni Sayonara o.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Killing me",
+      "preview": "https://assets.ppy.sh/artists/349/recollection/Minstrel - Killing me.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mix Hors d'Oeuvres",
+      "preview": "https://assets.ppy.sh/artists/349/Ano Hi no Shinkirou/Minstrel - Mix Hors d%27Oeuvres.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:23:19Z"
+  "updated_at": "2026-03-31T01:01:26Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "ILLUSTRIOUS DRIFTERS",
+      "preview": "https://assets.ppy.sh/artists/430/Songs/MetaHumanBoi_-_ILLUSTRIOUS_DRIFTERS.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Solar Strike",
+      "preview": "https://assets.ppy.sh/artists/430/Songs/MetaHumanBoi - Solar Strike.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -30,39 +32,46 @@
     },
     {
       "title": "Black Neon",
+      "preview": "https://assets.ppy.sh/artists/430/Songs/MetaHumanBoi - Black Neon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hated Hero",
+      "preview": "https://assets.ppy.sh/artists/430/Songs/MetaHumanBoi - Hated Hero.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Iridescent",
+      "preview": "https://assets.ppy.sh/artists/430/Songs/MetaHumanBoi - Iridescent.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MetaHumanBoi & Nstryder - 4NDROMEDA",
+      "preview": "https://assets.ppy.sh/artists/430/Songs/MetaHumanBoi %26 Nstryder - 4NDROMEDA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Speed Bomb",
+      "preview": "https://assets.ppy.sh/artists/430/Songs/MetaHumanBoi - Speed Bomb.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Sound of -ANGUISH-",
+      "preview": "https://assets.ppy.sh/artists/430/Songs/MetaHumanBoi - The Sound of -ANGUISH-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Trusted Villain",
+      "preview": "https://assets.ppy.sh/artists/430/Songs/MetaHumanBoi - Trusted Villain.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:21:10Z"
+  "updated_at": "2026-03-31T00:59:16Z"
 }

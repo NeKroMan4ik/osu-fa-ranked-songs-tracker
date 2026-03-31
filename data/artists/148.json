@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "GYZE - HONESTY",
+      "preview": "https://assets.ppy.sh/artists/148/Black Bride/GYZE - HONESTY.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -26,69 +27,82 @@
     },
     {
       "title": "GYZE - A DYNASTY",
+      "preview": "https://assets.ppy.sh/artists/148/Fascinating Violence/GYZE - A DYNASTY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "GYZE - BLACK BRIDE",
+      "preview": "https://assets.ppy.sh/artists/148/Black Bride/GYZE - BLACK BRIDE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "GYZE - DESIRE",
+      "preview": "https://assets.ppy.sh/artists/148/Fascinating Violence/GYZE - DESIRE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "GYZE - GOD SAMURAI NINJA",
+      "preview": "https://assets.ppy.sh/artists/148/Songs/GYZE - GOD SAMURAI NINJA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "GYZE - IN GRIEF",
+      "preview": "https://assets.ppy.sh/artists/148/Black Bride/GYZE - IN GRIEF.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "GYZE - INSANE BRAIN",
+      "preview": "https://assets.ppy.sh/artists/148/Black Bride/GYZE - INSANE BRAIN.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "GYZE - NINJA DANCE",
+      "preview": "https://assets.ppy.sh/artists/148/Songs/GYZE - NINJA DANCE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "GYZE - ORIENTAL SYMPHONY",
+      "preview": "https://assets.ppy.sh/artists/148/Oriental Symphony/GYZE - ORIENTAL SYMPHONY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "GYZE - SAMURAI METAL",
+      "preview": "https://assets.ppy.sh/artists/148/Samurai Metal/GYZE - SAMURAI METAL.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "GYZE - SURFACE TEARS",
+      "preview": "https://assets.ppy.sh/artists/148/Black Bride/GYZE - SURFACE TEARS.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "GYZE - VOYAGE OF THE FUTURE",
+      "preview": "https://assets.ppy.sh/artists/148/Voyage Of The Future/GYZE - VOYAGE OF THE FUTURE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "GYZE - WINTER BREATH",
+      "preview": "https://assets.ppy.sh/artists/148/Black Bride/GYZE - WINTER BREATH.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "RYUJIN - HONESTY",
+      "preview": "https://assets.ppy.sh/artists/148/HONESTY (15th Anniversary%2C Re-recoreded 2026)/RYUJIN - HONESTY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:08:39Z"
+  "updated_at": "2026-03-31T01:47:06Z"
 }

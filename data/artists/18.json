@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Ciel etoile",
+      "preview": "https://assets.ppy.sh/artists/18/Koishiteiku Planet (%E3%82%B3%E3%82%A4%E3%82%B7%E3%83%86%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88)/namirin_-_Ciel_etoile.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -21,6 +22,7 @@
     },
     {
       "title": "closing eyes",
+      "preview": "https://assets.ppy.sh/artists/18/previews/351.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -41,6 +43,7 @@
     },
     {
       "title": "Hitokoto no Kyori",
+      "preview": "https://assets.ppy.sh/artists/18/5colors/namirin_-_Hitokoto_no_Kyori.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -57,6 +60,7 @@
     },
     {
       "title": "Irodori Sora",
+      "preview": "https://assets.ppy.sh/artists/18/Koishiteiku Planet (%E3%82%B3%E3%82%A4%E3%82%B7%E3%83%86%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88)/namirin_-_Irodori_Sora.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -73,6 +77,7 @@
     },
     {
       "title": "Iscariot no Sakebi",
+      "preview": "https://assets.ppy.sh/artists/18/5colors/namirin_-_Iscariot_no_Sakebi.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -88,6 +93,7 @@
     },
     {
       "title": "Kanzen Shouri*Esper Girl",
+      "preview": "https://assets.ppy.sh/artists/18/Koishiteiku Planet (%E3%82%B3%E3%82%A4%E3%82%B7%E3%83%86%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88)/namirin_-_Kanzen_ShouriEsper_Girl.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -112,6 +118,7 @@
     },
     {
       "title": "Koishiteiku Planet",
+      "preview": "https://assets.ppy.sh/artists/18/Koishiteiku Planet (%E3%82%B3%E3%82%A4%E3%82%B7%E3%83%86%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88)/namirin_-_Koishiteiku_Planet.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -128,6 +135,7 @@
     },
     {
       "title": "Mizutamari Tobikoete (with Nanahira)",
+      "preview": "https://assets.ppy.sh/artists/18/5colors/namirin_-_Mizutamari_Tobikoete_with_Nanahira.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -145,6 +153,7 @@
     },
     {
       "title": "Omajinai",
+      "preview": "https://assets.ppy.sh/artists/18/Koishiteiku Planet (%E3%82%B3%E3%82%A4%E3%82%B7%E3%83%86%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%97%E3%83%A9%E3%83%8D%E3%83%83%E3%83%88)/namirin_-_Omajinai.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -164,6 +173,7 @@
     },
     {
       "title": "Senaka Awase no Sora (with Kakichoco)",
+      "preview": "https://assets.ppy.sh/artists/18/5colors/namirin_-_Senaka_Awase_no_Sora_with_Kakichoco.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -174,5 +184,5 @@
       }
     }
   ],
-  "updated_at": "2026-03-29T19:23:23Z"
+  "updated_at": "2026-03-30T23:01:26Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Aoba",
+      "preview": "https://assets.ppy.sh/artists/95/previews/2521.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Birds of Plague",
+      "preview": "https://assets.ppy.sh/artists/95/previews/2522.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -30,6 +32,7 @@
     },
     {
       "title": "Clock Atelier",
+      "preview": "https://assets.ppy.sh/artists/95/previews/2523.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -41,6 +44,7 @@
     },
     {
       "title": "Colors",
+      "preview": "https://assets.ppy.sh/artists/95/previews/2524.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -63,6 +67,7 @@
     },
     {
       "title": "Final Resonance",
+      "preview": "https://assets.ppy.sh/artists/95/previews/2525.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -74,6 +79,7 @@
     },
     {
       "title": "Hemisphere",
+      "preview": "https://assets.ppy.sh/artists/95/previews/2526.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -89,6 +95,7 @@
     },
     {
       "title": "Hidden Ending",
+      "preview": "https://assets.ppy.sh/artists/95/previews/2527.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -104,6 +111,7 @@
     },
     {
       "title": "Infection",
+      "preview": "https://assets.ppy.sh/artists/95/previews/2528.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -119,6 +127,7 @@
     },
     {
       "title": "Journey",
+      "preview": "https://assets.ppy.sh/artists/95/previews/2529.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -139,6 +148,7 @@
     },
     {
       "title": "Lantinid",
+      "preview": "https://assets.ppy.sh/artists/95/previews/2530.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -155,6 +165,7 @@
     },
     {
       "title": "Metheus",
+      "preview": "https://assets.ppy.sh/artists/95/previews/2532.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -170,6 +181,7 @@
     },
     {
       "title": "Prometheus",
+      "preview": "https://assets.ppy.sh/artists/95/previews/2533.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -181,6 +193,7 @@
     },
     {
       "title": "Qesia",
+      "preview": "https://assets.ppy.sh/artists/95/previews/2534.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -196,6 +209,7 @@
     },
     {
       "title": "Rainbow Magic!!",
+      "preview": "https://assets.ppy.sh/artists/95/previews/2535.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -211,6 +225,7 @@
     },
     {
       "title": "Regret",
+      "preview": "https://assets.ppy.sh/artists/95/previews/2536.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -232,6 +247,7 @@
     },
     {
       "title": "The Last Page",
+      "preview": "https://assets.ppy.sh/artists/95/previews/2539.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -253,24 +269,28 @@
     },
     {
       "title": "Life",
+      "preview": "https://assets.ppy.sh/artists/95/previews/2531.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Relics",
+      "preview": "https://assets.ppy.sh/artists/95/previews/2537.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Seisen (feat. nayuta)",
+      "preview": "https://assets.ppy.sh/artists/95/Songs/ARForest_-_Seisen_feat._nayuta.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shattered",
+      "preview": "https://assets.ppy.sh/artists/95/previews/2538.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:44:12Z"
+  "updated_at": "2026-03-30T23:22:13Z"
 }

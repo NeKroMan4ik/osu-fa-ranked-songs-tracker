@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Apparitions in Candlelight / Dissever",
+      "preview": "https://assets.ppy.sh/artists/375/Liminal Rite/Kardashev - Apparitions in Candlelight  Dissever.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Behind Leaves And Vines",
+      "preview": "https://assets.ppy.sh/artists/375/The Almanac/Kardashev - Behind Leaves And Vines.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -30,6 +32,7 @@
     },
     {
       "title": "Beside Cliffs and Chasms",
+      "preview": "https://assets.ppy.sh/artists/375/The Almanac/Kardashev - Beside Cliffs and Chasms.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -41,6 +44,7 @@
     },
     {
       "title": "Between Sea and Sky",
+      "preview": "https://assets.ppy.sh/artists/375/The Almanac/Kardashev - Between Sea and Sky.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -53,6 +57,7 @@
     },
     {
       "title": "Cellar of Ghosts",
+      "preview": "https://assets.ppy.sh/artists/375/Liminal Rite/Kardashev - Cellar of Ghosts.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -69,6 +74,7 @@
     },
     {
       "title": "Glass Phantoms",
+      "preview": "https://assets.ppy.sh/artists/375/Liminal Rite/Kardashev - Glass Phantoms.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -81,49 +87,58 @@
     },
     {
       "title": "Apparitions in Candlelight",
+      "preview": "https://assets.ppy.sh/artists/375/Liminal Rite/Kardashev - Apparitions in Candlelight.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Compost Grave-Song",
+      "preview": "https://assets.ppy.sh/artists/375/Liminal Rite/Kardashev - Compost Grave-Song.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lavender Calligraphy",
+      "preview": "https://assets.ppy.sh/artists/375/Liminal Rite/Kardashev - Lavender Calligraphy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lavender Calligraphy / The Blinding Threshold",
+      "preview": "https://assets.ppy.sh/artists/375/Liminal Rite/Kardashev - Lavender Calligraphy  The Blinding Threshold.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lux",
+      "preview": "https://assets.ppy.sh/artists/375/Peripety/Kardashev - Lux.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Potentiality",
+      "preview": "https://assets.ppy.sh/artists/375/Excipio/Kardashev - Potentiality.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Silvered Shadows",
+      "preview": "https://assets.ppy.sh/artists/375/Liminal Rite/Kardashev - Silvered Shadows.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Somnium",
+      "preview": "https://assets.ppy.sh/artists/375/Peripety/Kardashev - Somnium.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Approaching of Atonement / Silvered Shadows",
+      "preview": "https://assets.ppy.sh/artists/375/Liminal Rite/Kardashev - The Approaching of Atonement  Silvered Shadows.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:54:35Z"
+  "updated_at": "2026-03-31T00:32:28Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Anomaly",
+      "preview": "https://assets.ppy.sh/artists/248/Kick%27s For Liberation 7/USAO - Anomaly.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Ashigaru",
+      "preview": "https://assets.ppy.sh/artists/248/Songs/USAO - Ashigaru.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -30,6 +32,7 @@
     },
     {
       "title": "Big Daddy",
+      "preview": "https://assets.ppy.sh/artists/248/Songs/USAO - Big Daddy.mp3",
       "ranked_modes": [
         "fruits",
         "mania"
@@ -45,6 +48,7 @@
     },
     {
       "title": "Extra Mode",
+      "preview": "https://assets.ppy.sh/artists/248/Kick%27s For Liberation 5/USAO - Extra Mode.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -67,6 +71,7 @@
     },
     {
       "title": "Extra Mode (DJ Myosuke Remix)",
+      "preview": "https://assets.ppy.sh/artists/248/Kick%27s For Liberation 5/USAO - Extra Mode (DJ Myosuke Remix).mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -82,6 +87,7 @@
     },
     {
       "title": "Get on",
+      "preview": "https://assets.ppy.sh/artists/248/Songs/USAO - Get on.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -94,6 +100,7 @@
     },
     {
       "title": "Interstellar Travel",
+      "preview": "https://assets.ppy.sh/artists/248/Kick%27s For Liberation 7/USAO - Interstellar Travel.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -105,6 +112,7 @@
     },
     {
       "title": "Showdown",
+      "preview": "https://assets.ppy.sh/artists/248/Kick%27s For Liberation 5/USAO - Showdown.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -127,6 +135,7 @@
     },
     {
       "title": "TAPIOCA",
+      "preview": "https://assets.ppy.sh/artists/248/Songs/USAO - TAPIOCA.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -150,6 +159,7 @@
     },
     {
       "title": "Try again",
+      "preview": "https://assets.ppy.sh/artists/248/Kick%27s For Liberation 7/USAO - Try again.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -170,6 +180,7 @@
     },
     {
       "title": "You & DIE",
+      "preview": "https://assets.ppy.sh/artists/248/Songs/USAO - You %26 DIE.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -181,74 +192,88 @@
     },
     {
       "title": "Aeropolis",
+      "preview": "https://assets.ppy.sh/artists/248/Kick%27s For Liberation 5/USAO - Aeropolis.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BACK COVER",
+      "preview": "https://assets.ppy.sh/artists/248/Kick%27s For Liberation 7/USAO - BACK COVER.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cyclops",
+      "preview": "https://assets.ppy.sh/artists/248/Kick%27s For Liberation 7/USAO - Cyclops.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fucking High",
+      "preview": "https://assets.ppy.sh/artists/248/Kick%27s For Liberation 6/USAO - Fucking High.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fullspec",
+      "preview": "https://assets.ppy.sh/artists/248/Kick%27s For Liberation 7/USAO - Fullspec.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Loss Time",
+      "preview": "https://assets.ppy.sh/artists/248/Kick%27s For Liberation 5/USAO - Loss Time.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Punish",
+      "preview": "https://assets.ppy.sh/artists/248/Songs/USAO - Punish.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Srav3R & USAO - Becouse of You",
+      "preview": "https://assets.ppy.sh/artists/248/Songs/Srav3R %26 USAO - Becouse of You.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Storm broke",
+      "preview": "https://assets.ppy.sh/artists/248/Kick%27s For Liberation 6/USAO - The Storm broke.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Time For Kill",
+      "preview": "https://assets.ppy.sh/artists/248/Kick%27s For Liberation 7/USAO - Time For Kill.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Undulation",
+      "preview": "https://assets.ppy.sh/artists/248/Kick%27s For Liberation 5/USAO - Undulation.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Up In Smoke",
+      "preview": "https://assets.ppy.sh/artists/248/Kick%27s For Liberation 7/USAO - Up In Smoke.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "USAO & DJ Nanashi - Super Mega Jumbo",
+      "preview": "https://assets.ppy.sh/artists/248/XTREME/USAO %26 DJ Nanashi - Super Mega Jumbo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Wildfire",
+      "preview": "https://assets.ppy.sh/artists/248/XTREME/USAO - Wildfire.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:52:14Z"
+  "updated_at": "2026-03-31T02:30:57Z"
 }

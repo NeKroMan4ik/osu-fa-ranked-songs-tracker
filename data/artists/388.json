@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "See You Later, Emaciator!",
+      "preview": "https://assets.ppy.sh/artists/388/Songs/Solarbear - See You Later%2C Emaciator!.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Stick Your Ins Out",
+      "preview": "https://assets.ppy.sh/artists/388/Songs/Solarbear - Stick Your Ins Out.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -26,19 +28,22 @@
     },
     {
       "title": "Itchy Trigger Warning Finger",
+      "preview": "https://assets.ppy.sh/artists/388/Songs/Solarbear - Itchy Trigger Warning Finger.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Pornogoblin (feat. Dr!p)",
+      "preview": "https://assets.ppy.sh/artists/388/Songs/Solarbear - Pornogoblin (feat. Dr!p).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Ballad of El Gohque",
+      "preview": "https://assets.ppy.sh/artists/388/Songs/Solarbear - The Ballad of El Gohque.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:21:07Z"
+  "updated_at": "2026-03-31T01:59:37Z"
 }

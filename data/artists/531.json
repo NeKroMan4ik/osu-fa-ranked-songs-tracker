@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Ba11istiC",
+      "preview": "https://assets.ppy.sh/artists/531/Songs/Juztan - Ba11istiC.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,19 +16,22 @@
     },
     {
       "title": "CH4-0S",
+      "preview": "https://assets.ppy.sh/artists/531/Songs/Juztan - CH4-0S.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "This is NOT a Music?!",
+      "preview": "https://assets.ppy.sh/artists/531/Songs/Juztan - This is NOT a Music!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "To the B3AT!",
+      "preview": "https://assets.ppy.sh/artists/531/Songs/Juztan - To the B3AT!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:52:38Z"
+  "updated_at": "2026-03-31T00:30:30Z"
 }

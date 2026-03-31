@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Beyond the despair",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2655.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Countdown",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2660.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -35,6 +37,7 @@
     },
     {
       "title": "Divine's Game",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2667.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -50,6 +53,7 @@
     },
     {
       "title": "Egoist",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2668.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -61,6 +65,7 @@
     },
     {
       "title": "Fake",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2656.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -72,6 +77,7 @@
     },
     {
       "title": "Falldown",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2665.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -84,6 +90,7 @@
     },
     {
       "title": "Just believe",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2658.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -95,6 +102,7 @@
     },
     {
       "title": "Last words",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2661.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -106,6 +114,7 @@
     },
     {
       "title": "Meteora",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2666.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -121,6 +130,7 @@
     },
     {
       "title": "Over the limit",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2670.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -132,6 +142,7 @@
     },
     {
       "title": "Ray of hope",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2671.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -143,6 +154,7 @@
     },
     {
       "title": "Seimei no Tomoshibi",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2662.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -155,6 +167,7 @@
     },
     {
       "title": "Sylphia",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2676.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -170,6 +183,7 @@
     },
     {
       "title": "Synapse",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2672.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -181,6 +195,7 @@
     },
     {
       "title": "Tsuioku no Kakera",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2673.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -201,6 +216,7 @@
     },
     {
       "title": "Tsukishigure",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2659.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -212,6 +228,7 @@
     },
     {
       "title": "Zanshou no Resonance",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2678.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -223,74 +240,88 @@
     },
     {
       "title": "Dependence",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2674.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fade",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2664.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fake -Acoustic ver.-",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2675.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Imy feat. Aitsuki Nakuru - Drowning in you",
+      "preview": "https://assets.ppy.sh/artists/99/Inside of me/Imy feat. Aitsuki Nakuru - Drowning in you.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Imy feat. Aitsuki Nakuru - Invisible chain",
+      "preview": "https://assets.ppy.sh/artists/99/Inside of me/Imy feat. Aitsuki Nakuru - Invisible chain.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Imy feat. Aitsuki Nakuru - Lateral Arc",
+      "preview": "https://assets.ppy.sh/artists/99/Inside of me/Imy feat. Aitsuki Nakuru - Lateral Arc.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Imy feat. Aitsuki Nakuru - Mizukagami",
+      "preview": "https://assets.ppy.sh/artists/99/Inside of me/Imy feat. Aitsuki Nakuru - Mizukagami.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Imy feat. konoko - INGLASS",
+      "preview": "https://assets.ppy.sh/artists/99/INGLASS/Imy feat. konoko - INGLASS.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Imy feat. konoko - Lost colors",
+      "preview": "https://assets.ppy.sh/artists/99/INGLASS/Imy feat. konoko - Lost colors.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Imy feat. Natsume Itsuki - Lies playing Truth",
+      "preview": "https://assets.ppy.sh/artists/99/Songs/Imy_feat._Natsume_Itsuki_-_Lies_playing_Truth.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Innovator",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2657.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Link",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2669.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shinsou Kairou",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2663.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "unclear",
+      "preview": "https://assets.ppy.sh/artists/99/previews/2677.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:47:54Z"
+  "updated_at": "2026-03-31T00:25:45Z"
 }

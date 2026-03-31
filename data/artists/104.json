@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Greenlights Serenade",
+      "preview": "https://assets.ppy.sh/artists/104/previews/2747.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Hey William (New Translation)",
+      "preview": "https://assets.ppy.sh/artists/104/previews/2754.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Kiseki sae mo",
+      "preview": "https://assets.ppy.sh/artists/104/Songs/Omoi_-_Kiseki_sae_mo.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -41,6 +44,7 @@
     },
     {
       "title": "Misread, Mislead",
+      "preview": "https://assets.ppy.sh/artists/104/previews/2750.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -52,6 +56,7 @@
     },
     {
       "title": "Nee William",
+      "preview": "https://assets.ppy.sh/artists/104/previews/2761.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -71,6 +76,7 @@
     },
     {
       "title": "Ohne Herz",
+      "preview": "https://assets.ppy.sh/artists/104/previews/2762.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -82,6 +88,7 @@
     },
     {
       "title": "Snow Drive (01.23)",
+      "preview": "https://assets.ppy.sh/artists/104/previews/2756.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -93,6 +100,7 @@
     },
     {
       "title": "Teioh Education",
+      "preview": "https://assets.ppy.sh/artists/104/Night Confession/Omoi_-_Teioh_Education.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -108,6 +116,7 @@
     },
     {
       "title": "Teo",
+      "preview": "https://assets.ppy.sh/artists/104/previews/2758.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -132,6 +141,7 @@
     },
     {
       "title": "Totsugeki Zenya no Dance",
+      "preview": "https://assets.ppy.sh/artists/104/Night Confession/Omoi_-_Totsugeki_Zenya_no_Dance.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -143,6 +153,7 @@
     },
     {
       "title": "WAA!!!!",
+      "preview": "https://assets.ppy.sh/artists/104/previews/2738.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -154,69 +165,82 @@
     },
     {
       "title": "Chit Chat March!",
+      "preview": "https://assets.ppy.sh/artists/104/previews/2733.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fires",
+      "preview": "https://assets.ppy.sh/artists/104/previews/2759.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Five",
+      "preview": "https://assets.ppy.sh/artists/104/previews/2734.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hinotama wo Anatanai",
+      "preview": "https://assets.ppy.sh/artists/104/previews/2735.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "If You're Gonna Jump",
+      "preview": "https://assets.ppy.sh/artists/104/previews/2752.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kakokei ni Dekimasuka",
+      "preview": "https://assets.ppy.sh/artists/104/previews/2748.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kimi no Subete o Miseteyo",
+      "preview": "https://assets.ppy.sh/artists/104/previews/2736.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Last Night Waltz",
+      "preview": "https://assets.ppy.sh/artists/104/previews/2753.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Miracle",
+      "preview": "https://assets.ppy.sh/artists/104/previews/2749.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "One Moment to the Andromeda",
+      "preview": "https://assets.ppy.sh/artists/104/previews/2755.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Spiral Flight",
+      "preview": "https://assets.ppy.sh/artists/104/previews/2757.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Unreal Mokushisou",
+      "preview": "https://assets.ppy.sh/artists/104/previews/2737.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Zensokuryoku Kyousoukyoku",
+      "preview": "https://assets.ppy.sh/artists/104/previews/2739.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:38:01Z"
+  "updated_at": "2026-03-31T01:16:16Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Milky Ways",
+      "preview": "https://assets.ppy.sh/artists/119/Caps On, Hats Off/Bossfight - Milky Ways.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Sonder",
+      "preview": "https://assets.ppy.sh/artists/119/Songs/Bossfight - Sonder.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -30,59 +32,70 @@
     },
     {
       "title": "Adust",
+      "preview": "https://assets.ppy.sh/artists/119/Heks EP/Bossfight - Adust.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Captain Cool",
+      "preview": "https://assets.ppy.sh/artists/119/Nice Catch Biggy!/Bossfight_-_Captain_Cool.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dr. Finkelfracken's Cure",
+      "preview": "https://assets.ppy.sh/artists/119/Nice Catch Biggy!/Bossfight_-_Dr._Finkelfrackens_Cure.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Elevatia",
+      "preview": "https://assets.ppy.sh/artists/119/Songs/Bossfight - Elevatia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Flirt Flirt Oh It Hurts",
+      "preview": "https://assets.ppy.sh/artists/119/Caps On%2C Hats Off/Bossfight_-_Flirt_Flirt_Oh_It_Hurts.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nock Em",
+      "preview": "https://assets.ppy.sh/artists/119/Songs/Bossfight - Nock Em.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nowise",
+      "preview": "https://assets.ppy.sh/artists/119/Heks EP/Bossfight - Nowise.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Okiba Crackdown",
+      "preview": "https://assets.ppy.sh/artists/119/Songs/Bossfight - Okiba Crackdown.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Partyt Ar Igang!",
+      "preview": "https://assets.ppy.sh/artists/119/Caps On, Hats Off/Bossfight - Partyt Ar Igang!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Empire of Toads",
+      "preview": "https://assets.ppy.sh/artists/119/Nice Catch Biggy!/Bossfight_-_The_Empire_of_Toads.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Maze of Mayonnaise",
+      "preview": "https://assets.ppy.sh/artists/119/Caps On, Hats Off/Bossfight - The Maze of Mayonnaise.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:56:16Z"
+  "updated_at": "2026-03-30T23:34:12Z"
 }

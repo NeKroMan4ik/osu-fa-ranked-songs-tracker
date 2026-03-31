@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Lunatic Red Eyes",
+      "preview": "https://assets.ppy.sh/artists/323/Touhou Tower Orchid/Innocent Key - Lunatic Red Eyes.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -16,6 +17,7 @@
     },
     {
       "title": "Shukudai ga Owaranai!",
+      "preview": "https://assets.ppy.sh/artists/323/Touhou Summer Vacation/Innocent Key - Shukudai ga Owaranai!.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -27,6 +29,7 @@
     },
     {
       "title": "Toho-Assisted-Speedrun!!!",
+      "preview": "https://assets.ppy.sh/artists/323/Innocent Key VS Tora/Innocent Key - Toho-Assisted-Speedrun!!!.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -38,6 +41,7 @@
     },
     {
       "title": "Touhou School",
+      "preview": "https://assets.ppy.sh/artists/323/Touhou School/Innocent Key - Touhou School.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -49,64 +53,74 @@
     },
     {
       "title": "Wanna Be My Dream",
+      "preview": "https://assets.ppy.sh/artists/323/Touhou Sacred Water Festival/Innocent Key - Wanna Be My Dream.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "osu": [
           19840
         ],
-        "osu": [
+        "taiko": [
           19840
         ]
       }
     },
     {
       "title": "Float",
+      "preview": "https://assets.ppy.sh/artists/323/Touhou Serious Innocent Key/Innocent Key - Float.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fuwari, Pink no Koi",
+      "preview": "https://assets.ppy.sh/artists/323/Innocent Key the BEST/Innocent Key - Fuwari%2C Pink no Koi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Love-chu*CHIREIDEN",
+      "preview": "https://assets.ppy.sh/artists/323/Touhou Serious Innocent Key/Innocent Key - Love-chuCHIREIDEN.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Requiem ~Sekai wa Owari, Soshite Hajimaru~",
+      "preview": "https://assets.ppy.sh/artists/323/Touhou Summer Vacation/Innocent Key - Requiem %7ESekai wa Owari%2C Soshite Hajimaru%7E.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Touhou Celeb ~ABUNAI SISTERS~",
+      "preview": "https://assets.ppy.sh/artists/323/Touhou Celeb/Innocent Key - Touhou Celeb %7EABUNAI SISTERS%7E.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Touhou Holy Water Festival - The Troubled Maidens Year ~Pappa~",
+      "preview": "https://assets.ppy.sh/artists/323/Touhou Sacred Water Festival/Innocent Key - Touhou Holy Water Festival - The Troubled Maidens Year %7EPappa%7E.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Touhou Sweets! ~Kichiku Shimai to Junan Maid~",
+      "preview": "https://assets.ppy.sh/artists/323/Touhou Sweets/Innocent_Key_-_Touhou_Sweets_Kichiku_Shimai_to_Junan_Maid.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Touhou Working Force ~Yes, My Load~",
+      "preview": "https://assets.ppy.sh/artists/323/Innocent Key the BEST/Innocent Key - Touhou Working Force %7EYes%2C My Load%7E.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Years of Cosmogony Fantasia",
+      "preview": "https://assets.ppy.sh/artists/323/Touhou Tower Orchid/Innocent Key - Years of Cosmogony Fantasia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:49:16Z"
+  "updated_at": "2026-03-31T00:27:07Z"
 }

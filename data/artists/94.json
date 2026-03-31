@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Broken",
+      "preview": "https://assets.ppy.sh/artists/94/previews/2510.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Entr'acte",
+      "preview": "https://assets.ppy.sh/artists/94/previews/3026.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Falling",
+      "preview": "https://assets.ppy.sh/artists/94/previews/2511.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Hunger",
+      "preview": "https://assets.ppy.sh/artists/94/previews/2506.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "I'm For You",
+      "preview": "https://assets.ppy.sh/artists/94/previews/2514.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -64,6 +69,7 @@
     },
     {
       "title": "Scorn",
+      "preview": "https://assets.ppy.sh/artists/94/previews/2518.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -75,6 +81,7 @@
     },
     {
       "title": "Signals",
+      "preview": "https://assets.ppy.sh/artists/94/previews/3027.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -86,6 +93,7 @@
     },
     {
       "title": "Warpath",
+      "preview": "https://assets.ppy.sh/artists/94/previews/2519.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -97,74 +105,88 @@
     },
     {
       "title": "Arcade",
+      "preview": "https://assets.ppy.sh/artists/94/previews/3024.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "At All Costs",
+      "preview": "https://assets.ppy.sh/artists/94/previews/2504.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Banshee",
+      "preview": "https://assets.ppy.sh/artists/94/previews/2509.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Before The Dawn (feat. Julia Marks) [Drum & Bass Mix]",
+      "preview": "https://assets.ppy.sh/artists/94/previews/3025.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dead Leaves",
+      "preview": "https://assets.ppy.sh/artists/94/previews/2505.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Friday",
+      "preview": "https://assets.ppy.sh/artists/94/previews/2512.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hyperdrive",
+      "preview": "https://assets.ppy.sh/artists/94/previews/2513.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Immortality Protocol",
+      "preview": "https://assets.ppy.sh/artists/94/previews/2520.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Made Of Ashes",
+      "preview": "https://assets.ppy.sh/artists/94/previews/2515.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mantis",
+      "preview": "https://assets.ppy.sh/artists/94/previews/2516.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Now Run",
+      "preview": "https://assets.ppy.sh/artists/94/previews/2517.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Press Play",
+      "preview": "https://assets.ppy.sh/artists/94/previews/2507.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Snatch",
+      "preview": "https://assets.ppy.sh/artists/94/previews/3028.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Call",
+      "preview": "https://assets.ppy.sh/artists/94/previews/2508.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:17:35Z"
+  "updated_at": "2026-03-31T00:55:39Z"
 }

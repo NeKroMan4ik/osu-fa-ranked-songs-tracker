@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Amen Iraq",
+      "preview": "https://assets.ppy.sh/artists/37/Flexing Habitual/The_Flashbulb_-_Amen_Iraq.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -20,6 +21,7 @@
     },
     {
       "title": "Black Lawn Finale",
+      "preview": "https://assets.ppy.sh/artists/37/previews/905.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -31,6 +33,7 @@
     },
     {
       "title": "Chik Habit",
+      "preview": "https://assets.ppy.sh/artists/37/previews/906.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -50,6 +53,7 @@
     },
     {
       "title": "Creep",
+      "preview": "https://assets.ppy.sh/artists/37/previews/908.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -61,6 +65,7 @@
     },
     {
       "title": "Dead On The 4th Of July",
+      "preview": "https://assets.ppy.sh/artists/37/previews/910.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -72,6 +77,7 @@
     },
     {
       "title": "DIDJ PVC",
+      "preview": "https://assets.ppy.sh/artists/37/previews/909.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -87,6 +93,7 @@
     },
     {
       "title": "Hymn To The Unobtainable",
+      "preview": "https://assets.ppy.sh/artists/37/previews/911.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -98,6 +105,7 @@
     },
     {
       "title": "It Never Ends",
+      "preview": "https://assets.ppy.sh/artists/37/previews/922.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -109,6 +117,7 @@
     },
     {
       "title": "Kirlian Shores",
+      "preview": "https://assets.ppy.sh/artists/37/previews/913.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -124,6 +133,7 @@
     },
     {
       "title": "Lawn Wake II",
+      "preview": "https://assets.ppy.sh/artists/37/previews/915.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -135,6 +145,7 @@
     },
     {
       "title": "Lawn Wake IV (Black)",
+      "preview": "https://assets.ppy.sh/artists/37/previews/917.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -150,6 +161,7 @@
     },
     {
       "title": "Lawn Wake IX",
+      "preview": "https://assets.ppy.sh/artists/37/previews/918.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -161,6 +173,7 @@
     },
     {
       "title": "Mellann",
+      "preview": "https://assets.ppy.sh/artists/37/previews/919.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -176,6 +189,7 @@
     },
     {
       "title": "Ninedump",
+      "preview": "https://assets.ppy.sh/artists/37/previews/921.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -187,6 +201,7 @@
     },
     {
       "title": "Passage D",
+      "preview": "https://assets.ppy.sh/artists/37/previews/923.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -203,6 +218,7 @@
     },
     {
       "title": "Six Acid Strings",
+      "preview": "https://assets.ppy.sh/artists/37/previews/900.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -214,6 +230,7 @@
     },
     {
       "title": "The Bridgeport Run",
+      "preview": "https://assets.ppy.sh/artists/37/previews/925.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -225,6 +242,7 @@
     },
     {
       "title": "Time Ache Finale",
+      "preview": "https://assets.ppy.sh/artists/37/previews/927.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -236,6 +254,7 @@
     },
     {
       "title": "You Take the World's Weight Away",
+      "preview": "https://assets.ppy.sh/artists/37/previews/928.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -256,59 +275,70 @@
     },
     {
       "title": "A Raw Understanding",
+      "preview": "https://assets.ppy.sh/artists/37/previews/899.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Alley Acid",
+      "preview": "https://assets.ppy.sh/artists/37/previews/901.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Bash",
+      "preview": "https://assets.ppy.sh/artists/37/previews/903.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Binedump",
+      "preview": "https://assets.ppy.sh/artists/37/previews/904.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Coinage",
+      "preview": "https://assets.ppy.sh/artists/37/previews/907.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kirlian Choices",
+      "preview": "https://assets.ppy.sh/artists/37/previews/912.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lawn Wake I",
+      "preview": "https://assets.ppy.sh/artists/37/previews/914.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lawn Wake III",
+      "preview": "https://assets.ppy.sh/artists/37/previews/916.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Monolite",
+      "preview": "https://assets.ppy.sh/artists/37/previews/920.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Stretch Industry",
+      "preview": "https://assets.ppy.sh/artists/37/previews/924.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Trees In Russia",
+      "preview": "https://assets.ppy.sh/artists/37/previews/926.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:39:56Z"
+  "updated_at": "2026-03-31T02:18:35Z"
 }

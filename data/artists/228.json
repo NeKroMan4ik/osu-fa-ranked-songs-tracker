@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "(0,0)",
+      "preview": "https://assets.ppy.sh/artists/228/Songs/NIWASHI - (0%2C0).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Harder Than Diamond",
+      "preview": "https://assets.ppy.sh/artists/228/Songs/NIWASHI_-_Harder_Than_Diamond.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -30,6 +32,7 @@
     },
     {
       "title": "Playing with Ruby",
+      "preview": "https://assets.ppy.sh/artists/228/Songs/NIWASHI - Playing with Ruby.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -53,6 +56,7 @@
     },
     {
       "title": "The Fascinating Cat's Eye",
+      "preview": "https://assets.ppy.sh/artists/228/Songs/NIWASHI - The Fascinating Cat%27s Eye.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -72,6 +76,7 @@
     },
     {
       "title": "Y",
+      "preview": "https://assets.ppy.sh/artists/228/Songs/NIWASHI - Y.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -87,64 +92,76 @@
     },
     {
       "title": "Astronote.",
+      "preview": "https://assets.ppy.sh/artists/228/Songs/NIWASHI - Astronote..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cyclone Joker",
+      "preview": "https://assets.ppy.sh/artists/228/Songs/NIWASHI - Cyclone Joker.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "I Am Amethyst",
+      "preview": "https://assets.ppy.sh/artists/228/Songs/NIWASHI - I Am Amethyst.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Let's quartz",
+      "preview": "https://assets.ppy.sh/artists/228/Songs/NIWASHI - Let%27s quartz.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Neighbour's Blueish Garden (NIWASHI+Aoi) - Deklowaz, the Allchemist",
+      "preview": "https://assets.ppy.sh/artists/228/Songs/Neighbours_Blueish_Garden_NIWASHIAoi_-_Deklowaz_the_Allchemist.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sobrem & NIWASHI - A fight in Tunisia",
+      "preview": "https://assets.ppy.sh/artists/228/Songs/Sobrem__NIWASHI_-_A_fight_in_Tunisia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "T_ritama Breaker",
+      "preview": "https://assets.ppy.sh/artists/228/Songs/NIWASHI - T_ritama Breaker.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Take Shelter From Rain",
+      "preview": "https://assets.ppy.sh/artists/228/Songs/NIWASHI - Take Shelter From Rain.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tonari no Niwa wa - Caelum out of the world 2019",
+      "preview": "https://assets.ppy.sh/artists/228/Songs/Tonari no Niwa wa - Caelum out of the world 2019.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tonari no Niwa wa Aoi (NIWASHI + Aoi) - Nostalgic Lost Logic",
+      "preview": "https://assets.ppy.sh/artists/228/Songs/Tonari_no_Niwa_wa_Aoi_NIWASHI__Aoi_-_Nostalgic_Lost_Logic.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Trerey-U + NIWASHI - Hisui",
+      "preview": "https://assets.ppy.sh/artists/228/Songs/Trerey-U__NIWASHI_-_Hisui.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Veterock no Kuuko ni Kiyu",
+      "preview": "https://assets.ppy.sh/artists/228/Songs/NIWASHI - Veterock no Kuuko ni Kiyu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:35:20Z"
+  "updated_at": "2026-03-31T01:13:31Z"
 }

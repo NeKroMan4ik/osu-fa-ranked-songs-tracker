@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "the beginning",
+      "preview": "https://assets.ppy.sh/artists/510/the beginning and the end/lexxndr - the beginning.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,124 +16,148 @@
     },
     {
       "title": "a way to be unique",
+      "preview": "https://assets.ppy.sh/artists/510/a way to be unique/lexxndr - a way to be unique.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "adhd",
+      "preview": "https://assets.ppy.sh/artists/510/without me/lexxndr - adhd.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "angel with a broken wing",
+      "preview": "https://assets.ppy.sh/artists/510/angel with a broken wing/lexxndr - angel with a broken wing.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "brakecore",
+      "preview": "https://assets.ppy.sh/artists/510/the beginning and the end/lexxndr - brakecore.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "cattastrophe",
+      "preview": "https://assets.ppy.sh/artists/510/the beginning and the end/lexxndr - cattastrophe.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "crystal",
+      "preview": "https://assets.ppy.sh/artists/510/crystal/lexxndr - crystal.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "destructi0n",
+      "preview": "https://assets.ppy.sh/artists/510/New Season/lexxndr - destructi0n.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "dreams",
+      "preview": "https://assets.ppy.sh/artists/510/the beginning and the end/lexxndr - dreams.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "happiness",
+      "preview": "https://assets.ppy.sh/artists/510/the beginning and the end/lexxndr - happiness.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "hope",
+      "preview": "https://assets.ppy.sh/artists/510/the beginning and the end/lexxndr - hope.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "horison",
+      "preview": "https://assets.ppy.sh/artists/510/New Season/lexxndr - horison.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "IMMORTALITY",
+      "preview": "https://assets.ppy.sh/artists/510/IMMORTALITY/lexxndr - IMMORTALITY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "lethal",
+      "preview": "https://assets.ppy.sh/artists/510/lethal/lexxndr - lethal.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "losing my mind",
+      "preview": "https://assets.ppy.sh/artists/510/losing my mind/lexxndr - losing my mind.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "lost",
+      "preview": "https://assets.ppy.sh/artists/510/lost/lexxndr - lost.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "nettwork",
+      "preview": "https://assets.ppy.sh/artists/510/the beginning and the end/lexxndr - nettwork.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "nightmares & dreams",
+      "preview": "https://assets.ppy.sh/artists/510/nightmares %26 dreams/lexxndr - nightmares %26 dreams.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ok but should i even care anymore",
+      "preview": "https://assets.ppy.sh/artists/510/ok but should i even care anymore/lexxndr - ok but should i even care anymore.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "over",
+      "preview": "https://assets.ppy.sh/artists/510/without me/lexxndr - over.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PUR3_CHA0S",
+      "preview": "https://assets.ppy.sh/artists/510/PUR3%27CHA0S/lexxndr - PUR3%27CHA0S.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "so tired",
+      "preview": "https://assets.ppy.sh/artists/510/so tired/lexxndr - so tired.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "solar flare",
+      "preview": "https://assets.ppy.sh/artists/510/solar flare/lexxndr - solar flare.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "the end",
+      "preview": "https://assets.ppy.sh/artists/510/the beginning and the end/lexxndr - the end.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "waypoint",
+      "preview": "https://assets.ppy.sh/artists/510/New Season/lexxndr - waypoint.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:06:33Z"
+  "updated_at": "2026-03-31T00:44:33Z"
 }

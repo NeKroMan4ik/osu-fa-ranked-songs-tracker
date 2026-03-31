@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Disconnected",
+      "preview": "https://assets.ppy.sh/artists/287/Disconnected/Pegboard Nerds - Disconnected.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -20,6 +21,7 @@
     },
     {
       "title": "Emoji",
+      "preview": "https://assets.ppy.sh/artists/287/Emoji/Pegboard Nerds - Emoji.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -31,6 +33,7 @@
     },
     {
       "title": "Gunslinga (feat. MC Mota)",
+      "preview": "https://assets.ppy.sh/artists/287/Gunslinga/Pegboard Nerds - Gunslinga (feat. MC Mota).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -42,6 +45,7 @@
     },
     {
       "title": "Hero (feat. Elizaveta)",
+      "preview": "https://assets.ppy.sh/artists/287/Hero/Pegboard Nerds - Hero (feat. Elizaveta).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -54,6 +58,7 @@
     },
     {
       "title": "Just Dance (feat. Tia Simone)",
+      "preview": "https://assets.ppy.sh/artists/287/Just Dance/Pegboard Nerds - Just Dance (feat. Tia Simone).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -65,6 +70,7 @@
     },
     {
       "title": "Try This",
+      "preview": "https://assets.ppy.sh/artists/287/Try This/Pegboard Nerds - Try This.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -76,6 +82,7 @@
     },
     {
       "title": "We Are One (Original Vocal Mix)",
+      "preview": "https://assets.ppy.sh/artists/287/We Are One/Pegboard Nerds - We Are One (Original Vocal Mix).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -88,24 +95,28 @@
     },
     {
       "title": "BAMF",
+      "preview": "https://assets.ppy.sh/artists/287/BAMF/Pegboard Nerds - BAMF.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Excision & Pegboard Nerds - Bring The Madness (feat. Mayor Apeshit)",
+      "preview": "https://assets.ppy.sh/artists/287/Bring The Madness/Excision %26 Pegboard Nerds - Bring The Madness (feat. Mayor Apeshit).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Pegboard Nerds x MisterWives - Coffins",
+      "preview": "https://assets.ppy.sh/artists/287/Coffins/Pegboard_Nerds_x_MisterWives_-_Coffins.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Snails & Pegboard Nerds - Deep In The Night",
+      "preview": "https://assets.ppy.sh/artists/287/Deep In The Night/Snails %26 Pegboard Nerds - Deep In The Night.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:46:40Z"
+  "updated_at": "2026-03-31T01:24:54Z"
 }

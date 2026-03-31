@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Dollfie Dream",
+      "preview": "https://assets.ppy.sh/artists/74/previews/2006.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Heart Function",
+      "preview": "https://assets.ppy.sh/artists/74/previews/2007.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -34,6 +36,7 @@
     },
     {
       "title": "How to make Slime",
+      "preview": "https://assets.ppy.sh/artists/74/previews/2008.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -45,6 +48,7 @@
     },
     {
       "title": "Ooi",
+      "preview": "https://assets.ppy.sh/artists/74/previews/2011.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -61,6 +65,7 @@
     },
     {
       "title": "TSLove",
+      "preview": "https://assets.ppy.sh/artists/74/previews/2013.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -85,19 +90,22 @@
     },
     {
       "title": "Kato",
+      "preview": "https://assets.ppy.sh/artists/74/previews/2009.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Melco, Melco",
+      "preview": "https://assets.ppy.sh/artists/74/previews/2010.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ping",
+      "preview": "https://assets.ppy.sh/artists/74/previews/2012.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:37:15Z"
+  "updated_at": "2026-03-31T01:15:28Z"
 }

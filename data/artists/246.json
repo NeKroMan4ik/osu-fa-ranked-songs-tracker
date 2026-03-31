@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Black sour Ruby",
+      "preview": "https://assets.ppy.sh/artists/246/My Future%2C Your Memory/EmoCosine_-_Black_sour_Ruby.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Black sour Ruby (Extended Smelting)",
+      "preview": "https://assets.ppy.sh/artists/246/My Future%2C Your Memory/EmoCosine_-_Black_sour_Ruby_Extended_Smelting.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -31,6 +33,7 @@
     },
     {
       "title": "Cutter",
+      "preview": "https://assets.ppy.sh/artists/246/Love Kills U EP/EmoCosine_-_Cutter_Short_Ver..mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -47,6 +50,7 @@
     },
     {
       "title": "Give You My World",
+      "preview": "https://assets.ppy.sh/artists/246/Love Kills U EP/EmoCosine_-_Give_You_My_World_Short_Ver..mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -58,6 +62,7 @@
     },
     {
       "title": "Love Kills U",
+      "preview": "https://assets.ppy.sh/artists/246/Love Kills U EP/EmoCosine_-_Love_Kills_U_Short_Ver..mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -70,6 +75,7 @@
     },
     {
       "title": "Love Pills",
+      "preview": "https://assets.ppy.sh/artists/246/Songs/EmoCosine_-_Love_Pills.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -85,6 +91,7 @@
     },
     {
       "title": "MAGENTA POTION",
+      "preview": "https://assets.ppy.sh/artists/246/Love Kills U EP/EmoCosine_-_MAGENTA_POTION_Short_Ver..mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -96,6 +103,7 @@
     },
     {
       "title": "Nekojarashi",
+      "preview": "https://assets.ppy.sh/artists/246/Songs/EmoCosine - Nekojarashi.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -107,54 +115,64 @@
     },
     {
       "title": "Dream with Me",
+      "preview": "https://assets.ppy.sh/artists/246/Love Kills U EP/EmoCosine - Dream with Me.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hello, My future",
+      "preview": "https://assets.ppy.sh/artists/246/My Future%2C Your Memory/EmoCosine - Hello%2C My future.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Is This Your Memory",
+      "preview": "https://assets.ppy.sh/artists/246/My Future%2C Your Memory/EmoCosine_-_Is_This_Your_Memory_Short_Ver..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Pastel Kokoro",
+      "preview": "https://assets.ppy.sh/artists/246/Shake The Future! EP/EmoCosine - Pastel Kokoro.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Pixel Heart",
+      "preview": "https://assets.ppy.sh/artists/246/Love Kills U EP/EmoCosine - Pixel Heart.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ready for Breakdown",
+      "preview": "https://assets.ppy.sh/artists/246/Songs/EmoCosine_-_Ready_for_Breakdown.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Step to Sky",
+      "preview": "https://assets.ppy.sh/artists/246/Shake The Future! EP/EmoCosine_-_Step_to_Sky_Short_Ver..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Third Castle",
+      "preview": "https://assets.ppy.sh/artists/246/Songs/EmoCosine - The Third Castle.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thinkin' About U",
+      "preview": "https://assets.ppy.sh/artists/246/Love Kills U EP/EmoCosine - Thinkin%27 About U.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "This Club is Not 4 U",
+      "preview": "https://assets.ppy.sh/artists/246/DEBUT!/EmoCosine_-_This_Club_is_Not_4_U_Short_Ver..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:23:11Z"
+  "updated_at": "2026-03-31T00:01:00Z"
 }

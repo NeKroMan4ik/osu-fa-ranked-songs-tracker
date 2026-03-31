@@ -4,49 +4,58 @@
   "tracks": [
     {
       "title": "Cold Storage",
+      "preview": "https://assets.ppy.sh/artists/470/Songs/Terminal_11_-_Cold_Storage.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Echoes",
+      "preview": "https://assets.ppy.sh/artists/470/Echoes/Terminal 11 - Echoes.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fury",
+      "preview": "https://assets.ppy.sh/artists/470/Self Exorcism/Terminal 11 - Fury.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Grinding Teeth To Dust",
+      "preview": "https://assets.ppy.sh/artists/470/Grinding Teeth To Dust/Terminal 11 - Grinding Teeth To Dust.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hectic Icidentals",
+      "preview": "https://assets.ppy.sh/artists/470/Suffocating Repetition/Terminal 11 - Hectic Icidentals.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Reorganized Fragments",
+      "preview": "https://assets.ppy.sh/artists/470/Harmless Chaos/Terminal 11 - Reorganized Fragments.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Inevitable Pains Of Living",
+      "preview": "https://assets.ppy.sh/artists/470/Harmless Chaos/Terminal 11 - The Inevitable Pains Of Living.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Unpleasant Experience",
+      "preview": "https://assets.ppy.sh/artists/470/Harmless Chaos/Terminal 11 - Unpleasant Experience.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "We're Just Taking It Back",
+      "preview": "https://assets.ppy.sh/artists/470/Tracing Structures/Terminal 11 - We%27re Just Taking It Back.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:38:39Z"
+  "updated_at": "2026-03-31T02:17:15Z"
 }

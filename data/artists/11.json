@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Fearless Living",
+      "preview": "https://assets.ppy.sh/artists/11/previews/142.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Methods",
+      "preview": "https://assets.ppy.sh/artists/11/previews/144.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "New Game Plus",
+      "preview": "https://assets.ppy.sh/artists/11/previews/145.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Selecting Continue",
+      "preview": "https://assets.ppy.sh/artists/11/previews/147.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -52,6 +56,7 @@
     },
     {
       "title": "Wave Island",
+      "preview": "https://assets.ppy.sh/artists/11/previews/161.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -63,6 +68,7 @@
     },
     {
       "title": "We Could Quest Together",
+      "preview": "https://assets.ppy.sh/artists/11/previews/149.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -74,6 +80,7 @@
     },
     {
       "title": "Why Are We Yelling",
+      "preview": "https://assets.ppy.sh/artists/11/previews/153.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -85,6 +92,7 @@
     },
     {
       "title": "Yes (Maybe)",
+      "preview": "https://assets.ppy.sh/artists/11/previews/167.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -100,114 +108,136 @@
     },
     {
       "title": "Chrome City",
+      "preview": "https://assets.ppy.sh/artists/11/previews/154.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Deserted Path",
+      "preview": "https://assets.ppy.sh/artists/11/previews/155.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dewdrop Jungle",
+      "preview": "https://assets.ppy.sh/artists/11/previews/156.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Don't Force It",
+      "preview": "https://assets.ppy.sh/artists/11/previews/162.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Don't Let It Go To Waste",
+      "preview": "https://assets.ppy.sh/artists/11/previews/169.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Earthbound Sounds",
+      "preview": "https://assets.ppy.sh/artists/11/previews/170.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Exposed and Unafraid",
+      "preview": "https://assets.ppy.sh/artists/11/previews/141.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Game Boy Color Envy",
+      "preview": "https://assets.ppy.sh/artists/11/previews/150.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Haunted Swamp",
+      "preview": "https://assets.ppy.sh/artists/11/previews/157.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "It Must Use Force",
+      "preview": "https://assets.ppy.sh/artists/11/previews/151.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Long Lung",
+      "preview": "https://assets.ppy.sh/artists/11/previews/163.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Loopy Fruits",
+      "preview": "https://assets.ppy.sh/artists/11/previews/143.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Magmortar Tunnel",
+      "preview": "https://assets.ppy.sh/artists/11/previews/158.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mystery Gift Radio!",
+      "preview": "https://assets.ppy.sh/artists/11/previews/159.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "NES Funk",
+      "preview": "https://assets.ppy.sh/artists/11/previews/164.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "No One's Watching",
+      "preview": "https://assets.ppy.sh/artists/11/previews/165.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Recurring Dreams",
+      "preview": "https://assets.ppy.sh/artists/11/previews/146.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Something Step",
+      "preview": "https://assets.ppy.sh/artists/11/previews/148.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "This Track May Snack",
+      "preview": "https://assets.ppy.sh/artists/11/previews/152.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Try to Forget It",
+      "preview": "https://assets.ppy.sh/artists/11/previews/166.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Underground Headquarters",
+      "preview": "https://assets.ppy.sh/artists/11/previews/160.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "You Overdid It",
+      "preview": "https://assets.ppy.sh/artists/11/previews/168.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:48:56Z"
+  "updated_at": "2026-03-30T23:26:56Z"
 }

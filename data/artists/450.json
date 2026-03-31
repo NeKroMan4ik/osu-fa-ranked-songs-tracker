@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Aynane",
+      "preview": "https://assets.ppy.sh/artists/450/Songs/Zmey Gorynich - Aynane.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Morozoboy",
+      "preview": "https://assets.ppy.sh/artists/450/Songs/Zmey_Gorynich_-_Morozoboy.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Sorochinskaya Yarmarka",
+      "preview": "https://assets.ppy.sh/artists/450/Songs/Zmey Gorynich - Sorochinskaya Yarmarka.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -45,6 +48,7 @@
     },
     {
       "title": "Zmey Gorynych",
+      "preview": "https://assets.ppy.sh/artists/450/Songs/Zmey_Gorynich_-_Zmey_Gorynych.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -56,24 +60,28 @@
     },
     {
       "title": "Ded Moroz",
+      "preview": "https://assets.ppy.sh/artists/450/Songs/Zmey_Gorynich_-_Ded_Moroz.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kapel",
+      "preview": "https://assets.ppy.sh/artists/450/Songs/Zmey_Gorynich_-_Kapel.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Medveplyas",
+      "preview": "https://assets.ppy.sh/artists/450/Songs/Zmey_Gorynich_-_Medveplyas.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tryasovitsa",
+      "preview": "https://assets.ppy.sh/artists/450/Songs/Zmey Gorynich - Tryasovitsa.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T23:07:17Z"
+  "updated_at": "2026-03-31T02:46:09Z"
 }

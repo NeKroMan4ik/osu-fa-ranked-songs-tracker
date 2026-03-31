@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Doomsday",
+      "preview": "https://assets.ppy.sh/artists/346/Outbreak/Mediks - Doomsday.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Nightmare",
+      "preview": "https://assets.ppy.sh/artists/346/Outbreak/Mediks - Nightmare.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,34 +28,38 @@
     },
     {
       "title": "Outbreak",
+      "preview": "https://assets.ppy.sh/artists/346/Outbreak/Mediks - Outbreak.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "osu": [
           527082
         ],
-        "osu": [
+        "taiko": [
           527082
         ]
       }
     },
     {
       "title": "Mediks feat. Astronaut - Blown Away",
+      "preview": "https://assets.ppy.sh/artists/346/Outbreak/Mediks feat. Astronaut - Blown Away.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mediks feat. Astronaut - Blown Away (Raise Spirit Remix)",
+      "preview": "https://assets.ppy.sh/artists/346/Songs/Mediks feat. Astronaut - Blown Away (Raise Spirit Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Snake Charmer",
+      "preview": "https://assets.ppy.sh/artists/346/Songs/Mediks - Snake Charmer.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:20:01Z"
+  "updated_at": "2026-03-31T00:58:06Z"
 }

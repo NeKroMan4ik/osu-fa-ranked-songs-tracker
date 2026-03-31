@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Across The Waters",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1687.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Airborne Robots",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1689.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -34,6 +36,7 @@
     },
     {
       "title": "Cosmic Blaster",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1692.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -45,6 +48,7 @@
     },
     {
       "title": "Dance of The Violins",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1693.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -64,6 +68,7 @@
     },
     {
       "title": "Deadlocked",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1696.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -76,6 +81,7 @@
     },
     {
       "title": "Fasten Your Seatbelts",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1697.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -91,6 +97,7 @@
     },
     {
       "title": "Hydra",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1704.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -102,6 +109,7 @@
     },
     {
       "title": "Shaolin Warrior",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1711.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -113,6 +121,7 @@
     },
     {
       "title": "Space Battle",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1714.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -128,6 +137,7 @@
     },
     {
       "title": "System Split",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1717.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -139,6 +149,7 @@
     },
     {
       "title": "The 7 Seas",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1719.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -150,6 +161,7 @@
     },
     {
       "title": "Unsafe Speeds",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1723.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -161,6 +173,7 @@
     },
     {
       "title": "Viking Arena",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1724.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -172,6 +185,7 @@
     },
     {
       "title": "Vortex",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1726.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -183,6 +197,7 @@
     },
     {
       "title": "Wander of Thought",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1727.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -198,139 +213,166 @@
     },
     {
       "title": "1up",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1686.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Adventure Fantasy",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1688.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Bow Wow",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1690.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cane Swinging",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1691.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dark Angel",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1694.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dark Dragon Fire",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1695.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Flower Bazooka",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1698.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Gangsta Yo",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1699.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "He Couldn't Fly",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1700.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "He's a Pirate (Remix)",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1701.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hey Man",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1702.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hit 'em Like This",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1703.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "I Can Fly",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1705.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Let's Stomp",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1706.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Life is Still Awesome",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1707.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ludicrous Speed",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1708.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Medusa",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1709.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mr. Coffee",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1710.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sonic Blaster",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1712.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sound of Infinity",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1713.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Speedbreaker",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1715.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sugar Rush",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1716.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "T-Rex",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1718.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "This Isn't Science Rocket (2015 Edition)",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1720.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ultimate",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1721.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ultra Violet",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1722.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Viper",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1725.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:26:06Z"
+  "updated_at": "2026-03-31T00:03:56Z"
 }

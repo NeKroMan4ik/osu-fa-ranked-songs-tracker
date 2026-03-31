@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Death Is Real",
+      "preview": "https://assets.ppy.sh/artists/63/previews/1762.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,22 +16,24 @@
     },
     {
       "title": "Hollow",
+      "preview": "https://assets.ppy.sh/artists/63/previews/1763.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          1091806
-        ],
         "osu": [
           989460,
+          1091806
+        ],
+        "taiko": [
           1091806
         ]
       }
     },
     {
       "title": "Subtle Change (Including The Forest of Transition and Dissatisfaction Dance)",
+      "preview": "https://assets.ppy.sh/artists/63/previews/1765.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -42,6 +45,7 @@
     },
     {
       "title": "The Silent Life",
+      "preview": "https://assets.ppy.sh/artists/63/previews/1766.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -57,6 +61,7 @@
     },
     {
       "title": "Where Owls Know My Name",
+      "preview": "https://assets.ppy.sh/artists/63/previews/1767.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -73,19 +78,22 @@
     },
     {
       "title": "A Home",
+      "preview": "https://assets.ppy.sh/artists/63/previews/1760.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Capricorn - Agoratopia",
+      "preview": "https://assets.ppy.sh/artists/63/previews/1761.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Old Nothing",
+      "preview": "https://assets.ppy.sh/artists/63/previews/1764.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:05:14Z"
+  "updated_at": "2026-03-31T01:43:40Z"
 }

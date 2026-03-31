@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Euphoria",
+      "preview": "https://assets.ppy.sh/artists/309/Songs/Ata - Euphoria.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -29,6 +30,7 @@
     },
     {
       "title": "Heart Beating",
+      "preview": "https://assets.ppy.sh/artists/309/Songs/Ata - Heart Beating.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -40,6 +42,7 @@
     },
     {
       "title": "I'm Not Crazy",
+      "preview": "https://assets.ppy.sh/artists/309/Songs/Ata - I%27m Not Crazy.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -59,6 +62,7 @@
     },
     {
       "title": "RotaVirus",
+      "preview": "https://assets.ppy.sh/artists/309/Songs/Ata - RotaVirus.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -74,14 +78,16 @@
     },
     {
       "title": "Fucking Machine",
+      "preview": "https://assets.ppy.sh/artists/309/Songs/Ata - Fucking Machine.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mental Atmosphere",
+      "preview": "https://assets.ppy.sh/artists/309/Songs/Ata - Mental Atmosphere.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:47:00Z"
+  "updated_at": "2026-03-30T23:25:00Z"
 }

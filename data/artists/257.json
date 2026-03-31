@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "chilling at nemu's place",
+      "preview": "https://assets.ppy.sh/artists/257/healing/in love with a ghost - chilling at nemu%27s place.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -28,6 +29,7 @@
     },
     {
       "title": "complex feelings about my own existence feat. jungkook",
+      "preview": "https://assets.ppy.sh/artists/257/Songs/in love with a ghost - complex feelings about my own existence feat. jungkook.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -39,6 +41,7 @@
     },
     {
       "title": "cute and soft",
+      "preview": "https://assets.ppy.sh/artists/257/Playful Spirits/in love with a ghost - cute and soft.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -63,6 +66,7 @@
     },
     {
       "title": "goodbye earth i'm taking my spaceship to explore the universe",
+      "preview": "https://assets.ppy.sh/artists/257/Songs/in love with a ghost - goodbye earth i%27m taking my spaceship to explore the universe.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -78,6 +82,7 @@
     },
     {
       "title": "i thought we were lovers w/ basil",
+      "preview": "https://assets.ppy.sh/artists/257/Songs/in love with a ghost - i thought we were lovers w basil.mp3",
       "ranked_modes": [
         "fruits",
         "mania"
@@ -93,6 +98,7 @@
     },
     {
       "title": "iced tea for breakfast",
+      "preview": "https://assets.ppy.sh/artists/257/gay story/in love with a ghost - iced tea for breakfast.mp3",
       "ranked_modes": [
         "fruits",
         "mania"
@@ -108,6 +114,7 @@
     },
     {
       "title": "interdimensional portal leading to a cute place feat. snail's house",
+      "preview": "https://assets.ppy.sh/artists/257/interdimensional portal leading to a cute place/in love with a ghost - interdimensional portal leading to a cute place feat. snail%27s house.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -123,6 +130,7 @@
     },
     {
       "title": "introduction",
+      "preview": "https://assets.ppy.sh/artists/257/healing/in love with a ghost - introduction.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -150,6 +158,7 @@
     },
     {
       "title": "trans rights",
+      "preview": "https://assets.ppy.sh/artists/257/Playful Spirits/in love with a ghost - trans rights.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -173,9 +182,10 @@
     },
     {
       "title": "am i a girl? am i a boy? do i really care?",
+      "preview": "https://assets.ppy.sh/artists/257/healing/in love with a ghost - am i a girl am i a boy do i really care.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:48:08Z"
+  "updated_at": "2026-03-31T00:26:00Z"
 }

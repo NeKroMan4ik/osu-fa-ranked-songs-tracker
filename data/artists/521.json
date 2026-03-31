@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "break/apart",
+      "preview": "https://assets.ppy.sh/artists/521/break-apart/voira - breakapart.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,49 +16,58 @@
     },
     {
       "title": "ASTERISK",
+      "preview": "https://assets.ppy.sh/artists/521/Songs/voira - ASTERISK.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ASTERISK (SHORT VER.)",
+      "preview": "https://assets.ppy.sh/artists/521/Songs/voira - ASTERISK (SHORT VER.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "blooming flowers",
+      "preview": "https://assets.ppy.sh/artists/521/blooming flowers/voira - blooming flowers.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "brainwave",
+      "preview": "https://assets.ppy.sh/artists/521/Songs/voira - brainwave.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "empathy",
+      "preview": "https://assets.ppy.sh/artists/521/Songs/voira - empathy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "fractal",
+      "preview": "https://assets.ppy.sh/artists/521/Songs/voira - fractal.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "gimme tech!",
+      "preview": "https://assets.ppy.sh/artists/521/Songs/voira - gimme tech!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Jade Serenity",
+      "preview": "https://assets.ppy.sh/artists/521/Songs/voira - Jade Serenity.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "resting palace",
+      "preview": "https://assets.ppy.sh/artists/521/Songs/voira - resting palace.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:54:36Z"
+  "updated_at": "2026-03-31T02:33:20Z"
 }

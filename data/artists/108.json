@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Alter Ego",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2814.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Alter Ego (ARForest Remix)",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/Morimori Atsushi - Alter Ego (ARForest Remix).mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Funkotsu Saishin Casino",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2819.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -46,6 +49,7 @@
     },
     {
       "title": "Laevateinn",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2822.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -57,6 +61,7 @@
     },
     {
       "title": "Le Cirque de Minuit (2019 Re:work)",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2823.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -68,6 +73,7 @@
     },
     {
       "title": "Mangetsu no Chikurin (MRM REMIX)",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2824.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -79,6 +85,7 @@
     },
     {
       "title": "MilK",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2825.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -99,16 +106,17 @@
     },
     {
       "title": "Paradigm Shift",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2828.mp3",
       "ranked_modes": [
         "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "mania": [
           765055
         ],
-        "mania": [
+        "taiko": [
           765055
         ],
         "osu": [
@@ -118,6 +126,7 @@
     },
     {
       "title": "Paradigm Shift (Extended Mix)",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2827.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -134,6 +143,7 @@
     },
     {
       "title": "PUPA",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2826.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -159,6 +169,7 @@
     },
     {
       "title": "Time Capsule",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2835.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -170,6 +181,7 @@
     },
     {
       "title": "Toono Gensou Monogatari (MRM REMIX)",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2836.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -194,6 +206,7 @@
     },
     {
       "title": "Txxs or get the fxxk out!!",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2837.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -213,6 +226,7 @@
     },
     {
       "title": "un secret",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2839.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -224,194 +238,232 @@
     },
     {
       "title": "AAAA vs. Morimori Atsushi - Xrocus",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/AAAA vs. Morimori Atsushi - Xrocus.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aduh!",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/Morimori Atsushi - Aduh!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ake Hoshi",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/Morimori Atsushi - Ake Hoshi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Amaterasu",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2815.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Apsaras",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2816.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aquamarine",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/Morimori Atsushi - Aquamarine.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "COLLAGE",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2818.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hifuu Club no Chian Warui Kyoku ni Hamatteru Kata",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2820.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kurenai",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2821.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Morimori Atsushi + Ujico* - Vieille Ville",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/Morimori_Atsushi__Ujico_-_Vieille_Ville.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Morimori Atsushi Remixed by Spiegel - PUPA -Floor of Larva Remix-",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/Morimori Atsushi Remixed by Spiegel - PUPA -Floor of Larva Remix-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Morimori Atsushi vs. uma - ETERNAL:DREAMER",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2840.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Morimori Atsushi vs. uma - Noel",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2842.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Morimori Atsushi vs. uma - Noel (long ver.)",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2841.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Morimori Atsushi vs. uma - Noel -Nordic Nation Edit-",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/Morimori Atsushi vs. uma - Noel -Nordic Nation Edit-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Morimori Atsushi vs. uma - Sweet* Witch* Girl*",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2843.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Morimori Atsushi vs. XIzE - Soda Pop Canva5!",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/Morimori Atsushi vs. XIzE - Soda Pop Canva5!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Noah vs. Morimori Atsushi - DUAL BLADE",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/Noah vs. Morimori Atsushi - DUAL BLADE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Prismriver San Shimai no UK Hardcore ni Hamatte Iru Kata (VIP)",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2829.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PUPA (uma Remix)",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/Morimori Atsushi - PUPA (uma Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Re:Garden Clocks",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2830.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Realization",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2831.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Scarlet Shimai no Funkot ni Hamatteru Kata 2017",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2832.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Snow change rain feat. oto-fu & Zan",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2833.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Splatter Doll",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2834.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Time Machine",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/Morimori Atsushi - Time Machine.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "uma vs. Morimori Atsushi - Crescent Moon",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2844.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "uma vs. Morimori Atsushi - Gemini Star",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2845.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "uma vs. Morimori Atsushi - Kibou no Hoshi wa Seishou ni Noboru (uma vs. Morimori Atsushi Remix)",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2846.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "uma vs. Morimori Atsushi - Re: End of a Dream",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/uma_vs._Morimori_Atsushi_-_Re_End_of_a_Dream.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "uma vs. Morimori Atsushi - Re: End of a Dream (Long Ver.)",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/uma_vs._Morimori_Atsushi_-_Re_End_of_a_Dream_Long_Ver..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "uma vs. Morimori Atsushi - Record one's Dream",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/uma vs. Morimori Atsushi - Record one%27s Dream.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "uma vs. Morimori Atsushi - Shooting Star feat. Risa Yuzuki",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/uma vs. Morimori Atsushi - Shooting Star feat. Risa Yuzuki.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "uma vs. Morimori Atsushi - you're Nxt",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2849.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "uma with Morimori Atsushi feat. Mashiro - Enka Buyou ~Enka Dance Music~",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2850.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "uma x Morimori Atsushi - Kill me Sweets",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2851.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Umeboshi Chazuke vs. Morimori Atsushi - Pico*2 Funkoter*",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/Umeboshi Chazuke vs. Morimori Atsushi - Pico2 Funkoter.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "un deux trois...",
+      "preview": "https://assets.ppy.sh/artists/108/previews/2838.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:28:05Z"
+  "updated_at": "2026-03-31T01:06:13Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Fana",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNX_-_Fana.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "FORTALiCE",
+      "preview": "https://assets.ppy.sh/artists/288/FORTALiCE/ZxNX - FORTALiCE.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -30,6 +32,7 @@
     },
     {
       "title": "Onyx",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNX - Onyx.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -41,6 +44,7 @@
     },
     {
       "title": "Schadenfreude",
+      "preview": "https://assets.ppy.sh/artists/288/Schadenfreude/ZxNX - Schadenfreude.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -56,114 +60,136 @@
     },
     {
       "title": "Altair",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNX - Altair.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Barzakh",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNX_-_Barzakh.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DarTokki & ZxNX - Pillow Fight",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/DarTokki__ZxNX_-_Pillow_Fight.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "IN(EX+)HALE",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNX_-_INEXHALE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "K.Moe!",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNX - K.Moe!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lucretia",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNX_-_Lucretia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Midnight Service",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNX_-_Midnight_Service.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nordius Dystancius - Eldredth",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/Nordius_Dystancius_-_Eldredth.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nordius Dystancius - Luxvinore",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/Nordius_Dystancius_-_Luxvinore.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "NULLPARS",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNX_-_NULLPARS.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Quetzalcoatl",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNX - Quetzalcoatl.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sirius",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNX - Sirius.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Xomu & ZxNX - Spiritworks",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/Xomu__ZxNX_-_Spiritworks.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ZxNX & Delaina - Hydra",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNX %26 Delaina - Hydra.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ZxNX & Flay! - Bakuhatsu",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNX %26 Flay! - Bakuhatsu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ZxNX & Hiryur - Encore",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNX %26 Hiryur - Encore.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ZxNX & Noguchii - Penumbra",
+      "preview": "https://assets.ppy.sh/artists/288/Penumbra/ZxNX %26 Noguchii - Penumbra.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ZxNX & Noguchii - Penumbra (ZxNX \"Umbra Witch\" Remix)",
+      "preview": "https://assets.ppy.sh/artists/288/Penumbra/ZxNX %26 Noguchii - Penumbra (ZxNX Umbra Witch Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ZxNX as \"Delaina\" - End Me",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNX as Delaina - End Me.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ZxNX as \"Delaina\" - SEINZHORV",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNX as Delaina - SEINZHORV.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ZxNX vs HyuN - Nemesis",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNX vs HyuN - Nemesis.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ZxNX+Delaina - False Fairy Tale",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNXDelaina_-_False_Fairy_Tale.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T23:08:19Z"
+  "updated_at": "2026-03-31T02:47:12Z"
 }

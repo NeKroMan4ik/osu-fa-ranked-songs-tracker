@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "* Crow Solace *",
+      "preview": "https://assets.ppy.sh/artists/161/Songs/m108 -  Crow Solace .mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -23,6 +24,7 @@
     },
     {
       "title": "Crescent Sakura",
+      "preview": "https://assets.ppy.sh/artists/161/Songs/m108 - Crescent Sakura.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -35,6 +37,7 @@
     },
     {
       "title": "Shinku no Senkou",
+      "preview": "https://assets.ppy.sh/artists/161/Songs/m108 - Shinku no Senkou.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -46,6 +49,7 @@
     },
     {
       "title": "Sunflower",
+      "preview": "https://assets.ppy.sh/artists/161/Songs/m108 - Sunflower.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -57,6 +61,7 @@
     },
     {
       "title": "XIII Charlotte",
+      "preview": "https://assets.ppy.sh/artists/161/Songs/m108 - XIII Charlotte.mp3",
       "ranked_modes": [
         "fruits",
         "mania"
@@ -72,34 +77,40 @@
     },
     {
       "title": "Electro Tectrium",
+      "preview": "https://assets.ppy.sh/artists/161/Songs/m108 - Electro Tectrium.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Le Jurden Du Reve (instrumental)",
+      "preview": "https://assets.ppy.sh/artists/161/Songs/m108 - Le Jurden Du Reve (instrumental).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lily Lisette",
+      "preview": "https://assets.ppy.sh/artists/161/Songs/m108 - Lily Lisette.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shining Stella",
+      "preview": "https://assets.ppy.sh/artists/161/Songs/m108 - Shining Stella.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "STARDUST CITY",
+      "preview": "https://assets.ppy.sh/artists/161/Songs/m108 - STARDUST CITY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Sky is The Limit",
+      "preview": "https://assets.ppy.sh/artists/161/Songs/m108 - The Sky is The Limit.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:16:21Z"
+  "updated_at": "2026-03-31T00:54:24Z"
 }

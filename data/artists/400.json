@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Sushi Blast",
+      "preview": "https://assets.ppy.sh/artists/400/Sushi Blast/Rocket Start - Sushi Blast.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,24 +16,28 @@
     },
     {
       "title": "Jolly Roger",
+      "preview": "https://assets.ppy.sh/artists/400/Jolly Roger/Rocket Start - Jolly Roger.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Knockout",
+      "preview": "https://assets.ppy.sh/artists/400/Knockout/Rocket Start - Knockout.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Supersoda MAX EVOLUTION",
+      "preview": "https://assets.ppy.sh/artists/400/Songs/Rocket Start - Supersoda MAX EVOLUTION.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "UFO",
+      "preview": "https://assets.ppy.sh/artists/400/UFO/Rocket Start - UFO.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:05:45Z"
+  "updated_at": "2026-03-31T01:44:12Z"
 }

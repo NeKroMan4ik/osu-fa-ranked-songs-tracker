@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Starfall",
+      "preview": "https://assets.ppy.sh/artists/227/Starfall/PTB10 - Starfall.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -19,39 +20,46 @@
     },
     {
       "title": "Aeronautica",
+      "preview": "https://assets.ppy.sh/artists/227/Aeronautica/PTB10 - Aeronautica.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cirrus",
+      "preview": "https://assets.ppy.sh/artists/227/Cirrus/PTB10 - Cirrus.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Interference",
+      "preview": "https://assets.ppy.sh/artists/227/Interference/PTB10 - Interference.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Interference: Episode II",
+      "preview": "https://assets.ppy.sh/artists/227/Interference/PTB10 - Interference Episode II.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Interference: Finale",
+      "preview": "https://assets.ppy.sh/artists/227/Interference/PTB10 - Interference Finale.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Oasis",
+      "preview": "https://assets.ppy.sh/artists/227/Oasis/PTB10 - Oasis.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Swift Transaction",
+      "preview": "https://assets.ppy.sh/artists/227/Swift Transaction/PTB10 - Swift Transaction.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:48:57Z"
+  "updated_at": "2026-03-31T01:27:13Z"
 }

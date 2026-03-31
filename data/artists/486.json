@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Hyacinth",
+      "preview": "https://assets.ppy.sh/artists/486/Songs/Dispel - Hyacinth.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Weiss Schnabel",
+      "preview": "https://assets.ppy.sh/artists/486/Songs/Dispel - Weiss Schnabel.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -26,49 +28,58 @@
     },
     {
       "title": "Definitive Remote",
+      "preview": "https://assets.ppy.sh/artists/486/Songs/Dispel - Definitive Remote.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Devotion",
+      "preview": "https://assets.ppy.sh/artists/486/Songs/Dispel - Devotion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dispel vs. GoGoN- - Vindictive",
+      "preview": "https://assets.ppy.sh/artists/486/Vindicitve/Dispel_vs._GoGoN-_-_Vindictive.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dispel vs. Rakakun- - Funkotism",
+      "preview": "https://assets.ppy.sh/artists/486/Funkotism/Dispel vs. Rakakun- - Funkotism.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "KURORYU vs. Dispel - Miserea",
+      "preview": "https://assets.ppy.sh/artists/486/Miserea/KURORYU vs. Dispel - Miserea.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lilium Lacrimae (feat. Mariela Riona)",
+      "preview": "https://assets.ppy.sh/artists/486/Lilium Lacrimae/Dispel - Lilium Lacrimae (feat. Mariela Riona).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ming to the Gat",
+      "preview": "https://assets.ppy.sh/artists/486/Songs/Dispel - Ming to the Gat.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Monochrome Bouquet",
+      "preview": "https://assets.ppy.sh/artists/486/Songs/Dispel - Monochrome Bouquet.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rakakun- & Dispel - Shitsusei (feat. Altair Aquila)",
+      "preview": "https://assets.ppy.sh/artists/486/Shitsusei/Rakakun- %26 Dispel - Shitsusei (feat. Altair Aquila).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:15:52Z"
+  "updated_at": "2026-03-30T23:53:40Z"
 }

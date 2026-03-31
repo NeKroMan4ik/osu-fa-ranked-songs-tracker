@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Against the Grain (feat. Veela)",
+      "preview": "https://assets.ppy.sh/artists/270/Against The Grain/Rameses B - Against the Grain (feat. Veela).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -16,6 +17,7 @@
     },
     {
       "title": "Dream Catcher (feat. Charlotte Haining)",
+      "preview": "https://assets.ppy.sh/artists/270/Dream Catcher/Rameses B - Dream Catcher (feat. Charlotte Haining).mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -31,6 +33,7 @@
     },
     {
       "title": "Escape",
+      "preview": "https://assets.ppy.sh/artists/270/Escape/Rameses B - Escape.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -42,6 +45,7 @@
     },
     {
       "title": "Ivy",
+      "preview": "https://assets.ppy.sh/artists/270/Eden/Rameses B - Ivy.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -53,6 +57,7 @@
     },
     {
       "title": "Mountains (feat. Veela)",
+      "preview": "https://assets.ppy.sh/artists/270/Mountains/Rameses B - Mountains (feat. Veela).mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -69,6 +74,7 @@
     },
     {
       "title": "Neon Rainbow (feat. Anna Yvette)",
+      "preview": "https://assets.ppy.sh/artists/270/Neon Rainbow/Rameses B - Neon Rainbow (feat. Anna Yvette).mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -80,6 +86,7 @@
     },
     {
       "title": "Samurai",
+      "preview": "https://assets.ppy.sh/artists/270/Samurai/Rameses B - Samurai.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -91,6 +98,7 @@
     },
     {
       "title": "Timeless (feat. Veela)",
+      "preview": "https://assets.ppy.sh/artists/270/Timeless/Rameses B - Timeless (feat. Veela).mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -102,6 +110,7 @@
     },
     {
       "title": "Transcend",
+      "preview": "https://assets.ppy.sh/artists/270/Songs/Rameses B - Transcend.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -113,6 +122,7 @@
     },
     {
       "title": "We Are One (feat. Veela)",
+      "preview": "https://assets.ppy.sh/artists/270/Songs/Rameses B - We Are One (feat. Veela).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -124,6 +134,7 @@
     },
     {
       "title": "We Love",
+      "preview": "https://assets.ppy.sh/artists/270/We Love/Rameses B - We Love.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -136,69 +147,82 @@
     },
     {
       "title": "Darkest Place (feat. Aloma Steele)",
+      "preview": "https://assets.ppy.sh/artists/270/Darkest Place/Rameses B - Darkest Place (feat. Aloma Steele).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eden",
+      "preview": "https://assets.ppy.sh/artists/270/Eden/Rameses B - Eden.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Emily Underhill - Lost In Me (Rameses B Remix)",
+      "preview": "https://assets.ppy.sh/artists/270/Open Your Eyes EP/Emily Underhill - Lost In Me (Rameses B Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Helix",
+      "preview": "https://assets.ppy.sh/artists/270/Eden/Rameses B - Helix.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Memoirs (VIP)",
+      "preview": "https://assets.ppy.sh/artists/270/Songs/Rameses B - Memoirs (VIP).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Once Upon A Time",
+      "preview": "https://assets.ppy.sh/artists/270/Songs/Rameses B - Once Upon A Time.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Open Your Eyes (feat. Rachel Hirons)",
+      "preview": "https://assets.ppy.sh/artists/270/Open Your Eyes EP/Rameses B - Open Your Eyes (feat. Rachel Hirons).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rameses B & Veela - One Day",
+      "preview": "https://assets.ppy.sh/artists/270/Songs/Rameses B %26 Veela - One Day.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Stranded",
+      "preview": "https://assets.ppy.sh/artists/270/Songs/Rameses B - Stranded.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sweet Surrender (feat. Charlotte Haining)",
+      "preview": "https://assets.ppy.sh/artists/270/Songs/Rameses B - Sweet Surrender (feat. Charlotte Haining).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Transformations (feat. Laura Brehm)",
+      "preview": "https://assets.ppy.sh/artists/270/Transformations/Rameses B - Transformations (feat. Laura Brehm).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Twilight Zone (feat. Laura Brehm)",
+      "preview": "https://assets.ppy.sh/artists/270/Songs/Rameses B - Twilight Zone (feat. Laura Brehm).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "When You Dream",
+      "preview": "https://assets.ppy.sh/artists/270/When You Dream/Rameses B - When You Dream.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:50:54Z"
+  "updated_at": "2026-03-31T01:29:16Z"
 }

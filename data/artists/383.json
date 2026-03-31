@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "A.O.E::area_of_effect",
+      "preview": "https://assets.ppy.sh/artists/383/Songs/Kou_-_A.O.Earea_of_effect.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -20,6 +21,7 @@
     },
     {
       "title": "Ankh Natron Collider",
+      "preview": "https://assets.ppy.sh/artists/383/Songs/Kou_-_Ankh_Natron_Collider.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -31,6 +33,7 @@
     },
     {
       "title": "Frost Walker",
+      "preview": "https://assets.ppy.sh/artists/383/Songs/Kou_-_Frost_Walker.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -51,6 +54,7 @@
     },
     {
       "title": "High Speed Particle Collider-beam Accelerator",
+      "preview": "https://assets.ppy.sh/artists/383/Songs/Kou! - High Speed Particle Collider-beam Accelerator.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -76,6 +80,7 @@
     },
     {
       "title": "Sanzui",
+      "preview": "https://assets.ppy.sh/artists/383/Songs/Kou! - Sanzui.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -87,6 +92,7 @@
     },
     {
       "title": "Shigaisen*UV",
+      "preview": "https://assets.ppy.sh/artists/383/Songs/Kou! - ShigaisenUV.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -98,6 +104,7 @@
     },
     {
       "title": "sub/zerO",
+      "preview": "https://assets.ppy.sh/artists/383/Songs/Kou! - subzerO.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -119,6 +126,7 @@
     },
     {
       "title": "TERABYTE (\"XETTABYTE\" Long Version)",
+      "preview": "https://assets.ppy.sh/artists/383/Songs/Kou! - TERABYTE (XETTABYTE Long Version).mp3",
       "ranked_modes": [
         "fruits",
         "mania"
@@ -134,6 +142,7 @@
     },
     {
       "title": "Youkaikakushi Nijyusekai",
+      "preview": "https://assets.ppy.sh/artists/383/Songs/Kou! - Youkaikakushi Nijyusekai.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -152,5 +161,5 @@
       }
     }
   ],
-  "updated_at": "2026-03-29T21:01:16Z"
+  "updated_at": "2026-03-31T00:39:13Z"
 }

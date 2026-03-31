@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Craft and the Creator",
+      "preview": "https://assets.ppy.sh/artists/47/previews/2604.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -21,6 +22,7 @@
     },
     {
       "title": "Guardian",
+      "preview": "https://assets.ppy.sh/artists/47/previews/2607.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -36,6 +38,7 @@
     },
     {
       "title": "Hunger",
+      "preview": "https://assets.ppy.sh/artists/47/previews/2608.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -47,6 +50,7 @@
     },
     {
       "title": "Lean Into the Wind",
+      "preview": "https://assets.ppy.sh/artists/47/previews/2609.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -62,6 +66,7 @@
     },
     {
       "title": "Oak",
+      "preview": "https://assets.ppy.sh/artists/47/previews/1216.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -77,6 +82,7 @@
     },
     {
       "title": "One Chosen by the Gods",
+      "preview": "https://assets.ppy.sh/artists/47/previews/1218.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -88,6 +94,7 @@
     },
     {
       "title": "One Hollow Word",
+      "preview": "https://assets.ppy.sh/artists/47/previews/2610.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -100,6 +107,7 @@
     },
     {
       "title": "Ravensong",
+      "preview": "https://assets.ppy.sh/artists/47/previews/1219.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -111,6 +119,7 @@
     },
     {
       "title": "Redneck Vikings from Hell",
+      "preview": "https://assets.ppy.sh/artists/47/previews/2611.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -126,6 +135,7 @@
     },
     {
       "title": "She's Back",
+      "preview": "https://assets.ppy.sh/artists/47/previews/2612.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -137,6 +147,7 @@
     },
     {
       "title": "Swampwitch",
+      "preview": "https://assets.ppy.sh/artists/47/previews/1220.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -148,6 +159,7 @@
     },
     {
       "title": "Tarot",
+      "preview": "https://assets.ppy.sh/artists/47/previews/1205.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -163,6 +175,7 @@
     },
     {
       "title": "The Devil",
+      "preview": "https://assets.ppy.sh/artists/47/previews/1208.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -178,6 +191,7 @@
     },
     {
       "title": "The Emperor",
+      "preview": "https://assets.ppy.sh/artists/47/previews/1209.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -189,6 +203,7 @@
     },
     {
       "title": "The Fool",
+      "preview": "https://assets.ppy.sh/artists/47/previews/1210.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -200,6 +215,7 @@
     },
     {
       "title": "The Magician",
+      "preview": "https://assets.ppy.sh/artists/47/previews/1222.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -215,6 +231,7 @@
     },
     {
       "title": "The Sun, The Moon, The Star",
+      "preview": "https://assets.ppy.sh/artists/47/previews/1211.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -235,6 +252,7 @@
     },
     {
       "title": "The Tower",
+      "preview": "https://assets.ppy.sh/artists/47/previews/1212.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -246,6 +264,7 @@
     },
     {
       "title": "Winter's Grasp",
+      "preview": "https://assets.ppy.sh/artists/47/previews/1221.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -257,69 +276,82 @@
     },
     {
       "title": "Aether Realm",
+      "preview": "https://assets.ppy.sh/artists/47/previews/1213.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cycle",
+      "preview": "https://assets.ppy.sh/artists/47/previews/2605.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Death",
+      "preview": "https://assets.ppy.sh/artists/47/previews/1202.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Goodbye",
+      "preview": "https://assets.ppy.sh/artists/47/previews/2606.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hourglass",
+      "preview": "https://assets.ppy.sh/artists/47/previews/1214.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Journey of Discovery",
+      "preview": "https://assets.ppy.sh/artists/47/previews/1215.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "King of Cups",
+      "preview": "https://assets.ppy.sh/artists/47/previews/1203.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Odin Will Provide",
+      "preview": "https://assets.ppy.sh/artists/47/previews/1217.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Slave to the Riff",
+      "preview": "https://assets.ppy.sh/artists/47/previews/2613.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Strength",
+      "preview": "https://assets.ppy.sh/artists/47/previews/1204.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Temperance",
+      "preview": "https://assets.ppy.sh/artists/47/previews/1206.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Chariot",
+      "preview": "https://assets.ppy.sh/artists/47/previews/1207.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "TMHC",
+      "preview": "https://assets.ppy.sh/artists/47/previews/2614.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T23:09:03Z"
+  "updated_at": "2026-03-31T02:47:56Z"
 }

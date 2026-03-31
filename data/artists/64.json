@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Ascent",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1800.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Beastmode",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1781.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Break Free",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1791.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Earthquake",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1782.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -48,6 +52,7 @@
     },
     {
       "title": "Everytime I Look into the Sky",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1788.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -59,6 +64,7 @@
     },
     {
       "title": "Fireflies",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1779.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -70,6 +76,7 @@
     },
     {
       "title": "Highscore",
+      "preview": "https://assets.ppy.sh/artists/55/previews/1571.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -89,6 +96,7 @@
     },
     {
       "title": "Immortal Flame (feat. Anna Yvette)",
+      "preview": "https://assets.ppy.sh/artists/55/previews/1599.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -110,6 +118,7 @@
     },
     {
       "title": "Lion's Den",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1794.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -121,6 +130,7 @@
     },
     {
       "title": "On My Way",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1808.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -132,6 +142,7 @@
     },
     {
       "title": "Party Time",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1801.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -147,6 +158,7 @@
     },
     {
       "title": "Rally The Troops",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1795.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -158,6 +170,7 @@
     },
     {
       "title": "Rattlesnake",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1797.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -169,6 +182,7 @@
     },
     {
       "title": "Senses Overload",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1809.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -180,6 +194,7 @@
     },
     {
       "title": "Space Invaders",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1807.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -203,6 +218,7 @@
     },
     {
       "title": "State of Mind",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1802.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -215,6 +231,7 @@
     },
     {
       "title": "Surface Tension",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1796.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -226,6 +243,7 @@
     },
     {
       "title": "Unstoppable",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1793.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -237,189 +255,226 @@
     },
     {
       "title": "A New Dawn",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1799.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Animal",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1768.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Are You Ready",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1769.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Aspiration",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1780.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Believe",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1790.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cecil Pavlova",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1770.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Crushing on You",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1804.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dissipate",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1812.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Elevate",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1771.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Energize",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1772.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Evolution",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1773.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Firepower",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1774.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Flight",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1813.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Get Down",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1783.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Goin' In",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1775.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hold On",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1792.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hot Fizz",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1776.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Inception",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1784.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Make Me",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1798.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mayhem",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1811.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Monster",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1806.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Never Give Up",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1777.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Night Drive",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1785.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Party Like It's 1923",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1810.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Pirate Afterparty",
+      "preview": "https://assets.ppy.sh/artists/64/Songs/Teminite - Pirate Afterparty.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Plunder",
+      "preview": "https://assets.ppy.sh/artists/64/Songs/Teminite - Plunder.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Raise The Black Flag",
+      "preview": "https://assets.ppy.sh/artists/64/Songs/Teminite - Raise The Black Flag.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Reborn",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1814.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rock It",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1815.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sail Away",
+      "preview": "https://assets.ppy.sh/artists/64/Songs/Teminite - Sail Away.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shockwave",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1778.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Spider",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1786.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Standing Tall",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1805.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Step into the Light",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1789.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Stormbringer",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1787.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Teminite & Jonah Hitchens - Sesh The Seven Seas",
+      "preview": "https://assets.ppy.sh/artists/64/Songs/Teminite %26 Jonah Hitchens - Sesh The Seven Seas.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Uprising",
+      "preview": "https://assets.ppy.sh/artists/64/previews/1803.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:37:43Z"
+  "updated_at": "2026-03-31T02:16:18Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Anemoi",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1941.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -23,6 +24,7 @@
     },
     {
       "title": "ARCADE_MEMORIES",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1940.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -34,6 +36,7 @@
     },
     {
       "title": "eastward",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1961.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -50,6 +53,7 @@
     },
     {
       "title": "EOS",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1943.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -77,6 +81,7 @@
     },
     {
       "title": "Fading Star",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1944.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -89,6 +94,7 @@
     },
     {
       "title": "Lakeside",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1946.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -104,6 +110,7 @@
     },
     {
       "title": "Luvin'Epoch",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1966.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -115,6 +122,7 @@
     },
     {
       "title": "Neon Tetra",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1967.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -126,6 +134,7 @@
     },
     {
       "title": "nightfall",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1962.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -150,6 +159,7 @@
     },
     {
       "title": "Oriens",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1948.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -177,6 +187,7 @@
     },
     {
       "title": "Paved Garden",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1949.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -198,6 +209,7 @@
     },
     {
       "title": "Shadow Castle",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1950.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -213,6 +225,7 @@
     },
     {
       "title": "Silver Eclipse",
+      "preview": "https://assets.ppy.sh/artists/72/Songs/ginkiha_-_Silver_Eclipse.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -224,6 +237,7 @@
     },
     {
       "title": "Star Chaser!",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1952.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -235,6 +249,7 @@
     },
     {
       "title": "VALKYRIE",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1955.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -246,6 +261,7 @@
     },
     {
       "title": "Will to live",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1958.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -257,6 +273,7 @@
     },
     {
       "title": "Winter Night Highway",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1959.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -268,64 +285,76 @@
     },
     {
       "title": "Dreaming Express",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1942.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Falling From The Sky",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1945.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ginkiha, Shiki - Once in a life",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1947.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hare",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1964.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Haruka",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1965.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "nora2r vs. ginkiha - WINGS",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1957.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "scenes",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1963.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sky with you",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1951.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Summer Triangle",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1953.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Under the Glacier",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1954.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Vienanmeri",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1956.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yokohane",
+      "preview": "https://assets.ppy.sh/artists/72/previews/1960.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:33:22Z"
+  "updated_at": "2026-03-31T00:11:15Z"
 }

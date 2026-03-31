@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Through The Hollow Raven's Eyes",
+      "preview": "https://assets.ppy.sh/artists/237/The Winter Way/Atavistia - Through The Hollow Raven%27s Eyes.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -19,29 +20,34 @@
     },
     {
       "title": "Beyond The Meadows Of Fire",
+      "preview": "https://assets.ppy.sh/artists/237/One Within The Sun/Atavistia - Beyond The Meadows Of Fire.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "One Within The Sun",
+      "preview": "https://assets.ppy.sh/artists/237/One Within The Sun/Atavistia - One Within The Sun.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Atavistic Forest",
+      "preview": "https://assets.ppy.sh/artists/237/One Within The Sun/Atavistia - The Atavistic Forest.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Forbidden One",
+      "preview": "https://assets.ppy.sh/artists/237/The Winter Way/Atavistia - The Forbidden One.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Winter Way",
+      "preview": "https://assets.ppy.sh/artists/237/The Winter Way/Atavistia - The Winter Way.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:47:09Z"
+  "updated_at": "2026-03-30T23:25:08Z"
 }

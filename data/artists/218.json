@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Divinity",
+      "preview": "https://assets.ppy.sh/artists/218/Songs/Yooh - Divinity.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Eternity",
+      "preview": "https://assets.ppy.sh/artists/218/Songs/Yooh_-_Eternity.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -36,6 +38,7 @@
     },
     {
       "title": "Heracles",
+      "preview": "https://assets.ppy.sh/artists/218/Songs/Yooh - Heracles.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -51,6 +54,7 @@
     },
     {
       "title": "Ice Angel",
+      "preview": "https://assets.ppy.sh/artists/218/Yoohsics -REVIVAL-/Yooh - Ice Angel.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -76,6 +80,7 @@
     },
     {
       "title": "LiFE Garden (Extended Mix)",
+      "preview": "https://assets.ppy.sh/artists/218/Yoohsics -REVIVAL-/Yooh_-_LiFE_Garden_Extended_Mix.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -91,6 +96,7 @@
     },
     {
       "title": "RPG",
+      "preview": "https://assets.ppy.sh/artists/218/Songs/Yooh_-_RPG.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -119,6 +125,7 @@
     },
     {
       "title": "salvation",
+      "preview": "https://assets.ppy.sh/artists/218/Songs/Yooh - salvation.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -143,6 +150,7 @@
     },
     {
       "title": "Shigure",
+      "preview": "https://assets.ppy.sh/artists/218/Songs/Yooh - Shigure.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -159,119 +167,142 @@
     },
     {
       "title": "After The Dawn",
+      "preview": "https://assets.ppy.sh/artists/218/Destopia/Yooh - After The Dawn.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Astrum",
+      "preview": "https://assets.ppy.sh/artists/218/Songs/Yooh - Astrum.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Backwards",
+      "preview": "https://assets.ppy.sh/artists/218/Songs/Yooh - Backwards.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BEAT BURST BEAT",
+      "preview": "https://assets.ppy.sh/artists/218/Yoohsics -REVIVAL-/Yooh - BEAT BURST BEAT.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Capella",
+      "preview": "https://assets.ppy.sh/artists/218/Yoohsics -REVIVAL-/Yooh - Capella.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Combat High",
+      "preview": "https://assets.ppy.sh/artists/218/Destopia/Yooh - Combat High.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Don't Be Afraid...",
+      "preview": "https://assets.ppy.sh/artists/218/New Vision, New Life/Yooh - Don%27t Be Afraid....mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Eubiquitous",
+      "preview": "https://assets.ppy.sh/artists/218/Eubiquitous/Yooh - Eubiquitous.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Flashback",
+      "preview": "https://assets.ppy.sh/artists/218/Songs/Yooh - Flashback.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hanzow",
+      "preview": "https://assets.ppy.sh/artists/218/Yoohsics -REVIVAL-/Yooh - Hanzow.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hold Your Fire",
+      "preview": "https://assets.ppy.sh/artists/218/Lethal Weapon/Yooh - Hold Your Fire.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Knock The Gate",
+      "preview": "https://assets.ppy.sh/artists/218/New Vision, New Life/Yooh - Knock The Gate.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Las ta Fear feat. akaandsia",
+      "preview": "https://assets.ppy.sh/artists/218/Eubiquitous/Yooh - Las ta Fear feat. akaandsia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "NEO TOKYO",
+      "preview": "https://assets.ppy.sh/artists/218/New Vision, New Life/Yooh - NEO TOKYO.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Princess Sweetness",
+      "preview": "https://assets.ppy.sh/artists/218/Eutopia/Yooh - Princess Sweetness.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "RED Seeker (siromaru Remix)",
+      "preview": "https://assets.ppy.sh/artists/218/New Vision, New Life/Yooh - RED Seeker (siromaru Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "salvation REACT",
+      "preview": "https://assets.ppy.sh/artists/218/Eubiquitous/Yooh - salvation REACT.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SEDNA",
+      "preview": "https://assets.ppy.sh/artists/218/Euniverse/Yooh - SEDNA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SOLOMON",
+      "preview": "https://assets.ppy.sh/artists/218/New Vision, New Life/Yooh - SOLOMON.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Summer Drops",
+      "preview": "https://assets.ppy.sh/artists/218/V.U.R.S.T/Yooh - Summer Drops.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Unfair Damnation",
+      "preview": "https://assets.ppy.sh/artists/218/Lethal Weapon/Yooh - Unfair Damnation.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Uroboros",
+      "preview": "https://assets.ppy.sh/artists/218/Destopia/Yooh - Uroboros.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yooh vs. siromaru - Tetragrammaton Labyrinth",
+      "preview": "https://assets.ppy.sh/artists/218/Eutopia/Yooh vs. siromaru - Tetragrammaton Labyrinth.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T23:03:13Z"
+  "updated_at": "2026-03-31T02:42:02Z"
 }

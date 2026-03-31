@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "=/=Virtual Futural",
+      "preview": "https://assets.ppy.sh/artists/220/Songs/Marmalade_butcher_-_Virtual_Futural.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Amanita",
+      "preview": "https://assets.ppy.sh/artists/220/Nullum Sonum/Marmalade butcher - Amanita.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -35,6 +37,7 @@
     },
     {
       "title": "CuttingEdgeInsaneArtifact",
+      "preview": "https://assets.ppy.sh/artists/220/Songs/Marmalade_butcher_-_CuttingEdgeInsaneArtifact.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -42,7 +45,8 @@
       "beatmapset_ids_by_mode": {
         "mania": [
           2321277,
-          2416532
+          2416532,
+          2522815
         ],
         "osu": [
           2409561
@@ -51,6 +55,7 @@
     },
     {
       "title": "Floccinaucinihilipilification",
+      "preview": "https://assets.ppy.sh/artists/220/Floccinaucinihilipilification/Marmalade butcher - Floccinaucinihilipilification.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -66,6 +71,7 @@
     },
     {
       "title": "Fukasetsu Fukasetsuten Fukanou Sekai",
+      "preview": "https://assets.ppy.sh/artists/220/Fukasetsu Fukasetsuten Fukanou Sekai/Marmalade butcher - Fukasetsu Fukasetsuten Fukanou Sekai.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -77,6 +83,7 @@
     },
     {
       "title": "Immortality Math Club",
+      "preview": "https://assets.ppy.sh/artists/220/Uteruchesis/Marmalade butcher - Immortality Math Club.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -92,6 +99,7 @@
     },
     {
       "title": "Mirage Age",
+      "preview": "https://assets.ppy.sh/artists/220/Mirage Age/Marmalade butcher - Mirage Age.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -107,6 +115,7 @@
     },
     {
       "title": "NaRKiSSuS",
+      "preview": "https://assets.ppy.sh/artists/220/Floccinaucinihilipilification/Marmalade butcher - NaRKiSSuS.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -118,6 +127,7 @@
     },
     {
       "title": "Noxious",
+      "preview": "https://assets.ppy.sh/artists/220/Songs/Marmalade butcher - Noxious.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -142,6 +152,7 @@
     },
     {
       "title": "Open Scar Unending",
+      "preview": "https://assets.ppy.sh/artists/220/Songs/Marmalade_butcher_-_Open_Scar_Unending.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -153,6 +164,7 @@
     },
     {
       "title": "SUTEGORO",
+      "preview": "https://assets.ppy.sh/artists/220/Songs/Marmalade_butcher_-_SUTEGORO.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -164,6 +176,7 @@
     },
     {
       "title": "Ushinahareru Runazuki",
+      "preview": "https://assets.ppy.sh/artists/220/Uteruchesis/Marmalade butcher - Ushinahareru Runazuki.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -175,6 +188,7 @@
     },
     {
       "title": "Y/M/K/M",
+      "preview": "https://assets.ppy.sh/artists/220/Uteruchesis/Marmalade butcher - YMKM.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -187,79 +201,94 @@
     },
     {
       "title": "-273.15C",
+      "preview": "https://assets.ppy.sh/artists/220/Fukasetsu Fukasetsuten Fukanou Sekai/Marmalade butcher - -273.15C.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Akerue",
+      "preview": "https://assets.ppy.sh/artists/220/Uteruchesis/Marmalade butcher - Akerue.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Anima",
+      "preview": "https://assets.ppy.sh/artists/220/Uteruchesis/Marmalade butcher - Anima.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Chi-Se",
+      "preview": "https://assets.ppy.sh/artists/220/Songs/Marmalade butcher - Chi-Se.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cinnamon Chocolat Cakes",
+      "preview": "https://assets.ppy.sh/artists/220/Fukasetsu Fukasetsuten Fukanou Sekai/Marmalade butcher - Cinnamon Chocolat Cakes.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cladocera",
+      "preview": "https://assets.ppy.sh/artists/220/Cladocera/Marmalade butcher - Cladocera.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Drop",
+      "preview": "https://assets.ppy.sh/artists/220/Waltz For Chroma/Marmalade butcher - Drop.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "In lacrimis",
+      "preview": "https://assets.ppy.sh/artists/220/Uteruchesis/Marmalade butcher - In lacrimis.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kouka Suru Toshi",
+      "preview": "https://assets.ppy.sh/artists/220/Songs/Marmalade butcher - Kouka Suru Toshi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Monochroma",
+      "preview": "https://assets.ppy.sh/artists/220/Fukasetsu Fukasetsuten Fukanou Sekai/Marmalade butcher - Monochroma.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "NoisiA",
+      "preview": "https://assets.ppy.sh/artists/220/VisioN - NoisiA/Marmalade butcher - NoisiA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SIX BILLION MNSN",
+      "preview": "https://assets.ppy.sh/artists/220/Songs/Marmalade_butcher_-_SIX_BILLION_MNSN.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SYAKUNETSU",
+      "preview": "https://assets.ppy.sh/artists/220/SYAKUNETSU/Marmalade butcher - SYAKUNETSU.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "VisioN",
+      "preview": "https://assets.ppy.sh/artists/220/VisioN - NoisiA/Marmalade butcher - VisioN.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Waltz for Chroma",
+      "preview": "https://assets.ppy.sh/artists/220/Waltz For Chroma/Marmalade butcher - Waltz for Chroma.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:18:50Z"
+  "updated_at": "2026-03-31T00:56:55Z"
 }

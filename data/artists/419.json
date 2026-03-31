@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "i can't run anymore",
+      "preview": "https://assets.ppy.sh/artists/419/for you/633397 - i can_t run anymore.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "nothing can hurt you now. it's okay, don't worry",
+      "preview": "https://assets.ppy.sh/artists/419/rest/633397 - nothing can hurt you now. it_s okay%2C don_t worry.mp3",
       "ranked_modes": [
         "mania",
         "taiko"
@@ -30,6 +32,7 @@
     },
     {
       "title": "run home",
+      "preview": "https://assets.ppy.sh/artists/419/what_re you so afraid of/633397 - run home.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -49,6 +52,7 @@
     },
     {
       "title": "this evil was warranted",
+      "preview": "https://assets.ppy.sh/artists/419/life changer 2/633397 - this evil was warranted.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -60,74 +64,88 @@
     },
     {
       "title": "111218",
+      "preview": "https://assets.ppy.sh/artists/419/life changer/633397 - 111218.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "1552",
+      "preview": "https://assets.ppy.sh/artists/419/forest/633397 - 1552.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "and yet despite all you did, i'm at peace",
+      "preview": "https://assets.ppy.sh/artists/419/life changer 2/633397 - and yet despite all you did%2C i_m at peace.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ash",
+      "preview": "https://assets.ppy.sh/artists/419/life changer/633397 - ash.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "forgetting was my only option",
+      "preview": "https://assets.ppy.sh/artists/419/life changer/633397 - forgetting was my only option.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "i don't know why i'm here. i shouldn't be",
+      "preview": "https://assets.ppy.sh/artists/419/life changer 2/633397 - i don_t know why i_m here. i shouldn_t be.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "i will protect you",
+      "preview": "https://assets.ppy.sh/artists/419/life changer 2/633397 - i will protect you.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "in a world without time, would you still be there for me?",
+      "preview": "https://assets.ppy.sh/artists/419/rest/633397 - in a world without time%2C would you still be there for me.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "it's quiet, and i don't know what to do",
+      "preview": "https://assets.ppy.sh/artists/419/life changer 2/633397 - it_s quiet%2C and i don_t know what to do.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "let me go",
+      "preview": "https://assets.ppy.sh/artists/419/life changer/633397 - let me go.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "run away with me to a land beyond the sea",
+      "preview": "https://assets.ppy.sh/artists/419/rest/633397 - run away with me to a land beyond the sea.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "the beautiful sound of anything (633397 remix)",
+      "preview": "https://assets.ppy.sh/artists/419/life changer 2/633397 - the beautiful sound of anything (633397 remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "things will never be the same, for better or for worse",
+      "preview": "https://assets.ppy.sh/artists/419/life changer 2/633397 - things will never be the same%2C for better or for worse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "you showed up in my dreams last night",
+      "preview": "https://assets.ppy.sh/artists/419/life changer 2/633397 - you showed up in my dreams last night.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:27:49Z"
+  "updated_at": "2026-03-30T23:05:51Z"
 }

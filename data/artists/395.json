@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "perthed again (yambabom remix)",
+      "preview": "https://assets.ppy.sh/artists/395/Songs/Hitori Tori - perthed again (yambabom remix).mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -19,29 +20,34 @@
     },
     {
       "title": "Cold as Fuck",
+      "preview": "https://assets.ppy.sh/artists/395/Songs/Hitori Tori - Cold as Fuck.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "goreshit - Ain't Ya Heard? - Hitori Tori Remix",
+      "preview": "https://assets.ppy.sh/artists/395/Songs/goreshit - Ain_t Ya Heard - Hitori Tori Remix.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Keairn",
+      "preview": "https://assets.ppy.sh/artists/395/Songs/Hitori Tori - Keairn.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Project Red Light",
+      "preview": "https://assets.ppy.sh/artists/395/Songs/Hitori Tori - Project Red Light.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Unskweeten",
+      "preview": "https://assets.ppy.sh/artists/395/Songs/Hitori Tori - Unskweeten.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:41:21Z"
+  "updated_at": "2026-03-31T00:19:15Z"
 }

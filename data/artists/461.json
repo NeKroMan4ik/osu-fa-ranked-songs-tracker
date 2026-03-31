@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Statues",
+      "preview": "https://assets.ppy.sh/artists/461/spirals/SEVEN LIVES - Statues.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,79 +16,94 @@
     },
     {
       "title": "Boundary Breaker",
+      "preview": "https://assets.ppy.sh/artists/461/Boundary Breaker/SEVEN LIVES - Boundary Breaker.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "CA$H REGI$TER",
+      "preview": "https://assets.ppy.sh/artists/461/CA%24H REGI%24TER/SEVEN LIVES - CA%24H REGI%24TER.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "CORRUPTLINE",
+      "preview": "https://assets.ppy.sh/artists/461/undefine.me/SEVEN LIVES - CORRUPTLINE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DEPRAVITY",
+      "preview": "https://assets.ppy.sh/artists/461/undefine.me/SEVEN LIVES - DEPRAVITY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Digitalis",
+      "preview": "https://assets.ppy.sh/artists/461/spirals/SEVEN LIVES - Digitalis.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "DREAMSTATE",
+      "preview": "https://assets.ppy.sh/artists/461/DREAMSTATE/SEVEN LIVES - DREAMSTATE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "i can't promise you a world of joy (but i can try)",
+      "preview": "https://assets.ppy.sh/artists/461/undefine.me/SEVEN LIVES - i can%27t promise you a world of joy (but i can try).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "If I Had A Second Chance",
+      "preview": "https://assets.ppy.sh/artists/461/If I Had A Second Chance/SEVEN LIVES - If I Had A Second Chance.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Light Piercer",
+      "preview": "https://assets.ppy.sh/artists/461/Light Piercer/SEVEN LIVES - Light Piercer.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "lovely little lies",
+      "preview": "https://assets.ppy.sh/artists/461/undefine.me/SEVEN LIVES - lovely little lies.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PSYCHOPATH'S PARTY",
+      "preview": "https://assets.ppy.sh/artists/461/undefine.me/SEVEN LIVES - PSYCHOPATH%27S PARTY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Starcrush",
+      "preview": "https://assets.ppy.sh/artists/461/spirals/SEVEN LIVES - Starcrush.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "SWITCH-ME-UP",
+      "preview": "https://assets.ppy.sh/artists/461/undefine.me/SEVEN LIVES - SWITCH-ME-UP.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Ultimate Genre Showdown",
+      "preview": "https://assets.ppy.sh/artists/461/The Ultimate Genre Showdown/SEVEN LIVES - The Ultimate Genre Showdown.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "THUNDERCLAP",
+      "preview": "https://assets.ppy.sh/artists/461/undefine.me/SEVEN LIVES - THUNDERCLAP.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:16:42Z"
+  "updated_at": "2026-03-31T01:55:10Z"
 }

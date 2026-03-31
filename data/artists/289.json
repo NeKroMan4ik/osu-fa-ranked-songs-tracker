@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Apotosis",
+      "preview": "https://assets.ppy.sh/artists/289/Songs/Hamu - Apotosis.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Innocent Letter",
+      "preview": "https://assets.ppy.sh/artists/289/Songs/Hamu - Innocent Letter.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -30,6 +32,7 @@
     },
     {
       "title": "Koi no Dilemma",
+      "preview": "https://assets.ppy.sh/artists/289/Songs/Hamu - Koi no Dilemma.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -41,6 +44,7 @@
     },
     {
       "title": "Lemrina",
+      "preview": "https://assets.ppy.sh/artists/289/Songs/Hamu - Lemrina.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -56,6 +60,7 @@
     },
     {
       "title": "Secret Clover",
+      "preview": "https://assets.ppy.sh/artists/289/Songs/Hamu - Secret Clover.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -71,6 +76,7 @@
     },
     {
       "title": "Sora no Koe, Yousei no Shirabe",
+      "preview": "https://assets.ppy.sh/artists/289/Songs/Hamu - Sora no Koe%2C Yousei no Shirabe.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -82,6 +88,7 @@
     },
     {
       "title": "Yumemigokochi",
+      "preview": "https://assets.ppy.sh/artists/289/Songs/Hamu - Yumemi Gokochi.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -101,54 +108,64 @@
     },
     {
       "title": "Cattleya",
+      "preview": "https://assets.ppy.sh/artists/289/Songs/Hamu - Cattleya.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hajimari no Asa",
+      "preview": "https://assets.ppy.sh/artists/289/Songs/Hamu - Hajimari no Asa.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hamu feat. Natsuki Karin - Sunao ni Naritai (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/289/Songs/Hamu_feat._Natsuki_Karin_-_Sunao_ni_Naritai_osu_edit.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kaori no Yakuri Switch!",
+      "preview": "https://assets.ppy.sh/artists/289/Songs/Hamu - Kaori no Yakuri Switch!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kimiiro Palette",
+      "preview": "https://assets.ppy.sh/artists/289/Songs/Hamu - Kimiiro Palette.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lupinus",
+      "preview": "https://assets.ppy.sh/artists/289/Songs/Hamu - Lupinus.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Many Rainy Days",
+      "preview": "https://assets.ppy.sh/artists/289/Songs/Hamu - Many Rainy Days.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nemurenu Ukiyo No Tsukiakari",
+      "preview": "https://assets.ppy.sh/artists/289/Songs/Hamu - Nemurenu Ukiyo No Tsukiakari.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nidone Holiday",
+      "preview": "https://assets.ppy.sh/artists/289/Songs/Hamu - Nidone Holiday.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tantan Awa",
+      "preview": "https://assets.ppy.sh/artists/289/Songs/Hamu - Tantan Awa.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:36:10Z"
+  "updated_at": "2026-03-31T00:14:05Z"
 }

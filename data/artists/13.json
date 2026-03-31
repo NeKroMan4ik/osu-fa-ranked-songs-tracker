@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "7 Seconds",
+      "preview": "https://assets.ppy.sh/artists/13/previews/234.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "All in All",
+      "preview": "https://assets.ppy.sh/artists/13/previews/235.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -27,6 +29,7 @@
     },
     {
       "title": "Beautiful Uncertainty (Redux)",
+      "preview": "https://assets.ppy.sh/artists/13/previews/237.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -39,6 +42,7 @@
     },
     {
       "title": "Love is my Drug",
+      "preview": "https://assets.ppy.sh/artists/13/previews/241.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -50,6 +54,7 @@
     },
     {
       "title": "My Friend",
+      "preview": "https://assets.ppy.sh/artists/13/previews/242.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -61,6 +66,7 @@
     },
     {
       "title": "My Love",
+      "preview": "https://assets.ppy.sh/artists/13/previews/243.mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -85,39 +91,46 @@
     },
     {
       "title": "Baby, Hold on to Your Dreams",
+      "preview": "https://assets.ppy.sh/artists/13/previews/236.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Come Together",
+      "preview": "https://assets.ppy.sh/artists/13/previews/238.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Don't Stop Fallin'",
+      "preview": "https://assets.ppy.sh/artists/13/previews/239.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Electrolove",
+      "preview": "https://assets.ppy.sh/artists/13/previews/240.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sex is Good",
+      "preview": "https://assets.ppy.sh/artists/13/previews/244.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "This is Love",
+      "preview": "https://assets.ppy.sh/artists/13/previews/245.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Velvet Revolution",
+      "preview": "https://assets.ppy.sh/artists/13/previews/246.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:02:43Z"
+  "updated_at": "2026-03-31T00:40:40Z"
 }

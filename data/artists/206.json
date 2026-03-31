@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "I - DINKI THE STARGUIDE",
+      "preview": "https://assets.ppy.sh/artists/206/I - DINKI THE STARGUIDE/METAROOM - I - DINKI THE STARGUIDE.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "ICON KILLER",
+      "preview": "https://assets.ppy.sh/artists/206/SWEET GENESIS/METAROOM - ICON KILLER.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "OUT OF CONTROL",
+      "preview": "https://assets.ppy.sh/artists/206/SWEET GENESIS/METAROOM - OUT OF CONTROL.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "PINK ORIGINS",
+      "preview": "https://assets.ppy.sh/artists/206/METADATA -- PINK ORIGINS/METAROOM - PINK ORIGINS.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -52,6 +56,7 @@
     },
     {
       "title": "S.N.U.F.F.Y",
+      "preview": "https://assets.ppy.sh/artists/206/S.N.U.F.F.Y/METAROOM - S.N.U.F.F.Y.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -63,6 +68,7 @@
     },
     {
       "title": "SPIKEY BOI",
+      "preview": "https://assets.ppy.sh/artists/206/SWEET GENESIS/METAROOM - SPIKEY BOI.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -74,49 +80,58 @@
     },
     {
       "title": ".ANGEL",
+      "preview": "https://assets.ppy.sh/artists/206/.ANGEL/METAROOM - .ANGEL.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "FRIDAY NIGHT FUNKIN' - M.I.L.F (METAROOM REMIX)",
+      "preview": "https://assets.ppy.sh/artists/206/FRIDAY NIGHT FUNKIN' - M​.​I​.​L​.​F (METAROOM REMIX)/FRIDAY NIGHT FUNKIN%27 - M.I.L.F (METAROOM REMIX).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "GOD RACE",
+      "preview": "https://assets.ppy.sh/artists/206/GOD RACE/METAROOM - GOD RACE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "METAROOM & TELEMIST - DOG BUS",
+      "preview": "https://assets.ppy.sh/artists/206/DOG BUS/METAROOM %26 TELEMIST - DOG BUS.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "STAR FACTORY",
+      "preview": "https://assets.ppy.sh/artists/206/SWEET GENESIS/METAROOM - STAR FACTORY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Temptation Stairway (Waltz Variation)",
+      "preview": "https://assets.ppy.sh/artists/206/Temptation Stairway (Waltz Variation)/METAROOM - Temptation Stairway (Waltz Variation).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "THE BAD ROOM",
+      "preview": "https://assets.ppy.sh/artists/206/THE BAD ROOM - JITTER FANTA/METAROOM - THE BAD ROOM.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "TRASH CLAN",
+      "preview": "https://assets.ppy.sh/artists/206/TRASH CLAN/METAROOM - TRASH CLAN.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "WORM RAVE",
+      "preview": "https://assets.ppy.sh/artists/206/SWEET GENESIS/METAROOM - WORM RAVE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:21:31Z"
+  "updated_at": "2026-03-31T00:59:37Z"
 }

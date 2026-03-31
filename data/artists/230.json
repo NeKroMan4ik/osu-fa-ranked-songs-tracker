@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Dichotomy (Soft Mix)",
+      "preview": "https://assets.ppy.sh/artists/230/Two Fold Pt. 1/Haywyre - Dichotomy (Soft Mix).mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Everchanging",
+      "preview": "https://assets.ppy.sh/artists/230/Songs/Haywyre - Everchanging.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Insight",
+      "preview": "https://assets.ppy.sh/artists/230/Songs/Haywyre - Insight.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -37,54 +40,64 @@
     },
     {
       "title": "Back and Forth",
+      "preview": "https://assets.ppy.sh/artists/230/Songs/Haywyre - Back and Forth.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Contagious",
+      "preview": "https://assets.ppy.sh/artists/230/Panorama Form/Haywyre - Contagious.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Let Me Hear That",
+      "preview": "https://assets.ppy.sh/artists/230/Panorama Form/Haywyre - Let Me Hear That.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Never Count On Me",
+      "preview": "https://assets.ppy.sh/artists/230/Songs/Haywyre - Never Count On Me.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sculpted",
+      "preview": "https://assets.ppy.sh/artists/230/Two Fold Pt. 1/Haywyre - Sculpted.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Synergy",
+      "preview": "https://assets.ppy.sh/artists/230/Songs/Haywyre - Synergy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tell Me",
+      "preview": "https://assets.ppy.sh/artists/230/Panorama Discover/Haywyre - Tell Me.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Schism",
+      "preview": "https://assets.ppy.sh/artists/230/Two Fold Pt. 1/Haywyre - The Schism.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Voyage",
+      "preview": "https://assets.ppy.sh/artists/230/The Voyage/Haywyre - The Voyage.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "With You",
+      "preview": "https://assets.ppy.sh/artists/230/Panorama Form/Haywyre - With You.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:38:10Z"
+  "updated_at": "2026-03-31T00:16:04Z"
 }

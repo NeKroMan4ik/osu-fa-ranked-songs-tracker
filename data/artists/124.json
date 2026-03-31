@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Anokumene",
+      "preview": "https://assets.ppy.sh/artists/124/Songs/Jun Kuroda - Anokumene.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Cybernetics",
+      "preview": "https://assets.ppy.sh/artists/124/Songs/Jun Kuroda - Cybernetics.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Into your memory feat. Aitsuki Nakuru",
+      "preview": "https://assets.ppy.sh/artists/124/Into your memory/Jun Kuroda - Into your memory feat. Aitsuki Nakuru.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -41,6 +44,7 @@
     },
     {
       "title": "Meikyoshisui",
+      "preview": "https://assets.ppy.sh/artists/124/Songs/Jun Kuroda - Meikyoshisui.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -52,6 +56,7 @@
     },
     {
       "title": "Natsukaze to Kimi no Egao",
+      "preview": "https://assets.ppy.sh/artists/124/Summerlong EP/Jun Kuroda - Natsukaze to Kimi no Egao.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -63,6 +68,7 @@
     },
     {
       "title": "u'n me",
+      "preview": "https://assets.ppy.sh/artists/124/Songs/Jun Kuroda - u%27n me.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -74,109 +80,130 @@
     },
     {
       "title": "Aurora",
+      "preview": "https://assets.ppy.sh/artists/124/Songs/Jun Kuroda - Aurora.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cast a spell feat. Sennzai",
+      "preview": "https://assets.ppy.sh/artists/124/Into your memory/Jun Kuroda - Cast a spell feat. Sennzai.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Future-bit party time",
+      "preview": "https://assets.ppy.sh/artists/124/Songs/Jun Kuroda - Future-bit party time.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hatsuyume",
+      "preview": "https://assets.ppy.sh/artists/124/Songs/Jun Kuroda - Hatsuyume.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Jun Kuroda & AAAA - Cygnus",
+      "preview": "https://assets.ppy.sh/artists/124/aspects/Jun Kuroda %26 AAAA - Cygnus.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Jun Kuroda & Hagane - AKI-ZAKURA",
+      "preview": "https://assets.ppy.sh/artists/124/Songs/Jun Kuroda %26 Hagane - AKI-ZAKURA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Jun Kuroda & Mwk - Summery Sunshower",
+      "preview": "https://assets.ppy.sh/artists/124/Songs/Jun Kuroda %26 Mwk - Summery Sunshower.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Jun Kuroda (feat. setsunann) - Meteor he Hibiku Seimei he",
+      "preview": "https://assets.ppy.sh/artists/124/Songs/Jun Kuroda (feat. setsunann) - Meteor he Hibiku Seimei he.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Jun Kuroda + AAAA - Ultimate Fate",
+      "preview": "https://assets.ppy.sh/artists/124/Songs/Jun Kuroda %2B AAAA - Ultimate Fate.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Jun Kuroda + Mwk - Summerlong",
+      "preview": "https://assets.ppy.sh/artists/124/Summerlong EP/Jun Kuroda %2B Mwk - Summerlong.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Jun Kuroda feat. Oshima Haruna - truth of me",
+      "preview": "https://assets.ppy.sh/artists/124/Natsukoi Hanabi EP/Jun Kuroda feat. Oshima Haruna - truth of me.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Lily",
+      "preview": "https://assets.ppy.sh/artists/124/Songs/Jun Kuroda - Lily.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Longin' 4 U",
+      "preview": "https://assets.ppy.sh/artists/124/aspects/Jun Kuroda - Longin%27 4 U.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Natsukoi Hanabi feat. Oshima Haruna",
+      "preview": "https://assets.ppy.sh/artists/124/Songs/Jun Kuroda - Natsukoi Hanabi feat. Oshima Haruna.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Salamander",
+      "preview": "https://assets.ppy.sh/artists/124/Songs/Jun Kuroda - Salamander.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sayonara no Kyori feat. Okada Kana",
+      "preview": "https://assets.ppy.sh/artists/124/Into your memory/Jun Kuroda - Sayonara no Kyori feat. Okada Kana.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Terpsichore",
+      "preview": "https://assets.ppy.sh/artists/124/Songs/Jun Kuroda - Terpsichore.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "To My Dearest Friend",
+      "preview": "https://assets.ppy.sh/artists/124/PRISMA/Jun Kuroda - To My Dearest Friend.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Transparency",
+      "preview": "https://assets.ppy.sh/artists/124/Mirage/Jun Kuroda - Transparency.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "White Dwarf Stars",
+      "preview": "https://assets.ppy.sh/artists/124/Mirage/Jun Kuroda - White Dwarf Stars.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "wish upon a polar star",
+      "preview": "https://assets.ppy.sh/artists/124/Into your memory/Jun Kuroda - wish upon a polar star.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:52:14Z"
+  "updated_at": "2026-03-31T00:30:05Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Coppelia",
+      "preview": "https://assets.ppy.sh/artists/244/Coppelia/Yunosuke - Coppelia.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Illusional Flashback",
+      "preview": "https://assets.ppy.sh/artists/244/Songs/Yunosuke - Illusional Flashback.mp3",
       "ranked_modes": [
         "fruits"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Loop Memory",
+      "preview": "https://assets.ppy.sh/artists/244/Loop Memory/Yunosuke - Loop Memory.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -41,6 +44,7 @@
     },
     {
       "title": "Spiral",
+      "preview": "https://assets.ppy.sh/artists/244/Spiral/Yunosuke - Spiral.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -52,6 +56,7 @@
     },
     {
       "title": "Yunosuke - Loop (feat. WaMi)",
+      "preview": "https://assets.ppy.sh/artists/244/Loop/Yunosuke - Loop.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -67,69 +72,82 @@
     },
     {
       "title": "Black or White",
+      "preview": "https://assets.ppy.sh/artists/244/Black or White/Yunosuke - Black or White.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Black or White -Intro-",
+      "preview": "https://assets.ppy.sh/artists/244/Black or White/Yunosuke - Black or White -Intro-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blank",
+      "preview": "https://assets.ppy.sh/artists/244/Blank/Yunosuke - Blank.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BREAK IT",
+      "preview": "https://assets.ppy.sh/artists/244/BREAK IT/Yunosuke - BREAK IT.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "GLAZ",
+      "preview": "https://assets.ppy.sh/artists/244/GLAZ/Yunosuke - GLAZ.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "I seek you",
+      "preview": "https://assets.ppy.sh/artists/244/I seek you/Yunosuke - I seek you.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PaIII.INCEPTION",
+      "preview": "https://assets.ppy.sh/artists/244/PaIII.INCEPTION/Yunosuke - PaIII.INCEPTION.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Pathos",
+      "preview": "https://assets.ppy.sh/artists/244/Pathos/Yunosuke - Pathos.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "PaⅢ.SENSATION",
+      "preview": "https://assets.ppy.sh/artists/244/Palll.SENSATION/Yunosuke - PaIII.SENSATION.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Raptor",
+      "preview": "https://assets.ppy.sh/artists/244/Raptor/Yunosuke - Raptor.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sazanka",
+      "preview": "https://assets.ppy.sh/artists/244/Sazanka/Yunosuke - Sazanka.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sharari",
+      "preview": "https://assets.ppy.sh/artists/244/Sharari/Yunosuke - Sharari.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ziqqurat",
+      "preview": "https://assets.ppy.sh/artists/244/Ziqqurat/Yunosuke - Ziqqurat.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T23:04:48Z"
+  "updated_at": "2026-03-31T02:43:39Z"
 }

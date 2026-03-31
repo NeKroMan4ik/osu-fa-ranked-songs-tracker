@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Nana",
+      "preview": "https://assets.ppy.sh/artists/197/Futari no/Harumaki Gohan - Nana.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -23,6 +24,7 @@
     },
     {
       "title": "Saikai",
+      "preview": "https://assets.ppy.sh/artists/197/Futari no/Harumaki Gohan - Saikai.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -38,6 +40,7 @@
     },
     {
       "title": "Suisei ni Nareta nara",
+      "preview": "https://assets.ppy.sh/artists/197/Futari no/Harumaki Gohan - Suisei ni Nareta nara.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
@@ -64,6 +67,7 @@
     },
     {
       "title": "Yakusoku",
+      "preview": "https://assets.ppy.sh/artists/197/Futari no/Harumaki Gohan - Yakusoku.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -79,64 +83,76 @@
     },
     {
       "title": "Harumaki Gohan feat. Hatsune Miku - 22 Seiki no Bokura wa (2020 Remaster)",
+      "preview": "https://assets.ppy.sh/artists/197/Futari no/Harumaki Gohan feat. Hatsune Miku - 22 Seiki no Bokura wa (2020 Remaster).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Harumaki Gohan feat. Hatsune Miku - Aster",
+      "preview": "https://assets.ppy.sh/artists/197/NEO DREAM TRAVELER/Harumaki Gohan feat. Hatsune Miku - Aster.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Harumaki Gohan feat. Hatsune Miku - Cobalt Memories",
+      "preview": "https://assets.ppy.sh/artists/197/NEO DREAM TRAVELER/Harumaki Gohan feat. Hatsune Miku - Cobalt Memories.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Harumaki Gohan feat. Hatsune Miku - Gingaroku",
+      "preview": "https://assets.ppy.sh/artists/197/BLUE ENDING NOVA/Harumaki Gohan feat. Hatsune Miku - Gingaroku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Harumaki Gohan feat. Hatsune Miku - Himitsu",
+      "preview": "https://assets.ppy.sh/artists/197/Futari no/Harumaki Gohan feat. Hatsune Miku - Himitsu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Harumaki Gohan feat. Hatsune Miku - Melty Land Nightmare",
+      "preview": "https://assets.ppy.sh/artists/197/NEO DREAM TRAVELER/Harumaki Gohan feat. Hatsune Miku - Melty Land Nightmare.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Harumaki Gohan feat. Hatsune Miku - Photon Blue",
+      "preview": "https://assets.ppy.sh/artists/197/BLUE ENDING NOVA/Harumaki Gohan feat. Hatsune Miku - Photon Blue.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Harumaki Gohan feat. Hatsune Miku - Saikai",
+      "preview": "https://assets.ppy.sh/artists/197/Futari no/Harumaki Gohan feat. Hatsune Miku - Saikai.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Harumaki Gohan feat. Hatsune Miku - Sekai ga Owaru no yo",
+      "preview": "https://assets.ppy.sh/artists/197/NEO DREAM TRAVELER/Harumaki Gohan feat. Hatsune Miku - Sekai ga Owaru no yo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Harumaki Gohan feat. Hatsune Miku - Suisei ni Nareta nara",
+      "preview": "https://assets.ppy.sh/artists/197/Futari no/Harumaki Gohan feat. Hatsune Miku - Suisei ni Nareta nara.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Harumaki Gohan feat. Hatsune Miku - Yakusoku",
+      "preview": "https://assets.ppy.sh/artists/197/Futari no/Harumaki Gohan feat. Hatsune Miku - Yakusoku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Himitsu",
+      "preview": "https://assets.ppy.sh/artists/197/Futari no/Harumaki Gohan - Himitsu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:37:52Z"
+  "updated_at": "2026-03-31T00:15:45Z"
 }

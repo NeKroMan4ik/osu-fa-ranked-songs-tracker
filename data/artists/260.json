@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Iskander D'hul Karnon",
+      "preview": "https://assets.ppy.sh/artists/260/Those Whom the Gods Detest/Nile - Iskander D%27hul Karnon.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Kem Khefa Kheshef",
+      "preview": "https://assets.ppy.sh/artists/260/Those Whom the Gods Detest/Nile - Kem Khefa Kheshef.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "The Eye of Ra",
+      "preview": "https://assets.ppy.sh/artists/260/Those Whom the Gods Detest/Nile - The Eye of Ra.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "The Inevitable Degradation of Flesh",
+      "preview": "https://assets.ppy.sh/artists/260/At the Gate of Sethu/Nile - The Inevitable Degradation of Flesh.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -48,24 +52,28 @@
     },
     {
       "title": "Kafir!",
+      "preview": "https://assets.ppy.sh/artists/260/Those Whom the Gods Detest/Nile - Kafir!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Permitting the Noble Dead to Descend to the Underworld",
+      "preview": "https://assets.ppy.sh/artists/260/Those Whom the Gods Detest/Nile - Permitting the Noble Dead to Descend to the Underworld.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Snake Pit Mating Frenzy",
+      "preview": "https://assets.ppy.sh/artists/260/Vile Nilotic Rites/Nile - Snake Pit Mating Frenzy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Vile Nilotic Rites",
+      "preview": "https://assets.ppy.sh/artists/260/Vile Nilotic Rites/Nile - Vile Nilotic Rites.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:34:15Z"
+  "updated_at": "2026-03-31T01:12:26Z"
 }

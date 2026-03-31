@@ -4,17 +4,19 @@
   "tracks": [
     {
       "title": "Nastrond",
+      "preview": "https://assets.ppy.sh/artists/5/Songs/Helblinde_-_Nastrond.mp3",
       "ranked_modes": [
         "fruits",
         "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2473390,
+          2524635
+        ],
         "fruits": [
           2490142
-        ],
-        "mania": [
-          2473390
         ],
         "osu": [
           2465411
@@ -23,6 +25,7 @@
     },
     {
       "title": "Rewrite Nightmare",
+      "preview": "https://assets.ppy.sh/artists/5/previews/30.mp3?20161103",
       "ranked_modes": [
         "osu"
       ],
@@ -34,6 +37,7 @@
     },
     {
       "title": "The Solace of Oblivion",
+      "preview": "https://assets.ppy.sh/artists/5/Ephemerality/Helblinde_-_The_Solace_of_Oblivion.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -45,6 +49,7 @@
     },
     {
       "title": "Unconquered",
+      "preview": "https://assets.ppy.sh/artists/5/previews/394.mp3",
       "ranked_modes": [
         "fruits",
         "taiko"
@@ -60,6 +65,7 @@
     },
     {
       "title": "When Time Sleeps",
+      "preview": "https://assets.ppy.sh/artists/5/previews/140.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -75,54 +81,64 @@
     },
     {
       "title": "Beyond Life",
+      "preview": "https://assets.ppy.sh/artists/5/previews/28.mp3?20161103",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Call of the Void",
+      "preview": "https://assets.ppy.sh/artists/5/previews/137.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Devourer of All",
+      "preview": "https://assets.ppy.sh/artists/5/previews/391.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Elder Hymn",
+      "preview": "https://assets.ppy.sh/artists/5/previews/392.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Herald of Dissonance",
+      "preview": "https://assets.ppy.sh/artists/5/Songs/Helblinde_-_Herald_of_Dissonance.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Memoria Reborn",
+      "preview": "https://assets.ppy.sh/artists/5/previews/29.mp3?20161103",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mortal Coil",
+      "preview": "https://assets.ppy.sh/artists/5/Songs/Helblinde_-_Mortal_Coil.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Omnia Vanitas",
+      "preview": "https://assets.ppy.sh/artists/5/previews/393.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Our Everlasting Dream",
+      "preview": "https://assets.ppy.sh/artists/5/previews/138.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Summer Lights",
+      "preview": "https://assets.ppy.sh/artists/5/previews/31.mp3?20161103",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:38:44Z"
+  "updated_at": "2026-03-31T00:16:38Z"
 }

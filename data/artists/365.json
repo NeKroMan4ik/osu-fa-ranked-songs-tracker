@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Aihana",
+      "preview": "https://assets.ppy.sh/artists/365/Songs/Junk - Aihana.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "elegante",
+      "preview": "https://assets.ppy.sh/artists/365/Songs/Junk - elegante.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -27,6 +29,7 @@
     },
     {
       "title": "Kagaribi",
+      "preview": "https://assets.ppy.sh/artists/365/Songs/Junk_-_Kagaribi.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -47,6 +50,7 @@
     },
     {
       "title": "Life is PIANO",
+      "preview": "https://assets.ppy.sh/artists/365/Songs/Junk - Life is PIANO.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -63,6 +67,7 @@
     },
     {
       "title": "Qualia",
+      "preview": "https://assets.ppy.sh/artists/365/Songs/Junk - Qualia.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -78,28 +83,30 @@
     },
     {
       "title": "The Formula",
+      "preview": "https://assets.ppy.sh/artists/365/Songs/Junk - The Formula.mp3",
       "ranked_modes": [
         "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          2464556
-        ],
         "osu": [
           2464556
         ],
         "mania": [
+          2464556
+        ],
+        "taiko": [
           2464556
         ]
       }
     },
     {
       "title": "Yellow Smile",
+      "preview": "https://assets.ppy.sh/artists/365/Songs/Junk - Yellow Smile.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:52:24Z"
+  "updated_at": "2026-03-31T00:30:15Z"
 }

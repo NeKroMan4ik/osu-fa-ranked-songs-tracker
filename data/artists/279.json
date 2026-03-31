@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Curiosity",
+      "preview": "https://assets.ppy.sh/artists/279/Songs/Toromaru - Curiosity.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -20,6 +21,7 @@
     },
     {
       "title": "Deorbit",
+      "preview": "https://assets.ppy.sh/artists/279/Songs/Toromaru_-_Deorbit.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -35,6 +37,7 @@
     },
     {
       "title": "Ebb Tide",
+      "preview": "https://assets.ppy.sh/artists/279/Songs/Toromaru_-_Ebb_Tide.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -46,6 +49,7 @@
     },
     {
       "title": "Erinyes",
+      "preview": "https://assets.ppy.sh/artists/279/Songs/Toromaru_-_Erinyes.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -61,6 +65,7 @@
     },
     {
       "title": "Formless Canvas",
+      "preview": "https://assets.ppy.sh/artists/279/Songs/Toromaru - Formless Canvas.mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -80,6 +85,7 @@
     },
     {
       "title": "Sleight of Hand",
+      "preview": "https://assets.ppy.sh/artists/279/Songs/Toromaru_-_Sleight_of_Hand.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -91,6 +97,7 @@
     },
     {
       "title": "Uncharted Sky",
+      "preview": "https://assets.ppy.sh/artists/279/Songs/Toromaru_-_Uncharted_Sky.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -106,54 +113,64 @@
     },
     {
       "title": "Blue Wind -More Ocean Remix-",
+      "preview": "https://assets.ppy.sh/artists/279/Songs/Toromaru - Blue Wind -More Ocean Remix-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "cat's cradle",
+      "preview": "https://assets.ppy.sh/artists/279/Double Imitation/Toromaru - cat%27s cradle.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Horizon",
+      "preview": "https://assets.ppy.sh/artists/279/Retro Fragments/Toromaru - Horizon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "instant emotion",
+      "preview": "https://assets.ppy.sh/artists/279/Songs/Toromaru - instant emotion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Intersection",
+      "preview": "https://assets.ppy.sh/artists/279/Songs/Toromaru - Intersection.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rebuild",
+      "preview": "https://assets.ppy.sh/artists/279/Retro Fragments/Toromaru - Rebuild.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Recollections of Struggle",
+      "preview": "https://assets.ppy.sh/artists/279/Songs/Toromaru - Recollections of Struggle.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Return of Devil",
+      "preview": "https://assets.ppy.sh/artists/279/Songs/Toromaru - Return of Devil.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Trial and Error",
+      "preview": "https://assets.ppy.sh/artists/279/Songs/Toromaru - Trial and Error.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Wasteland",
+      "preview": "https://assets.ppy.sh/artists/279/Retro Fragments/Toromaru - Wasteland.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:42:37Z"
+  "updated_at": "2026-03-31T02:21:19Z"
 }

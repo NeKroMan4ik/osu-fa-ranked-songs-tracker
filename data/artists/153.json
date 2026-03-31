@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Deertracks",
+      "preview": "https://assets.ppy.sh/artists/153/Spiritdance/Aethoro - Deertracks.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -19,6 +20,7 @@
     },
     {
       "title": "Snowy",
+      "preview": "https://assets.ppy.sh/artists/153/Snowy/Aethoro - Snowy.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -30,6 +32,7 @@
     },
     {
       "title": "Woodfairies",
+      "preview": "https://assets.ppy.sh/artists/153/Spiritdance/Aethoro - Woodfairies.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -45,39 +48,46 @@
     },
     {
       "title": "A Town Beside the Ocean",
+      "preview": "https://assets.ppy.sh/artists/153/A Town Beside the Ocean/Aethoro - A Town Beside the Ocean.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Arielle's Wish",
+      "preview": "https://assets.ppy.sh/artists/153/Spiritdance/Aethoro - Arielle's Wish.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Awakened",
+      "preview": "https://assets.ppy.sh/artists/153/Awakened/Aethoro - Awakened.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Firefly Forest",
+      "preview": "https://assets.ppy.sh/artists/153/Fable/Aethoro - Firefly Forest.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Life",
+      "preview": "https://assets.ppy.sh/artists/153/Fable/Aethoro_-_Life.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Riverlight (feat. vally.exe)",
+      "preview": "https://assets.ppy.sh/artists/153/Spiritdance/Aethoro - Riverlight (feat. vally.exe).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sanctuary",
+      "preview": "https://assets.ppy.sh/artists/153/Sanctuary/Aethoro - Sanctuary.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T19:32:24Z"
+  "updated_at": "2026-03-30T23:10:24Z"
 }

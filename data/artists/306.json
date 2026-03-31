@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "161914",
+      "preview": "https://assets.ppy.sh/artists/306/Songs/Feint - 161914.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Drifters (feat. Elizaveta)",
+      "preview": "https://assets.ppy.sh/artists/306/Drifters/Feint - Drifters (feat. Elizaveta).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Face Down",
+      "preview": "https://assets.ppy.sh/artists/306/Voyage/Feint - Face Down.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -38,6 +41,7 @@
     },
     {
       "title": "Homebound",
+      "preview": "https://assets.ppy.sh/artists/306/Homebound/Feint - Homebound.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -53,6 +57,7 @@
     },
     {
       "title": "Laurence",
+      "preview": "https://assets.ppy.sh/artists/306/Liquicity Memoirs/Feint - Laurence.mp3",
       "ranked_modes": [
         "fruits",
         "osu"
@@ -68,6 +73,7 @@
     },
     {
       "title": "One Last Time",
+      "preview": "https://assets.ppy.sh/artists/306/Songs/Feint - One Last Time.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -79,6 +85,7 @@
     },
     {
       "title": "Outbreak (feat. MYLK)",
+      "preview": "https://assets.ppy.sh/artists/306/Outbreak/Feint - Outbreak (feat. MYLK).mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -96,6 +103,7 @@
     },
     {
       "title": "Phosphor (feat. Miyoki)",
+      "preview": "https://assets.ppy.sh/artists/306/Phosphor/Feint - Phosphor (feat. Miyoki).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -107,6 +115,7 @@
     },
     {
       "title": "Sky Dance",
+      "preview": "https://assets.ppy.sh/artists/306/Songs/Feint - Sky Dance.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -122,6 +131,7 @@
     },
     {
       "title": "Snake Eyes (feat. CoMa)",
+      "preview": "https://assets.ppy.sh/artists/306/Snake Eyes/Feint - Snake Eyes (feat. CoMa).mp3",
       "ranked_modes": [
         "fruits",
         "osu",
@@ -142,6 +152,7 @@
     },
     {
       "title": "Starseed (feat. Leah Rye)",
+      "preview": "https://assets.ppy.sh/artists/306/Weavers/Feint - Starseed (feat. Leah Rye).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -153,6 +164,7 @@
     },
     {
       "title": "Stray",
+      "preview": "https://assets.ppy.sh/artists/306/Songs/Feint - Stray.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -164,6 +176,7 @@
     },
     {
       "title": "Take It In (feat. Koven)",
+      "preview": "https://assets.ppy.sh/artists/306/Liquicity Alchemy 2/Feint - Take It In (feat. Koven).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -175,6 +188,7 @@
     },
     {
       "title": "The Journey (feat. Veela)",
+      "preview": "https://assets.ppy.sh/artists/306/Liquicity Memoirs/Feint - The Journey (feat. Veela).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -188,6 +202,7 @@
     },
     {
       "title": "Tower Of Heaven (You Are Slaves)",
+      "preview": "https://assets.ppy.sh/artists/306/Songs/Feint - Tower Of Heaven (You Are Slaves).mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -207,6 +222,7 @@
     },
     {
       "title": "Vagrant (feat. Veela)",
+      "preview": "https://assets.ppy.sh/artists/306/Liquicity Alchemy/Feint - Vagrant (feat. Veela).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -219,6 +235,7 @@
     },
     {
       "title": "We Won't Be Alone (feat. Laura Brehm)",
+      "preview": "https://assets.ppy.sh/artists/306/We Won%27t Be Alone/Feint - We Won%27t Be Alone (feat. Laura Brehm).mp3",
       "ranked_modes": [
         "mania",
         "osu",
@@ -239,6 +256,7 @@
     },
     {
       "title": "Words (feat. Laura Brehm)",
+      "preview": "https://assets.ppy.sh/artists/306/Words/Feint - Words (feat. Laura Brehm).mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -251,69 +269,82 @@
     },
     {
       "title": "Defiant (feat. Laura Brehm)",
+      "preview": "https://assets.ppy.sh/artists/306/Defiant/Feint - Defiant (feat. Laura Brehm).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Doxx & Feint - Mind In Motion",
+      "preview": "https://assets.ppy.sh/artists/306/Doxx %26 Feint EP/Doxx %26 Feint - Mind In Motion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Doxx & Feint - The Pink Fields",
+      "preview": "https://assets.ppy.sh/artists/306/Doxx %26 Feint EP/Doxx %26 Feint - The Pink Fields.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Feint & Andromedik - I'll Be There (feat. Cammie Robinson)",
+      "preview": "https://assets.ppy.sh/artists/306/Liquicity Alchemy 3/Feint %26 Andromedik - I%27ll Be There (feat. Cammie Robinson).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Feint & Boyinaband - Time Bomb (feat. Veela)",
+      "preview": "https://assets.ppy.sh/artists/306/Monstercat 007 - Solace/Feint %26 Boyinaband - Time Bomb (feat. Veela).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Feint & Laura Brehm - Solace",
+      "preview": "https://assets.ppy.sh/artists/306/Solace/Feint %26 Laura Brehm - Solace.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "For The Fire (feat. Eric Hayes)",
+      "preview": "https://assets.ppy.sh/artists/306/Galaxy of Dreams 2/Feint - For The Fire (feat. Eric Hayes).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Horizons",
+      "preview": "https://assets.ppy.sh/artists/306/Liquicity Memoirs/Feint - Horizons.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MUZZ, Koven & Feint - Worth The Lie",
+      "preview": "https://assets.ppy.sh/artists/306/Monstercat Uncaged - Vol. 3/MUZZ%2C Koven %26 Feint - Worth The Lie.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Promises",
+      "preview": "https://assets.ppy.sh/artists/306/Liquicity Memoirs/Feint - Promises.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Silent Light",
+      "preview": "https://assets.ppy.sh/artists/306/Weavers/Feint - Silent Light.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Times Like These",
+      "preview": "https://assets.ppy.sh/artists/306/Songs/Feint - Times Like These.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Weavers",
+      "preview": "https://assets.ppy.sh/artists/306/Weavers/Feint - Weavers.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:27:24Z"
+  "updated_at": "2026-03-31T00:05:14Z"
 }

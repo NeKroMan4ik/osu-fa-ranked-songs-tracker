@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Disconnect",
+      "preview": "https://assets.ppy.sh/artists/344/Disconnect/True North - Disconnect.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Fake Love",
+      "preview": "https://assets.ppy.sh/artists/344/Fake Love/True North - Fake Love.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,24 +28,28 @@
     },
     {
       "title": "Ashes",
+      "preview": "https://assets.ppy.sh/artists/344/Ashes/True North - Ashes.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Piece Of You",
+      "preview": "https://assets.ppy.sh/artists/344/Piece Of You/True North - Piece Of You.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Tearing at the Seams",
+      "preview": "https://assets.ppy.sh/artists/344/Tearing at the Seams/True North - Tearing at the Seams.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Time To Reflect",
+      "preview": "https://assets.ppy.sh/artists/344/Time To Reflect/True North - Time To Reflect.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:43:49Z"
+  "updated_at": "2026-03-31T02:22:31Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Army Of The Night",
+      "preview": "https://assets.ppy.sh/artists/457/The Monumental Mass - A Cinematic Metal Event/Powerwolf - Army Of The Night.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Christ & Combat",
+      "preview": "https://assets.ppy.sh/artists/457/Blessed and Possessed/Powerwolf - Christ %26 Combat.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Higher Than Heaven",
+      "preview": "https://assets.ppy.sh/artists/457/Blessed and Possessed/Powerwolf_-_Higher_Than_Heaven.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -37,54 +40,64 @@
     },
     {
       "title": "Amen & Attack",
+      "preview": "https://assets.ppy.sh/artists/457/The Monumental Mass - A Cinematic Metal Event/Powerwolf - Amen %26 Attack.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Beast of Gevaudan",
+      "preview": "https://assets.ppy.sh/artists/457/The Monumental Mass - A Cinematic Metal Event/Powerwolf - Beast of Gevaudan.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Blessed & Possessed",
+      "preview": "https://assets.ppy.sh/artists/457/Blessed and Possessed/Powerwolf - Blessed %26 Possessed.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Demons Are A Girl's Best Friend",
+      "preview": "https://assets.ppy.sh/artists/457/The Monumental Mass - A Cinematic Metal Event/Powerwolf - Demons Are A Girl%27s Best Friend.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Extatum et Oratum",
+      "preview": "https://assets.ppy.sh/artists/457/Preachers of the Night/Powerwolf - Extatum et Oratum.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Fire & Forgive",
+      "preview": "https://assets.ppy.sh/artists/457/The Monumental Mass - A Cinematic Metal Event/Powerwolf - Fire %26 Forgive.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "In the Name of God (Deus Vult)",
+      "preview": "https://assets.ppy.sh/artists/457/Preachers of the Night/Powerwolf - In the Name of God (Deus Vult).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Incense & Iron",
+      "preview": "https://assets.ppy.sh/artists/457/The Monumental Mass - A Cinematic Metal Event/Powerwolf - Incense %26 Iron.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Sacrament of Sin",
+      "preview": "https://assets.ppy.sh/artists/457/The Sacrament Of Sin/Powerwolf - The Sacrament of Sin.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Venom of Venus",
+      "preview": "https://assets.ppy.sh/artists/457/The Monumental Mass - A Cinematic Metal Event/Powerwolf - Venom of Venus.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:48:11Z"
+  "updated_at": "2026-03-31T01:26:27Z"
 }

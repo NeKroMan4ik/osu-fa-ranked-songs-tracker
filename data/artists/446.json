@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Lilith ambivalence lovers",
+      "preview": "https://assets.ppy.sh/artists/446/Lilith ambivalence lovers/ikaruga%27nex - Lilith ambivalence lovers.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "ReviXy",
+      "preview": "https://assets.ppy.sh/artists/446/ReviXy/ikaruga%27nex - ReviXy.mp3",
       "ranked_modes": [
         "mania"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "SICK ROCK CRAZY",
+      "preview": "https://assets.ppy.sh/artists/446/SICK ROCK CRAZY/ikaruga%27nex - SICK ROCK CRAZY.mp3",
       "ranked_modes": [
         "mania",
         "osu"
@@ -41,29 +44,34 @@
     },
     {
       "title": "After The Rain",
+      "preview": "https://assets.ppy.sh/artists/446/Songs/ikaruga%27nex - After The Rain.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "BLAZES ASSAULT",
+      "preview": "https://assets.ppy.sh/artists/446/BLAZES ASSAULT/ikaruga%27nex - BLAZES ASSAULT.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ikaruga_nex vs. Kagetora. - Grabinschrift der Goetter",
+      "preview": "https://assets.ppy.sh/artists/446/Songs/ikaruganex_vs._Kagetora._-_Grabinschrift_der_Goetter.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Mirage",
+      "preview": "https://assets.ppy.sh/artists/446/Songs/ikaruga%27nex - Mirage.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "ultimer",
+      "preview": "https://assets.ppy.sh/artists/446/ultimer/ikaruga%27nex - ultimer.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T20:46:30Z"
+  "updated_at": "2026-03-31T00:24:24Z"
 }

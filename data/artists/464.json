@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "UNABLE",
+      "preview": "https://assets.ppy.sh/artists/464/TRANQUILITY RESOLVE/rae - UNABLE.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,19 +16,22 @@
     },
     {
       "title": "ABLE",
+      "preview": "https://assets.ppy.sh/artists/464/TRANQUILITY RESOLVE/rae - ABLE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "glass_ield",
+      "preview": "https://assets.ppy.sh/artists/464/TRANQUILITY RESOLVE/rae - glass%27ield.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "TRANQUILITY RESOLVE",
+      "preview": "https://assets.ppy.sh/artists/464/TRANQUILITY RESOLVE/rae - TRANQUILITY RESOLVE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T21:50:09Z"
+  "updated_at": "2026-03-31T01:28:27Z"
 }

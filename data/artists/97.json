@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Enigma Machine",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2564.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "Flame Fetish",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2583.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -26,6 +28,7 @@
     },
     {
       "title": "Phase Prism",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2594.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -37,6 +40,7 @@
     },
     {
       "title": "Weave The Strands",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2603.mp3",
       "ranked_modes": [
         "taiko"
       ],
@@ -48,184 +52,220 @@
     },
     {
       "title": "Adaptation",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2576.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Attack Formation",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2577.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Because The Sun (Afterglow Mix)",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2567.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Body Tetris",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2578.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Brace For Transit",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2579.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cobra Khan",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2580.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Da Vibe",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2568.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dharmakaya Light",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2581.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Disintegrate",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2582.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Flight Simulator",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2584.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Focused Locust",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2585.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Forbidden Planet",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2586.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ghost In The Shell 2.0",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2587.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Humongous Fungus",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2588.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Hyperion",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2589.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "IDrive",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2569.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Interlinked",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2590.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kill The Pain",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2574.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Let Them Talk",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2570.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "M-920 Cain",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2591.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "No Soundboy",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2571.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Nostromo",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2592.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Ocean of Sound",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2565.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Overclocking Reality",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2593.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Perfection",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2566.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Plug Your Wetware",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2595.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Robotoddler",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2596.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Rogue Transmission",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2597.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Sadistic Safari",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2598.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Shattered Self",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2572.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Taserface",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2599.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Technosh!t",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2600.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Void Between Worlds",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2601.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Thought Crime",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2602.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Toad Licker",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2575.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Unimpossible",
+      "preview": "https://assets.ppy.sh/artists/97/previews/2573.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:35:37Z"
+  "updated_at": "2026-03-31T02:14:11Z"
 }

@@ -4,6 +4,7 @@
   "tracks": [
     {
       "title": "Gensou wa Hakanaki Watashi no Tame ni -Shinroku-",
+      "preview": "https://assets.ppy.sh/artists/329/Songs/tsunamix - Gensou wa Hakanaki Watashi no Tame ni -Shinroku-.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -15,6 +16,7 @@
     },
     {
       "title": "new moon illusion",
+      "preview": "https://assets.ppy.sh/artists/329/Songs/tsunamix - new moon illusion.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -27,6 +29,7 @@
     },
     {
       "title": "Period. ~ Seishin no Kousoku to Jiyuu o Tsukamu Jouka",
+      "preview": "https://assets.ppy.sh/artists/329/Songs/tsunamix - Period. %7E Seishin no Kousoku to Jiyuu o Tsukamu Jouka.mp3",
       "ranked_modes": [
         "osu",
         "taiko"
@@ -42,6 +45,7 @@
     },
     {
       "title": "stella maris",
+      "preview": "https://assets.ppy.sh/artists/329/Songs/tsunamix - stella maris.mp3",
       "ranked_modes": [
         "osu"
       ],
@@ -53,34 +57,40 @@
     },
     {
       "title": "Boom Boom Satellite Cannon",
+      "preview": "https://assets.ppy.sh/artists/329/Songs/tsunamix - Boom Boom Satellite Cannon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "cardinal bud -NEW MIX-",
+      "preview": "https://assets.ppy.sh/artists/329/Songs/tsunamix - cardinal bud -NEW MIX-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Dokkiidoki <3 Princess -NEW MIX-",
+      "preview": "https://assets.ppy.sh/artists/329/Songs/tsunamix - Dokkiidoki 3 Princess -NEW MIX-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Kaguya x ECSTASY",
+      "preview": "https://assets.ppy.sh/artists/329/Songs/tsunamix - Kaguya x ECSTASY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Period. ~ Zetsubou to Hametsu no Kyoukai de Chi Ru Kibou",
+      "preview": "https://assets.ppy.sh/artists/329/Songs/tsunamix_-_Period.__Zetsubou_to_Hametsu_no_Kyoukai_de_Chi_Ru_Kibou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Satori RHYTHM -Satorism-",
+      "preview": "https://assets.ppy.sh/artists/329/Songs/tsunamix - Satori RHYTHM -Satorism-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-03-29T22:44:03Z"
+  "updated_at": "2026-03-31T02:22:45Z"
 }
