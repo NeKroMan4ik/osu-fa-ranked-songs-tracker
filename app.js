@@ -292,9 +292,6 @@ function createAudioPlayer() {
       <div class="audio-progress-container">
         <div class="audio-progress-bar"><div class="audio-progress-fill"></div></div>
         <span class="audio-time">0:00 / 0:00</span>
-      </div>
-      <button class="audio-control-btn audio-copy-link" title="Copy link"></button>
-    </div>
   `;
 
   document.body.appendChild(player);
@@ -305,15 +302,6 @@ function createAudioPlayer() {
 
   player.querySelector('.audio-play-pause').addEventListener('click', () => {
     if (currentAudio) currentAudio.paused ? currentAudio.play() : currentAudio.pause();
-  });
-
-  player.querySelector('.audio-copy-link').addEventListener('click', async () => {
-    if (currentAudioUrl) {
-      try {
-        await navigator.clipboard.writeText(currentAudioUrl);
-        showToast('Link copied!');
-      } catch { showToast('Failed to copy'); }
-    }
   });
 
   player.querySelector('.audio-progress-bar').addEventListener('click', (e) => {
