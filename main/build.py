@@ -42,24 +42,17 @@ def build_artist_record(
         all_ids: list[int] = []
         mode_to_ids: dict[str, list[int]] = {}
 
-    # Split "OtherArtist - TrackTitle" when the left part contains a collaboration keyword (feat./vs./×)
-
+        # Split "OtherArtist feat. X - TrackTitle" when left part contains a collaboration keyword (feat./vs./×/&)
         if " - " in title:
             left, right = title.split(" - ", 1)
-            left_lower = left.lower()
-            has_collab_keyword = any(kw in left_lower for kw in ("feat.", "vs.", "×"))
+            has_collab_keyword = any(kw in left.lower() for kw in ("feat.", "vs.", "×", "&"))
             should_split = has_collab_keyword
         else:
             should_split = False
 
         if should_split:
-            search_artist, search_title = left, right
-            searches = [(search_artist, search_title)]
-            if artist_id in ARTIST_SEARCH_ALIASES:
-                searches += [
-                    (name, search_title) for name in search_names
-                    if name.lower() != search_artist.lower()
-                ]
+            _, search_title = left, right
+            searches = [(name, search_title) for name in search_names]
         else:
             searches = []
             for name in search_names:
