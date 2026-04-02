@@ -48,7 +48,6 @@ def build_artist_record(
             left, right = title.split(" - ", 1)
             left_lower = left.lower()
             has_collab_keyword = any(kw in left_lower for kw in ("feat.", "vs.", "×"))
-            left_is_page_artist = any(left_lower == n.lower() for n in search_names)
             should_split = has_collab_keyword
         else:
             should_split = False
