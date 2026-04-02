@@ -96,8 +96,8 @@ def find_artist(raw_artists: list[dict], search: str) -> Optional[dict]:
 
 def run() -> None:
     """
-    python main.py                          — resume, skip existing
-    python main.py --rebuild all            — rebuild all except BLACKLIST
+    python main.py                          — resume, skip existing artists
+    python main.py --rebuild all            — rebuild all
     python main.py --rebuild "name" 123     — rebuild specific artists by name or id
     """
     parser = argparse.ArgumentParser()

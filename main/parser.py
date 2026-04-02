@@ -38,24 +38,26 @@ class HtmlClient:
             raise RuntimeError("Parsed 0 artists — HTML structure changed?")
         return artists
 
-    def get_artist_tracks(self, artist_id: int) -> list[str]:
+    def get_artist_tracks(self, artist_id: int) -> list[dict]:
         soup = self._get_html(f"/beatmaps/artists/{artist_id}")
-        titles = set()  # using set to avoid the dupes
+        seen: set[str] = set()
+        tracks: list[dict] = []
         for script in soup.find_all("script", {"type": "application/json"}):
             sid = script.get("id", "")
             if not (sid.startswith("album-json-") or sid.startswith("singles-json-")):
                 continue
             try:
                 data = json.loads(script.string or "")
-
-                tracks = data if isinstance(data, list) else data.get("tracks", [])
-                for t in tracks:
+                items = data if isinstance(data, list) else data.get("tracks", [])
+                for t in items:
                     title = (t or {}).get("title", "").strip()
-                    if title:
-                        titles.add(title)
+                    track_artist_id = (t or {}).get("artist_id")
+                    if title and title not in seen:
+                        seen.add(title)
+                        tracks.append({"title": title, "artist_id": track_artist_id})
             except (json.JSONDecodeError, AttributeError, TypeError):
                 continue
-        return sorted(titles)
+        return sorted(tracks, key=lambda t: t["title"])
 
     def get_artist_track_previews(self, artist_id: int) -> dict[str, str]:
         soup = self._get_html(f"/beatmaps/artists/{artist_id}")

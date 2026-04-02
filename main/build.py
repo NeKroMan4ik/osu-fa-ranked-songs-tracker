@@ -32,21 +32,47 @@ def build_artist_record(
 
     print(f"  → {artist_name} (id={artist_id})", flush=True)
 
-    search_names = ARTIST_SEARCH_ALIASES.get(artist_id, [artist_name])
-    track_titles = html_client.get_artist_tracks(artist_id)
+    search_names   = ARTIST_SEARCH_ALIASES.get(artist_id, [artist_name])
+    track_items    = html_client.get_artist_tracks(artist_id)
     track_previews = html_client.get_artist_track_previews(artist_id)
     tracks: list[dict] = []
 
-    for title in track_titles:
+    for track in track_items:
+        title = track["title"]
         all_ids: list[int] = []
         mode_to_ids: dict[str, list[int]] = {}
 
-        for name in search_names:
-            search_title = title
-            prefix = f"{name} - "
-            if search_title.lower().startswith(prefix.lower()):
-                search_title = search_title[len(prefix):]
-            ids, modes = find_ranked_beatmapsets(api, name, search_title)
+    # Split "OtherArtist - TrackTitle" when the left part contains a collaboration keyword (feat./vs./×)
+
+        if " - " in title:
+            left, right = title.split(" - ", 1)
+            left_lower = left.lower()
+            has_collab_keyword = any(kw in left_lower for kw in ("feat.", "vs.", "×"))
+            left_is_page_artist = any(left_lower == n.lower() for n in search_names)
+            should_split = has_collab_keyword
+        else:
+            should_split = False
+
+        if should_split:
+            search_artist, search_title = left, right
+            searches = [(search_artist, search_title)]
+            if artist_id in ARTIST_SEARCH_ALIASES:
+                searches += [
+                    (name, search_title) for name in search_names
+                    if name.lower() != search_artist.lower()
+                ]
+        else:
+            searches = []
+            for name in search_names:
+                search_title = title
+                prefix = f"{name} - "
+                if search_title.lower().startswith(prefix.lower()):
+                    search_title = search_title[len(prefix):]
+                searches.append((name, search_title))
+
+        for s_artist, s_title in searches:
+            print(f"    searching: artist={s_artist!r} title={s_title!r}", flush=True)
+            ids, modes = find_ranked_beatmapsets(api, s_artist, s_title)
             all_ids.extend(ids)
             for mode, beatmapset_ids in modes.items():
                 mode_to_ids.setdefault(mode, []).extend(beatmapset_ids)
