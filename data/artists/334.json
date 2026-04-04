@@ -3,6 +3,22 @@
   "name": "Sound piercer",
   "tracks": [
     {
+      "title": "Sound piercer \"Espitz\" - NOVO HORIZONTE",
+      "preview": "https://assets.ppy.sh/artists/334/Songs/Sound_piercer_Espitz_-_NOVO_HORIZONTE.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2091818
+        ],
+        "mania": [
+          2267666
+        ]
+      }
+    },
+    {
       "title": "Sound piercer & ginkiha (feat. Yuzuha & NeLiME) - MI:LIGHT CONNECT",
       "preview": "https://assets.ppy.sh/artists/334/Songs/Sound piercer %26 ginkiha (feat. Yuzuha %26 NeLiME) - MILIGHT CONNECT.mp3",
       "ranked_modes": [
@@ -10,13 +26,13 @@
         "osu"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          2236898
-        ],
         "mania": [
           2259046,
           2341766,
           2346444
+        ],
+        "osu": [
+          2236898
         ]
       }
     },
@@ -59,14 +75,14 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "mania": [
-          2395406
-        ],
         "osu": [
           1378089,
           1743604,
           2108841,
           2110025
+        ],
+        "mania": [
+          2395406
         ],
         "taiko": [
           1568419
@@ -88,12 +104,6 @@
     {
       "title": "Candy & Baguette",
       "preview": "https://assets.ppy.sh/artists/334/Songs/Sound piercer - Candy %26 Baguette.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Sound piercer \"Espitz\" - NOVO HORIZONTE",
-      "preview": "https://assets.ppy.sh/artists/334/Songs/Sound_piercer_Espitz_-_NOVO_HORIZONTE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -122,5 +132,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:19:51Z"
+  "updated_at": "2026-04-04T13:34:07Z"
 }

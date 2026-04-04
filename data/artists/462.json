@@ -3,6 +3,577 @@
   "name": "osu! community music",
   "tracks": [
     {
+      "title": "$k_Hwa$ vs. nominomu - .hereafter",
+      "preview": "https://assets.ppy.sh/artists/462/Kyoku 2024/k_Hwa_vs._nominomu_-_.hereafter.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2472263
+        ]
+      }
+    },
+    {
+      "title": "777system - GOD",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/777system_-_GOD.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2458266
+        ]
+      }
+    },
+    {
+      "title": "Aethral - Lacrima Elegy",
+      "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2024/Aethral - Lacrima Elegy.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2230360
+        ]
+      }
+    },
+    {
+      "title": "aidolon - Replay",
+      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/aidolon - Replay.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2412321
+        ]
+      }
+    },
+    {
+      "title": "Akiri - Vespera Stella",
+      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Akiri - Vespera Stella.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2412328
+        ]
+      }
+    },
+    {
+      "title": "Altermis & takehirotei & Violet Delta - Christmas Slop",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/Altermis__takehirotei__Violet_Delta_-_Christmas_Slop.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2479494
+        ],
+        "mania": [
+          2473122,
+          2477332
+        ],
+        "osu": [
+          2472271
+        ]
+      }
+    },
+    {
+      "title": "Ariabl'eyeS - Houkai no Bigaku",
+      "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/Ariabl%27eyeS - Houkai no Bigaku.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2401063
+        ]
+      }
+    },
+    {
+      "title": "ArXe - Locus Amoenus (feat. Megurine Luka)",
+      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/ArXe - Locus Amoenus (feat. Megurine Luka).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2412292
+        ]
+      }
+    },
+    {
+      "title": "Cityyy - Blue Jewel",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/Cityyy_-_Blue_Jewel.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2472665
+        ]
+      }
+    },
+    {
+      "title": "Cityyy - Running Man",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/Cityyy_-_Running_Man.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2299790
+        ]
+      }
+    },
+    {
+      "title": "DJ Raisei - ReDIVE NEURON",
+      "preview": "https://assets.ppy.sh/artists/462/Badly Wood Cup 2024/DJ Raisei - ReDIVE NEURON.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2358414
+        ]
+      }
+    },
+    {
+      "title": "Fisky - TURN IT UP",
+      "preview": "https://assets.ppy.sh/artists/462/osu! Norway Tournament 2025/Fisky - TURN IT UP.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2455736
+        ],
+        "mania": [
+          2455736
+        ],
+        "taiko": [
+          2455736
+        ]
+      }
+    },
+    {
+      "title": "ginkiha - Silver Eclipse",
+      "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/ginkiha - Silver Eclipse.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2414413
+        ]
+      }
+    },
+    {
+      "title": "Halv - Akashic Hex",
+      "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/Halv - Akashic Hex.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2401984
+        ]
+      }
+    },
+    {
+      "title": "Kagetora. - Resplendence",
+      "preview": "https://assets.ppy.sh/artists/462/6 Digit World Cup/Kagetora._-_Resplendence.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2436259
+        ]
+      }
+    },
+    {
+      "title": "Kagetora. vs. ikaruga_nex - Gott der Apokalypse",
+      "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2024/Kagetora. vs. ikaruga%27nex - Gott der Apokalypse.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2226230
+        ]
+      }
+    },
+    {
+      "title": "Katero - what's next?",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/Katero_-_whats_next.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2173999
+        ]
+      }
+    },
+    {
+      "title": "Kou! - A.O.E::area_of_effect",
+      "preview": "https://assets.ppy.sh/artists/462/osu!mania 7K Chinese National Cup 2025/Kou! - A.O.Earea%27of%27effect.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2423348
+        ],
+        "mania": [
+          2321798,
+          2323413
+        ]
+      }
+    },
+    {
+      "title": "Kou! - Fermion Amplification",
+      "preview": "https://assets.ppy.sh/artists/462/TEST Open 2024/Kou! - Fermion Amplification.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2435372
+        ],
+        "osu": [
+          2467382
+        ]
+      }
+    },
+    {
+      "title": "Kou! - RE_generate:fractal",
+      "preview": "https://assets.ppy.sh/artists/462/TEST Open 2024/Kou! - RE%27generatefractal.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2448091
+        ]
+      }
+    },
+    {
+      "title": "Kry.exe - Rift Walker",
+      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Kry.exe - Rift Walker.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2434670
+        ],
+        "osu": [
+          2412244
+        ]
+      }
+    },
+    {
+      "title": "kukkatalo - Tanssipiisi_3001",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/kukkatalo_-_Tanssipiisi_3001.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2137038
+        ]
+      }
+    },
+    {
+      "title": "Kurokotei as Lidelle + eili - Sfir'elle ~ la novella ~",
+      "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/Kurokotei_as_Lidelle__eili_-_Sfirelle__la_novella_.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2399876
+        ]
+      }
+    },
+    {
+      "title": "Kurokotei x kanemiko - astranelique",
+      "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2024/Kurokotei x kanemiko - astranelique.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2329129
+        ],
+        "osu": [
+          2234516
+        ]
+      }
+    },
+    {
+      "title": "MetaHumanBoi - kinetic flux",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/MetaHumanBoi_-_kinetic_flux.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2412316
+        ]
+      }
+    },
+    {
+      "title": "MYUKKE. - Unknown Amnasia",
+      "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2023 Penance/MYUKKE. - Unknown Amnasia.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2377511
+        ]
+      }
+    },
+    {
+      "title": "Naikou - Beyond Reality",
+      "preview": "https://assets.ppy.sh/artists/462/5 Digit World Cup 2024/Naikou - Beyond Reality.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2163553
+        ]
+      }
+    },
+    {
+      "title": "nominomu - against cacophony (feat. Mai)",
+      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/nominomu_-_against_cacophony_feat._Mai.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2412236
+        ]
+      }
+    },
+    {
+      "title": "Phlit - autonomous obscure terrain (type 4)",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/Phlit_-_autonomous_obscure_terrain_type_4.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2145432
+        ]
+      }
+    },
+    {
+      "title": "polysha - Where the Spirits Go On",
+      "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2023 Penance/polysha - Where the Spirits Go On.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2374473
+        ]
+      }
+    },
+    {
+      "title": "qfeileadh feat. Risa Kodaka - Tendou Musou no Homura",
+      "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/qfeileadh feat. Risa Kodaka - Tendou Musou no Homura.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2401973
+        ]
+      }
+    },
+    {
+      "title": "RD-Sounds feat. Meramipop - On Seeking U",
+      "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/RD-Sounds_feat._Meramipop_-_On_Seeking_U.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2409840
+        ]
+      }
+    },
+    {
+      "title": "Redside - sweet lemon tea",
+      "preview": "https://assets.ppy.sh/artists/462/the tea party house/Redside - sweet lemon tea.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2435742
+        ]
+      }
+    },
+    {
+      "title": "rikvinyas - Ryuu no Majo",
+      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/rikvinyas - Ryuu no Majo.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2412231
+        ]
+      }
+    },
+    {
+      "title": "RRolanDD - Almom",
+      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/RRolanDD_-_Almom.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2412270
+        ]
+      }
+    },
+    {
+      "title": "Sad Keyboard Guy & Gardens - Illusory Truth",
+      "preview": "https://assets.ppy.sh/artists/462/Badly Wood Cup 2024/Sad Keyboard Guy %26 Gardens - Illusory Truth.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2407003
+        ]
+      }
+    },
+    {
+      "title": "Sephid et al. - MONONATI",
+      "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/Sephid et al. - MONONATI.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2401178
+        ],
+        "mania": [
+          2401466
+        ]
+      }
+    },
+    {
+      "title": "Silyn - Reconciliation",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/Silyn_-_Reconciliation.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2260927
+        ]
+      }
+    },
+    {
+      "title": "sugosugiii - Maelstrom",
+      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/sugosugiii - Maelstrom.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2412254
+        ]
+      }
+    },
+    {
+      "title": "sugosugiii - vibew/me!",
+      "preview": "https://assets.ppy.sh/artists/462/6 Digit World Cup/sugosugiii_-_vibewme.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2425404
+        ]
+      }
+    },
+    {
+      "title": "takehirotei - Haiboku no Altra Vita",
+      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/takehirotei - Haiboku no Altra Vita.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2417552,
+          2458512
+        ],
+        "osu": [
+          2412331
+        ]
+      }
+    },
+    {
+      "title": "Tsukishiro feat. Inti - Neon Rebellion",
+      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Tsukishiro feat. Inti - Neon Rebellion.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2412288
+        ]
+      }
+    },
+    {
+      "title": "WangleLine - Super Kitten Travel Hex",
+      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/WangleLine - Super Kitten Travel Hex.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2412252
+        ]
+      }
+    },
+    {
+      "title": "ZxKirara feat. Shian - Shiny Day Roam",
+      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/ZxKirara feat. Shian - Shiny Day Roam.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2439785
+        ]
+      }
+    },
+    {
       "title": "$k_Hwa$ - Facade",
       "preview": "https://assets.ppy.sh/artists/462/Songs/k_Hwa_-_Facade.mp3",
       "ranked_modes": [],
@@ -17,18 +588,6 @@
     {
       "title": "$k_Hwa$ vs. .gaietta - Nepotismo",
       "preview": "https://assets.ppy.sh/artists/462/Songs/k_Hwa_vs._.gaietta_-_Nepotismo.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "$k_Hwa$ vs. nominomu - .hereafter",
-      "preview": "https://assets.ppy.sh/artists/462/Kyoku 2024/k_Hwa_vs._nominomu_-_.hereafter.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "777system - GOD",
-      "preview": "https://assets.ppy.sh/artists/462/Songs/777system_-_GOD.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -57,12 +616,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Aethral - Lacrima Elegy",
-      "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2024/Aethral - Lacrima Elegy.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Aethral - Phoenix",
       "preview": "https://assets.ppy.sh/artists/462/TEST Open 2024/Aethral - Phoenix.mp3",
       "ranked_modes": [],
@@ -87,12 +640,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "aidolon - Replay",
-      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/aidolon - Replay.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Akiri - ROTTED AS THE QUEEN OF THE RATS",
       "preview": "https://assets.ppy.sh/artists/462/3 Digit World Cup 2025/Akiri - ROTTED AS THE QUEEN OF THE RATS.mp3",
       "ranked_modes": [],
@@ -105,32 +652,14 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Akiri - Vespera Stella",
-      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Akiri - Vespera Stella.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Akiri feat. Celadon - Project: Spacefarers",
       "preview": "https://assets.ppy.sh/artists/462/Songs/Akiri_feat._Celadon_-_Project_Spacefarers.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Altermis & takehirotei & Violet Delta - Christmas Slop",
-      "preview": "https://assets.ppy.sh/artists/462/Songs/Altermis__takehirotei__Violet_Delta_-_Christmas_Slop.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Aphel - Pondering Magic",
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Aphel - Pondering Magic.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ariabl'eyeS - Houkai no Bigaku",
-      "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/Ariabl%27eyeS - Houkai no Bigaku.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -165,12 +694,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "ArXe - Locus Amoenus (feat. Megurine Luka)",
-      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/ArXe - Locus Amoenus (feat. Megurine Luka).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "ArXe - Wings of Threshold (feat. Kasane Teto)",
       "preview": "https://assets.ppy.sh/artists/462/6 Digit World Cup/ArXe - Wings of Threshold (feat. Kasane Teto).mp3",
       "ranked_modes": [],
@@ -201,12 +724,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Cityyy - Blue Jewel",
-      "preview": "https://assets.ppy.sh/artists/462/Songs/Cityyy_-_Blue_Jewel.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Cityyy - Control 0",
       "preview": "https://assets.ppy.sh/artists/462/Songs/Cityyy_-_Control_0.mp3",
       "ranked_modes": [],
@@ -215,12 +732,6 @@
     {
       "title": "Cityyy - Mystical Memories",
       "preview": "https://assets.ppy.sh/artists/462/Songs/Cityyy_-_Mystical_Memories.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Cityyy - Running Man",
-      "preview": "https://assets.ppy.sh/artists/462/Songs/Cityyy_-_Running_Man.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -257,12 +768,6 @@
     {
       "title": "DeformedEutopia (Nirotiy + AiSS) - Chong Xiao - The Multitude of Empyrean -",
       "preview": "https://assets.ppy.sh/artists/462/osu!mania 7K Chinese National Cup 2024/DeformedEutopia (Nirotiy %2B AiSS) - Chong Xiao - The Multitude of Empyrean -.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "DJ Raisei - ReDIVE NEURON",
-      "preview": "https://assets.ppy.sh/artists/462/Badly Wood Cup 2024/DJ Raisei - ReDIVE NEURON.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -309,12 +814,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Fisky - TURN IT UP",
-      "preview": "https://assets.ppy.sh/artists/462/osu! Norway Tournament 2025/Fisky - TURN IT UP.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Fox Rush - Cloudgazing",
       "preview": "https://assets.ppy.sh/artists/462/Songs/Fox_Rush_-_Cloudgazing.mp3",
       "ranked_modes": [],
@@ -339,18 +838,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "ginkiha - Silver Eclipse",
-      "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/ginkiha - Silver Eclipse.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Halv - Akashic Hex",
-      "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/Halv - Akashic Hex.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Juwubi - H1GH D!VE",
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Juwubi_-_H1GH_DVE.mp3",
       "ranked_modes": [],
@@ -369,20 +856,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Kagetora. - Resplendence",
-      "preview": "https://assets.ppy.sh/artists/462/6 Digit World Cup/Kagetora._-_Resplendence.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Kagetora. - Tenchi-Kaibyaku",
       "preview": "https://assets.ppy.sh/artists/462/Badly Wood Cup 2024/Kagetora. - Tenchi-Kaibyaku.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kagetora. vs. ikaruga_nex - Gott der Apokalypse",
-      "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2024/Kagetora. vs. ikaruga%27nex - Gott der Apokalypse.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -417,30 +892,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Katero - what's next?",
-      "preview": "https://assets.ppy.sh/artists/462/Songs/Katero_-_whats_next.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kou! - A.O.E::area_of_effect",
-      "preview": "https://assets.ppy.sh/artists/462/osu!mania 7K Chinese National Cup 2025/Kou! - A.O.Earea%27of%27effect.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kou! - Fermion Amplification",
-      "preview": "https://assets.ppy.sh/artists/462/TEST Open 2024/Kou! - Fermion Amplification.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kou! - RE_generate:fractal",
-      "preview": "https://assets.ppy.sh/artists/462/TEST Open 2024/Kou! - RE%27generatefractal.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Krimek - Cybernetic Reverie",
       "preview": "https://assets.ppy.sh/artists/462/5 Digit World Cup 2024/Krimek - Cybernetic Reverie.mp3",
       "ranked_modes": [],
@@ -449,30 +900,6 @@
     {
       "title": "Krimek - Dahlia (feat. eili)",
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Krimek_-_Dahlia_feat._eili.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kry.exe - Rift Walker",
-      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Kry.exe - Rift Walker.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "kukkatalo - Tanssipiisi_3001",
-      "preview": "https://assets.ppy.sh/artists/462/Songs/kukkatalo_-_Tanssipiisi_3001.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kurokotei as Lidelle + eili - Sfir'elle ~ la novella ~",
-      "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/Kurokotei_as_Lidelle__eili_-_Sfirelle__la_novella_.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kurokotei x kanemiko - astranelique",
-      "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2024/Kurokotei x kanemiko - astranelique.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -501,20 +928,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "MetaHumanBoi - kinetic flux",
-      "preview": "https://assets.ppy.sh/artists/462/Songs/MetaHumanBoi_-_kinetic_flux.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "MYUKKE. - Beta Snow",
       "preview": "https://assets.ppy.sh/artists/462/Badly Wood Cup 2024/MYUKKE. - Beta Snow.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "MYUKKE. - Unknown Amnasia",
-      "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2023 Penance/MYUKKE. - Unknown Amnasia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -525,20 +940,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Naikou - Beyond Reality",
-      "preview": "https://assets.ppy.sh/artists/462/5 Digit World Cup 2024/Naikou - Beyond Reality.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Neighbour's Blueish Garden (NIWASHI+Aoi) - Deklowaz, the Allchemist",
       "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/Neighbours_Blueish_Garden_NIWASHIAoi_-_Deklowaz_the_Allchemist.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "nominomu - against cacophony (feat. Mai)",
-      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/nominomu_-_against_cacophony_feat._Mai.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -591,32 +994,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Phlit - autonomous obscure terrain (type 4)",
-      "preview": "https://assets.ppy.sh/artists/462/Songs/Phlit_-_autonomous_obscure_terrain_type_4.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "polysha - Where the Spirits Go On",
-      "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2023 Penance/polysha - Where the Spirits Go On.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "ptar124 - A Platter of Primes",
       "preview": "https://assets.ppy.sh/artists/462/osu!catch 3 Digit World Cup 2024/ptar124 - A Platter of Primes.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "qfeileadh feat. Risa Kodaka - Tendou Musou no Homura",
-      "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/qfeileadh feat. Risa Kodaka - Tendou Musou no Homura.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "RD-Sounds feat. Meramipop - On Seeking U",
-      "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/RD-Sounds_feat._Meramipop_-_On_Seeking_U.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -633,12 +1012,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Redside - sweet lemon tea",
-      "preview": "https://assets.ppy.sh/artists/462/the tea party house/Redside - sweet lemon tea.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "rejd - ::Eternity",
       "preview": "https://assets.ppy.sh/artists/462/3 Digit World Cup 2026/rejd - Eternity.mp3",
       "ranked_modes": [],
@@ -651,26 +1024,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "rikvinyas - Ryuu no Majo",
-      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/rikvinyas - Ryuu no Majo.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Riprider - ENC0DED : ENTR0PY",
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Riprider - ENC0DED  ENTR0PY.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "RRolanDD - Almom",
-      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/RRolanDD_-_Almom.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Sad Keyboard Guy & Gardens - Illusory Truth",
-      "preview": "https://assets.ppy.sh/artists/462/Badly Wood Cup 2024/Sad Keyboard Guy %26 Gardens - Illusory Truth.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -689,12 +1044,6 @@
     {
       "title": "seatrus - Blank society",
       "preview": "https://assets.ppy.sh/artists/462/Badly Wood Cup 2024/seatrus - Blank society.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Sephid et al. - MONONATI",
-      "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/Sephid et al. - MONONATI.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -729,26 +1078,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Silyn - Reconciliation",
-      "preview": "https://assets.ppy.sh/artists/462/Songs/Silyn_-_Reconciliation.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "SJ68 - ripharddrive.wav",
       "preview": "https://assets.ppy.sh/artists/462/6 Digit World Cup/SJ68_-_ripharddrive.wav.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "sugosugiii - Maelstrom",
-      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/sugosugiii - Maelstrom.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "sugosugiii - vibew/me!",
-      "preview": "https://assets.ppy.sh/artists/462/6 Digit World Cup/sugosugiii_-_vibewme.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -771,12 +1102,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "takehirotei - Haiboku no Altra Vita",
-      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/takehirotei - Haiboku no Altra Vita.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "THE ENTIRE EARTH - conic",
       "preview": "https://assets.ppy.sh/artists/462/osu! Norway Tournament 2025/THE ENTIRE EARTH - conic.mp3",
       "ranked_modes": [],
@@ -785,12 +1110,6 @@
     {
       "title": "trung-nova - Starry Comet",
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/trung-nova_-_Starry_Comet.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Tsukishiro feat. Inti - Neon Rebellion",
-      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Tsukishiro feat. Inti - Neon Rebellion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -831,12 +1150,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "WangleLine - Super Kitten Travel Hex",
-      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/WangleLine - Super Kitten Travel Hex.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "WEARY - Out of the Waking World",
       "preview": "https://assets.ppy.sh/artists/462/the tea party house/WEARY_-_Out_of_the_Waking_World.mp3",
       "ranked_modes": [],
@@ -871,13 +1184,7 @@
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Xyris - Vitality Charger (feat. Hanakuma Chifuyu).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ZxKirara feat. Shian - Shiny Day Roam",
-      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/ZxKirara feat. Shian - Shiny Day Roam.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:11:02Z"
+  "updated_at": "2026-04-04T13:31:51Z"
 }

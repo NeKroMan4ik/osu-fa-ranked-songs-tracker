@@ -3,6 +3,18 @@
   "name": "WEARY",
   "tracks": [
     {
+      "title": "Mega Collaboration - Starry Night (Extended Mix)",
+      "preview": "https://assets.ppy.sh/artists/460/Starry Night/Mega Collaboration - Starry Night (Extended Mix).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2195040
+        ]
+      }
+    },
+    {
       "title": "WEARY & IlluminatedGalaxy - Journey",
       "preview": "https://assets.ppy.sh/artists/460/Journey/WEARY %26 IlluminatedGalaxy - Journey.mp3",
       "ranked_modes": [
@@ -11,6 +23,18 @@
       "beatmapset_ids_by_mode": {
         "mania": [
           2216028
+        ]
+      }
+    },
+    {
+      "title": "WEARY x Revrey - Effulgence",
+      "preview": "https://assets.ppy.sh/artists/460/Effulgence/WEARY x Revrey - Effulgence.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2234038
         ]
       }
     },
@@ -51,12 +75,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Mega Collaboration - Starry Night (Extended Mix)",
-      "preview": "https://assets.ppy.sh/artists/460/Starry Night/Mega Collaboration - Starry Night (Extended Mix).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "My Feelings",
       "preview": "https://assets.ppy.sh/artists/460/My Feelings/WEARY - My Feelings.mp3",
       "ranked_modes": [],
@@ -85,13 +103,7 @@
       "preview": "https://assets.ppy.sh/artists/460/Compassvale/WEARY x IlluminatedGalaxy - Compassvale.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "WEARY x Revrey - Effulgence",
-      "preview": "https://assets.ppy.sh/artists/460/Effulgence/WEARY x Revrey - Effulgence.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:27:00Z"
+  "updated_at": "2026-04-04T13:35:56Z"
 }

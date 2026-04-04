@@ -116,15 +116,11 @@
       "title": "MUZZ, Koven & Feint - Worth The Lie",
       "preview": "https://assets.ppy.sh/artists/306/Monstercat Uncaged - Vol. 3/MUZZ%2C Koven %26 Feint - Worth The Lie.mp3",
       "ranked_modes": [
-        "mania",
-        "osu"
+        "mania"
       ],
       "beatmapset_ids_by_mode": {
         "mania": [
           2136934
-        ],
-        "osu": [
-          1217548
         ]
       }
     },
@@ -379,5 +375,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:54:03Z"
+  "updated_at": "2026-04-04T13:26:45Z"
 }

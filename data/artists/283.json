@@ -3,6 +3,82 @@
   "name": "Liar-soft",
   "tracks": [
     {
+      "title": "Miyazawa Yuana - Dreht sich!",
+      "preview": "https://assets.ppy.sh/artists/283/Songs/Miyazawa Yuana - Dreht sich!.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          51705
+        ]
+      }
+    },
+    {
+      "title": "Rita - Adenium",
+      "preview": "https://assets.ppy.sh/artists/283/Songs/Rita - Adenium.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1532012,
+          1888925
+        ]
+      }
+    },
+    {
+      "title": "Rita - dorchadas",
+      "preview": "https://assets.ppy.sh/artists/283/Songs/Rita - dorchadas.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2202389
+        ],
+        "taiko": [
+          2202389
+        ],
+        "osu": [
+          18977,
+          580215,
+          1673436,
+          2119488
+        ],
+        "fruits": [
+          812855
+        ]
+      }
+    },
+    {
+      "title": "Rita - Girl's spirit -Otome no Kimochi-",
+      "preview": "https://assets.ppy.sh/artists/283/Songs/Rita - Girl%27s spirit -Otome no Kimochi-.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1824077
+        ]
+      }
+    },
+    {
+      "title": "Rita - Tonitrus",
+      "preview": "https://assets.ppy.sh/artists/283/Songs/Rita - Tonitrus.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          926756
+        ]
+      }
+    },
+    {
       "title": "Kanno Yuuki - Baby alone",
       "preview": "https://assets.ppy.sh/artists/283/Songs/Kanno Yuuki - Baby alone.mp3",
       "ranked_modes": [],
@@ -15,20 +91,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Miyazawa Yuana - Dreht sich!",
-      "preview": "https://assets.ppy.sh/artists/283/Songs/Miyazawa Yuana - Dreht sich!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Rita - a new day.",
       "preview": "https://assets.ppy.sh/artists/283/Songs/Rita - a new day..mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Rita - Adenium",
-      "preview": "https://assets.ppy.sh/artists/283/Songs/Rita - Adenium.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -41,18 +105,6 @@
     {
       "title": "Rita - Blue of the Universe",
       "preview": "https://assets.ppy.sh/artists/283/Songs/Rita - Blue of the Universe.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Rita - dorchadas",
-      "preview": "https://assets.ppy.sh/artists/283/Songs/Rita - dorchadas.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Rita - Girl's spirit -Otome no Kimochi-",
-      "preview": "https://assets.ppy.sh/artists/283/Songs/Rita - Girl%27s spirit -Otome no Kimochi-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -85,13 +137,7 @@
       "preview": "https://assets.ppy.sh/artists/283/Songs/Rita - Rosa Morada.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Rita - Tonitrus",
-      "preview": "https://assets.ppy.sh/artists/283/Songs/Rita - Tonitrus.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:03:08Z"
+  "updated_at": "2026-04-04T13:29:36Z"
 }

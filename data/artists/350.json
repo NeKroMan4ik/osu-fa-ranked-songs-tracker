@@ -121,10 +121,10 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "mania": [
           2503577
         ],
-        "mania": [
+        "taiko": [
           2503577
         ],
         "fruits": [
@@ -198,5 +198,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:52:02Z"
+  "updated_at": "2026-04-04T13:26:07Z"
 }

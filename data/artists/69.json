@@ -5,30 +5,380 @@
     {
       "title": "ELFENSJoN - AGASTYA",
       "preview": "https://assets.ppy.sh/artists/69/STYX/ELFENSJoN - AGASTYA.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ELFENSJoN - Akatsuki o Houmureba",
-      "preview": "https://assets.ppy.sh/artists/69/EPHEMERA/ELFENSJoN - Akatsuki o Houmureba.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2020125
+        ]
+      }
     },
     {
       "title": "ELFENSJoN - Akayake no Majo",
       "preview": "https://assets.ppy.sh/artists/69/ASH OF ROUGE- SIDE ELISIA/ELFENSJoN - Akayake no Majo.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2195113
+        ],
+        "osu": [
+          1100484,
+          1112439
+        ]
+      }
     },
     {
       "title": "ELFENSJoN - ARIADNE",
       "preview": "https://assets.ppy.sh/artists/69/STYX/ELFENSJoN - ARIADNE.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1779371
+        ]
+      }
     },
     {
       "title": "ELFENSJoN - ASH OF ROUGE",
       "preview": "https://assets.ppy.sh/artists/69/ASH OF ROUGE- SIDE ELISIA/ELFENSJoN - ASH OF ROUGE.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1432908
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - ECLIPSE",
+      "preview": "https://assets.ppy.sh/artists/69/ECLIPSE/ELFENSJoN_-_ECLIPSE.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2410253
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - EINHERJAR",
+      "preview": "https://assets.ppy.sh/artists/69/EINHERJAR/ELFENSJoN - EINHERJAR.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          942738,
+          1112424,
+          2291155,
+          2409686,
+          2477390
+        ],
+        "taiko": [
+          1128209
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - ERISAPFEL",
+      "preview": "https://assets.ppy.sh/artists/69/STYX/ELFENSJoN - ERISAPFEL.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1747080
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - Gensou wa Aoki Tsuki to Narite",
+      "preview": "https://assets.ppy.sh/artists/69/STYX/ELFENSJoN - Gensou wa Aoki Tsuki to Narite.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2262065,
+          2270186
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - Hadareyuki",
+      "preview": "https://assets.ppy.sh/artists/69/ZENITH/ELFENSJoN - Hadareyuki.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2266310
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - Hexen Noir",
+      "preview": "https://assets.ppy.sh/artists/69/Songs/ELFENSJoN_-_Hexen_Noir.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2483866
+        ],
+        "osu": [
+          2468665
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - Hexenjagd",
+      "preview": "https://assets.ppy.sh/artists/69/EINHERJAR/ELFENSJoN - Hexenjagd.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1931986
+        ],
+        "osu": [
+          1112621
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - Hoshikuzu no Rinne",
+      "preview": "https://assets.ppy.sh/artists/69/ASH OF ROUGE- SIDE ASTRAL/ELFENSJoN - Hoshikuzu no Rinne.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2176601
+        ],
+        "fruits": [
+          1633104
+        ],
+        "osu": [
+          1122898
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - Hotarubi",
+      "preview": "https://assets.ppy.sh/artists/69/EINHERJAR/ELFENSJoN - Hotarubi.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1131083,
+          1150216
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - Hotarubi (REINCARNATE ver)",
+      "preview": "https://assets.ppy.sh/artists/69/REINCARNATE/ELFENSJoN - Hotarubi (REINCARNATE ver).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2116675
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - Hyousou wa Hakuen o Matoite",
+      "preview": "https://assets.ppy.sh/artists/69/EINHERJAR/ELFENSJoN_-_Hyousou_wa_Hakuen_o_Matoite.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2072094
+        ],
+        "osu": [
+          1112035,
+          1332833
+        ],
+        "taiko": [
+          1332833
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - INHERIT",
+      "preview": "https://assets.ppy.sh/artists/69/STYX/ELFENSJoN - INHERIT.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1837280
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - LUNATIC MIRAGE",
+      "preview": "https://assets.ppy.sh/artists/69/STYX/ELFENSJoN - LUNATIC MIRAGE.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2405562
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - Magatsu Yami ni Utau",
+      "preview": "https://assets.ppy.sh/artists/69/Magatsu Yami ni Utau/ELFENSJoN - Magatsu Yami ni Utau.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1948289,
+          2278150
+        ],
+        "fruits": [
+          2078875
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - Naraku no Majo",
+      "preview": "https://assets.ppy.sh/artists/69/EPHEMERA/ELFENSJoN - Naraku no Majo.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2446620
+        ],
+        "osu": [
+          1671498
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - Okibi no Hate",
+      "preview": "https://assets.ppy.sh/artists/69/STYX/ELFENSJoN - Okibi no Hate.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2187458
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - ORPHEUS",
+      "preview": "https://assets.ppy.sh/artists/69/ASH OF ROUGE- SIDE ELISIA/ELFENSJoN - ORPHEUS.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1169877
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - PHANTOM",
+      "preview": "https://assets.ppy.sh/artists/69/ASH OF ROUGE- SIDE ASTRAL/ELFENSJoN - PHANTOM.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1113775
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - Rakuin no Na wa Akaku",
+      "preview": "https://assets.ppy.sh/artists/69/EPHEMERA/ELFENSJoN - Rakuin no Na wa Akaku.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1683255
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - Shiroki Yume wa Madara ni",
+      "preview": "https://assets.ppy.sh/artists/69/ASH OF ROUGE- SIDE ELISIA/ELFENSJoN - Shiroki Yume wa Madara ni.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1083468
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - Sora ga Ochiru Hi made",
+      "preview": "https://assets.ppy.sh/artists/69/STYX/ELFENSJoN - Sora ga Ochiru Hi made.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1964651
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - STYX",
+      "preview": "https://assets.ppy.sh/artists/69/STYX/ELFENSJoN - STYX.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1769468
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - Yasou",
+      "preview": "https://assets.ppy.sh/artists/69/ASH OF ROUGE- SIDE ELISIA/ELFENSJoN - Yasou.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1154756,
+          1179300
+        ]
+      }
+    },
+    {
+      "title": "ELFENSJoN - Akatsuki o Houmureba",
+      "preview": "https://assets.ppy.sh/artists/69/EPHEMERA/ELFENSJoN - Akatsuki o Houmureba.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -51,38 +401,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "ELFENSJoN - ECLIPSE",
-      "preview": "https://assets.ppy.sh/artists/69/ECLIPSE/ELFENSJoN_-_ECLIPSE.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ELFENSJoN - EINHERJAR",
-      "preview": "https://assets.ppy.sh/artists/69/EINHERJAR/ELFENSJoN - EINHERJAR.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ELFENSJoN - ERISAPFEL",
-      "preview": "https://assets.ppy.sh/artists/69/STYX/ELFENSJoN - ERISAPFEL.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "ELFENSJoN - FALLEN",
       "preview": "https://assets.ppy.sh/artists/69/EPHEMERA/ELFENSJoN - FALLEN.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ELFENSJoN - Gensou wa Aoki Tsuki to Narite",
-      "preview": "https://assets.ppy.sh/artists/69/STYX/ELFENSJoN - Gensou wa Aoki Tsuki to Narite.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ELFENSJoN - Hadareyuki",
-      "preview": "https://assets.ppy.sh/artists/69/ZENITH/ELFENSJoN - Hadareyuki.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -93,38 +413,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "ELFENSJoN - Hexen Noir",
-      "preview": "https://assets.ppy.sh/artists/69/Songs/ELFENSJoN_-_Hexen_Noir.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ELFENSJoN - Hexenjagd",
-      "preview": "https://assets.ppy.sh/artists/69/EINHERJAR/ELFENSJoN - Hexenjagd.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "ELFENSJoN - Hikari no Yobigoe",
       "preview": "https://assets.ppy.sh/artists/69/ZENITH/ELFENSJoN - Hikari no Yobigoe.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ELFENSJoN - Hoshikuzu no Rinne",
-      "preview": "https://assets.ppy.sh/artists/69/ASH OF ROUGE- SIDE ASTRAL/ELFENSJoN - Hoshikuzu no Rinne.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ELFENSJoN - Hotarubi",
-      "preview": "https://assets.ppy.sh/artists/69/EINHERJAR/ELFENSJoN - Hotarubi.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ELFENSJoN - Hotarubi (REINCARNATE ver)",
-      "preview": "https://assets.ppy.sh/artists/69/REINCARNATE/ELFENSJoN - Hotarubi (REINCARNATE ver).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -141,86 +431,14 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "ELFENSJoN - Hyousou wa Hakuen o Matoite",
-      "preview": "https://assets.ppy.sh/artists/69/EINHERJAR/ELFENSJoN_-_Hyousou_wa_Hakuen_o_Matoite.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ELFENSJoN - INHERIT",
-      "preview": "https://assets.ppy.sh/artists/69/STYX/ELFENSJoN - INHERIT.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "ELFENSJoN - Ito",
       "preview": "https://assets.ppy.sh/artists/69/ASH OF ROUGE- SIDE ASTRAL/ELFENSJoN - Ito.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "ELFENSJoN - LUNATIC MIRAGE",
-      "preview": "https://assets.ppy.sh/artists/69/STYX/ELFENSJoN - LUNATIC MIRAGE.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ELFENSJoN - Magatsu Yami ni Utau",
-      "preview": "https://assets.ppy.sh/artists/69/Magatsu Yami ni Utau/ELFENSJoN - Magatsu Yami ni Utau.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ELFENSJoN - Naraku no Majo",
-      "preview": "https://assets.ppy.sh/artists/69/EPHEMERA/ELFENSJoN - Naraku no Majo.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ELFENSJoN - Okibi no Hate",
-      "preview": "https://assets.ppy.sh/artists/69/STYX/ELFENSJoN - Okibi no Hate.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ELFENSJoN - ORPHEUS",
-      "preview": "https://assets.ppy.sh/artists/69/ASH OF ROUGE- SIDE ELISIA/ELFENSJoN - ORPHEUS.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ELFENSJoN - PHANTOM",
-      "preview": "https://assets.ppy.sh/artists/69/ASH OF ROUGE- SIDE ASTRAL/ELFENSJoN - PHANTOM.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ELFENSJoN - Rakuin no Na wa Akaku",
-      "preview": "https://assets.ppy.sh/artists/69/EPHEMERA/ELFENSJoN - Rakuin no Na wa Akaku.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "ELFENSJoN - Shinen wo Yomu Mono",
       "preview": "https://assets.ppy.sh/artists/69/EINHERJAR/ELFENSJoN - Shinen wo Yomu Mono.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ELFENSJoN - Shiroki Yume wa Madara ni",
-      "preview": "https://assets.ppy.sh/artists/69/ASH OF ROUGE- SIDE ELISIA/ELFENSJoN - Shiroki Yume wa Madara ni.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ELFENSJoN - Sora ga Ochiru Hi made",
-      "preview": "https://assets.ppy.sh/artists/69/STYX/ELFENSJoN - Sora ga Ochiru Hi made.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ELFENSJoN - STYX",
-      "preview": "https://assets.ppy.sh/artists/69/STYX/ELFENSJoN - STYX.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -261,12 +479,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "ELFENSJoN - Yasou",
-      "preview": "https://assets.ppy.sh/artists/69/ASH OF ROUGE- SIDE ELISIA/ELFENSJoN - Yasou.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "ELFENSJoN - Yurikago no Hofuri uta",
       "preview": "https://assets.ppy.sh/artists/69/EINHERJAR/ELFENSJoN - Yurikago no Hofuri uta.mp3",
       "ranked_modes": [],
@@ -279,5 +491,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:52:42Z"
+  "updated_at": "2026-04-04T13:26:22Z"
 }

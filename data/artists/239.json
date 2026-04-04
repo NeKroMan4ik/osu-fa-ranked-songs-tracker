@@ -11,14 +11,55 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          1907017
-        ],
         "osu": [
           1862429
         ],
+        "taiko": [
+          1907017
+        ],
         "mania": [
           1698761
+        ]
+      }
+    },
+    {
+      "title": "MisoilePunch ~Harumaki Soe~ - DisXloss",
+      "preview": "https://assets.ppy.sh/artists/239/Songs/MisoilePunch %7EHarumaki Soe%7E - DisXloss.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1647720
+        ]
+      }
+    },
+    {
+      "title": "MisoilePunch ~pan soe~ - MeTear'n TruX",
+      "preview": "https://assets.ppy.sh/artists/239/Songs/MisoilePunch %7Epan soe%7E - MeTear%27n TruX.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1763100
+        ],
+        "mania": [
+          1701223,
+          1708332
+        ]
+      }
+    },
+    {
+      "title": "MisoilePunch ~Takenoko Soe~ - Jack Out KIllER",
+      "preview": "https://assets.ppy.sh/artists/239/Songs/MisoilePunch %7ETakenoko Soe%7E - Jack Out KIllER.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2198150
         ]
       }
     },
@@ -47,20 +88,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "MisoilePunch ~Harumaki Soe~ - DisXloss",
-      "preview": "https://assets.ppy.sh/artists/239/Songs/MisoilePunch %7EHarumaki Soe%7E - DisXloss.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "MisoilePunch ~Mikan Shirugake~ - Whyte pain",
       "preview": "https://assets.ppy.sh/artists/239/Songs/MisoilePunch %7EMikan Shirugake%7E - Whyte pain.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "MisoilePunch ~pan soe~ - MeTear'n TruX",
-      "preview": "https://assets.ppy.sh/artists/239/Songs/MisoilePunch %7Epan soe%7E - MeTear%27n TruX.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -71,17 +100,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "MisoilePunch ~Takenoko Soe~ - Jack Out KIllER",
-      "preview": "https://assets.ppy.sh/artists/239/Songs/MisoilePunch %7ETakenoko Soe%7E - Jack Out KIllER.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Re:union",
       "preview": "https://assets.ppy.sh/artists/239/Songs/MisoilePunch - Reunion.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:06:53Z"
+  "updated_at": "2026-04-04T13:30:38Z"
 }

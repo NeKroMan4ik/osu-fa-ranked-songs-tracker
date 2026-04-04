@@ -31,6 +31,22 @@
       }
     },
     {
+      "title": "ISOMERZ (DJ Raisei + seatrus) - Symmetric",
+      "preview": "https://assets.ppy.sh/artists/204/Songs/ISOMERZ (DJ Raisei %2B seatrus) - Symmetric.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1612240
+        ],
+        "osu": [
+          1381824
+        ]
+      }
+    },
+    {
       "title": "No Hi-TECH No Life",
       "preview": "https://assets.ppy.sh/artists/204/Songs/DJ Raisei - No Hi-TECH No Life.mp3",
       "ranked_modes": [
@@ -50,11 +66,11 @@
         "osu"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          2002366
-        ],
         "mania": [
           1894276
+        ],
+        "osu": [
+          2002366
         ]
       }
     },
@@ -99,12 +115,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "ISOMERZ (DJ Raisei + seatrus) - Symmetric",
-      "preview": "https://assets.ppy.sh/artists/204/Songs/ISOMERZ (DJ Raisei %2B seatrus) - Symmetric.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Nucleo Synthesis",
       "preview": "https://assets.ppy.sh/artists/204/Songs/DJ Raisei - Nucleo Synthesis.mp3",
       "ranked_modes": [],
@@ -123,5 +133,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:51:53Z"
+  "updated_at": "2026-04-04T13:26:02Z"
 }

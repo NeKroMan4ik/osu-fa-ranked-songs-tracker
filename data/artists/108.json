@@ -39,18 +39,6 @@
       }
     },
     {
-      "title": "Alter Ego (ARForest Remix)",
-      "preview": "https://assets.ppy.sh/artists/108/Songs/Morimori Atsushi - Alter Ego (ARForest Remix).mp3",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1348181
-        ]
-      }
-    },
-    {
       "title": "Funkotsu Saishin Casino",
       "preview": "https://assets.ppy.sh/artists/108/previews/2819.mp3",
       "ranked_modes": [
@@ -129,6 +117,18 @@
       }
     },
     {
+      "title": "Morimori Atsushi + Ujico* - Vieille Ville",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/Morimori_Atsushi__Ujico_-_Vieille_Ville.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2114925
+        ]
+      }
+    },
+    {
       "title": "Morimori Atsushi vs. uma - Noel",
       "preview": "https://assets.ppy.sh/artists/108/previews/2842.mp3",
       "ranked_modes": [
@@ -192,14 +192,14 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          432589
+        ],
         "taiko": [
           765055
         ],
         "mania": [
           765055
-        ],
-        "osu": [
-          432589
         ]
       }
     },
@@ -237,12 +237,12 @@
         "fruits": [
           660618
         ],
+        "osu": [
+          224164
+        ],
         "taiko": [
           224164,
           235506
-        ],
-        "osu": [
-          224164
         ]
       }
     },
@@ -339,11 +339,11 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "fruits": [
-          2017836
-        ],
         "taiko": [
           1967200
+        ],
+        "fruits": [
+          2017836
         ]
       }
     },
@@ -396,6 +396,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Alter Ego (ARForest Remix)",
+      "preview": "https://assets.ppy.sh/artists/108/Songs/Morimori Atsushi - Alter Ego (ARForest Remix).mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Amaterasu",
       "preview": "https://assets.ppy.sh/artists/108/previews/2815.mp3",
       "ranked_modes": [],
@@ -428,12 +434,6 @@
     {
       "title": "Kurenai",
       "preview": "https://assets.ppy.sh/artists/108/previews/2821.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Morimori Atsushi + Ujico* - Vieille Ville",
-      "preview": "https://assets.ppy.sh/artists/108/Songs/Morimori_Atsushi__Ujico_-_Vieille_Ville.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -558,5 +558,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:07:44Z"
+  "updated_at": "2026-04-04T13:30:46Z"
 }

@@ -123,6 +123,18 @@
       }
     },
     {
+      "title": "Ouka Enbu",
+      "preview": "https://assets.ppy.sh/artists/179/13th Album 「Toushin Gengi Oku」/ABSOLUTE CASTAWAY - Ouka Enbu.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          688552
+        ]
+      }
+    },
+    {
       "title": "Sadachbia no Himitsu",
       "preview": "https://assets.ppy.sh/artists/179/16th Album 「ASTRO=SIGN」/ABSOLUTE CASTAWAY - Sadachbia no Himitsu.mp3",
       "ranked_modes": [
@@ -420,12 +432,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Ouka Enbu",
-      "preview": "https://assets.ppy.sh/artists/179/13th Album 「Toushin Gengi Oku」/ABSOLUTE CASTAWAY - Ouka Enbu.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Regulus no Kodoku",
       "preview": "https://assets.ppy.sh/artists/179/10th Single 「ASTRO=HOPE」/ABSOLUTE CASTAWAY - Regulus no Kodoku.mp3",
       "ranked_modes": [],
@@ -480,5 +486,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:41:57Z"
+  "updated_at": "2026-04-04T13:23:31Z"
 }

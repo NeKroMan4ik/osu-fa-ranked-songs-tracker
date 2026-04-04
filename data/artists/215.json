@@ -279,17 +279,24 @@
       }
     },
     {
+      "title": "Umeboshi Chazuke + Chroma - Omoide Note",
+      "preview": "https://assets.ppy.sh/artists/215/Songs/Umeboshi Chazuke %2B Chroma - Omoide Note.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          782791,
+          2252832
+        ]
+      }
+    },
+    {
       "title": "Learn The Language",
       "preview": "https://assets.ppy.sh/artists/215/Songs/Chroma - Learn The Language.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Umeboshi Chazuke + Chroma - Omoide Note",
-      "preview": "https://assets.ppy.sh/artists/215/Songs/Umeboshi Chazuke %2B Chroma - Omoide Note.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:49:03Z"
+  "updated_at": "2026-04-04T13:25:25Z"
 }

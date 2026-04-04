@@ -3,23 +3,6 @@
   "name": "Kou!",
   "tracks": [
     {
-      "title": "A.O.E::area_of_effect",
-      "preview": "https://assets.ppy.sh/artists/383/Songs/Kou_-_A.O.Earea_of_effect.mp3",
-      "ranked_modes": [
-        "mania",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2423348
-        ],
-        "mania": [
-          2321798,
-          2323413
-        ]
-      }
-    },
-    {
       "title": "Ankh Natron Collider",
       "preview": "https://assets.ppy.sh/artists/383/Songs/Kou_-_Ankh_Natron_Collider.mp3",
       "ranked_modes": [
@@ -159,7 +142,13 @@
           1699711
         ]
       }
+    },
+    {
+      "title": "A.O.E::area_of_effect",
+      "preview": "https://assets.ppy.sh/artists/383/Songs/Kou_-_A.O.Earea_of_effect.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:01:35Z"
+  "updated_at": "2026-04-04T13:29:06Z"
 }

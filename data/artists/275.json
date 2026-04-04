@@ -3,6 +3,18 @@
   "name": ":Poin7less",
   "tracks": [
     {
+      "title": "Fleur de Lapin - Chaotic*Dream*Festival",
+      "preview": "https://assets.ppy.sh/artists/275/Songs/Fleur_de_Lapin_-_ChaoticDreamFestival.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2125163
+        ]
+      }
+    },
+    {
       "title": "Love Infection",
       "preview": "https://assets.ppy.sh/artists/275/Love Infection/Poin7less - Love Infection.mp3",
       "ranked_modes": [
@@ -17,12 +29,6 @@
     {
       "title": "Flakes Party",
       "preview": "https://assets.ppy.sh/artists/275/Songs/Poin7less - Flakes Party.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Fleur de Lapin - Chaotic*Dream*Festival",
-      "preview": "https://assets.ppy.sh/artists/275/Songs/Fleur_de_Lapin_-_ChaoticDreamFestival.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -69,5 +75,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:41:20Z"
+  "updated_at": "2026-04-04T13:23:23Z"
 }

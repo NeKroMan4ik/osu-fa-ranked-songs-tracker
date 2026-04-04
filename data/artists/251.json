@@ -3,6 +3,18 @@
   "name": "Never Say Die",
   "tracks": [
     {
+      "title": "Zomboy - Nuclear (Hands Up)",
+      "preview": "https://assets.ppy.sh/artists/251/Songs/Zomboy - Nuclear (Hands Up).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          449299
+        ]
+      }
+    },
+    {
       "title": "Cutline - Die For You (ShockOne Remix)",
       "preview": "https://assets.ppy.sh/artists/251/Songs/Cutline - Die For You (ShockOne Remix).mp3",
       "ranked_modes": [],
@@ -81,12 +93,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Zomboy - Nuclear (Hands Up)",
-      "preview": "https://assets.ppy.sh/artists/251/Songs/Zomboy - Nuclear (Hands Up).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Zomboy - Resurrected",
       "preview": "https://assets.ppy.sh/artists/251/Songs/Zomboy - Resurrected.mp3",
       "ranked_modes": [],
@@ -99,5 +105,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:09:04Z"
+  "updated_at": "2026-04-04T13:31:18Z"
 }

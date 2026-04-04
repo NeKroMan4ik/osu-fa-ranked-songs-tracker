@@ -34,11 +34,11 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          1681473
-        ],
         "taiko": [
           1666365
+        ],
+        "osu": [
+          1681473
         ]
       }
     },
@@ -51,6 +51,22 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           358056
+        ]
+      }
+    },
+    {
+      "title": "Jun Kuroda + AAAA - Ultimate Fate",
+      "preview": "https://assets.ppy.sh/artists/124/Songs/Jun Kuroda %2B AAAA - Ultimate Fate.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1455698
+        ],
+        "mania": [
+          490208
         ]
       }
     },
@@ -145,12 +161,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Jun Kuroda + AAAA - Ultimate Fate",
-      "preview": "https://assets.ppy.sh/artists/124/Songs/Jun Kuroda %2B AAAA - Ultimate Fate.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Jun Kuroda + Mwk - Summerlong",
       "preview": "https://assets.ppy.sh/artists/124/Summerlong EP/Jun Kuroda %2B Mwk - Summerlong.mp3",
       "ranked_modes": [],
@@ -217,5 +227,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:59:30Z"
+  "updated_at": "2026-04-04T13:28:22Z"
 }

@@ -3,6 +3,33 @@
   "name": "Supa7onyz",
   "tracks": [
     {
+      "title": "Noma Nadeshiko - Sanzu no Kawa Ninngyou Gekijyou",
+      "preview": "https://assets.ppy.sh/artists/435/Songs/Noma Nadeshiko - Sanzu no Kawa Ninngyou Gekijyou.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2091610,
+          2419516
+        ]
+      }
+    },
+    {
+      "title": "Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7",
+      "preview": "https://assets.ppy.sh/artists/435/Songs/Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1939761,
+          2184238,
+          2432691
+        ]
+      }
+    },
+    {
       "title": "Supa7onyz feat. 5-let - Les Cadences Magiques",
       "preview": "https://assets.ppy.sh/artists/435/Songs/Supa7onyz feat. 5-let - Les Cadences Magiques.mp3",
       "ranked_modes": [
@@ -23,12 +50,6 @@
     {
       "title": "Damped Fall",
       "preview": "https://assets.ppy.sh/artists/435/Songs/Supa7onyz - Damped Fall.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Noma Nadeshiko - Sanzu no Kawa Ninngyou Gekijyou",
-      "preview": "https://assets.ppy.sh/artists/435/Songs/Noma Nadeshiko - Sanzu no Kawa Ninngyou Gekijyou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -57,12 +78,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7",
-      "preview": "https://assets.ppy.sh/artists/435/Songs/Normal1zer vs. Broken Nerdz - Cybernetic Mastermind No.7.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Supa7onyz & Normal1zer & Broken Nerdz - Moro -His Uncharted Odyssey-",
       "preview": "https://assets.ppy.sh/artists/435/Songs/Supa7onyz %26 Normal1zer %26 Broken Nerdz - Moro -His Uncharted Odyssey-.mp3",
       "ranked_modes": [],
@@ -87,5 +102,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:20:45Z"
+  "updated_at": "2026-04-04T13:34:25Z"
 }

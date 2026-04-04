@@ -15,6 +15,19 @@
       }
     },
     {
+      "title": "Akiri X HowToPlayLN - Kuroi Hanabira",
+      "preview": "https://assets.ppy.sh/artists/401/Akiri X Index Error/Akiri_X_HowToPlayLN_-_Kuroi_Hanabira.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1996162,
+          2366876
+        ]
+      }
+    },
+    {
       "title": "Beyond Wood",
       "preview": "https://assets.ppy.sh/artists/401/Songs/Akiri - Beyond Wood.mp3",
       "ranked_modes": [
@@ -181,18 +194,6 @@
       }
     },
     {
-      "title": "Vespera Stella",
-      "preview": "https://assets.ppy.sh/artists/401/Songs/Akiri_-_Vespera_Stella.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2412328
-        ]
-      }
-    },
-    {
       "title": "Void Of Altair",
       "preview": "https://assets.ppy.sh/artists/401/Drifting In Space I Understand It Now/Akiri_-_Void_Of_Altair.mp3",
       "ranked_modes": [
@@ -235,12 +236,6 @@
     {
       "title": "Akiri vs. HowToPlayLN - Cognitohazadrous Ocular Vision Impairing Disease",
       "preview": "https://assets.ppy.sh/artists/401/Akiri X Index Error/Akiri_vs._HowToPlayLN_-_Cognitohazadrous_Ocular_Vision_Impairing_Disease.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Akiri X HowToPlayLN - Kuroi Hanabira",
-      "preview": "https://assets.ppy.sh/artists/401/Akiri X Index Error/Akiri_X_HowToPlayLN_-_Kuroi_Hanabira.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -653,6 +648,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Vespera Stella",
+      "preview": "https://assets.ppy.sh/artists/401/Songs/Akiri_-_Vespera_Stella.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Vortice Complex",
       "preview": "https://assets.ppy.sh/artists/401/Songs/Akiri_-_Vortice_Complex.mp3",
       "ranked_modes": [],
@@ -671,5 +672,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:43:16Z"
+  "updated_at": "2026-04-04T13:23:50Z"
 }

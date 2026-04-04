@@ -52,27 +52,6 @@
       }
     },
     {
-      "title": "Billain & Vorso - Transhumanist",
-      "preview": "https://assets.ppy.sh/artists/46/Nomad%27s Revenge/Billain__Vorso_-_Transhumanist.mp3",
-      "ranked_modes": [
-        "mania",
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1642521,
-          2165052
-        ],
-        "taiko": [
-          1069426
-        ],
-        "mania": [
-          1069426
-        ]
-      }
-    },
-    {
       "title": "Boogie",
       "preview": "https://assets.ppy.sh/artists/46/Songs/Billain - Boogie.mp3",
       "ranked_modes": [
@@ -117,6 +96,12 @@
     {
       "title": "Billain & Vegas - Shinde",
       "preview": "https://assets.ppy.sh/artists/46/Songs/Billain %26 Vegas - Shinde.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Billain & Vorso - Transhumanist",
+      "preview": "https://assets.ppy.sh/artists/46/Nomad%27s Revenge/Billain__Vorso_-_Transhumanist.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -205,5 +190,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:46:00Z"
+  "updated_at": "2026-04-04T13:24:48Z"
 }

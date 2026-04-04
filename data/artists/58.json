@@ -47,15 +47,15 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          1714112
-        ],
         "fruits": [
           2210270
         ],
         "taiko": [
           1377216,
           1807672
+        ],
+        "osu": [
+          1714112
         ]
       }
     },
@@ -72,11 +72,11 @@
           1942597,
           2422601
         ],
-        "taiko": [
-          1908229
-        ],
         "osu": [
           1880652
+        ],
+        "taiko": [
+          1908229
         ]
       }
     },
@@ -89,14 +89,27 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          599761
+        ],
         "taiko": [
           2097864
         ],
         "osu": [
           1116535
-        ],
-        "fruits": [
-          599761
+        ]
+      }
+    },
+    {
+      "title": "TWC Sound Team \"Zeroth Powers\" - One One",
+      "preview": "https://assets.ppy.sh/artists/58/Songs/TWC_Sound_Team_Zeroth_Powers_-_One_One.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1795813,
+          1812144
         ]
       }
     },
@@ -141,13 +154,7 @@
       "preview": "https://assets.ppy.sh/artists/58/Into the Void/Kurokotei - stdpriority_queueT.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "TWC Sound Team \"Zeroth Powers\" - One One",
-      "preview": "https://assets.ppy.sh/artists/58/Songs/TWC_Sound_Team_Zeroth_Powers_-_One_One.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:02:00Z"
+  "updated_at": "2026-04-04T13:29:15Z"
 }

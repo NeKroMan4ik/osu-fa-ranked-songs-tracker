@@ -3,6 +3,23 @@
   "name": "RINYA",
   "tracks": [
     {
+      "title": "Mitsuki - Eeliaas",
+      "preview": "https://assets.ppy.sh/artists/262/Songs/Mitsuki - Eeliaas.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1736814,
+          1737106
+        ],
+        "fruits": [
+          1724385
+        ]
+      }
+    },
+    {
       "title": "BUCHIAGE Fireworks",
       "preview": "https://assets.ppy.sh/artists/262/Songs/RINYA_-_BUCHIAGE_Fireworks.mp3",
       "ranked_modes": [],
@@ -23,12 +40,6 @@
     {
       "title": "Kyokugen BON Odori",
       "preview": "https://assets.ppy.sh/artists/262/Songs/RINYA_-_Kyokugen_BON_Odori.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Mitsuki - Eeliaas",
-      "preview": "https://assets.ppy.sh/artists/262/Songs/Mitsuki - Eeliaas.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -69,5 +80,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:15:12Z"
+  "updated_at": "2026-04-04T13:32:49Z"
 }

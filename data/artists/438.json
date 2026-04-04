@@ -15,15 +15,27 @@
       }
     },
     {
-      "title": "ikaruga_nex vs. Kagetora. - Grabinschrift der Goetter",
-      "preview": "https://assets.ppy.sh/artists/438/Songs/ikaruga%27nex vs. Kagetora. - Grabinschrift der Goetter.mp3",
+      "title": "Eisyo-kobu - Faithtival",
+      "preview": "https://assets.ppy.sh/artists/438/Songs/Eisyo-kobu - Faithtival.mp3",
       "ranked_modes": [
-        "mania"
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "mania": [
-          2318366,
-          2483755
+        "taiko": [
+          1813733,
+          2254161
+        ]
+      }
+    },
+    {
+      "title": "Eisyo-Kobu - Myrtle",
+      "preview": "https://assets.ppy.sh/artists/438/Songs/Eisyo-Kobu - Myrtle.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1583168
         ]
       }
     },
@@ -36,6 +48,18 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           1862286
+        ]
+      }
+    },
+    {
+      "title": "SHIKI - Lapis (Kagetora. remix)",
+      "preview": "https://assets.ppy.sh/artists/438/Songs/SHIKI - Lapis (Kagetora. remix).mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1510347
         ]
       }
     },
@@ -58,23 +82,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Eisyo-kobu - Faithtival",
-      "preview": "https://assets.ppy.sh/artists/438/Songs/Eisyo-kobu - Faithtival.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Eisyo-Kobu - Myrtle",
-      "preview": "https://assets.ppy.sh/artists/438/Songs/Eisyo-Kobu - Myrtle.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "SHIKI - Lapis (Kagetora. remix)",
-      "preview": "https://assets.ppy.sh/artists/438/Songs/SHIKI - Lapis (Kagetora. remix).mp3",
+      "title": "ikaruga_nex vs. Kagetora. - Grabinschrift der Goetter",
+      "preview": "https://assets.ppy.sh/artists/438/Songs/ikaruga%27nex vs. Kagetora. - Grabinschrift der Goetter.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:59:42Z"
+  "updated_at": "2026-04-04T13:28:30Z"
 }

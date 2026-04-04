@@ -22,11 +22,11 @@
         "osu"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          1498655
-        ],
         "mania": [
           1266552
+        ],
+        "osu": [
+          1498655
         ]
       }
     },
@@ -196,11 +196,11 @@
         "osu"
       ],
       "beatmapset_ids_by_mode": {
-        "mania": [
-          1656978
-        ],
         "osu": [
           1020387
+        ],
+        "mania": [
+          1656978
         ]
       }
     },
@@ -316,16 +316,16 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          821987,
-          1506616,
-          2034706
-        ],
         "osu": [
           318848,
           366706,
           414543,
           882932,
+          2034706
+        ],
+        "taiko": [
+          821987,
+          1506616,
           2034706
         ],
         "mania": [
@@ -359,14 +359,14 @@
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          1643938
+        ],
         "mania": [
           809424
         ],
         "osu": [
           715913
-        ],
-        "fruits": [
-          1643938
         ]
       }
     },
@@ -380,6 +380,18 @@
         "mania": [
           1604806,
           1748739
+        ]
+      }
+    },
+    {
+      "title": "Camellia feat. Nanahira - Energy * Drin-ko * Fein-chan! (Camellia's \"MONSTERISTIC\" D. M. P. Remix)",
+      "preview": "https://assets.ppy.sh/artists/31/Guest Track Summary %26 VIPs 02/Camellia_feat._Nanahira_-_Energy_Drin-ko_Fein-chan_Camellias_MONSTERISTIC_D._M._P._Remix.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1672652
         ]
       }
     },
@@ -421,10 +433,10 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "mania": [
           2197076
         ],
-        "mania": [
+        "taiko": [
           2197076
         ],
         "osu": [
@@ -494,11 +506,28 @@
       "title": "Camellia feat. Nanahira - Petals",
       "preview": "https://assets.ppy.sh/artists/31/Songs/Camellia feat. Nanahira - Petals.mp3",
       "ranked_modes": [
-        "osu"
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
+          564354,
+          592381,
+          707371,
+          1320797,
           1780166
+        ],
+        "mania": [
+          634241
+        ],
+        "taiko": [
+          670839,
+          1415492
+        ],
+        "fruits": [
+          1165090
         ]
       }
     },
@@ -512,19 +541,19 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "mania": [
-          1819588
+        "fruits": [
+          822373,
+          962092
         ],
         "osu": [
           1683345
         ],
+        "mania": [
+          1819588
+        ],
         "taiko": [
           1062384,
           1113149
-        ],
-        "fruits": [
-          822373,
-          962092
         ]
       }
     },
@@ -582,11 +611,11 @@
         "fruits": [
           1604962
         ],
-        "taiko": [
-          1036751
-        ],
         "mania": [
           929044
+        ],
+        "taiko": [
+          1036751
         ]
       }
     },
@@ -610,11 +639,11 @@
         "osu"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          795610
-        ],
         "mania": [
           890491
+        ],
+        "osu": [
+          795610
         ]
       }
     },
@@ -645,12 +674,12 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "fruits": [
-          2097061
-        ],
         "osu": [
           1528877,
           2090933
+        ],
+        "fruits": [
+          2097061
         ],
         "mania": [
           1890147
@@ -710,13 +739,13 @@
         "osu"
       ],
       "beatmapset_ids_by_mode": {
-        "fruits": [
-          2361960
-        ],
         "osu": [
           320058,
           2487321,
           2514378
+        ],
+        "fruits": [
+          2361960
         ]
       }
     },
@@ -761,11 +790,11 @@
           709946,
           2477885
         ],
-        "mania": [
-          2477885
-        ],
         "fruits": [
           416308,
+          2477885
+        ],
+        "mania": [
           2477885
         ]
       }
@@ -780,19 +809,19 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "fruits": [
-          2132406
-        ],
-        "mania": [
-          928491
-        ],
         "osu": [
           1432093,
           2377403
         ],
+        "fruits": [
+          2132406
+        ],
         "taiko": [
           857324,
           868513
+        ],
+        "mania": [
+          928491
         ]
       }
     },
@@ -989,8 +1018,8 @@
           1735796,
           1824189
         ],
-        "osu": [
-          912680
+        "fruits": [
+          1825951
         ],
         "taiko": [
           832997,
@@ -998,8 +1027,8 @@
           843576,
           1079786
         ],
-        "fruits": [
-          1825951
+        "osu": [
+          912680
         ]
       }
     },
@@ -1026,7 +1055,8 @@
       ],
       "beatmapset_ids_by_mode": {
         "fruits": [
-          2147976
+          2147976,
+          2527146
         ],
         "mania": [
           1725902
@@ -1094,6 +1124,10 @@
         "fruits": [
           2241735
         ],
+        "mania": [
+          1270879,
+          1380007
+        ],
         "taiko": [
           1370694,
           1540868,
@@ -1101,10 +1135,6 @@
         ],
         "osu": [
           1533028
-        ],
-        "mania": [
-          1270879,
-          1380007
         ]
       }
     },
@@ -1121,11 +1151,11 @@
         "fruits": [
           1809311
         ],
-        "taiko": [
-          1154691
-        ],
         "mania": [
           1131426
+        ],
+        "taiko": [
+          1154691
         ],
         "osu": [
           366928,
@@ -1267,11 +1297,11 @@
           1438177,
           1527006
         ],
-        "fruits": [
-          1301991
-        ],
         "mania": [
           1265570
+        ],
+        "fruits": [
+          1301991
         ]
       }
     },
@@ -1348,11 +1378,11 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          1040093
-        ],
         "mania": [
           1020196
+        ],
+        "taiko": [
+          1040093
         ]
       }
     },
@@ -1377,6 +1407,27 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           1081920
+        ]
+      }
+    },
+    {
+      "title": "Introduction - PLANET//SHAPER",
+      "preview": "https://assets.ppy.sh/artists/31/PLANET__SHAPER/Camellia - Introduction - PLANETSHAPER.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          376293,
+          2417462
+        ],
+        "taiko": [
+          921130
+        ],
+        "osu": [
+          346853
         ]
       }
     },
@@ -1421,6 +1472,54 @@
       }
     },
     {
+      "title": "KASAI HARCORES - CYCLE HIT",
+      "preview": "https://assets.ppy.sh/artists/31/Kasai Harcores/KASAI HARCORES - CYCLE HIT.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          668239,
+          671254,
+          1822323,
+          2182833
+        ],
+        "osu": [
+          636839,
+          1185464,
+          2182833
+        ],
+        "mania": [
+          706478,
+          746817,
+          1322678
+        ],
+        "fruits": [
+          692367,
+          799724
+        ]
+      }
+    },
+    {
+      "title": "KASAI HARCORES - TRIPLE PLAY",
+      "preview": "https://assets.ppy.sh/artists/31/Kasai Harcores/KASAI HARCORES - TRIPLE PLAY.mp3",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1738026
+        ],
+        "taiko": [
+          977167
+        ]
+      }
+    },
+    {
       "title": "Key of timepieces",
       "preview": "https://assets.ppy.sh/artists/31/Cyphisonia EP/Camellia - Key of timepieces.mp3",
       "ranked_modes": [
@@ -1428,12 +1527,12 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          712825
-        ],
         "osu": [
           534800,
           602119
+        ],
+        "taiko": [
+          712825
         ]
       }
     },
@@ -1559,11 +1658,11 @@
         "osu": [
           1052797
         ],
-        "mania": [
-          851107
-        ],
         "taiko": [
           982468
+        ],
+        "mania": [
+          851107
         ]
       }
     },
@@ -1577,6 +1676,15 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          455164,
+          1717042,
+          2076124
+        ],
+        "fruits": [
+          983900,
+          1160976
+        ],
         "osu": [
           514601,
           650738,
@@ -1587,15 +1695,6 @@
           670905,
           735526,
           1015345
-        ],
-        "fruits": [
-          983900,
-          1160976
-        ],
-        "mania": [
-          455164,
-          1717042,
-          2076124
         ]
       }
     },
@@ -1609,6 +1708,13 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          1175337,
+          1653606,
+          1723568,
+          2011170,
+          2350791
+        ],
         "mania": [
           1560424,
           1823805,
@@ -1617,13 +1723,6 @@
         "taiko": [
           1678197,
           2363104
-        ],
-        "osu": [
-          1175337,
-          1653606,
-          1723568,
-          2011170,
-          2350791
         ],
         "fruits": [
           1496473
@@ -1745,9 +1844,6 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          1726022
-        ],
         "mania": [
           929143,
           1645306,
@@ -1755,6 +1851,9 @@
         ],
         "fruits": [
           1521771
+        ],
+        "taiko": [
+          1726022
         ],
         "osu": [
           938426
@@ -1825,13 +1924,13 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          2299969,
-          2432240
-        ],
         "mania": [
           2293949,
           2425003
+        ],
+        "taiko": [
+          2299969,
+          2432240
         ],
         "osu": [
           2287992
@@ -1848,21 +1947,21 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2186249,
+          2337483
+        ],
         "mania": [
           2062263,
           2076634,
           2086467,
           2416672
         ],
-        "osu": [
-          2186249,
-          2337483
+        "fruits": [
+          2062422
         ],
         "taiko": [
           2128550
-        ],
-        "fruits": [
-          2062422
         ]
       }
     },
@@ -1971,13 +2070,13 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          1013694
-        ],
         "osu": [
           580828,
           632972,
           722744
+        ],
+        "taiko": [
+          1013694
         ]
       }
     },
@@ -2009,12 +2108,12 @@
         "taiko": [
           931741
         ],
+        "mania": [
+          812418
+        ],
         "osu": [
           829646,
           836856
-        ],
-        "mania": [
-          812418
         ]
       }
     },
@@ -2056,9 +2155,6 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          1071559
-        ],
         "fruits": [
           2136432
         ],
@@ -2067,6 +2163,9 @@
           742170,
           1052199,
           1389904
+        ],
+        "taiko": [
+          1071559
         ]
       }
     },
@@ -2099,11 +2198,11 @@
         "fruits": [
           2082231
         ],
-        "taiko": [
-          1794458
-        ],
         "mania": [
           1773012
+        ],
+        "taiko": [
+          1794458
         ]
       }
     },
@@ -2246,6 +2345,18 @@
         ],
         "taiko": [
           1374914
+        ]
+      }
+    },
+    {
+      "title": "toby fox - Spider Dance (Camellia Remix)",
+      "preview": "https://assets.ppy.sh/artists/31/Songs/toby_fox_-_Spider_Dance_Camellia_Remix.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2385707
         ]
       }
     },
@@ -2528,12 +2639,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Camellia feat. Nanahira - Energy * Drin-ko * Fein-chan! (Camellia's \"MONSTERISTIC\" D. M. P. Remix)",
-      "preview": "https://assets.ppy.sh/artists/31/Guest Track Summary %26 VIPs 02/Camellia_feat._Nanahira_-_Energy_Drin-ko_Fein-chan_Camellias_MONSTERISTIC_D._M._P._Remix.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Camellia feat. Nanahira - Hea~rt Bea~t O~ver~Hea~~~~t!!!!",
       "preview": "https://assets.ppy.sh/artists/31/4orce/Camellia feat. Nanahira - Hea%7Ert Bea%7Et O%7Ever%7EHea%7E%7E%7E%7Et!!!!.mp3",
       "ranked_modes": [],
@@ -2726,12 +2831,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Introduction - PLANET//SHAPER",
-      "preview": "https://assets.ppy.sh/artists/31/PLANET__SHAPER/Camellia - Introduction - PLANETSHAPER.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Introduction - Relic In Letters",
       "preview": "https://assets.ppy.sh/artists/31/Cyphisonia EP/Camellia - Introduction - Relic In Letters.mp3",
       "ranked_modes": [],
@@ -2762,20 +2861,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "KASAI HARCORES - CYCLE HIT",
-      "preview": "https://assets.ppy.sh/artists/31/Kasai Harcores/KASAI HARCORES - CYCLE HIT.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "KASAI HARCORES - Moeagare! HARCORES",
       "preview": "https://assets.ppy.sh/artists/31/Kasai Harcores/KASAI HARCORES - Moeagare! HARCORES.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "KASAI HARCORES - TRIPLE PLAY",
-      "preview": "https://assets.ppy.sh/artists/31/Kasai Harcores/KASAI HARCORES - TRIPLE PLAY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -2948,12 +3035,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "toby fox - Spider Dance (Camellia Remix)",
-      "preview": "https://assets.ppy.sh/artists/31/Songs/toby_fox_-_Spider_Dance_Camellia_Remix.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Treaty of Peace between GlitchHop and Moombahcore",
       "preview": "https://assets.ppy.sh/artists/31/sudden shower/Camellia - Treaty of Peace between GlitchHop and Moombahcore.mp3",
       "ranked_modes": [],
@@ -2996,5 +3077,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:48:39Z"
+  "updated_at": "2026-04-04T13:25:14Z"
 }

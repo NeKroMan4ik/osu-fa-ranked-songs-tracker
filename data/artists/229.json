@@ -3,6 +3,18 @@
   "name": "DGK",
   "tracks": [
     {
+      "title": "NoKANY - Mujinku-Vacuum Track#ADD8E6-",
+      "preview": "https://assets.ppy.sh/artists/229/Mujinku-Vacuum Track%23ADD8E6-/NoKANY_-_Mujinku-Vacuum_TrackADD8E6-.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1151089
+        ]
+      }
+    },
+    {
       "title": "Kinki to Hiiro Gensou -The Primary Plasm-",
       "preview": "https://assets.ppy.sh/artists/229/Kinki to Hiiro Gensou -The Primary Plasm-/DGK - Kinki to Hiiro Gensou -The Primary Plasm-.mp3",
       "ranked_modes": [],
@@ -23,12 +35,6 @@
     {
       "title": "Medicine of Sing",
       "preview": "https://assets.ppy.sh/artists/229/Songs/DGK - Medicine of Sing.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "NoKANY - Mujinku-Vacuum Track#ADD8E6-",
-      "preview": "https://assets.ppy.sh/artists/229/Mujinku-Vacuum Track%23ADD8E6-/NoKANY_-_Mujinku-Vacuum_TrackADD8E6-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -57,5 +63,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:51:02Z"
+  "updated_at": "2026-04-04T13:25:53Z"
 }

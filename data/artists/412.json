@@ -5,9 +5,19 @@
     {
       "title": "HyperJuice - City Lights feat. EVO+, Jinmenusagi (Pa's Lam System Remix)",
       "preview": "https://assets.ppy.sh/artists/412/Songs/HyperJuice_-_City_Lights_feat._EVO_Jinmenusagi_Pas_Lam_System_Remix.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2259021
+        ],
+        "osu": [
+          2195640
+        ]
+      }
     }
   ],
-  "updated_at": "2026-04-02T22:11:16Z"
+  "updated_at": "2026-04-04T13:31:57Z"
 }

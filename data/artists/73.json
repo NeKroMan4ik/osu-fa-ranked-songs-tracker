@@ -53,11 +53,11 @@
           588475,
           782989
         ],
-        "taiko": [
-          523315
-        ],
         "mania": [
           520399
+        ],
+        "taiko": [
+          523315
         ]
       }
     },
@@ -133,6 +133,10 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          834516,
+          1180607
+        ],
         "taiko": [
           1350080,
           2009925
@@ -142,10 +146,6 @@
         ],
         "osu": [
           1626172
-        ],
-        "fruits": [
-          834516,
-          1180607
         ]
       }
     },
@@ -189,14 +189,14 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2297358
+        ],
         "mania": [
           1980729
         ],
         "taiko": [
           833092
-        ],
-        "fruits": [
-          2297358
         ]
       }
     },
@@ -247,6 +247,26 @@
       }
     },
     {
+      "title": "Heterochromia Iridis",
+      "preview": "https://assets.ppy.sh/artists/73/previews/1976.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          833719
+        ],
+        "taiko": [
+          432303
+        ],
+        "osu": [
+          106443
+        ]
+      }
+    },
+    {
       "title": "I",
       "preview": "https://assets.ppy.sh/artists/73/previews/1991.mp3",
       "ranked_modes": [
@@ -276,11 +296,11 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "mania": [
-          2194386
-        ],
         "fruits": [
           1939741
+        ],
+        "mania": [
+          2194386
         ],
         "osu": [
           1312129
@@ -391,11 +411,11 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          1130436
-        ],
         "taiko": [
           245517
+        ],
+        "osu": [
+          1130436
         ]
       }
     },
@@ -433,12 +453,12 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "mania": [
-          1360248
-        ],
         "osu": [
           1220268,
           2305788
+        ],
+        "mania": [
+          1360248
         ],
         "fruits": [
           1155135
@@ -451,12 +471,6 @@
     {
       "title": "ATHAZA (extended ver.)",
       "preview": "https://assets.ppy.sh/artists/73/previews/1977.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Heterochromia Iridis",
-      "preview": "https://assets.ppy.sh/artists/73/previews/1976.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -503,5 +517,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:02:34Z"
+  "updated_at": "2026-04-04T13:29:27Z"
 }

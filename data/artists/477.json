@@ -5,9 +5,15 @@
     {
       "title": "Jouxl Eterna (JinoBeats) - Resonance of Ice Stalactites",
       "preview": "https://assets.ppy.sh/artists/477/Songs/Jouxl Eterna (JinoBeats) - Resonance of Ice Stalactites.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2373140
+        ]
+      }
     }
   ],
-  "updated_at": "2026-04-02T21:59:03Z"
+  "updated_at": "2026-04-04T13:28:16Z"
 }

@@ -5,8 +5,138 @@
     {
       "title": "Aethoro - Inertia Split",
       "preview": "https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/Aethoro - Inertia Split.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2044069
+        ]
+      }
+    },
+    {
+      "title": "Kabocha - Draw me a map, Let me feel the tap",
+      "preview": "https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/Kabocha - Draw me a map%2C Let me feel the tap.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2101742
+        ],
+        "osu": [
+          2051856
+        ]
+      }
+    },
+    {
+      "title": "Kyutatsuki - SOUND ARCHITECT",
+      "preview": "https://assets.ppy.sh/artists/381/Corsace Closed 2024/Kyutatsuki - SOUND ARCHITECT.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2198809
+        ],
+        "osu": [
+          2180470
+        ]
+      }
+    },
+    {
+      "title": "MYUKKE. - Unknown Amnasia",
+      "preview": "https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/MYUKKE. - Unknown Amnasia.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2047990
+        ]
+      }
+    },
+    {
+      "title": "polysha - Where the Spirits Go On",
+      "preview": "https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/polysha - Where the Spirits Go On.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2225599
+        ],
+        "fruits": [
+          2075704,
+          2124418
+        ],
+        "osu": [
+          2051816
+        ]
+      }
+    },
+    {
+      "title": "Sad Keyboard Guy & Gardens - Waking Shadows feat. eili",
+      "preview": "https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/Sad Keyboard Guy _ Gardens - Waking Shadows feat. eili.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2048051,
+          2257442,
+          2310268
+        ],
+        "fruits": [
+          2191190
+        ],
+        "taiko": [
+          2132496
+        ],
+        "mania": [
+          2088664
+        ]
+      }
+    },
+    {
+      "title": "TAG - Astral Stranger",
+      "preview": "https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/TAG - Astral Stranger.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2202586,
+          2281835
+        ],
+        "taiko": [
+          2202586
+        ],
+        "osu": [
+          2048029
+        ]
+      }
+    },
+    {
+      "title": "unfeeling - necrosis of warm memories",
+      "preview": "https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/unfeeling - necrosis of warm memories.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2040003
+        ]
+      }
     },
     {
       "title": "Aethral - Lacrima Elegy",
@@ -23,12 +153,6 @@
     {
       "title": "CS4W - EX-ris",
       "preview": "https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/CS4W - EX-ris.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kabocha - Draw me a map, Let me feel the tap",
-      "preview": "https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/Kabocha - Draw me a map%2C Let me feel the tap.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -57,18 +181,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Kyutatsuki - SOUND ARCHITECT",
-      "preview": "https://assets.ppy.sh/artists/381/Corsace Closed 2024/Kyutatsuki - SOUND ARCHITECT.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "MYUKKE. - Unknown Amnasia",
-      "preview": "https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/MYUKKE. - Unknown Amnasia.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "N_dog - Cyclic Universe Theory",
       "preview": "https://assets.ppy.sh/artists/381/Corsace Open 2024/N%27dog - Cyclic Universe Theory.mp3",
       "ranked_modes": [],
@@ -79,31 +191,7 @@
       "preview": "https://assets.ppy.sh/artists/381/Corsace Open 2024/orangentle - Chromatolight.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "polysha - Where the Spirits Go On",
-      "preview": "https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/polysha - Where the Spirits Go On.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Sad Keyboard Guy & Gardens - Waking Shadows feat. eili",
-      "preview": "https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/Sad Keyboard Guy _ Gardens - Waking Shadows feat. eili.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "TAG - Astral Stranger",
-      "preview": "https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/TAG - Astral Stranger.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "unfeeling - necrosis of warm memories",
-      "preview": "https://assets.ppy.sh/artists/381/Corsace Open 2023 Penance/unfeeling - necrosis of warm memories.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:49:24Z"
+  "updated_at": "2026-04-04T13:25:32Z"
 }

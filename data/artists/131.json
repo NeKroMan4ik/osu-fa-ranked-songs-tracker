@@ -3,6 +3,30 @@
   "name": "Tiny Waves",
   "tracks": [
     {
+      "title": "Kabuki, MYLK - Talk 2 Me",
+      "preview": "https://assets.ppy.sh/artists/131/Songs/Kabuki, MYLK - Talk 2 Me.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1293770
+        ]
+      }
+    },
+    {
+      "title": "Tenkitsune - Little Fox Wonderland",
+      "preview": "https://assets.ppy.sh/artists/131/Songs/Tenkitsune - Little Fox Wonderland.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1362717
+        ]
+      }
+    },
+    {
       "title": "Cosmicosmo & Slow Shudder - Super Heart",
       "preview": "https://assets.ppy.sh/artists/131/Songs/Cosmicosmo___Slow_Shudder_-_Super_Heart.mp3",
       "ranked_modes": [],
@@ -29,12 +53,6 @@
     {
       "title": "Groovecube - Lemons feat. TOFIE & LemonDrop",
       "preview": "https://assets.ppy.sh/artists/131/Songs/Groovecube - Lemons feat. TOFIE & LemonDrop.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kabuki, MYLK - Talk 2 Me",
-      "preview": "https://assets.ppy.sh/artists/131/Songs/Kabuki, MYLK - Talk 2 Me.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -73,13 +91,7 @@
       "preview": "https://assets.ppy.sh/artists/131/Songs/RoboRob, N i i - Never Say It.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Tenkitsune - Little Fox Wonderland",
-      "preview": "https://assets.ppy.sh/artists/131/Songs/Tenkitsune - Little Fox Wonderland.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:23:34Z"
+  "updated_at": "2026-04-04T13:35:09Z"
 }

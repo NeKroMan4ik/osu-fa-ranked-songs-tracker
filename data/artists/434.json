@@ -64,18 +64,6 @@
       }
     },
     {
-      "title": "Viatores Nebulae (ptar124 & SiLiS) - Ad infinitum ~ein sof~",
-      "preview": "https://assets.ppy.sh/artists/434/Songs/Viatores_Nebulae_ptar124__SiLiS_-_Ad_infinitum_ein_sof.mp3",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2265664
-        ]
-      }
-    },
-    {
       "title": "Yukisarashi",
       "preview": "https://assets.ppy.sh/artists/434/The 3rd Edition%27 Saaya%27s Welcome/SiLiS - Yukisarashi.mp3",
       "ranked_modes": [
@@ -244,6 +232,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Viatores Nebulae (ptar124 & SiLiS) - Ad infinitum ~ein sof~",
+      "preview": "https://assets.ppy.sh/artists/434/Songs/Viatores_Nebulae_ptar124__SiLiS_-_Ad_infinitum_ein_sof.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "WATAGASHI RUSH (takehirotei's \"Caffeine Overdose\" remix)",
       "preview": "https://assets.ppy.sh/artists/434/The 4th Edition Clear Color/SiLiS - WATAGASHI RUSH (takehirotei%27s Caffeine Overdose remix).mp3",
       "ranked_modes": [],
@@ -268,5 +262,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:18:54Z"
+  "updated_at": "2026-04-04T13:33:49Z"
 }

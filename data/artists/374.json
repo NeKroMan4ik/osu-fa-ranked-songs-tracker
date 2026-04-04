@@ -3,14 +3,48 @@
   "name": "ALLMYFRIENDS",
   "tracks": [
     {
-      "title": "Android52, nayuta - Coldhearted",
-      "preview": "https://assets.ppy.sh/artists/374/PRISMA/Android52%2C nayuta - Coldhearted.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "awfuless - Temptation",
       "preview": "https://assets.ppy.sh/artists/374/PRISMA/awfuless - Temptation.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2224883
+        ]
+      }
+    },
+    {
+      "title": "rejection, RANASOL - All My Friends",
+      "preview": "https://assets.ppy.sh/artists/374/PRISMA/rejection%2C RANASOL - All My Friends.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2333430
+        ]
+      }
+    },
+    {
+      "title": "Synthion, Yuuna Nini - By My Side",
+      "preview": "https://assets.ppy.sh/artists/374/PRISMA/Synthion%2C Yuuna Nini - By My Side.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2492682
+        ],
+        "osu": [
+          1993256
+        ]
+      }
+    },
+    {
+      "title": "Android52, nayuta - Coldhearted",
+      "preview": "https://assets.ppy.sh/artists/374/PRISMA/Android52%2C nayuta - Coldhearted.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -27,18 +61,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "rejection, RANASOL - All My Friends",
-      "preview": "https://assets.ppy.sh/artists/374/PRISMA/rejection%2C RANASOL - All My Friends.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Synthion, Yuuna Nini - By My Side",
-      "preview": "https://assets.ppy.sh/artists/374/PRISMA/Synthion%2C Yuuna Nini - By My Side.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "you, TEA - Meteor",
       "preview": "https://assets.ppy.sh/artists/374/PRISMA/you%2C TEA - Meteor.mp3",
       "ranked_modes": [],
@@ -51,5 +73,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:43:34Z"
+  "updated_at": "2026-04-04T13:23:59Z"
 }

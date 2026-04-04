@@ -130,11 +130,11 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          1146874
-        ],
         "taiko": [
           1126740
+        ],
+        "osu": [
+          1146874
         ]
       }
     },
@@ -147,10 +147,10 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "mania": [
           1080892
         ],
-        "mania": [
+        "taiko": [
           1080892
         ],
         "osu": [
@@ -241,6 +241,18 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           986376
+        ]
+      }
+    },
+    {
+      "title": "skymuted & Evin a'k - memory at angels landing",
+      "preview": "https://assets.ppy.sh/artists/15/Memory at Angels Landing/skymuted__Evin_ak_-_memory_at_angels_landing.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2406992
         ]
       }
     },
@@ -338,12 +350,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "skymuted & Evin a'k - memory at angels landing",
-      "preview": "https://assets.ppy.sh/artists/15/Memory at Angels Landing/skymuted__Evin_ak_-_memory_at_angels_landing.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "The Singing Swan",
       "preview": "https://assets.ppy.sh/artists/15/Everything For A Dream/Fractal Dreamers - The Singing Swan.mp3",
       "ranked_modes": [],
@@ -356,5 +362,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:54:25Z"
+  "updated_at": "2026-04-04T13:26:53Z"
 }

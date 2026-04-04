@@ -26,6 +26,29 @@
       }
     },
     {
+      "title": "RYUJIN - HONESTY",
+      "preview": "https://assets.ppy.sh/artists/148/HONESTY (15th Anniversary%2C Re-recoreded 2026)/RYUJIN - HONESTY.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1379745
+        ],
+        "osu": [
+          586121,
+          905621,
+          1108263
+        ],
+        "taiko": [
+          746993,
+          853163
+        ]
+      }
+    },
+    {
       "title": "GYZE - A DYNASTY",
       "preview": "https://assets.ppy.sh/artists/148/Fascinating Violence/GYZE - A DYNASTY.mp3",
       "ranked_modes": [],
@@ -96,13 +119,7 @@
       "preview": "https://assets.ppy.sh/artists/148/Black Bride/GYZE - WINTER BREATH.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "RYUJIN - HONESTY",
-      "preview": "https://assets.ppy.sh/artists/148/HONESTY (15th Anniversary%2C Re-recoreded 2026)/RYUJIN - HONESTY.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:16:33Z"
+  "updated_at": "2026-04-04T13:33:14Z"
 }

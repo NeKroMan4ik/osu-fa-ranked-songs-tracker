@@ -59,6 +59,27 @@
       }
     },
     {
+      "title": "Frums (unknown \"lambda\") - 19ZZ",
+      "preview": "https://assets.ppy.sh/artists/68/Songs/Frums_unknown_lambda_-_19ZZ.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1012337,
+          2124805
+        ],
+        "osu": [
+          1388112
+        ],
+        "taiko": [
+          1021559
+        ]
+      }
+    },
+    {
       "title": "HALL",
       "preview": "https://assets.ppy.sh/artists/68/Songs/Frums_-_HALL.mp3",
       "ranked_modes": [
@@ -141,10 +162,10 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "osu": [
           1049855
         ],
-        "osu": [
+        "taiko": [
           1049855
         ]
       }
@@ -171,16 +192,16 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "fruits": [
-          1897425,
-          1897431
+        "taiko": [
+          1108483,
+          1355838
         ],
         "osu": [
           1546763
         ],
-        "taiko": [
-          1108483,
-          1355838
+        "fruits": [
+          1897425,
+          1897431
         ],
         "mania": [
           1023425
@@ -247,12 +268,12 @@
           829383,
           1909163
         ],
-        "fruits": [
-          1612932
-        ],
         "osu": [
           1416051,
           1533352
+        ],
+        "fruits": [
+          1612932
         ],
         "taiko": [
           984900
@@ -267,11 +288,11 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          1109137
-        ],
         "mania": [
           866661
+        ],
+        "taiko": [
+          1109137
         ]
       }
     },
@@ -306,21 +327,15 @@
           1335372,
           2322180
         ],
-        "taiko": [
-          1203858,
-          1391246
-        ],
         "mania": [
           1245249,
           1341013
+        ],
+        "taiko": [
+          1203858,
+          1391246
         ]
       }
-    },
-    {
-      "title": "Frums (unknown \"lambda\") - 19ZZ",
-      "preview": "https://assets.ppy.sh/artists/68/Songs/Frums_unknown_lambda_-_19ZZ.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Jam with Pancake",
@@ -335,5 +350,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:54:43Z"
+  "updated_at": "2026-04-04T13:26:58Z"
 }

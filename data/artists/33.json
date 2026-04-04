@@ -142,10 +142,10 @@
         "fruits": [
           1141049
         ],
-        "taiko": [
+        "osu": [
           891335
         ],
-        "osu": [
+        "taiko": [
           891335
         ]
       }
@@ -195,24 +195,6 @@
       }
     },
     {
-      "title": "HyuN feat. Sennzai - Duplicity Shade",
-      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN_feat._Sennzai_-_Duplicity_Shade.mp3",
-      "ranked_modes": [
-        "mania",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2302059
-        ],
-        "mania": [
-          1698284,
-          1945255,
-          2220829
-        ]
-      }
-    },
-    {
       "title": "HyuN feat. Syepias - CROSS SOUL",
       "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN feat. Syepias - CROSS SOUL.mp3",
       "ranked_modes": [
@@ -255,13 +237,13 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "fruits": [
-          1636276
-        ],
         "osu": [
           891632,
           1229471,
           1632819
+        ],
+        "fruits": [
+          1636276
         ],
         "mania": [
           1131640
@@ -279,12 +261,12 @@
         "osu"
       ],
       "beatmapset_ids_by_mode": {
-        "fruits": [
-          972887
-        ],
         "osu": [
           891366,
           968923
+        ],
+        "fruits": [
+          972887
         ]
       }
     },
@@ -451,6 +433,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "HyuN feat. Sennzai - Duplicity Shade",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN_feat._Sennzai_-_Duplicity_Shade.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Ignis Heart",
       "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Ignis Heart.mp3",
       "ranked_modes": [],
@@ -547,5 +535,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:57:44Z"
+  "updated_at": "2026-04-04T13:27:52Z"
 }

@@ -3,18 +3,6 @@
   "name": "love solfege",
   "tracks": [
     {
-      "title": "arabesque of dif.",
-      "preview": "https://assets.ppy.sh/artists/171/Songs/love solfege - arabesque of dif..mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          22742
-        ]
-      }
-    },
-    {
       "title": "La Fatalite",
       "preview": "https://assets.ppy.sh/artists/171/La Fatalite/love solfege - La Fatalite.mp3",
       "ranked_modes": [
@@ -83,6 +71,12 @@
       }
     },
     {
+      "title": "arabesque of dif.",
+      "preview": "https://assets.ppy.sh/artists/171/Songs/love solfege - arabesque of dif..mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "BABEL (2019 Remix ver.)",
       "preview": "https://assets.ppy.sh/artists/171/lucis ortus/love solfege - BABEL (2019 Remix ver.).mp3",
       "ranked_modes": [],
@@ -107,5 +101,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:04:22Z"
+  "updated_at": "2026-04-04T13:29:49Z"
 }

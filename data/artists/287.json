@@ -69,6 +69,20 @@
       }
     },
     {
+      "title": "Pegboard Nerds x MisterWives - Coffins",
+      "preview": "https://assets.ppy.sh/artists/287/Coffins/Pegboard_Nerds_x_MisterWives_-_Coffins.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          144771,
+          823272,
+          2199020
+        ]
+      }
+    },
+    {
       "title": "Snails & Pegboard Nerds - Deep In The Night",
       "preview": "https://assets.ppy.sh/artists/287/Deep In The Night/Snails %26 Pegboard Nerds - Deep In The Night.mp3",
       "ranked_modes": [
@@ -120,13 +134,7 @@
       "preview": "https://assets.ppy.sh/artists/287/Bring The Madness/Excision %26 Pegboard Nerds - Bring The Madness (feat. Mayor Apeshit).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Pegboard Nerds x MisterWives - Coffins",
-      "preview": "https://assets.ppy.sh/artists/287/Coffins/Pegboard_Nerds_x_MisterWives_-_Coffins.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:11:48Z"
+  "updated_at": "2026-04-04T13:32:05Z"
 }

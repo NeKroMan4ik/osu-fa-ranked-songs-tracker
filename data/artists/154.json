@@ -45,6 +45,18 @@
       }
     },
     {
+      "title": "Lost Without You (Boxplot Remix)",
+      "preview": "https://assets.ppy.sh/artists/154/Lost Without You (Boxplot Remix)/Idun Nicoline - Lost Without You (Boxplot Remix).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1314891
+        ]
+      }
+    },
+    {
       "title": "My Non-Existent Friend, Alice",
       "preview": "https://assets.ppy.sh/artists/154/My Non-Existent Friend, Alice/Boxplot - My Non-Existent Friend, Alice.mp3",
       "ranked_modes": [
@@ -120,12 +132,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Lost Without You (Boxplot Remix)",
-      "preview": "https://assets.ppy.sh/artists/154/Lost Without You (Boxplot Remix)/Idun Nicoline - Lost Without You (Boxplot Remix).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Polaroids Of You",
       "preview": "https://assets.ppy.sh/artists/154/Alice EP/Boxplot & Ownglow - Polaroids Of You.mp3",
       "ranked_modes": [],
@@ -138,5 +144,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:47:23Z"
+  "updated_at": "2026-04-04T13:25:04Z"
 }

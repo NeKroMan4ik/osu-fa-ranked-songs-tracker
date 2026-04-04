@@ -86,6 +86,18 @@
       }
     },
     {
+      "title": "kaitendaentai - Toki no Ryousen (Supire Remix)",
+      "preview": "https://assets.ppy.sh/artists/373/Songs/kaitendaentai - Toki no Ryousen (Supire Remix).mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1701020
+        ]
+      }
+    },
+    {
       "title": "KUKRI",
       "preview": "https://assets.ppy.sh/artists/373/Songs/Supire_-_KUKRI.mp3",
       "ranked_modes": [
@@ -127,6 +139,22 @@
       }
     },
     {
+      "title": "Spire - Somnambulism",
+      "preview": "https://assets.ppy.sh/artists/373/otonikki vol. 3/Spire - Somnambulism.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2202709
+        ],
+        "osu": [
+          1171893
+        ]
+      }
+    },
+    {
       "title": "The Last Man",
       "preview": "https://assets.ppy.sh/artists/373/Twilight EP/Supire - The Last Man.mp3",
       "ranked_modes": [
@@ -137,12 +165,6 @@
           2069662
         ]
       }
-    },
-    {
-      "title": "kaitendaentai - Toki no Ryousen (Supire Remix)",
-      "preview": "https://assets.ppy.sh/artists/373/Songs/kaitendaentai - Toki no Ryousen (Supire Remix).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Spire - Evening Sky Force",
@@ -161,13 +183,7 @@
       "preview": "https://assets.ppy.sh/artists/373/Old Works/Spire - Sayounara.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Spire - Somnambulism",
-      "preview": "https://assets.ppy.sh/artists/373/otonikki vol. 3/Spire - Somnambulism.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:20:50Z"
+  "updated_at": "2026-04-04T13:34:27Z"
 }

@@ -3,6 +3,18 @@
   "name": "seleP",
   "tracks": [
     {
+      "title": "Chloe",
+      "preview": "https://assets.ppy.sh/artists/138/Marie%C3%97Luise/seleP - Chloe.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          20201
+        ]
+      }
+    },
+    {
       "title": "December 9th",
       "preview": "https://assets.ppy.sh/artists/138/LILIUM DOLL/seleP - December 9th.mp3",
       "ranked_modes": [
@@ -10,6 +22,7 @@
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
+          46623,
           2086737
         ]
       }
@@ -18,11 +31,16 @@
       "title": "Marie-Luise",
       "preview": "https://assets.ppy.sh/artists/138/Marie%C3%97Luise/seleP - Marie-Luise.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
+          31408,
           1730476
+        ],
+        "taiko": [
+          31408
         ]
       }
     },
@@ -89,12 +107,6 @@
     {
       "title": "Cecilie",
       "preview": "https://assets.ppy.sh/artists/138/Sanctuary/seleP - Cecilie.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Chloe",
-      "preview": "https://assets.ppy.sh/artists/138/Marie%C3%97Luise/seleP - Chloe.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -201,5 +213,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:17:44Z"
+  "updated_at": "2026-04-04T13:33:32Z"
 }

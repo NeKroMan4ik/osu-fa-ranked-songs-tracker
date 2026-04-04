@@ -5,8 +5,99 @@
     {
       "title": "Cansol - a school of fish",
       "preview": "https://assets.ppy.sh/artists/418/Futuristic/Cansol - a school of fish.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2271802
+        ]
+      }
+    },
+    {
+      "title": "dabih & polarN - Koushyoku no Melody",
+      "preview": "https://assets.ppy.sh/artists/418/Great Means Not Good/dabih %26 polarN - Koushyoku no Melody.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2174509
+        ]
+      }
+    },
+    {
+      "title": "Essbee - Rubix",
+      "preview": "https://assets.ppy.sh/artists/418/Late Summer Homework/Essbee - Rubix.mp3",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2201516
+        ],
+        "mania": [
+          2098237
+        ]
+      }
+    },
+    {
+      "title": "Fluffybunny - Divergence Theorem",
+      "preview": "https://assets.ppy.sh/artists/418/Great Means Not Good/Fluffybunny - Divergence Theorem.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2351445
+        ]
+      }
+    },
+    {
+      "title": "Hexacube - SUPER-ENTHUSIASTIC!!",
+      "preview": "https://assets.ppy.sh/artists/418/Great Means Not Good/Hexacube - SUPER-ENTHUSIASTIC!!.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2183866
+        ],
+        "osu": [
+          2049613
+        ]
+      }
+    },
+    {
+      "title": "LucaProject - Recovery",
+      "preview": "https://assets.ppy.sh/artists/418/Recovery/LucaProject - Recovery.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2185650
+        ]
+      }
+    },
+    {
+      "title": "Xeudo Code - TERRAFORGE",
+      "preview": "https://assets.ppy.sh/artists/418/TERRAFORGE/Xeudo Code - TERRAFORGE.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2222971,
+          2524412
+        ],
+        "osu": [
+          2054926
+        ]
+      }
     },
     {
       "title": "Cansol - all over the street",
@@ -35,12 +126,6 @@
     {
       "title": "Cansol - Synthetic Garden",
       "preview": "https://assets.ppy.sh/artists/418/Monochrome/Cansol - Synthetic Garden.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "dabih & polarN - Koushyoku no Melody",
-      "preview": "https://assets.ppy.sh/artists/418/Great Means Not Good/dabih %26 polarN - Koushyoku no Melody.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -93,18 +178,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Essbee - Rubix",
-      "preview": "https://assets.ppy.sh/artists/418/Late Summer Homework/Essbee - Rubix.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Fluffybunny - Divergence Theorem",
-      "preview": "https://assets.ppy.sh/artists/418/Great Means Not Good/Fluffybunny - Divergence Theorem.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Fluffybunny - Fractalize",
       "preview": "https://assets.ppy.sh/artists/418/PRojected PRism/Fluffybunny - Fractalize.mp3",
       "ranked_modes": [],
@@ -129,12 +202,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Hexacube - SUPER-ENTHUSIASTIC!!",
-      "preview": "https://assets.ppy.sh/artists/418/Great Means Not Good/Hexacube - SUPER-ENTHUSIASTIC!!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "LucaProject - Crystal Mind",
       "preview": "https://assets.ppy.sh/artists/418/Paradise Regained/LucaProject - Crystal Mind.mp3",
       "ranked_modes": [],
@@ -143,12 +210,6 @@
     {
       "title": "LucaProject - Queen of Heart",
       "preview": "https://assets.ppy.sh/artists/418/Villain/LucaProject - Queen of Heart.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "LucaProject - Recovery",
-      "preview": "https://assets.ppy.sh/artists/418/Recovery/LucaProject - Recovery.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -259,13 +320,7 @@
       "preview": "https://assets.ppy.sh/artists/418/Great Means Not Good/Xeudo Code - Dancing Among the Flying Bullet.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Xeudo Code - TERRAFORGE",
-      "preview": "https://assets.ppy.sh/artists/418/TERRAFORGE/Xeudo Code - TERRAFORGE.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:16:16Z"
+  "updated_at": "2026-04-04T13:33:10Z"
 }

@@ -15,6 +15,19 @@
       }
     },
     {
+      "title": "cexiria & Aquestion - CounterMeasure",
+      "preview": "https://assets.ppy.sh/artists/173/Songs/cexiria__Aquestion_-_CounterMeasure.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1494985,
+          1774120
+        ]
+      }
+    },
+    {
       "title": "Aquestion - Arrogation",
       "preview": "https://assets.ppy.sh/artists/173/Songs/Aquestion_-_Arrogation.mp3",
       "ranked_modes": [],
@@ -51,17 +64,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "cexiria & Aquestion - CounterMeasure",
-      "preview": "https://assets.ppy.sh/artists/173/Songs/cexiria__Aquestion_-_CounterMeasure.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "TWC Sound Team \"Strike Back Squad\" - BUZZ CUTZ",
       "preview": "https://assets.ppy.sh/artists/173/Songs/TWC_Sound_Team_Strike_Back_Squad_-_BUZZ_CUTZ.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:44:26Z"
+  "updated_at": "2026-04-04T13:24:17Z"
 }

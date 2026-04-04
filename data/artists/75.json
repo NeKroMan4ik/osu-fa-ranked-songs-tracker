@@ -34,12 +34,12 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          1195215
-        ],
         "taiko": [
           1009840,
           1143928
+        ],
+        "osu": [
+          1195215
         ]
       }
     },
@@ -60,6 +60,34 @@
         ],
         "fruits": [
           1209749
+        ]
+      }
+    },
+    {
+      "title": "Etude Op. 25, No. 12 (meganeko remix)",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2016.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1115500
+        ]
+      }
+    },
+    {
+      "title": "Moonlight Sonata 3rd Movement (meganeko remix)",
+      "preview": "https://assets.ppy.sh/artists/75/previews/2015.mp3",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1734804
+        ],
+        "taiko": [
+          1205053
         ]
       }
     },
@@ -87,11 +115,11 @@
         "mania": [
           1895713
         ],
-        "taiko": [
-          1703070
-        ],
         "osu": [
           1663147
+        ],
+        "taiko": [
+          1703070
         ]
       }
     },
@@ -116,12 +144,6 @@
     {
       "title": "Discovery",
       "preview": "https://assets.ppy.sh/artists/75/previews/2021.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Etude Op. 25, No. 12 (meganeko remix)",
-      "preview": "https://assets.ppy.sh/artists/75/previews/2016.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -176,12 +198,6 @@
     {
       "title": "Moonflowers",
       "preview": "https://assets.ppy.sh/artists/75/Songs/meganeko_-_Moonflowers.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Moonlight Sonata 3rd Movement (meganeko remix)",
-      "preview": "https://assets.ppy.sh/artists/75/previews/2015.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -258,5 +274,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:06:08Z"
+  "updated_at": "2026-04-04T13:30:20Z"
 }

@@ -10,11 +10,11 @@
         "osu"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          1328903
-        ],
         "fruits": [
           1109546
+        ],
+        "osu": [
+          1328903
         ]
       }
     },
@@ -26,11 +26,31 @@
         "osu"
       ],
       "beatmapset_ids_by_mode": {
-        "fruits": [
-          1560368
-        ],
         "osu": [
           1532007
+        ],
+        "fruits": [
+          1560368
+        ]
+      }
+    },
+    {
+      "title": "Rish feat. Choko - Take",
+      "preview": "https://assets.ppy.sh/artists/181/Candy Panic Bomb!/Rish feat. Choko - Take.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1377628
+        ],
+        "osu": [
+          1376486
+        ],
+        "fruits": [
+          1295206
         ]
       }
     },
@@ -71,12 +91,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Rish feat. Choko - Take",
-      "preview": "https://assets.ppy.sh/artists/181/Candy Panic Bomb!/Rish feat. Choko - Take.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Rish feat. Choko - Teruyama II",
       "preview": "https://assets.ppy.sh/artists/181/Black Black Candy/Rish feat. Choko - Teruyama II.mp3",
       "ranked_modes": [],
@@ -101,5 +115,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:15:28Z"
+  "updated_at": "2026-04-04T13:32:54Z"
 }

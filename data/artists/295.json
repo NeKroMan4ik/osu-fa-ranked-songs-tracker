@@ -46,11 +46,11 @@
         "osu": [
           2121355
         ],
-        "taiko": [
-          1850862
-        ],
         "mania": [
           1386859
+        ],
+        "taiko": [
+          1850862
         ]
       }
     },
@@ -108,19 +108,17 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          729588,
-          769181,
-          1033156
-        ],
         "fruits": [
           1454177
         ],
-        "taiko": [
-          781957
+        "osu": [
+          1033156
         ],
         "mania": [
           715728
+        ],
+        "taiko": [
+          781957
         ]
       }
     },
@@ -129,17 +127,11 @@
       "preview": "https://assets.ppy.sh/artists/295/Songs/DJ Genki vs. Camellia feat. moimoi - YELL!.mp3",
       "ranked_modes": [
         "fruits",
-        "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "mania": [
-          591786,
-          661022
-        ],
         "osu": [
-          564539,
           2514455
         ],
         "fruits": [
@@ -163,6 +155,30 @@
       }
     },
     {
+      "title": "Gram - Introduction",
+      "preview": "https://assets.ppy.sh/artists/295/Odin/Gram - Introduction.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2149813
+        ],
+        "osu": [
+          2121355
+        ],
+        "mania": [
+          1386859
+        ],
+        "taiko": [
+          1850862
+        ]
+      }
+    },
+    {
       "title": "Gram - Nibelungen",
       "preview": "https://assets.ppy.sh/artists/295/The Requiem/Gram - Nibelungen.mp3",
       "ranked_modes": [
@@ -170,13 +186,13 @@
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2151831
+        ],
         "mania": [
           1553319,
           1858535,
           2305280
-        ],
-        "osu": [
-          2151831
         ]
       }
     },
@@ -192,11 +208,11 @@
         "taiko": [
           2435495
         ],
-        "mania": [
-          1981845
-        ],
         "osu": [
           1981078
+        ],
+        "mania": [
+          1981845
         ]
       }
     },
@@ -251,13 +267,13 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "mania": [
-          999032,
-          2424143
-        ],
         "osu": [
           2254730,
           2374105
+        ],
+        "mania": [
+          999032,
+          2424143
         ],
         "taiko": [
           1031273,
@@ -395,12 +411,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Gram - Introduction",
-      "preview": "https://assets.ppy.sh/artists/295/Odin/Gram - Introduction.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Gram - The GamerS",
       "preview": "https://assets.ppy.sh/artists/295/Odin/Gram - The GamerS.mp3",
       "ranked_modes": [],
@@ -425,5 +435,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:51:49Z"
+  "updated_at": "2026-04-04T13:26:01Z"
 }

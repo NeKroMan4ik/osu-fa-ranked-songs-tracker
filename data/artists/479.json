@@ -3,6 +3,78 @@
   "name": "UNTONE Music",
   "tracks": [
     {
+      "title": "alister6 - Falling (For You)",
+      "preview": "https://assets.ppy.sh/artists/479/Falling (For You)/alister6 - Falling (For You).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2408268
+        ]
+      }
+    },
+    {
+      "title": "DJ Stuiter - Iridescent",
+      "preview": "https://assets.ppy.sh/artists/479/Iridescent/DJ Stuiter - Iridescent.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2206149
+        ]
+      }
+    },
+    {
+      "title": "endofsystem - 5 Beats",
+      "preview": "https://assets.ppy.sh/artists/479/endofsystem%2C Catonieca - dividebyzero/endofsystem - 5 Beats.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2463154
+        ]
+      }
+    },
+    {
+      "title": "Tanza3D - what's done is done",
+      "preview": "https://assets.ppy.sh/artists/479/what%27s done is done/Tanza3D - what%27s done is done.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2506607
+        ],
+        "osu": [
+          2506607
+        ],
+        "taiko": [
+          2506607
+        ],
+        "fruits": [
+          2506607
+        ]
+      }
+    },
+    {
+      "title": "TFD500 - Yami",
+      "preview": "https://assets.ppy.sh/artists/479/Yami/TFD500 - Yami.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2239180
+        ]
+      }
+    },
+    {
       "title": "Akatsukicks - Terminate Your Mind",
       "preview": "https://assets.ppy.sh/artists/479/Terminate Your Mind/Akatsukicks - Terminate Your Mind.mp3",
       "ranked_modes": [],
@@ -11,12 +83,6 @@
     {
       "title": "Alan Peterson - Symphony Of Dreams",
       "preview": "https://assets.ppy.sh/artists/479/Symphony of Dreams/Alan Peterson - Symphony Of Dreams.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "alister6 - Falling (For You)",
-      "preview": "https://assets.ppy.sh/artists/479/Falling (For You)/alister6 - Falling (For You).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -167,12 +233,6 @@
     {
       "title": "DJ Stuiter - im feeling fine",
       "preview": "https://assets.ppy.sh/artists/479/No Bootable Devices Found/DJ Stuiter - im feeling fine.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "DJ Stuiter - Iridescent",
-      "preview": "https://assets.ppy.sh/artists/479/Iridescent/DJ Stuiter - Iridescent.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -443,12 +503,6 @@
     {
       "title": "E-clipse - snowfall !",
       "preview": "https://assets.ppy.sh/artists/479/Festive Aspect Volume 1/E-clipse - snowfall !.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "endofsystem - 5 Beats",
-      "preview": "https://assets.ppy.sh/artists/479/endofsystem%2C Catonieca - dividebyzero/endofsystem - 5 Beats.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -759,12 +813,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Tanza3D - what's done is done",
-      "preview": "https://assets.ppy.sh/artists/479/what%27s done is done/Tanza3D - what%27s done is done.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "TFD500 - Corrupted Angel",
       "preview": "https://assets.ppy.sh/artists/479/Corrupted Angel/TFD500 - Corrupted Angel.mp3",
       "ranked_modes": [],
@@ -813,12 +861,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "TFD500 - Yami",
-      "preview": "https://assets.ppy.sh/artists/479/Yami/TFD500 - Yami.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "torment. - bliss",
       "preview": "https://assets.ppy.sh/artists/479/bliss/torment. - bliss.mp3",
       "ranked_modes": [],
@@ -843,5 +885,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:25:49Z"
+  "updated_at": "2026-04-04T13:35:32Z"
 }

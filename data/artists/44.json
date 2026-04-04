@@ -3,6 +3,54 @@
   "name": "Disko Warp",
   "tracks": [
     {
+      "title": "Becky - I Wanna Be A Ninja",
+      "preview": "https://assets.ppy.sh/artists/44/previews/1045.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1051314
+        ]
+      }
+    },
+    {
+      "title": "Becky - Less Than Three (Ricardo Autobahn Remix)",
+      "preview": "https://assets.ppy.sh/artists/44/previews/1047.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1078502
+        ]
+      }
+    },
+    {
+      "title": "Fright Ranger - Oh Oh Oh Sexy Vampire (DJ Shimamura Remix)",
+      "preview": "https://assets.ppy.sh/artists/44/previews/1053.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1051725
+        ]
+      }
+    },
+    {
+      "title": "Half Polish - Hej Sokoly",
+      "preview": "https://assets.ppy.sh/artists/44/previews/1055.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1051396
+        ]
+      }
+    },
+    {
       "title": "Ani-Rock! & Initial P - Together!!",
       "preview": "https://assets.ppy.sh/artists/44/previews/1041.mp3",
       "ranked_modes": [],
@@ -27,20 +75,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Becky - I Wanna Be A Ninja",
-      "preview": "https://assets.ppy.sh/artists/44/previews/1045.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Becky - Jump Around",
       "preview": "https://assets.ppy.sh/artists/44/previews/1046.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Becky - Less Than Three (Ricardo Autobahn Remix)",
-      "preview": "https://assets.ppy.sh/artists/44/previews/1047.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -75,20 +111,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Fright Ranger - Oh Oh Oh Sexy Vampire (DJ Shimamura Remix)",
-      "preview": "https://assets.ppy.sh/artists/44/previews/1053.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Fright Ranger - Werewolf Boyfriend (AKBK \"DJ Command\" Remix)",
       "preview": "https://assets.ppy.sh/artists/44/previews/1054.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Half Polish - Hej Sokoly",
-      "preview": "https://assets.ppy.sh/artists/44/previews/1055.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -195,5 +219,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:51:24Z"
+  "updated_at": "2026-04-04T13:25:58Z"
 }

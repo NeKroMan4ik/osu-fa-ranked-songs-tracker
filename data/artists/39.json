@@ -11,16 +11,16 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          1972034,
+          1972310
+        ],
         "taiko": [
           2325930
         ],
         "osu": [
           1971987,
           1972749
-        ],
-        "mania": [
-          1972034,
-          1972310
         ]
       }
     },
@@ -54,6 +54,18 @@
         ],
         "osu": [
           972810
+        ]
+      }
+    },
+    {
+      "title": "James Landino, Funk Fiction, Motoi - Dreaming",
+      "preview": "https://assets.ppy.sh/artists/39/Songs/James_Landino_Funk_Fiction_Motoi_-_Dreaming.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2079507
         ]
       }
     },
@@ -132,17 +144,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "James Landino, Funk Fiction, Motoi - Dreaming",
-      "preview": "https://assets.ppy.sh/artists/39/Songs/James_Landino_Funk_Fiction_Motoi_-_Dreaming.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "RUN2ME",
       "preview": "https://assets.ppy.sh/artists/39/Songs/James Landino - RUN2ME.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:59:03Z"
+  "updated_at": "2026-04-04T13:28:15Z"
 }

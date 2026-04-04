@@ -3,14 +3,14 @@
   "name": "miraie",
   "tracks": [
     {
-      "title": "Milkoi & miraie - Solemnity",
-      "preview": "https://assets.ppy.sh/artists/162/Somnolent/Milkoi & miraie - Solemnity.mp3",
+      "title": "kuru x miraie - re:start",
+      "preview": "https://assets.ppy.sh/artists/162/Songs/kuru%20x%20miraie%20-%20restart%20%28space%20%2B%20kuru%29.mp3",
       "ranked_modes": [
-        "mania"
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "mania": [
-          1808304
+        "taiko": [
+          1796440
         ]
       }
     },
@@ -105,8 +105,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "kuru x miraie - re:start",
-      "preview": "https://assets.ppy.sh/artists/162/Songs/kuru%20x%20miraie%20-%20restart%20%28space%20%2B%20kuru%29.mp3",
+      "title": "Milkoi & miraie - Solemnity",
+      "preview": "https://assets.ppy.sh/artists/162/Somnolent/Milkoi & miraie - Solemnity.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -159,5 +159,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:06:49Z"
+  "updated_at": "2026-04-04T13:30:36Z"
 }

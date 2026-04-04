@@ -3,6 +3,18 @@
   "name": "2TD",
   "tracks": [
     {
+      "title": "2TD x RANASOL - Unknown",
+      "preview": "https://assets.ppy.sh/artists/157/Unknown/2TD_x_RANASOL_-_Unknown.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2169097
+        ]
+      }
+    },
+    {
       "title": "2TD - On U",
       "preview": "https://assets.ppy.sh/artists/157/On U/2TD_-_On_U.mp3",
       "ranked_modes": [],
@@ -51,17 +63,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "2TD x RANASOL - Unknown",
-      "preview": "https://assets.ppy.sh/artists/157/Unknown/2TD_x_RANASOL_-_Unknown.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "2TD x YTCracker - Shidoshi",
       "preview": "https://assets.ppy.sh/artists/157/With Friends/2TD_x_YTCracker_-_Shidoshi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:40:53Z"
+  "updated_at": "2026-04-04T13:23:16Z"
 }

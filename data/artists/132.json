@@ -3,18 +3,6 @@
   "name": "Yuyoyuppe / DJ'TEKINA//SOMETHING",
   "tracks": [
     {
-      "title": "Emerald Galaxy",
-      "preview": "https://assets.ppy.sh/artists/132/Songs/Yuyoyuppe - Emerald Galaxy.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          682286
-        ]
-      }
-    },
-    {
       "title": "Gerbera",
       "preview": "https://assets.ppy.sh/artists/132/Draw/Yuyoyuppe - Gerbera.mp3",
       "ranked_modes": [
@@ -38,13 +26,13 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2505838
+        ],
         "taiko": [
           2505838
         ],
         "mania": [
-          2505838
-        ],
-        "fruits": [
           2505838
         ],
         "osu": [
@@ -207,6 +195,12 @@
       }
     },
     {
+      "title": "Emerald Galaxy",
+      "preview": "https://assets.ppy.sh/artists/132/Songs/Yuyoyuppe - Emerald Galaxy.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "You Need Fxxkin' Anthem",
       "preview": "https://assets.ppy.sh/artists/132/DJ'TEKINA--SOMETHING/DJ'TEKINASOMETHING - You Need Fxxkin' Anthem.mp3",
       "ranked_modes": [],
@@ -237,5 +231,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:28:58Z"
+  "updated_at": "2026-04-04T13:36:40Z"
 }

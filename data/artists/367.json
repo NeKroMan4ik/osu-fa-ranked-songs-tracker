@@ -56,19 +56,6 @@
       }
     },
     {
-      "title": "kanemiko & Kyutatsuki & Aoi - Fractal Vertex",
-      "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko__Kyutatsuki__Aoi_-_Fractal_Vertex.mp3",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2424891,
-          2433249
-        ]
-      }
-    },
-    {
       "title": "Ruin in Cascade",
       "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko_-_Ruin_in_Cascade.mp3",
       "ranked_modes": [
@@ -77,27 +64,31 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2318032,
+          2319270
+        ],
         "taiko": [
           2354646
         ],
         "fruits": [
           2321573
-        ],
-        "mania": [
-          2318032,
-          2319270
         ]
       }
     },
     {
-      "title": "Twilight of the Abyss",
-      "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko_-_Twilight_of_the_Abyss.mp3",
+      "title": "Us4KKi - Aria for Lepus",
+      "preview": "https://assets.ppy.sh/artists/367/Songs/Us4KKi_-_Aria_for_Lepus.mp3",
       "ranked_modes": [
-        "osu"
+        "fruits",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          2209401
+        "fruits": [
+          2075714
+        ],
+        "taiko": [
+          1908573
         ]
       }
     },
@@ -116,6 +107,12 @@
     {
       "title": "Fragment:Unsaved",
       "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko_-_FragmentUnsaved.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "kanemiko & Kyutatsuki & Aoi - Fractal Vertex",
+      "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko__Kyutatsuki__Aoi_-_Fractal_Vertex.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -144,11 +141,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Us4KKi - Aria for Lepus",
-      "preview": "https://assets.ppy.sh/artists/367/Songs/Us4KKi_-_Aria_for_Lepus.mp3",
+      "title": "Twilight of the Abyss",
+      "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko_-_Twilight_of_the_Abyss.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:59:52Z"
+  "updated_at": "2026-04-04T13:28:34Z"
 }

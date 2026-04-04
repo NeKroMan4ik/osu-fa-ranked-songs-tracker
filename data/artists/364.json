@@ -15,18 +15,6 @@
       }
     },
     {
-      "title": "Toki no Ryousen (Supire Remix)",
-      "preview": "https://assets.ppy.sh/artists/364/Songs/kaitendaentai - Toki no Ryousen (Supire Remix).mp3",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1701020
-        ]
-      }
-    },
-    {
       "title": "Aether",
       "preview": "https://assets.ppy.sh/artists/364/Songs/kaitendaentai_-_Aether.mp3",
       "ranked_modes": [],
@@ -73,7 +61,13 @@
       "preview": "https://assets.ppy.sh/artists/364/Songs/kaitendaentai - Toki no Ryousen.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Toki no Ryousen (Supire Remix)",
+      "preview": "https://assets.ppy.sh/artists/364/Songs/kaitendaentai - Toki no Ryousen (Supire Remix).mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:59:45Z"
+  "updated_at": "2026-04-04T13:28:31Z"
 }

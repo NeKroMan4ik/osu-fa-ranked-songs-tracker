@@ -21,6 +21,48 @@
       }
     },
     {
+      "title": "Dustvoxx, Laur - FireLight",
+      "preview": "https://assets.ppy.sh/artists/386/SUPERNATURAL/Dustvoxx%2C Laur - FireLight.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2064173
+        ],
+        "taiko": [
+          978134
+        ]
+      }
+    },
+    {
+      "title": "Dustvoxx, Laur - FireLight (Neokontrol Remix)",
+      "preview": "https://assets.ppy.sh/artists/386/HAUNT/Dustvoxx%2C Laur - FireLight (Neokontrol Remix).mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1345281
+        ]
+      }
+    },
+    {
+      "title": "Dustvoxx, Loctek - Labyrinth of Mind",
+      "preview": "https://assets.ppy.sh/artists/386/SUPERNATURAL/Dustvoxx%2C Loctek - Labyrinth of Mind.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          969626,
+          2129944,
+          2485980
+        ]
+      }
+    },
+    {
       "title": "Switchback",
       "preview": "https://assets.ppy.sh/artists/386/HAUNT/Dustvoxx - Switchback.mp3",
       "ranked_modes": [
@@ -65,24 +107,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Dustvoxx, Laur - FireLight",
-      "preview": "https://assets.ppy.sh/artists/386/SUPERNATURAL/Dustvoxx%2C Laur - FireLight.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Dustvoxx, Laur - FireLight (Neokontrol Remix)",
-      "preview": "https://assets.ppy.sh/artists/386/HAUNT/Dustvoxx%2C Laur - FireLight (Neokontrol Remix).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Dustvoxx, Loctek - Labyrinth of Mind",
-      "preview": "https://assets.ppy.sh/artists/386/SUPERNATURAL/Dustvoxx%2C Loctek - Labyrinth of Mind.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Dustvoxx, USAO - Divergence",
       "preview": "https://assets.ppy.sh/artists/386/SUPERNATURAL/Dustvoxx%2C USAO - Divergence.mp3",
       "ranked_modes": [],
@@ -113,5 +137,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:52:19Z"
+  "updated_at": "2026-04-04T13:26:14Z"
 }

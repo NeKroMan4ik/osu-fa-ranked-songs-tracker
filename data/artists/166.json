@@ -31,11 +31,11 @@
           2045169,
           2074198
         ],
-        "mania": [
-          1962727
-        ],
         "taiko": [
           1961959
+        ],
+        "mania": [
+          1962727
         ]
       }
     },
@@ -61,18 +61,6 @@
       "beatmapset_ids_by_mode": {
         "mania": [
           1466792
-        ]
-      }
-    },
-    {
-      "title": "Islands",
-      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn - Islands.mp3",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          1762835
         ]
       }
     },
@@ -113,15 +101,15 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "mania": [
-          1126358
+        "osu": [
+          1032553,
+          1078570
         ],
         "taiko": [
           1124134
         ],
-        "osu": [
-          1032553,
-          1078570
+        "mania": [
+          1126358
         ]
       }
     },
@@ -146,6 +134,12 @@
     {
       "title": "Famima",
       "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn - Famima.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Islands",
+      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn - Islands.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -186,5 +180,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:42:25Z"
+  "updated_at": "2026-04-04T13:23:41Z"
 }

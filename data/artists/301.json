@@ -3,6 +3,93 @@
   "name": "AAAA",
   "tracks": [
     {
+      "title": "aa...hisuichazuke... - steganography",
+      "preview": "https://assets.ppy.sh/artists/301/Songs/aa...hisuichazuke..._-_steganography.mp3",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1846639
+        ],
+        "taiko": [
+          1847490,
+          1847895
+        ]
+      }
+    },
+    {
+      "title": "AAAA + Hino Isuka - Keep smiling.",
+      "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA %2B Hino Isuka - Keep smiling..mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1057773,
+          2100740
+        ]
+      }
+    },
+    {
+      "title": "AAAA + Umeboshi Chazuke - Cait Sith",
+      "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA %2B Umeboshi Chazuke - Cait Sith.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1848926
+        ],
+        "taiko": [
+          1865696
+        ]
+      }
+    },
+    {
+      "title": "AAAA + yadrigg - Sakase Natsuzora, Koi no Hana.",
+      "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA %2B yadrigg - Sakase Natsuzora%2C Koi no Hana..mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          536572
+        ]
+      }
+    },
+    {
+      "title": "AAAA Chazuke - Myosotis no Hanataba",
+      "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA Chazuke - Myosotis no Hanataba.mp3",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          678182,
+          2268229
+        ],
+        "taiko": [
+          1153450
+        ]
+      }
+    },
+    {
+      "title": "AAAA Chazuke - Sayonara Cosmonaut [Long ver.]",
+      "preview": "https://assets.ppy.sh/artists/301/Stardusts in my Memory Card/AAAA Chazuke - Sayonara Cosmonaut %5BLong ver.%5D.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          869960
+        ]
+      }
+    },
+    {
       "title": "AAAA vs. Frums - beepbit * futures",
       "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA vs. Frums - beepbit  futures.mp3",
       "ranked_modes": [
@@ -114,6 +201,27 @@
       }
     },
     {
+      "title": "Hoshi o Kakeru Adventure ~ we are forever friends! ~ (Long ver.)",
+      "preview": "https://assets.ppy.sh/artists/301/Stardusts in my Memory Card/AAAA_-_Hoshi_o_Kakeru_Adventure__we_are_forever_friends__Long_ver..mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          916324,
+          2426123
+        ],
+        "mania": [
+          2449841
+        ],
+        "taiko": [
+          2404793
+        ]
+      }
+    },
+    {
       "title": "Hoshizora no Kanransha",
       "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA - Hoshizora no Kanransha.mp3",
       "ranked_modes": [
@@ -121,11 +229,11 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          2094949
-        ],
         "taiko": [
           2008874
+        ],
+        "osu": [
+          2094949
         ]
       }
     },
@@ -189,50 +297,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "aa...hisuichazuke... - steganography",
-      "preview": "https://assets.ppy.sh/artists/301/Songs/aa...hisuichazuke..._-_steganography.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "AAAA + Hino Isuka - ha@ppy s@mmer v@c@tion!! (Long ver.)",
       "preview": "https://assets.ppy.sh/artists/301/Stardusts in my Memory Card/AAAA %2B Hino Isuka - ha%40ppy s%40mmer v%40c%40tion!! (Long ver.).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "AAAA + Hino Isuka - Keep smiling.",
-      "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA %2B Hino Isuka - Keep smiling..mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "AAAA + Umeboshi Chazuke - Cait Sith",
-      "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA %2B Umeboshi Chazuke - Cait Sith.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "AAAA + yadrigg - Sakase Natsuzora, Koi no Hana.",
-      "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA %2B yadrigg - Sakase Natsuzora%2C Koi no Hana..mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "AAAA Chazuke - Myosotis no Hanataba",
-      "preview": "https://assets.ppy.sh/artists/301/Songs/AAAA Chazuke - Myosotis no Hanataba.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "AAAA Chazuke - Sayonara Cosmonaut [Long ver.]",
-      "preview": "https://assets.ppy.sh/artists/301/Stardusts in my Memory Card/AAAA Chazuke - Sayonara Cosmonaut %5BLong ver.%5D.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hoshi o Kakeru Adventure ~ we are forever friends! ~ (Long ver.)",
-      "preview": "https://assets.ppy.sh/artists/301/Stardusts in my Memory Card/AAAA_-_Hoshi_o_Kakeru_Adventure__we_are_forever_friends__Long_ver..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -243,5 +309,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:41:40Z"
+  "updated_at": "2026-04-04T13:23:29Z"
 }

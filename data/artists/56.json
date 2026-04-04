@@ -124,10 +124,10 @@
           272785,
           1081119
         ],
-        "taiko": [
+        "mania": [
           272785
         ],
-        "mania": [
+        "taiko": [
           272785
         ]
       }
@@ -141,15 +141,15 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          1071016
+        ],
         "taiko": [
           1143756
         ],
         "osu": [
           353368,
           1077345
-        ],
-        "mania": [
-          1071016
         ]
       }
     },
@@ -188,6 +188,18 @@
         "osu": [
           36529,
           1079727
+        ]
+      }
+    },
+    {
+      "title": "Scandroid - Neo-Tokyo",
+      "preview": "https://assets.ppy.sh/artists/56/Scandroid/Scandroid - Neo-Tokyo.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1115672
         ]
       }
     },
@@ -276,17 +288,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Scandroid - Neo-Tokyo",
-      "preview": "https://assets.ppy.sh/artists/56/Scandroid/Scandroid - Neo-Tokyo.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Subkulture - Erasus (feat. Celldweller)",
       "preview": "https://assets.ppy.sh/artists/56/Songs/Subkulture - Erasus (feat. Celldweller).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:01:01Z"
+  "updated_at": "2026-04-04T13:28:55Z"
 }

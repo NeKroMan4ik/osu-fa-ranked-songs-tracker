@@ -3,6 +3,129 @@
   "name": "HARDCORE UTOPIA",
   "tracks": [
     {
+      "title": "Elliot Hsu - Reality Purge",
+      "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 3/Elliot Hsu - Reality Purge.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1508500
+        ]
+      }
+    },
+    {
+      "title": "Hino Isuka - ULTRA MEGA HAPPY PARTY!!!",
+      "preview": "https://assets.ppy.sh/artists/205/Songs/Hino_Isuka_-_ULTRA_MEGA_HAPPY_PARTY.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2456838
+        ]
+      }
+    },
+    {
+      "title": "Ludicin - Zoisite",
+      "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 2/Ludicin - Zoisite.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2067095
+        ]
+      }
+    },
+    {
+      "title": "MEMODEMO - Love Language",
+      "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 3/MEMODEMO - Love Language.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2152480
+        ]
+      }
+    },
+    {
+      "title": "mitei - Phosphor",
+      "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 3/mitei - Phosphor.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2317893
+        ],
+        "fruits": [
+          2315263
+        ],
+        "osu": [
+          1508502
+        ]
+      }
+    },
+    {
+      "title": "Raphiiel - RoquiRa : Between Life and Death",
+      "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 3/Raphiiel - RoquiRa  Between Life and Death.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1771781,
+          1792218,
+          2144809
+        ],
+        "taiko": [
+          2149621
+        ],
+        "osu": [
+          1508499,
+          1952028
+        ]
+      }
+    },
+    {
+      "title": "Sad Keyboard Guy, Myntian & Sleepless - Chroma//Surge",
+      "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 3/Sad Keyboard Guy%2C Myntian %26 Sleepless - ChromaSurge.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1964805
+        ],
+        "osu": [
+          1876207
+        ]
+      }
+    },
+    {
+      "title": "Synthion - Hypervelocity",
+      "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 2/Synthion - Hypervelocity.mp3",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2068007
+        ],
+        "taiko": [
+          1662973
+        ]
+      }
+    },
+    {
       "title": "4* - To The Stars",
       "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 2/4 - To The Stars.mp3",
       "ranked_modes": [],
@@ -81,12 +204,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Elliot Hsu - Reality Purge",
-      "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 3/Elliot Hsu - Reality Purge.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Evin a'k - Atamytai",
       "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 1/Evin a%27k - Atamytai.mp3",
       "ranked_modes": [],
@@ -119,12 +236,6 @@
     {
       "title": "Halv - Tell Me Now",
       "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 2/Halv - Tell Me Now.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Hino Isuka - ULTRA MEGA HAPPY PARTY!!!",
-      "preview": "https://assets.ppy.sh/artists/205/Songs/Hino_Isuka_-_ULTRA_MEGA_HAPPY_PARTY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -183,32 +294,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Ludicin - Zoisite",
-      "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 2/Ludicin - Zoisite.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Malt - Dear My",
       "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 2/Malt - Dear My.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "MEMODEMO - Love Language",
-      "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 3/MEMODEMO - Love Language.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "mitei - Phosphor",
-      "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 3/mitei - Phosphor.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Raphiiel - RoquiRa : Between Life and Death",
-      "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 3/Raphiiel - RoquiRa  Between Life and Death.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -255,12 +342,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Sad Keyboard Guy, Myntian & Sleepless - Chroma//Surge",
-      "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 3/Sad Keyboard Guy%2C Myntian %26 Sleepless - ChromaSurge.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Street - Aiwv",
       "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 3/Street - Aiwv.mp3",
       "ranked_modes": [],
@@ -269,12 +350,6 @@
     {
       "title": "Sylphix - Shatter World",
       "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 3/Sylphix - Shatter World.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Synthion - Hypervelocity",
-      "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 2/Synthion - Hypervelocity.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -309,5 +384,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:56:19Z"
+  "updated_at": "2026-04-04T13:27:32Z"
 }

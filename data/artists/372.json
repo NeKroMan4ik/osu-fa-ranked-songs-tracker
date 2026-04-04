@@ -3,6 +3,40 @@
   "name": "YUC'e",
   "tracks": [
     {
+      "title": "Aiobahn - Shinen no Mermaid (w/ YUC'e)",
+      "preview": "https://assets.ppy.sh/artists/372/Songs/Aiobahn - Shinen no Mermaid (w YUC%27e).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1129090
+        ]
+      }
+    },
+    {
+      "title": "Aiobahn - Towa no Utage (w/ YUC'e)",
+      "preview": "https://assets.ppy.sh/artists/372/Songs/Aiobahn - Towa no Utage (w YUC%27e).mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2060871,
+          2308698
+        ],
+        "osu": [
+          844048,
+          2184395
+        ],
+        "taiko": [
+          2029608
+        ]
+      }
+    },
+    {
       "title": "Cinderella Syndrome",
       "preview": "https://assets.ppy.sh/artists/372/Future Candy/YUC%27e - Cinderella Syndrome.mp3",
       "ranked_modes": [
@@ -43,14 +77,14 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2208029
+        ],
         "fruits": [
           924882
         ],
         "osu": [
           546820
-        ],
-        "taiko": [
-          2208029
         ]
       }
     },
@@ -191,14 +225,14 @@
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          1879397
+        ],
         "fruits": [
           2031302
         ],
         "osu": [
           2015526
-        ],
-        "mania": [
-          1879397
         ]
       }
     },
@@ -229,18 +263,6 @@
           1488331
         ]
       }
-    },
-    {
-      "title": "Aiobahn - Shinen no Mermaid (w/ YUC'e)",
-      "preview": "https://assets.ppy.sh/artists/372/Songs/Aiobahn - Shinen no Mermaid (w YUC%27e).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Aiobahn - Towa no Utage (w/ YUC'e)",
-      "preview": "https://assets.ppy.sh/artists/372/Songs/Aiobahn - Towa no Utage (w YUC%27e).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Cappuccino -DJ Noriken Remix-",
@@ -303,5 +325,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:28:37Z"
+  "updated_at": "2026-04-04T13:36:32Z"
 }

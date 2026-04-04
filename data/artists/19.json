@@ -5,20 +5,64 @@
     {
       "title": "baker - Kimi ga Kimi ga -vocanico remix-",
       "preview": "https://assets.ppy.sh/artists/19/baker/baker_-_Kimi_ga_Kimi_ga_-vocanico_remix-.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          682595,
+          1954897
+        ]
+      }
     },
     {
       "title": "Emerald Galaxy",
       "preview": "https://assets.ppy.sh/artists/19/previews/363.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          682286
+        ]
+      }
     },
     {
       "title": "For a Dead Girl+",
       "preview": "https://assets.ppy.sh/artists/19/previews/356.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          682287,
+          955671
+        ]
+      }
+    },
+    {
+      "title": "Miracle Sugite Yabai (feat. shully)",
+      "preview": "https://assets.ppy.sh/artists/19/previews/360.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          682290
+        ]
+      }
+    },
+    {
+      "title": "Palette",
+      "preview": "https://assets.ppy.sh/artists/19/previews/361.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          682416
+        ]
+      }
     },
     {
       "title": "Hidamari no Uta",
@@ -33,12 +77,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Miracle Sugite Yabai (feat. shully)",
-      "preview": "https://assets.ppy.sh/artists/19/previews/360.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "nailnailnailnail",
       "preview": "https://assets.ppy.sh/artists/19/previews/362.mp3",
       "ranked_modes": [],
@@ -49,13 +87,7 @@
       "preview": "https://assets.ppy.sh/artists/19/previews/358.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Palette",
-      "preview": "https://assets.ppy.sh/artists/19/previews/361.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:07:46Z"
+  "updated_at": "2026-04-04T13:30:48Z"
 }

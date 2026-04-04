@@ -46,23 +46,11 @@
         "mania": [
           1591620
         ],
-        "taiko": [
-          1328323
-        ],
         "osu": [
           1306570
-        ]
-      }
-    },
-    {
-      "title": "Sobrem & NIWASHI - A fight in Tunisia",
-      "preview": "https://assets.ppy.sh/artists/228/Songs/Sobrem__NIWASHI_-_A_fight_in_Tunisia.mp3",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2234592
+        ],
+        "taiko": [
+          1328323
         ]
       }
     },
@@ -83,6 +71,42 @@
         ],
         "osu": [
           1710885
+        ]
+      }
+    },
+    {
+      "title": "Tonari no Niwa wa Aoi (NIWASHI + Aoi) - Nostalgic Lost Logic",
+      "preview": "https://assets.ppy.sh/artists/228/Songs/Tonari_no_Niwa_wa_Aoi_NIWASHI__Aoi_-_Nostalgic_Lost_Logic.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2095978
+        ],
+        "osu": [
+          1683782
+        ]
+      }
+    },
+    {
+      "title": "Trerey-U + NIWASHI - Hisui",
+      "preview": "https://assets.ppy.sh/artists/228/Songs/Trerey-U__NIWASHI_-_Hisui.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2173214
+        ],
+        "taiko": [
+          1795383
+        ],
+        "osu": [
+          1303715
         ]
       }
     },
@@ -133,6 +157,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Sobrem & NIWASHI - A fight in Tunisia",
+      "preview": "https://assets.ppy.sh/artists/228/Songs/Sobrem__NIWASHI_-_A_fight_in_Tunisia.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "T_ritama Breaker",
       "preview": "https://assets.ppy.sh/artists/228/Songs/NIWASHI - T_ritama Breaker.mp3",
       "ranked_modes": [],
@@ -151,23 +181,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Tonari no Niwa wa Aoi (NIWASHI + Aoi) - Nostalgic Lost Logic",
-      "preview": "https://assets.ppy.sh/artists/228/Songs/Tonari_no_Niwa_wa_Aoi_NIWASHI__Aoi_-_Nostalgic_Lost_Logic.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Trerey-U + NIWASHI - Hisui",
-      "preview": "https://assets.ppy.sh/artists/228/Songs/Trerey-U__NIWASHI_-_Hisui.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Veterock no Kuuko ni Kiyu",
       "preview": "https://assets.ppy.sh/artists/228/Songs/NIWASHI - Veterock no Kuuko ni Kiyu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:09:21Z"
+  "updated_at": "2026-04-04T13:31:26Z"
 }

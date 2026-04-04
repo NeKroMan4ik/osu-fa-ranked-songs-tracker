@@ -5,24 +5,54 @@
     {
       "title": "Aiobahn - Islands",
       "preview": "https://assets.ppy.sh/artists/221/Songs/Aiobahn - Islands.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1762835
+        ]
+      }
     },
     {
       "title": "F.O.O.L & Laura Brehm - Waking Up",
       "preview": "https://assets.ppy.sh/artists/221/Songs/F.O.O.L %26 Laura Brehm - Waking Up.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Grim Fables - Oasis VIP",
-      "preview": "https://assets.ppy.sh/artists/221/Songs/Grim Fables - Oasis VIP.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2094934
+        ]
+      }
     },
     {
       "title": "oneohkay - Last 7 Letters",
       "preview": "https://assets.ppy.sh/artists/221/Songs/oneohkay - Last 7 Letters.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1616937
+        ]
+      }
+    },
+    {
+      "title": "Snail's House - Sparkle",
+      "preview": "https://assets.ppy.sh/artists/221/Songs/Snail%27s House - Sparkle.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2322934
+        ]
+      }
+    },
+    {
+      "title": "Grim Fables - Oasis VIP",
+      "preview": "https://assets.ppy.sh/artists/221/Songs/Grim Fables - Oasis VIP.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -79,13 +109,7 @@
       "preview": "https://assets.ppy.sh/artists/221/Songs/Snail%27s House - Pixel Dream.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Snail's House - Sparkle",
-      "preview": "https://assets.ppy.sh/artists/221/Songs/Snail%27s House - Sparkle.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:22:28Z"
+  "updated_at": "2026-04-04T13:34:49Z"
 }

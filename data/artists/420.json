@@ -5,18 +5,30 @@
     {
       "title": "Aethral - Cyber Surge",
       "preview": "https://assets.ppy.sh/artists/420/TEST Originals/Aethral - Cyber Surge.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Aethral - Phoenix",
-      "preview": "https://assets.ppy.sh/artists/420/TEST Originals/Aethral - Phoenix.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2177377
+        ]
+      }
     },
     {
       "title": "kanemiko - Twilight of the Abyss",
       "preview": "https://assets.ppy.sh/artists/420/TEST Originals/kanemiko - Twilight of the Abyss.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2209401
+        ]
+      }
+    },
+    {
+      "title": "Aethral - Phoenix",
+      "preview": "https://assets.ppy.sh/artists/420/TEST Originals/Aethral - Phoenix.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -33,5 +45,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:23:06Z"
+  "updated_at": "2026-04-04T13:35:00Z"
 }

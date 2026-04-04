@@ -51,6 +51,30 @@
       }
     },
     {
+      "title": "Sydosys as \"[LS]Ham\" - Apollyon",
+      "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_as_LSHam_-_Apollyon.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1990588
+        ]
+      }
+    },
+    {
+      "title": "TWC Sound Team \"Xurv Stasis Rasufim\" - Kaze no Denwa",
+      "preview": "https://assets.ppy.sh/artists/392/Songs/TWC_Sound_Team_Xurv_Stasis_Rasufim_-_Kaze_no_Denwa.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2166504
+        ]
+      }
+    },
+    {
       "title": "Voyage",
       "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_-_Voyage.mp3",
       "ranked_modes": [
@@ -70,11 +94,11 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
-          2192657
-        ],
         "osu": [
           2085296
+        ],
+        "taiko": [
+          2192657
         ]
       }
     },
@@ -103,20 +127,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Sydosys as \"[LS]Ham\" - Apollyon",
-      "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_as_LSHam_-_Apollyon.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Termina",
       "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_-_Termina.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "TWC Sound Team \"Xurv Stasis Rasufim\" - Kaze no Denwa",
-      "preview": "https://assets.ppy.sh/artists/392/Songs/TWC_Sound_Team_Xurv_Stasis_Rasufim_-_Kaze_no_Denwa.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -127,5 +139,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:20:57Z"
+  "updated_at": "2026-04-04T13:34:30Z"
 }

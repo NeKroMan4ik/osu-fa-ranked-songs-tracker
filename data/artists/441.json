@@ -3,53 +3,103 @@
   "name": "Badly Wood Cup",
   "tracks": [
     {
-      "title": "AAAA - reach for your victory!!!",
-      "preview": "https://assets.ppy.sh/artists/441/Songs/AAAA - reach for your victory!!!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "DJ Raisei - ReDIVE NEURON",
       "preview": "https://assets.ppy.sh/artists/441/Songs/DJ Raisei - ReDIVE NEURON.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2321611
+        ]
+      }
     },
     {
       "title": "Kagetora. - Tenchi-Kaibyaku",
       "preview": "https://assets.ppy.sh/artists/441/Songs/Kagetora. - Tenchi-Kaibyaku.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2265132
+        ]
+      }
     },
     {
       "title": "katagiri - VIVID ABYSS",
       "preview": "https://assets.ppy.sh/artists/441/Songs/katagiri - VIVID ABYSS.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2323330
+        ],
+        "taiko": [
+          2230188
+        ]
+      }
     },
     {
       "title": "MYUKKE. - Beta Snow",
       "preview": "https://assets.ppy.sh/artists/441/Songs/MYUKKE. - Beta Snow.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2275058
+        ]
+      }
     },
     {
       "title": "Sad Keyboard Guy & Gardens - Illusory Truth",
       "preview": "https://assets.ppy.sh/artists/441/Songs/Sad Keyboard Guy %26 Gardens - Illusory Truth.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2219282
+        ]
+      }
     },
     {
       "title": "seatrus - Blank society",
       "preview": "https://assets.ppy.sh/artists/441/Songs/seatrus - Blank society.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2282166
+        ]
+      }
     },
     {
       "title": "uynet - Never Rezort",
       "preview": "https://assets.ppy.sh/artists/441/Songs/uynet - Never Rezort.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2214270
+        ],
+        "mania": [
+          2214270
+        ]
+      }
+    },
+    {
+      "title": "AAAA - reach for your victory!!!",
+      "preview": "https://assets.ppy.sh/artists/441/Songs/AAAA - reach for your victory!!!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:45:34Z"
+  "updated_at": "2026-04-04T13:24:40Z"
 }

@@ -27,6 +27,18 @@
       }
     },
     {
+      "title": "stepping on your cat's tail be like",
+      "preview": "https://assets.ppy.sh/artists/423/xiiiac13 Collection Volume %231/xiiiac13 - stepping on your cat%27s tail be like.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2527825
+        ]
+      }
+    },
+    {
       "title": "who let him cook",
       "preview": "https://assets.ppy.sh/artists/423/xiiiac13 Collection Volume %231/xiiiac13 - who let him cook.mp3",
       "ranked_modes": [
@@ -34,10 +46,10 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "taiko": [
+        "osu": [
           2169368
         ],
-        "osu": [
+        "taiko": [
           2169368
         ]
       }
@@ -67,12 +79,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "stepping on your cat's tail be like",
-      "preview": "https://assets.ppy.sh/artists/423/xiiiac13 Collection Volume %231/xiiiac13 - stepping on your cat%27s tail be like.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "the core is breaking or something idk i've never seen the anime",
       "preview": "https://assets.ppy.sh/artists/423/xiiiac13 Collection Volume %231/xiiiac13 - the core is breaking or something idk i%27ve never seen the anime.mp3",
       "ranked_modes": [],
@@ -97,5 +103,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:28:04Z"
+  "updated_at": "2026-04-04T13:36:20Z"
 }

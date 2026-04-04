@@ -131,6 +131,37 @@
       }
     },
     {
+      "title": "Diceros Bicornis (xi+BlackY) - Hyper Vivacity",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/Diceros Bicornis (xi%2BBlackY) - Hyper Vivacity.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1433856,
+          1694349
+        ]
+      }
+    },
+    {
+      "title": "Diceros Bicornis (xi+BlackY) - Siva",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/Diceros Bicornis (xi%2BBlackY) - Siva.mp3",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1429714,
+          1576677
+        ],
+        "mania": [
+          1429714,
+          2039280
+        ]
+      }
+    },
+    {
       "title": "Double Pendulum",
       "preview": "https://assets.ppy.sh/artists/150/Hyperspark/BlackY - Double Pendulum.mp3",
       "ranked_modes": [
@@ -229,6 +260,18 @@
       "beatmapset_ids_by_mode": {
         "fruits": [
           1618360
+        ]
+      }
+    },
+    {
+      "title": "Yooh Remixed by BlackY - salvation -from:BLACK-",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/Yooh Remixed by BlackY - salvation -fromBLACK-.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1076605
         ]
       }
     },
@@ -439,18 +482,6 @@
     {
       "title": "Diceros Bicornis (xi+BlackY) - Heat Haze",
       "preview": "https://assets.ppy.sh/artists/150/Songs/Diceros Bicornis (xi%2BBlackY) - Heat Haze.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Diceros Bicornis (xi+BlackY) - Hyper Vivacity",
-      "preview": "https://assets.ppy.sh/artists/150/Songs/Diceros Bicornis (xi%2BBlackY) - Hyper Vivacity.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Diceros Bicornis (xi+BlackY) - Siva",
-      "preview": "https://assets.ppy.sh/artists/150/Songs/Diceros Bicornis (xi%2BBlackY) - Siva.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -765,13 +796,7 @@
       "preview": "https://assets.ppy.sh/artists/150/Songs/WAiKURO - ETERNAL CHAOS.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Yooh Remixed by BlackY - salvation -from:BLACK-",
-      "preview": "https://assets.ppy.sh/artists/150/Songs/Yooh Remixed by BlackY - salvation -fromBLACK-.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:46:38Z"
+  "updated_at": "2026-04-04T13:24:52Z"
 }

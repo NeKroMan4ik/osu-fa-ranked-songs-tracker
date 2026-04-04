@@ -35,12 +35,28 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          1972551
+        ],
         "mania": [
           1935691,
           1998672
+        ]
+      }
+    },
+    {
+      "title": "Hisui Chazuke - Bomb Bang Bound!!!",
+      "preview": "https://assets.ppy.sh/artists/272/Songs/Hisui Chazuke - Bomb Bang Bound!!!.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2044096
         ],
-        "taiko": [
-          1972551
+        "mania": [
+          982816
         ]
       }
     },
@@ -93,12 +109,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Hisui Chazuke - Bomb Bang Bound!!!",
-      "preview": "https://assets.ppy.sh/artists/272/Songs/Hisui Chazuke - Bomb Bang Bound!!!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Mechanical Jager",
       "preview": "https://assets.ppy.sh/artists/272/Songs/Hino Isuka - Mechanical Jager.mp3",
       "ranked_modes": [],
@@ -111,5 +121,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:57:07Z"
+  "updated_at": "2026-04-04T13:27:44Z"
 }

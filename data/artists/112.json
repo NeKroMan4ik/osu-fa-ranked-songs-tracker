@@ -125,6 +125,18 @@
       }
     },
     {
+      "title": "Se-U-Ra x seatrus - Melusia",
+      "preview": "https://assets.ppy.sh/artists/112/Songs/Se-U-Ra_x_seatrus_-_Melusia.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1441157
+        ]
+      }
+    },
+    {
       "title": "Sekibaku no Maihime wa Kuraku Shizumu",
       "preview": "https://assets.ppy.sh/artists/112/Songs/Se-U-Ra - Sekibaku no Maihime wa Kuraku Shizumu.mp3",
       "ranked_modes": [
@@ -133,6 +145,22 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           1317826
+        ]
+      }
+    },
+    {
+      "title": "SUPER MWC KART - Purple Palace",
+      "preview": "https://assets.ppy.sh/artists/112/Songs/SUPER_MWC_KART_-_Purple_Palace.mp3",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1569527
+        ],
+        "taiko": [
+          1584182
         ]
       }
     },
@@ -269,12 +297,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Se-U-Ra x seatrus - Melusia",
-      "preview": "https://assets.ppy.sh/artists/112/Songs/Se-U-Ra_x_seatrus_-_Melusia.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Shironobo",
       "preview": "https://assets.ppy.sh/artists/112/Songs/Se-U-Ra - Shironobo.mp3",
       "ranked_modes": [],
@@ -283,12 +305,6 @@
     {
       "title": "sink in the hypnis",
       "preview": "https://assets.ppy.sh/artists/112/Songs/Se-U-Ra - sink in the hypnis.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "SUPER MWC KART - Purple Palace",
-      "preview": "https://assets.ppy.sh/artists/112/Songs/SUPER_MWC_KART_-_Purple_Palace.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -329,5 +345,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:17:09Z"
+  "updated_at": "2026-04-04T13:33:25Z"
 }

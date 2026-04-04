@@ -26,7 +26,6 @@
           1972973
         ],
         "osu": [
-          13169,
           1783108
         ]
       }
@@ -69,18 +68,6 @@
       }
     },
     {
-      "title": "Carmilla",
-      "preview": "https://assets.ppy.sh/artists/297/Malice Call/-45 - Carmilla.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          23695
-        ]
-      }
-    },
-    {
       "title": "Corpse no Kokoro",
       "preview": "https://assets.ppy.sh/artists/297/Kikeiju/-45 - Corpse no Kokoro.mp3",
       "ranked_modes": [
@@ -118,18 +105,6 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           2042418
-        ]
-      }
-    },
-    {
-      "title": "Dorothea",
-      "preview": "https://assets.ppy.sh/artists/297/Enri Edo/-45 - Dorothea.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1241592
         ]
       }
     },
@@ -279,6 +254,23 @@
       }
     },
     {
+      "title": "Makina - Pluton",
+      "preview": "https://assets.ppy.sh/artists/297/Zakuro/Makina_-_Pluton.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2242601,
+          2401198
+        ],
+        "mania": [
+          2333847
+        ]
+      }
+    },
+    {
       "title": "Malice Call",
       "preview": "https://assets.ppy.sh/artists/297/Malice Call/-45 - Malice Call.mp3",
       "ranked_modes": [
@@ -301,7 +293,8 @@
         "osu": [
           812792,
           1055780,
-          2383183
+          2383183,
+          2524618
         ],
         "fruits": [
           1827134
@@ -463,11 +456,11 @@
         "osu"
       ],
       "beatmapset_ids_by_mode": {
-        "fruits": [
-          1826327
-        ],
         "osu": [
           1782707
+        ],
+        "fruits": [
+          1826327
         ]
       }
     },
@@ -479,12 +472,13 @@
         "osu"
       ],
       "beatmapset_ids_by_mode": {
-        "fruits": [
-          2307373
-        ],
         "osu": [
           1668922,
-          1725549
+          1725549,
+          2444697
+        ],
+        "fruits": [
+          2307373
         ]
       }
     },
@@ -497,22 +491,6 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           1054988
-        ]
-      }
-    },
-    {
-      "title": "Water Lily",
-      "preview": "https://assets.ppy.sh/artists/297/Black Lotus/-45 - Water Lily.mp3",
-      "ranked_modes": [
-        "mania",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2044117
-        ],
-        "taiko": [
-          1590156
         ]
       }
     },
@@ -635,6 +613,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Carmilla",
+      "preview": "https://assets.ppy.sh/artists/297/Malice Call/-45 - Carmilla.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Children of Juda",
       "preview": "https://assets.ppy.sh/artists/297/Malice Call/-45 - Children of Juda.mp3",
       "ranked_modes": [],
@@ -649,6 +633,12 @@
     {
       "title": "Domine",
       "preview": "https://assets.ppy.sh/artists/297/Songs/-45 - Domine.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Dorothea",
+      "preview": "https://assets.ppy.sh/artists/297/Enri Edo/-45 - Dorothea.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -787,12 +777,6 @@
     {
       "title": "Maid no Miyage (dummy-mix)",
       "preview": "https://assets.ppy.sh/artists/297/Songs/-45 - Maid no Miyage (dummy-mix).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Makina - Pluton",
-      "preview": "https://assets.ppy.sh/artists/297/Zakuro/Makina_-_Pluton.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -965,6 +949,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Water Lily",
+      "preview": "https://assets.ppy.sh/artists/297/Black Lotus/-45 - Water Lily.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Widowmaker",
       "preview": "https://assets.ppy.sh/artists/297/Sunfleur/-45 - Widowmaker.mp3",
       "ranked_modes": [],
@@ -1013,5 +1003,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:40:41Z"
+  "updated_at": "2026-04-04T13:23:10Z"
 }

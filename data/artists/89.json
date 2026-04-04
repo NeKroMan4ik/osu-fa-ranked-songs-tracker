@@ -39,11 +39,11 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          1707295
-        ],
         "mania": [
           1423058
+        ],
+        "osu": [
+          1707295
         ],
         "taiko": [
           1209521
@@ -134,15 +134,15 @@
           1224402,
           1748991
         ],
-        "osu": [
-          362989,
-          1202610
+        "taiko": [
+          532669
         ],
         "fruits": [
           1143608
         ],
-        "taiko": [
-          532669
+        "osu": [
+          362989,
+          1202610
         ]
       }
     },
@@ -151,13 +151,9 @@
       "preview": "https://assets.ppy.sh/artists/89/Songs/Street vs. Sinck - Adamantite.mp3",
       "ranked_modes": [
         "mania",
-        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          524538
-        ],
         "mania": [
           1836849
         ],
@@ -233,5 +229,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:20:30Z"
+  "updated_at": "2026-04-04T13:34:21Z"
 }

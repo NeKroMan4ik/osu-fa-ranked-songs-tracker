@@ -27,6 +27,54 @@
       }
     },
     {
+      "title": "Maverick - opaque",
+      "preview": "https://assets.ppy.sh/artists/352/Songs/Maverick - opaque.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          831522
+        ],
+        "osu": [
+          1955283
+        ]
+      }
+    },
+    {
+      "title": "Maverick - Shironaga Star Jet -aquamarine mix-",
+      "preview": "https://assets.ppy.sh/artists/352/Songs/Maverick - Shironaga Star Jet -aquamarine mix-.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1012634
+        ],
+        "taiko": [
+          1012634
+        ],
+        "osu": [
+          1012634
+        ]
+      }
+    },
+    {
+      "title": "Xect. - Emptiness",
+      "preview": "https://assets.ppy.sh/artists/352/Songs/Xect. - Emptiness.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1210804
+        ]
+      }
+    },
+    {
       "title": "Animus",
       "preview": "https://assets.ppy.sh/artists/352/Songs/Ashrount - Animus.mp3",
       "ranked_modes": [],
@@ -51,20 +99,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Maverick - opaque",
-      "preview": "https://assets.ppy.sh/artists/352/Songs/Maverick - opaque.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Maverick - Quash of Desire",
       "preview": "https://assets.ppy.sh/artists/352/Songs/Maverick - Quash of Desire.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Maverick - Shironaga Star Jet -aquamarine mix-",
-      "preview": "https://assets.ppy.sh/artists/352/Songs/Maverick - Shironaga Star Jet -aquamarine mix-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -73,13 +109,7 @@
       "preview": "https://assets.ppy.sh/artists/352/Songs/Ashrount - Ononokomachi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Xect. - Emptiness",
-      "preview": "https://assets.ppy.sh/artists/352/Songs/Xect. - Emptiness.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:45:16Z"
+  "updated_at": "2026-04-04T13:24:30Z"
 }

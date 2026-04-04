@@ -75,6 +75,28 @@
       }
     },
     {
+      "title": "TWC Sound Team \"Strike Back Squad\" - BUZZ CUTZ",
+      "preview": "https://assets.ppy.sh/artists/356/Songs/TWC_Sound_Team_Strike_Back_Squad_-_BUZZ_CUTZ.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2445794
+        ],
+        "mania": [
+          2367508,
+          2369277
+        ],
+        "taiko": [
+          2358247,
+          2362254
+        ]
+      }
+    },
+    {
       "title": "6_6_6",
       "preview": "https://assets.ppy.sh/artists/356/Songs/7_7_-_6_6_6.mp3",
       "ranked_modes": [],
@@ -183,12 +205,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "TWC Sound Team \"Strike Back Squad\" - BUZZ CUTZ",
-      "preview": "https://assets.ppy.sh/artists/356/Songs/TWC_Sound_Team_Strike_Back_Squad_-_BUZZ_CUTZ.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Utattemita",
       "preview": "https://assets.ppy.sh/artists/356/Songs/7_7 - Utattemita.mp3",
       "ranked_modes": [],
@@ -201,5 +217,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:41:16Z"
+  "updated_at": "2026-04-04T13:23:22Z"
 }

@@ -67,18 +67,6 @@
       }
     },
     {
-      "title": "Umbilical",
-      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Risa Yuzuki - Umbilical.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2332292
-        ]
-      }
-    },
-    {
       "title": "Yumemiru Milky Way feat. Aitsuki Nakuru",
       "preview": "https://assets.ppy.sh/artists/211/Stellalude/Risa_Yuzuki_-_Yumemiru_Milky_Way_feat._Aitsuki_Nakuru.mp3",
       "ranked_modes": [
@@ -227,11 +215,17 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Umbilical",
+      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Risa Yuzuki - Umbilical.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Yamatonadeshiko Dance Floor",
       "preview": "https://assets.ppy.sh/artists/211/Furin Kagerou/Risa Yuzuki - Yamatonadeshiko Dance Floor.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T22:15:24Z"
+  "updated_at": "2026-04-04T13:32:52Z"
 }

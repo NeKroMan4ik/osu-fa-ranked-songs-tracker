@@ -3,6 +3,91 @@
   "name": "Emille's Moonlight Serenade",
   "tracks": [
     {
+      "title": "Cinderella",
+      "preview": "https://assets.ppy.sh/artists/160/Red Ribbon/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Cinderella.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1759559
+        ],
+        "osu": [
+          1490978
+        ]
+      }
+    },
+    {
+      "title": "Eternal Bliss",
+      "preview": "https://assets.ppy.sh/artists/160/Fallen/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Eternal Bliss.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2153172
+        ]
+      }
+    },
+    {
+      "title": "Forsaken",
+      "preview": "https://assets.ppy.sh/artists/160/Fallen/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Forsaken.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1956129
+        ]
+      }
+    },
+    {
+      "title": "Fuyu Monogatari",
+      "preview": "https://assets.ppy.sh/artists/160/Wish -Haru ni Chiru Shirayuki no Hana-/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Fuyu Monogatari.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2529327
+        ]
+      }
+    },
+    {
+      "title": "Gengaku Opera House",
+      "preview": "https://assets.ppy.sh/artists/160/Gengaku Opera House/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Gengaku Opera House.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1347917,
+          1456929
+        ]
+      }
+    },
+    {
+      "title": "ito",
+      "preview": "https://assets.ppy.sh/artists/160/Ito/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - ito.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2111859
+        ],
+        "taiko": [
+          1763833
+        ],
+        "osu": [
+          1077982
+        ]
+      }
+    },
+    {
       "title": "Kimi no Na wo Hibikasete",
       "preview": "https://assets.ppy.sh/artists/160/Tsuiten no Bara/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Kimi no Na wo Hibikasete.mp3",
       "ranked_modes": [
@@ -10,7 +95,49 @@
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
-          938781
+          938781,
+          1450708,
+          1486362
+        ]
+      }
+    },
+    {
+      "title": "Muffin",
+      "preview": "https://assets.ppy.sh/artists/160/Gengaku Horror House/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Muffin.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1863136
+        ]
+      }
+    },
+    {
+      "title": "oni",
+      "preview": "https://assets.ppy.sh/artists/160/Ito/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - oni.mp3",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1560338
+        ],
+        "taiko": [
+          1454083
+        ]
+      }
+    },
+    {
+      "title": "Red Ribbon",
+      "preview": "https://assets.ppy.sh/artists/160/Red Ribbon/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Red Ribbon.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1915744
         ]
       }
     },
@@ -51,12 +178,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Cinderella",
-      "preview": "https://assets.ppy.sh/artists/160/Red Ribbon/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Cinderella.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Deceit",
       "preview": "https://assets.ppy.sh/artists/160/Fallen/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Deceit.mp3",
       "ranked_modes": [],
@@ -87,12 +208,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Eternal Bliss",
-      "preview": "https://assets.ppy.sh/artists/160/Fallen/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Eternal Bliss.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Eternally",
       "preview": "https://assets.ppy.sh/artists/160/Wish -Haru ni Chiru Shirayuki no Hana-/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Eternally.mp3",
       "ranked_modes": [],
@@ -105,32 +220,14 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Forsaken",
-      "preview": "https://assets.ppy.sh/artists/160/Fallen/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Forsaken.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Fukai Yami wo Obita Akuma",
       "preview": "https://assets.ppy.sh/artists/160/Hisou no Mangetsu/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Fukai Yami wo Obita Akuma.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Fuyu Monogatari",
-      "preview": "https://assets.ppy.sh/artists/160/Wish -Haru ni Chiru Shirayuki no Hana-/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Fuyu Monogatari.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Gekijou no Prominence",
       "preview": "https://assets.ppy.sh/artists/160/Gekijou no Prominence/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Gekijou no Prominence.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Gengaku Opera House",
-      "preview": "https://assets.ppy.sh/artists/160/Gengaku Opera House/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Gengaku Opera House.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -161,12 +258,6 @@
     {
       "title": "if",
       "preview": "https://assets.ppy.sh/artists/160/Wish -Haru ni Chiru Shirayuki no Hana-/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - if.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ito",
-      "preview": "https://assets.ppy.sh/artists/160/Ito/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - ito.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -243,18 +334,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Muffin",
-      "preview": "https://assets.ppy.sh/artists/160/Gengaku Horror House/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Muffin.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "oni",
-      "preview": "https://assets.ppy.sh/artists/160/Ito/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - oni.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Period",
       "preview": "https://assets.ppy.sh/artists/160/AMETHYST/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Period.mp3",
       "ranked_modes": [],
@@ -263,12 +342,6 @@
     {
       "title": "Precious",
       "preview": "https://assets.ppy.sh/artists/160/JEWEL/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Precious.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Red Ribbon",
-      "preview": "https://assets.ppy.sh/artists/160/Red Ribbon/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Red Ribbon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -399,5 +472,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-02T21:53:00Z"
+  "updated_at": "2026-04-04T13:26:23Z"
 }
