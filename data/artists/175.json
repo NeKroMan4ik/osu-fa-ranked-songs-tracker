@@ -79,6 +79,18 @@
       }
     },
     {
+      "title": "Pratanallis feat. Meramipop - Last Letter",
+      "preview": "https://assets.ppy.sh/artists/175/Casa Blanca/Pratanallis feat. Meramipop - Last Letter.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2526414
+        ]
+      }
+    },
+    {
       "title": "Pratanallis feat. Meramipop - My Happiness",
       "preview": "https://assets.ppy.sh/artists/175/Holy Fragments/Pratanallis feat. Meramipop - My Happiness.mp3",
       "ranked_modes": [
@@ -155,17 +167,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Pratanallis feat. Meramipop - Last Letter",
-      "preview": "https://assets.ppy.sh/artists/175/Casa Blanca/Pratanallis feat. Meramipop - Last Letter.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Pratanallis feat. Meramipop - Menina Eris",
       "preview": "https://assets.ppy.sh/artists/175/Holy Fragments/Pratanallis feat. Meramipop - Menina Eris.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-04T13:32:17Z"
+  "updated_at": "2026-04-05T19:33:57Z"
 }

@@ -137,11 +137,12 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2242527,
+          2529021
+        ],
         "taiko": [
           2336324
-        ],
-        "mania": [
-          2242527
         ]
       }
     },
@@ -672,5 +673,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-04T13:23:50Z"
+  "updated_at": "2026-04-05T19:26:01Z"
 }

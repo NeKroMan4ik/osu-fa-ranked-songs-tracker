@@ -56,6 +56,18 @@
       }
     },
     {
+      "title": "Killing me",
+      "preview": "https://assets.ppy.sh/artists/349/recollection/Minstrel - Killing me.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2494196
+        ]
+      }
+    },
+    {
       "title": "today is the day",
       "preview": "https://assets.ppy.sh/artists/349/Songs/Minstrel_-_today_is_the_day.mp3",
       "ranked_modes": [
@@ -115,17 +127,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Killing me",
-      "preview": "https://assets.ppy.sh/artists/349/recollection/Minstrel - Killing me.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Mix Hors d'Oeuvres",
       "preview": "https://assets.ppy.sh/artists/349/Ano Hi no Shinkirou/Minstrel - Mix Hors d%27Oeuvres.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-04T13:30:35Z"
+  "updated_at": "2026-04-05T19:32:22Z"
 }
