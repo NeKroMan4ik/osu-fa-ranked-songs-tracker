@@ -19,6 +19,9 @@ let currentPlayBtn = null;
 /** @type {string|null} */
 let currentAudioUrl = null;
 
+/** Cached audio player DOM elements (set once in createAudioPlayer) */
+let playerTitleEl, playerProgressFill, playerTimeEl, playerPlayPauseBtn;
+
 /**
  * @typedef {{ title: string, preview: string, ranked_modes: string[], beatmapset_ids_by_mode: Record<string, number[]> }} Track
  * @typedef {{ id: number, name: string, tracks: Track[], updated_at: string }} Artist
@@ -296,6 +299,11 @@ function createAudioPlayer() {
 
   document.body.appendChild(player);
 
+  playerTitleEl      = player.querySelector('.audio-player-title');
+  playerProgressFill = player.querySelector('.audio-progress-fill');
+  playerTimeEl       = player.querySelector('.audio-time');
+  playerPlayPauseBtn = player.querySelector('.audio-play-pause');
+
   makeDraggable(player);
 
   player.querySelector('.audio-player-close').addEventListener('click', closeAudioPlayer);
@@ -374,12 +382,14 @@ function closeAudioPlayer() {
 /** @type {AbortController|null} */
 let currentAudioAc = null;
 
+function setPlayState(btn, playing) {
+  const method = playing ? 'add' : 'remove';
+  btn.classList[method]('is-playing', 'icon-pause');
+  playerPlayPauseBtn.classList[method]('is-playing', 'icon-pause');
+}
+
 function playAudio(url, title, btn) {
   const player = document.getElementById('audio-player');
-  const titleEl = player.querySelector('.audio-player-title');
-  const progressFill = player.querySelector('.audio-progress-fill');
-  const timeEl = player.querySelector('.audio-time');
-  const playPauseBtn = player.querySelector('.audio-play-pause');
 
   if (currentAudio && currentAudioUrl === url) {
     currentAudio.paused ? currentAudio.play() : currentAudio.pause();
@@ -396,33 +406,25 @@ function playAudio(url, title, btn) {
   currentAudioAc = new AbortController();
   const { signal } = currentAudioAc;
 
-  titleEl.textContent = title;
+  playerTitleEl.textContent = title;
   requestAnimationFrame(() => player.classList.add('show'));
 
-  currentAudio.addEventListener('play', () => {
-    btn.classList.add('is-playing', 'icon-pause');
-    playPauseBtn.classList.add('is-playing', 'icon-pause');
-  }, { signal });
-
-  currentAudio.addEventListener('pause', () => {
-    btn.classList.remove('is-playing', 'icon-pause');
-    playPauseBtn.classList.remove('is-playing', 'icon-pause');
-  }, { signal });
+  currentAudio.addEventListener('play',  () => setPlayState(btn, true),  { signal });
+  currentAudio.addEventListener('pause', () => setPlayState(btn, false), { signal });
 
   currentAudio.addEventListener('ended', () => {
-    btn.classList.remove('is-playing', 'icon-pause');
-    playPauseBtn.classList.remove('is-playing', 'icon-pause');
-    progressFill.style.width = '0%';
+    setPlayState(btn, false);
+    playerProgressFill.style.width = '0%';
   }, { signal });
 
   currentAudio.addEventListener('timeupdate', () => {
     const pct = (currentAudio.currentTime / currentAudio.duration) * 100;
-    progressFill.style.width = pct + '%';
-    timeEl.textContent = formatTime(currentAudio.currentTime) + ' / ' + formatTime(currentAudio.duration);
+    playerProgressFill.style.width = pct + '%';
+    playerTimeEl.textContent = formatTime(currentAudio.currentTime) + ' / ' + formatTime(currentAudio.duration);
   }, { signal });
 
   currentAudio.addEventListener('loadedmetadata', () => {
-    timeEl.textContent = '0:00 / ' + formatTime(currentAudio.duration);
+    playerTimeEl.textContent = '0:00 / ' + formatTime(currentAudio.duration);
   }, { signal });
 
   currentAudio.play();

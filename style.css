@@ -81,22 +81,28 @@ main {
   min-width: 0;
 }
 
-/* ── Search ────────────────────────────────── */
-#search {
-  width: 100%;
+/* ── Search & Mode filter (shared base) ─────── */
+#search,
+.mode-filter {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 6px;
   color: var(--text);
   font-family: var(--font-mono);
-  font-size: 1rem;
-  padding: 0.75rem 1rem;
   outline: none;
   transition: border-color 0.15s;
 }
 
-#search:focus {
+#search:focus,
+.mode-filter:focus {
   border-color: var(--accent);
+}
+
+/* ── Search ────────────────────────────────── */
+#search {
+  width: 100%;
+  font-size: 1rem;
+  padding: 0.75rem 1rem;
 }
 
 #search::placeholder {
@@ -109,26 +115,15 @@ main {
 }
 
 .mode-filter {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  color: var(--text);
-  font-family: var(--font-mono);
   font-size: 0.85rem;
   padding: 0.75rem 0.75rem;
-  outline: none;
   cursor: pointer;
-  transition: border-color 0.15s;
   appearance: none;
   -webkit-appearance: none;
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%235a5a72'/%3E%3C/svg%3E");
   background-repeat: no-repeat;
   background-position: right 0.6rem center;
   padding-right: 2rem;
-}
-
-.mode-filter:focus {
-  border-color: var(--accent);
 }
 
 .mode-filter option {
@@ -262,7 +257,8 @@ main {
 .dot.loved    { background: var(--loved);    box-shadow: 0 0 6px var(--loved); }
 .dot.unranked { background: var(--unranked); opacity: 0.5; }
 
-.track-title {
+.track-title,
+.audio-player-title {
   flex: 1;
   min-width: 0;
   overflow: hidden;
@@ -309,7 +305,7 @@ a.mode-badge:hover {
 
 /* ── Pause icon (shared) ───────────────────── */
 .icon-pause::before {
-  border: none !important;
+  border-style: none !important;
   width: 6px;
   height: 8px;
   left: 50% !important;
@@ -317,10 +313,9 @@ a.mode-badge:hover {
   background: linear-gradient(to right, currentColor 2px, transparent 2px, transparent 4px, currentColor 4px) !important;
 }
 
-/* ── Preview button ────────────────────────── */
-.preview-btn {
-  width: 22px;
-  height: 22px;
+/* ── Circle buttons (preview + audio controls) ─ */
+.preview-btn,
+.audio-control-btn {
   border-radius: 50%;
   background: transparent;
   border: 1px solid var(--border);
@@ -328,6 +323,16 @@ a.mode-badge:hover {
   flex-shrink: 0;
   position: relative;
   transition: border-color 0.15s;
+  color: var(--muted);
+}
+
+.preview-btn:hover,
+.audio-control-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+/* ── Preview button ────────────────────────── */
+.preview-btn {
+  width: 22px;
+  height: 22px;
 }
 
 .preview-btn::before {
@@ -342,8 +347,6 @@ a.mode-badge:hover {
   transition: border-color 0.15s;
 }
 
-.preview-btn { color: var(--muted); }
-.preview-btn:hover { border-color: var(--accent); color: var(--accent); }
 .preview-btn:hover::before { border-left-color: var(--accent); }
 
 /* ── Audio Player ──────────────────────────── */
@@ -379,11 +382,6 @@ a.mode-badge:hover {
   font-family: var(--font-mono);
   font-size: 0.8rem;
   color: var(--text);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  flex: 1;
-  min-width: 0;
 }
 
 .audio-player-close {
@@ -425,17 +423,7 @@ a.mode-badge:hover {
 .audio-control-btn {
   width: 28px;
   height: 28px;
-  border-radius: 50%;
-  background: transparent;
-  border: 1px solid var(--border);
-  cursor: pointer;
-  flex-shrink: 0;
-  position: relative;
-  transition: border-color 0.15s;
 }
-
-.audio-control-btn { color: var(--muted); }
-.audio-control-btn:hover { border-color: var(--accent); color: var(--accent); }
 
 .audio-play-pause::before {
   content: '';
@@ -450,19 +438,6 @@ a.mode-badge:hover {
 }
 
 .audio-play-pause:hover::before { border-left-color: var(--accent); }
-
-.audio-copy-link::before {
-  content: '⧉';
-  position: absolute;
-  top: 52%;
-  left: 52%;
-  transform: translate(-50%, -50%);
-  font-size: 0.75rem;
-  color: var(--muted);
-  transition: color 0.15s;
-}
-
-.audio-copy-link:hover::before { color: var(--accent); }
 
 .audio-progress-container {
   flex: 1;
