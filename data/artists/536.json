@@ -3,8 +3,20 @@
   "name": "Getter Jaani",
   "tracks": [
     {
-      "title": "Getter Jaani & Koit Toome - Valged Oeoed",
-      "preview": "https://assets.ppy.sh/artists/536/Songs/Getter_Jaani__Koit_Toome_-_Valged_Oeoed.mp3",
+      "title": "The Game",
+      "preview": "https://assets.ppy.sh/artists/536/The Game/Getter Jaani - The Game.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2508930
+        ]
+      }
+    },
+    {
+      "title": "Getter Jaani & Koit Toome - Valged Ood",
+      "preview": "https://assets.ppy.sh/artists/536/Songs/Getter_Jaani__Koit_Toome_-_Valged_Ood.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -25,13 +37,7 @@
       "preview": "https://assets.ppy.sh/artists/536/Rockefeller Street/Getter Jaani - Rockefeller Street (New Nightcore) (%23Rockefellerstreet Remix).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "The Game",
-      "preview": "https://assets.ppy.sh/artists/536/The Game/Getter Jaani - The Game.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-05T19:29:07Z"
+  "updated_at": "2026-04-12T19:34:01Z"
 }

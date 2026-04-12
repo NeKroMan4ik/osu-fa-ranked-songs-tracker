@@ -18,9 +18,13 @@
       "title": "Don't Say (osu! edit)",
       "preview": "https://assets.ppy.sh/artists/177/Earl Gray/Andromedik - Don%27t Say (osu! edit).mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2523766
+        ],
         "osu": [
           1568040
         ]
@@ -111,5 +115,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-05T19:26:14Z"
+  "updated_at": "2026-04-12T19:31:06Z"
 }

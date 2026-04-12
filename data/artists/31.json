@@ -1074,9 +1074,13 @@
       "title": "fastest crash (Camellia's \"paroxysmal\" Energetic Hitech Remix)",
       "preview": "https://assets.ppy.sh/artists/31/Guest Track Summary %26 VIPs 02/Camellia - fastest crash (Camellia%27s paroxysmal Energetic Hitech Remix).mp3",
       "ranked_modes": [
+        "fruits",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2519678
+        ],
         "osu": [
           1317690
         ]
@@ -3078,5 +3082,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-05T19:27:19Z"
+  "updated_at": "2026-04-12T19:32:12Z"
 }

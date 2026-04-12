@@ -75,10 +75,14 @@
       "title": "takehirotei as \"Infinite Limit\" - I.R.I.S",
       "preview": "https://assets.ppy.sh/artists/428/Songs/takehirotei as Infinite Limit - I.R.I.S.mp3",
       "ranked_modes": [
+        "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2027242
+        ],
         "osu": [
           2048690
         ],
@@ -119,5 +123,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-05T19:36:15Z"
+  "updated_at": "2026-04-12T19:41:15Z"
 }

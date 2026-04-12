@@ -212,6 +212,18 @@
       }
     },
     {
+      "title": "katagiri - VIVID ABYSS",
+      "preview": "https://assets.ppy.sh/artists/462/Badly Wood Cup 2024/katagiri - VIVID ABYSS.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2525312
+        ]
+      }
+    },
+    {
       "title": "Katero - what's next?",
       "preview": "https://assets.ppy.sh/artists/462/Songs/Katero_-_whats_next.mp3",
       "ranked_modes": [
@@ -562,6 +574,18 @@
       }
     },
     {
+      "title": "Xyris - Vitality Charger (feat. Hanakuma Chifuyu)",
+      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Xyris - Vitality Charger (feat. Hanakuma Chifuyu).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2412277
+        ]
+      }
+    },
+    {
       "title": "ZxKirara feat. Shian - Shiny Day Roam",
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/ZxKirara feat. Shian - Shiny Day Roam.mp3",
       "ranked_modes": [
@@ -886,12 +910,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "katagiri - VIVID ABYSS",
-      "preview": "https://assets.ppy.sh/artists/462/Badly Wood Cup 2024/katagiri - VIVID ABYSS.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Krimek - Cybernetic Reverie",
       "preview": "https://assets.ppy.sh/artists/462/5 Digit World Cup 2024/Krimek - Cybernetic Reverie.mp3",
       "ranked_modes": [],
@@ -924,6 +942,24 @@
     {
       "title": "mananatheone - Name",
       "preview": "https://assets.ppy.sh/artists/462/Newcomers World Cup 2025/mananatheone - Name.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Midnight Research Institute - Convalescence",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/Midnight_Research_Institute_-_Convalescence.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Midnight Research Institute - Eleventh Hour",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/Midnight_Research_Institute_-_Eleventh_Hour.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Midnight Research Institute - Re: Amethyst (feat. Rennie)",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/Midnight_Research_Institute_-_Re_Amethyst_feat._Rennie.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1008,6 +1044,12 @@
     {
       "title": "Redside - Mainquest",
       "preview": "https://assets.ppy.sh/artists/462/Songs/Redside_-_Mainquest.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Redside feat. Hatsune Miku - Constellations",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/Redside_feat._Hatsune_Miku_-_Constellations.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1178,13 +1220,7 @@
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Xeven - Become One Again (feat. Hatsune Miku).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Xyris - Vitality Charger (feat. Hanakuma Chifuyu)",
-      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Xyris - Vitality Charger (feat. Hanakuma Chifuyu).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-05T19:33:33Z"
+  "updated_at": "2026-04-12T19:38:31Z"
 }

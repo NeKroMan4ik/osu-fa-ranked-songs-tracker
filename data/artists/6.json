@@ -19,9 +19,13 @@
       "preview": "https://assets.ppy.sh/artists/6/previews/34.mp3?20161104",
       "ranked_modes": [
         "fruits",
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2191751
+        ],
         "osu": [
           716213,
           769917
@@ -164,5 +168,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-05T19:27:51Z"
+  "updated_at": "2026-04-12T19:32:44Z"
 }

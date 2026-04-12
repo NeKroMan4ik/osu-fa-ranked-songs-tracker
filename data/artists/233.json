@@ -55,6 +55,18 @@
       }
     },
     {
+      "title": "Trouble",
+      "preview": "https://assets.ppy.sh/artists/233/Songs/Boom Kitty - Trouble.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1904925
+        ]
+      }
+    },
+    {
       "title": "Warzone",
       "preview": "https://assets.ppy.sh/artists/233/Songs/Boom Kitty - Warzone.mp3",
       "ranked_modes": [
@@ -209,13 +221,7 @@
       "preview": "https://assets.ppy.sh/artists/233/Songs/Boom Kitty - The Floor.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Trouble",
-      "preview": "https://assets.ppy.sh/artists/233/Songs/Boom Kitty - Trouble.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-05T19:27:07Z"
+  "updated_at": "2026-04-12T19:32:00Z"
 }

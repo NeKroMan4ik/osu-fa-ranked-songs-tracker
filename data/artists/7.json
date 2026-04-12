@@ -143,9 +143,13 @@
       "title": "Thaehan - All or Nothing",
       "preview": "https://assets.ppy.sh/artists/7/Songs/Thaehan - All or Nothing.mp3",
       "ranked_modes": [
+        "fruits",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          1892978
+        ],
         "osu": [
           1880625
         ]
@@ -648,5 +652,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-05T19:31:38Z"
+  "updated_at": "2026-04-12T19:36:34Z"
 }

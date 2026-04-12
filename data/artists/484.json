@@ -83,6 +83,18 @@
       }
     },
     {
+      "title": "L2 -Reminiscence-",
+      "preview": "https://assets.ppy.sh/artists/484/Songs/Ice - L2 -Reminiscence-.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2496712
+        ]
+      }
+    },
+    {
       "title": "Nostalgia Sonatina Op.3",
       "preview": "https://assets.ppy.sh/artists/484/Songs/Ice - Nostalgia Sonatina Op.3.mp3",
       "ranked_modes": [
@@ -190,12 +202,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "L2 -Reminiscence-",
-      "preview": "https://assets.ppy.sh/artists/484/Songs/Ice - L2 -Reminiscence-.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "L2 -Reminiscence- (osu! edit)",
       "preview": "https://assets.ppy.sh/artists/484/Songs/Ice - L2 -Reminiscence- (osu! edit).mp3",
       "ranked_modes": [],
@@ -244,5 +250,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-05T19:29:53Z"
+  "updated_at": "2026-04-12T19:34:48Z"
 }

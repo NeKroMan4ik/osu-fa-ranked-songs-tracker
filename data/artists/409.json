@@ -3,18 +3,6 @@
   "name": "ptar124",
   "tracks": [
     {
-      "title": "AmbidextrouS ~The Alchemist of The Left x The Sage of The Right~",
-      "preview": "https://assets.ppy.sh/artists/409/AmbidextrouS %7EThe Alchemist of The Left x The Sage of The Right%7E/ptar124 - AmbidextrouS %7EThe Alchemist of The Left x The Sage of The Right%7E.mp3",
-      "ranked_modes": [
-        "fruits"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1698560
-        ]
-      }
-    },
-    {
       "title": "ptar124 feat. SEKAI vs. takehirotei - The Arcanists' Heist of 739 Magia Era",
       "preview": "https://assets.ppy.sh/artists/409/The Arcanists_ Heist of 739 Magia Era/ptar124 feat. SEKAI vs. takehirotei - The Arcanists_ Heist of 739 Magia Era.mp3",
       "ranked_modes": [
@@ -27,32 +15,38 @@
       }
     },
     {
-      "title": "Viatores Nebulae (ptar124 & SiLiS) - Ad infinitum ~ein sof~",
-      "preview": "https://assets.ppy.sh/artists/409/Ad infinitum %7Eein sof%7E/Viatores Nebulae (ptar124 %26 SiLiS) - Ad infinitum %7Eein sof%7E.mp3",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2265664
-        ]
-      }
-    },
-    {
       "title": "A Platter of Primes",
       "preview": "https://assets.ppy.sh/artists/409/Songs/ptar124_-_A_Platter_of_Primes.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "AmbidextrouS ~The Alchemist of The Left x The Sage of The Right~",
+      "preview": "https://assets.ppy.sh/artists/409/AmbidextrouS %7EThe Alchemist of The Left x The Sage of The Right%7E/ptar124_-_AmbidextrouS_The_Alchemist_of_The_Left_x_The_Sage_of_The_Right.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "aqua regia",
-      "preview": "https://assets.ppy.sh/artists/409/aqua regia/ptar124 - aqua regia.mp3",
+      "preview": "https://assets.ppy.sh/artists/409/aqua regia/ptar124_-_aqua_regia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "aqua vitae feat. Kagamine Rin & Kagamine Len",
-      "preview": "https://assets.ppy.sh/artists/409/aqua vitae/ptar124 - aqua vitae feat. Kagamine Rin %26 Kagamine Len.mp3",
+      "preview": "https://assets.ppy.sh/artists/409/aqua vitae/ptar124_-_aqua_vitae_feat._Kagamine_Rin__Kagamine_Len.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ice - Conclusio Catastropha (ptar124's Tasogare no Sora to Himitsu no Yousei Remix)",
+      "preview": "https://assets.ppy.sh/artists/409/Ennodia/Ice - Conclusio Catastropha (ptar124%27s Tasogare no Sora to Himitsu no Yousei Remix).mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ille Triumviratus - Via Memoriae",
+      "preview": "https://assets.ppy.sh/artists/409/Ennodia/Ille Triumviratus - Via Memoriae.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -63,8 +57,20 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Navis Tranquilla Jungitur",
+      "preview": "https://assets.ppy.sh/artists/409/Ennodia/ptar124 - Navis Tranquilla Jungitur.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Nonbiri de Kage o Orikomu",
+      "preview": "https://assets.ppy.sh/artists/409/Ennodia/ptar124 - Nonbiri de Kage o Orikomu.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "OCTAGRAM ~Dai Happyaku Hachijuu Hachi Ji Makai Taisen~",
-      "preview": "https://assets.ppy.sh/artists/409/OCTAGRAM %7EDai Happyaku Hachijuu Hachi Ji Makai Taisen%7E/ptar124 - OCTAGRAM %7EDai Happyaku Hachijuu Hachi Ji Makai Taisen%7E.mp3",
+      "preview": "https://assets.ppy.sh/artists/409/OCTAGRAM %7EDai Happyaku Hachijuu Hachi Ji Makai Taisen%7E/ptar124_-_OCTAGRAM_Dai_Happyaku_Hachijuu_Hachi_Ji_Makai_Taisen.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -75,11 +81,47 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "ptar124 & 1zm8 - A World of Whiplash When You're Interrupted by a Cutscene",
+      "preview": "https://assets.ppy.sh/artists/409/Ennodia/ptar124 %26 1zm8 - A World of Whiplash When You%27re Interrupted by a Cutscene.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ptar124 feat. IA, flower & SEKAI - nymphae silvae",
+      "preview": "https://assets.ppy.sh/artists/409/Ennodia/ptar124 feat. IA%2C flower %26 SEKAI - nymphae silvae.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Solitude In Shadow feat. Ethereal_Winter",
-      "preview": "https://assets.ppy.sh/artists/409/Songs/ptar124_-_Solitude_In_Shadow_feat._Ethereal_Winter.mp3",
+      "preview": "https://assets.ppy.sh/artists/409/Ennodia/ptar124 - Solitude In Shadow feat. Ethereal%27Winter.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Spaceport Sound Team - Strive;",
+      "preview": "https://assets.ppy.sh/artists/409/Ennodia/Spaceport Sound Team - Strive%27.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Viator Caelorum - Caerula",
+      "preview": "https://assets.ppy.sh/artists/409/Ennodia/Viator Caelorum - Caerula.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Viatores Nebulae (ptar124 & SiLiS) - Ad infinitum ~ein sof~",
+      "preview": "https://assets.ppy.sh/artists/409/Ad infinitum %7Eein sof%7E/Viatores_Nebulae_ptar124__SiLiS_-_Ad_infinitum_ein_sof.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Viatores Nebulae feat. Megurine Luka - Heart of Epitaph",
+      "preview": "https://assets.ppy.sh/artists/409/Ennodia/Viatores Nebulae feat. Megurine Luka - Heart of Epitaph.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-05T19:33:58Z"
+  "updated_at": "2026-04-12T19:38:56Z"
 }

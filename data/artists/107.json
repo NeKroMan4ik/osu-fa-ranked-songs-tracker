@@ -61,11 +61,17 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "SIGNALBURNERRR",
+      "preview": "https://assets.ppy.sh/artists/107/Songs/ALEPH_-_SIGNALBURNERRR.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "ULTRAVIOLET",
       "preview": "https://assets.ppy.sh/artists/107/previews/2812.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-05T19:26:03Z"
+  "updated_at": "2026-04-12T19:30:53Z"
 }

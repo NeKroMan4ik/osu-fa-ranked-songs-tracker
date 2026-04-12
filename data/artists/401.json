@@ -152,9 +152,13 @@
       "ranked_modes": [
         "fruits",
         "mania",
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2222173
+        ],
         "taiko": [
           2365975
         ],
@@ -191,6 +195,18 @@
         ],
         "taiko": [
           2325272
+        ]
+      }
+    },
+    {
+      "title": "Thursday",
+      "preview": "https://assets.ppy.sh/artists/401/Your Moms Revenge/Akiri - Thursday.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2529925
         ]
       }
     },
@@ -643,12 +659,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Thursday",
-      "preview": "https://assets.ppy.sh/artists/401/Your Moms Revenge/Akiri - Thursday.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Vespera Stella",
       "preview": "https://assets.ppy.sh/artists/401/Songs/Akiri_-_Vespera_Stella.mp3",
       "ranked_modes": [],
@@ -673,5 +683,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-05T19:26:01Z"
+  "updated_at": "2026-04-12T19:30:51Z"
 }
