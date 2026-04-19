@@ -11,14 +11,15 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2142052,
+          2416399,
+          2526044
+        ],
         "mania": [
           2321297,
           2332985,
           2527014
-        ],
-        "taiko": [
-          2142052,
-          2416399
         ],
         "osu": [
           1814494
@@ -45,9 +46,13 @@
       "title": "Eviternity",
       "preview": "https://assets.ppy.sh/artists/433/Eviternity/Xyris - Eviternity.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2473472
+        ],
         "mania": [
           1961513,
           2138173
@@ -114,5 +119,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-12T19:42:49Z"
+  "updated_at": "2026-04-19T19:46:13Z"
 }

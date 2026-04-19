@@ -40,6 +40,18 @@
       }
     },
     {
+      "title": "Tension (feat. Kate Westall)",
+      "preview": "https://assets.ppy.sh/artists/180/Tension/Fred V %26 Grafix - Tension (feat. Kate Westall).mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1013127
+        ]
+      }
+    },
+    {
       "title": "Ultraviolet",
       "preview": "https://assets.ppy.sh/artists/180/Oxygen/Fred V %26 Grafix - Ultraviolet.mp3",
       "ranked_modes": [
@@ -62,13 +74,7 @@
       "preview": "https://assets.ppy.sh/artists/180/Goggles/Fred V %26 Grafix - Games People Play.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Tension (feat. Kate Westall)",
-      "preview": "https://assets.ppy.sh/artists/180/Tension/Fred V %26 Grafix - Tension (feat. Kate Westall).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-12T19:33:49Z"
+  "updated_at": "2026-04-19T19:36:29Z"
 }

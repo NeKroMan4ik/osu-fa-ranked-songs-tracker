@@ -3,6 +3,18 @@
   "name": "tachibanaka",
   "tracks": [
     {
+      "title": "Essence",
+      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Essence.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2495120
+        ]
+      }
+    },
+    {
       "title": "hellfly, tachibanaka - cute things",
       "preview": "https://assets.ppy.sh/artists/520/Songs/hellfly%2C tachibanaka - cute things.mp3",
       "ranked_modes": [
@@ -57,12 +69,6 @@
     {
       "title": "Escape",
       "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Escape.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Essence",
-      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Essence.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -127,5 +133,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-12T19:41:12Z"
+  "updated_at": "2026-04-19T19:44:29Z"
 }

@@ -60,6 +60,18 @@
       }
     },
     {
+      "title": "The Hours of Wintertime",
+      "preview": "https://assets.ppy.sh/artists/332/The Saberlight Chronicles/Fellowship - The Hours of Wintertime.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2503181
+        ]
+      }
+    },
+    {
       "title": "The Saint Beyond the River",
       "preview": "https://assets.ppy.sh/artists/332/The Saberlight Chronicles/Fellowship - The Saint Beyond the River.mp3",
       "ranked_modes": [
@@ -108,13 +120,7 @@
       "preview": "https://assets.ppy.sh/artists/332/The Saberlight Chronicles/Fellowship - Still Enough.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "The Hours of Wintertime",
-      "preview": "https://assets.ppy.sh/artists/332/The Saberlight Chronicles/Fellowship - The Hours of Wintertime.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-12T19:33:40Z"
+  "updated_at": "2026-04-19T19:36:20Z"
 }

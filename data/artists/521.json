@@ -15,6 +15,18 @@
       }
     },
     {
+      "title": "Jade Serenity",
+      "preview": "https://assets.ppy.sh/artists/521/Songs/voira - Jade Serenity.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2526975
+        ]
+      }
+    },
+    {
       "title": "ASTERISK",
       "preview": "https://assets.ppy.sh/artists/521/Songs/voira - ASTERISK.mp3",
       "ranked_modes": [],
@@ -57,17 +69,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Jade Serenity",
-      "preview": "https://assets.ppy.sh/artists/521/Songs/voira - Jade Serenity.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "resting palace",
       "preview": "https://assets.ppy.sh/artists/521/Songs/voira - resting palace.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-12T19:42:18Z"
+  "updated_at": "2026-04-19T19:45:39Z"
 }

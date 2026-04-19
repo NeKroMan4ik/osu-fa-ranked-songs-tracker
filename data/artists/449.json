@@ -5,9 +5,15 @@
     {
       "title": "/data_eraser.wav",
       "preview": "https://assets.ppy.sh/artists/449/Songs/Lusumi - data%27eraser.wav.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2322181
+        ]
+      }
     }
   ],
-  "updated_at": "2026-04-12T19:36:41Z"
+  "updated_at": "2026-04-19T19:39:37Z"
 }

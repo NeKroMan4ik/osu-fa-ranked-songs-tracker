@@ -1,6 +1,6 @@
 {
   "id": 437,
-  "name": "tomspicy",
+  "name": "tom^",
   "tracks": [
     {
       "title": "fieryrage accordion (hardcore remix)",
@@ -19,6 +19,18 @@
         ],
         "taiko": [
           1516860
+        ]
+      }
+    },
+    {
+      "title": "fieryrage accordion (hardcore remix) (TV Size)",
+      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tomspicy - fieryrage accordion (hardcore remix) (TV Size).mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2527220
         ]
       }
     },
@@ -49,12 +61,6 @@
     {
       "title": "dysthymia",
       "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tomspicy_-_dysthymia.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "fieryrage accordion (hardcore remix) (TV Size)",
-      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tomspicy - fieryrage accordion (hardcore remix) (TV Size).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -125,5 +131,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-12T19:41:46Z"
+  "updated_at": "2026-04-19T19:45:04Z"
 }

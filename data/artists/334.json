@@ -102,6 +102,18 @@
       }
     },
     {
+      "title": "Ten, Sen, Men, Rittai",
+      "preview": "https://assets.ppy.sh/artists/334/Songs/Sound piercer - Ten%2C Sen%2C Men%2C Rittai.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2012308
+        ]
+      }
+    },
+    {
       "title": "Candy & Baguette",
       "preview": "https://assets.ppy.sh/artists/334/Songs/Sound piercer - Candy %26 Baguette.mp3",
       "ranked_modes": [],
@@ -124,13 +136,7 @@
       "preview": "https://assets.ppy.sh/artists/334/Songs/Sound piercer x ginkiha - BLAZE YOUR SOUL.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ten, Sen, Men, Rittai",
-      "preview": "https://assets.ppy.sh/artists/334/Songs/Sound piercer - Ten%2C Sen%2C Men%2C Rittai.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-12T19:40:41Z"
+  "updated_at": "2026-04-19T19:43:55Z"
 }

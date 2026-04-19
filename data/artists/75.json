@@ -104,6 +104,18 @@
       }
     },
     {
+      "title": "Skydiver",
+      "preview": "https://assets.ppy.sh/artists/75/Songs/meganeko_-_Skydiver.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2432605
+        ]
+      }
+    },
+    {
       "title": "The Cyber Grind",
       "preview": "https://assets.ppy.sh/artists/75/Songs/meganeko_-_The_Cyber_Grind.mp3",
       "ranked_modes": [
@@ -232,12 +244,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Skydiver",
-      "preview": "https://assets.ppy.sh/artists/75/Songs/meganeko_-_Skydiver.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Slime Boy Color",
       "preview": "https://assets.ppy.sh/artists/75/previews/2035.mp3",
       "ranked_modes": [],
@@ -274,5 +280,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-12T19:37:04Z"
+  "updated_at": "2026-04-19T19:40:02Z"
 }

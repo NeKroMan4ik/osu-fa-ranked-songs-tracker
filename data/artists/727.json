@@ -439,7 +439,8 @@
       ],
       "beatmapset_ids_by_mode": {
         "fruits": [
-          1550933
+          1550933,
+          2533726
         ]
       }
     },
@@ -660,5 +661,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-12T19:42:46Z"
+  "updated_at": "2026-04-19T19:46:10Z"
 }

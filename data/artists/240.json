@@ -220,6 +220,18 @@
       }
     },
     {
+      "title": "Wall",
+      "preview": "https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Wall.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2525114
+        ]
+      }
+    },
+    {
       "title": "Witches",
       "preview": "https://assets.ppy.sh/artists/240/Good Kid/Good Kid - Witches.mp3",
       "ranked_modes": [
@@ -242,13 +254,7 @@
       "preview": "https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Rift.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Wall",
-      "preview": "https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Wall.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-12T19:34:12Z"
+  "updated_at": "2026-04-19T19:36:54Z"
 }

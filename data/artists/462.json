@@ -96,6 +96,18 @@
       }
     },
     {
+      "title": "ArXe - I doubt you could change my fate (feat. Kasane Teto)",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/ArXe_-_I_doubt_you_could_change_my_fate_feat._Kasane_Teto.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2476448
+        ]
+      }
+    },
+    {
       "title": "ArXe - Locus Amoenus (feat. Megurine Luka)",
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/ArXe - Locus Amoenus (feat. Megurine Luka).mp3",
       "ranked_modes": [
@@ -706,12 +718,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "ArXe - I doubt you could change my fate (feat. Kasane Teto)",
-      "preview": "https://assets.ppy.sh/artists/462/Songs/ArXe_-_I_doubt_you_could_change_my_fate_feat._Kasane_Teto.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "ArXe - Kasumi Tourou feat. Hatsune Miku",
       "preview": "https://assets.ppy.sh/artists/462/Newcomers World Cup 2025/ArXe - Kasumi Tourou feat. Hatsune Miku.mp3",
       "ranked_modes": [],
@@ -1222,5 +1228,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-12T19:38:31Z"
+  "updated_at": "2026-04-19T19:41:35Z"
 }

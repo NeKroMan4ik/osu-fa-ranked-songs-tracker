@@ -150,6 +150,18 @@
       }
     },
     {
+      "title": "Skeleton Key",
+      "preview": "https://assets.ppy.sh/artists/269/Somewhere City/Origami Angel - Skeleton Key.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2449083
+        ]
+      }
+    },
+    {
       "title": "The Title Track",
       "preview": "https://assets.ppy.sh/artists/269/Somewhere City/Origami Angel - The Title Track.mp3",
       "ranked_modes": [
@@ -189,12 +201,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Skeleton Key",
-      "preview": "https://assets.ppy.sh/artists/269/Somewhere City/Origami Angel - Skeleton Key.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "The Air Up Here",
       "preview": "https://assets.ppy.sh/artists/269/Somewhere City/Origami Angel - The Air Up Here.mp3",
       "ranked_modes": [],
@@ -207,5 +213,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-12T19:38:28Z"
+  "updated_at": "2026-04-19T19:41:33Z"
 }

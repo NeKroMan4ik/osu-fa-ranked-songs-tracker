@@ -83,10 +83,14 @@
       "title": "Crimsonic dimension",
       "preview": "https://assets.ppy.sh/artists/297/candybug/-45 - Crimsonic dimension.mp3",
       "ranked_modes": [
+        "fruits",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2532070
+        ],
         "osu": [
           2125044,
           2523916
@@ -1003,5 +1007,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-12T19:30:12Z"
+  "updated_at": "2026-04-19T19:32:35Z"
 }

@@ -15,6 +15,18 @@
       }
     },
     {
+      "title": "Viatores Nebulae feat. Megurine Luka - Heart of Epitaph",
+      "preview": "https://assets.ppy.sh/artists/409/Ennodia/Viatores Nebulae feat. Megurine Luka - Heart of Epitaph.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2412283
+        ]
+      }
+    },
+    {
       "title": "A Platter of Primes",
       "preview": "https://assets.ppy.sh/artists/409/Songs/ptar124_-_A_Platter_of_Primes.mp3",
       "ranked_modes": [],
@@ -115,13 +127,7 @@
       "preview": "https://assets.ppy.sh/artists/409/Ad infinitum %7Eein sof%7E/Viatores_Nebulae_ptar124__SiLiS_-_Ad_infinitum_ein_sof.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Viatores Nebulae feat. Megurine Luka - Heart of Epitaph",
-      "preview": "https://assets.ppy.sh/artists/409/Ennodia/Viatores Nebulae feat. Megurine Luka - Heart of Epitaph.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-12T19:38:56Z"
+  "updated_at": "2026-04-19T19:42:03Z"
 }

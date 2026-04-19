@@ -31,6 +31,18 @@
       }
     },
     {
+      "title": "Forever",
+      "preview": "https://assets.ppy.sh/artists/177/Forever SLASH Colours/Andromedik - Forever.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2462574
+        ]
+      }
+    },
+    {
       "title": "Invasion",
       "preview": "https://assets.ppy.sh/artists/177/High Tea Music Vol. 1/Andromedik - Invasion.mp3",
       "ranked_modes": [
@@ -63,12 +75,6 @@
     {
       "title": "Fly",
       "preview": "https://assets.ppy.sh/artists/177/Harmony/Andromedik%2C Polygon%2C Itro - Fly.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Forever",
-      "preview": "https://assets.ppy.sh/artists/177/Forever SLASH Colours/Andromedik - Forever.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -115,5 +121,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-12T19:31:06Z"
+  "updated_at": "2026-04-19T19:33:32Z"
 }

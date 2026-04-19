@@ -3,6 +3,18 @@
   "name": "Tanger",
   "tracks": [
     {
+      "title": "hugging.in.the.rain",
+      "preview": "https://assets.ppy.sh/artists/507/downpour.ep/Tanger - hugging.in.the.rain.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2526962
+        ]
+      }
+    },
+    {
       "title": "tiny windows (feat. Frizk)",
       "preview": "https://assets.ppy.sh/artists/507/tinywindows/Tanger - tiny windows (feat. Frizk).mp3",
       "ranked_modes": [
@@ -79,12 +91,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "hugging.in.the.rain",
-      "preview": "https://assets.ppy.sh/artists/507/downpour.ep/Tanger - hugging.in.the.rain.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "IMPULSE! (feat. Inferno)",
       "preview": "https://assets.ppy.sh/artists/507/IMPULSE!/Tanger - IMPULSE! (feat. Inferno).mp3",
       "ranked_modes": [],
@@ -145,5 +151,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-12T19:41:17Z"
+  "updated_at": "2026-04-19T19:44:35Z"
 }
