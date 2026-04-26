@@ -87,12 +87,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Dai ni Wakusei Keikaku ~2nd Planet o.p.~",
-      "preview": "https://assets.ppy.sh/artists/118/Songs/Asahina feat. charmaco - Dai ni Wakusei Keikaku ~2nd Planet o.p.~.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Desk Top Mods ~improvization",
       "preview": "https://assets.ppy.sh/artists/118/oto no otsumami/Yu_Asahina - Desk Top Mods ~improvization.mp3",
       "ranked_modes": [],
@@ -157,7 +151,13 @@
       "preview": "https://assets.ppy.sh/artists/118/WONDERLAND TRAVELERS/Yu_Asahina - Glittering City Drop feat.Citrus and Ocean Colour.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Yu_Asahina feat. charmaco - Daini Wakusei Keikaku ~2nd Planet o.p.~",
+      "preview": "https://assets.ppy.sh/artists/118/Songs/Yu_Asahina_feat._charmaco_-_Daini_Wakusei_Keikaku_2nd_Planet_o.p..mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:41:31Z"
+  "updated_at": "2026-04-26T19:46:02Z"
 }

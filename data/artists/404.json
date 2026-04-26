@@ -83,18 +83,6 @@
       }
     },
     {
-      "title": "Timeless Dissonance",
-      "preview": "https://assets.ppy.sh/artists/404/Permanence/Takamachi Walk - Timeless Dissonance.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2302143
-        ]
-      }
-    },
-    {
       "title": "Until the End of This Dream",
       "preview": "https://assets.ppy.sh/artists/404/wither/Takamachi Walk - Until the End of This Dream.mp3",
       "ranked_modes": [
@@ -117,7 +105,13 @@
       "preview": "https://assets.ppy.sh/artists/404/Shattered/Takamachi Walk - Lamento - Memory.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Timeless Dissonance",
+      "preview": "https://assets.ppy.sh/artists/404/Permanence/Takamachi_Walk_-_Timeless_Dissonance.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:44:30Z"
+  "updated_at": "2026-04-26T19:48:56Z"
 }

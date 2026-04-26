@@ -64,9 +64,13 @@
       "title": "Love Kills U",
       "preview": "https://assets.ppy.sh/artists/246/Love Kills U EP/EmoCosine_-_Love_Kills_U_Short_Ver..mp3",
       "ranked_modes": [
+        "fruits",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2516675
+        ],
         "taiko": [
           1719687,
           2246506
@@ -174,5 +178,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:35:58Z"
+  "updated_at": "2026-04-26T19:40:37Z"
 }

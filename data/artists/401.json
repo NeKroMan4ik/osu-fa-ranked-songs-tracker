@@ -117,6 +117,18 @@
       }
     },
     {
+      "title": "Love You Not",
+      "preview": "https://assets.ppy.sh/artists/401/WeLcoMe To My WoRLd/Akiri - Love You Not.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2526970
+        ]
+      }
+    },
+    {
       "title": "MEOWWW",
       "preview": "https://assets.ppy.sh/artists/401/Songs/Akiri_-_MEOWWW.mp3",
       "ranked_modes": [
@@ -491,12 +503,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Love You Not",
-      "preview": "https://assets.ppy.sh/artists/401/WeLcoMe To My WoRLd/Akiri - Love You Not.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "monster",
       "preview": "https://assets.ppy.sh/artists/401/Your Moms Revenge/Akiri - monster.mp3",
       "ranked_modes": [],
@@ -683,5 +689,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:33:16Z"
+  "updated_at": "2026-04-26T19:38:01Z"
 }

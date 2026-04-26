@@ -15,6 +15,18 @@
       }
     },
     {
+      "title": "Shinjuku Jack",
+      "preview": "https://assets.ppy.sh/artists/294/Songs/Abuse - Shinjuku Jack.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2537694
+        ]
+      }
+    },
+    {
       "title": "Want To Be Cremated",
       "preview": "https://assets.ppy.sh/artists/294/Songs/Abuse - Want To Be Cremated.mp3",
       "ranked_modes": [
@@ -56,13 +68,7 @@
       "preview": "https://assets.ppy.sh/artists/294/Songs/Abuse_-_Judas.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Shinjuku Jack",
-      "preview": "https://assets.ppy.sh/artists/294/Songs/Abuse - Shinjuku Jack.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:32:57Z"
+  "updated_at": "2026-04-26T19:37:42Z"
 }

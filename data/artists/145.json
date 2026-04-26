@@ -38,6 +38,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Empty Peperoncino - Koko no Kodou",
+      "preview": "https://assets.ppy.sh/artists/531/Empty Peperoncino/Empty_Peperoncino_-_Koko_no_Kodou.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "End Roll Empty Peperoncino ver.",
       "preview": "https://assets.ppy.sh/artists/145/Ame ni Utaeba/Empty Peperoncino - End Roll Empty Peperoncino ver..mp3",
       "ranked_modes": [],
@@ -56,12 +62,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Koko no Kodou",
-      "preview": "https://assets.ppy.sh/artists/145/Karappo Peperoncino/Empty Peperoncino - Koko no Kodou.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Love Letter",
       "preview": "https://assets.ppy.sh/artists/145/Karappo Peperoncino/Empty Peperoncino - Love Letter.mp3",
       "ranked_modes": [],
@@ -74,5 +74,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:35:59Z"
+  "updated_at": "2026-04-26T19:40:38Z"
 }

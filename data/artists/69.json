@@ -141,22 +141,6 @@
       }
     },
     {
-      "title": "ELFENSJoN - Hexenjagd",
-      "preview": "https://assets.ppy.sh/artists/69/EINHERJAR/ELFENSJoN - Hexenjagd.mp3",
-      "ranked_modes": [
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          1931986
-        ],
-        "osu": [
-          1112621
-        ]
-      }
-    },
-    {
       "title": "ELFENSJoN - Hoshikuzu no Rinne",
       "preview": "https://assets.ppy.sh/artists/69/ASH OF ROUGE- SIDE ASTRAL/ELFENSJoN - Hoshikuzu no Rinne.mp3",
       "ranked_modes": [
@@ -400,7 +384,7 @@
     },
     {
       "title": "ELFENSJoN - DAWN",
-      "preview": "https://assets.ppy.sh/artists/69/DAWN/ELFENSJoN - DAWN.mp3",
+      "preview": "https://assets.ppy.sh/artists/69/DAWN/ELFENSJoN_-_DAWN.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -413,6 +397,12 @@
     {
       "title": "ELFENSJoN - HETERODOXY",
       "preview": "https://assets.ppy.sh/artists/69/ZENITH/ELFENSJoN - HETERODOXY.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ELFENSJoN - Hexenjagd",
+      "preview": "https://assets.ppy.sh/artists/69/EINHERJAR/ELFENSJoN_-_Hexenjagd.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -495,5 +485,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:35:54Z"
+  "updated_at": "2026-04-26T19:40:33Z"
 }

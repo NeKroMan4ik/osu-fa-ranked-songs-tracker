@@ -120,6 +120,18 @@
       }
     },
     {
+      "title": "White Canvas (feat. Aitsuki Nakuru)",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - White Canvas (feat. Aitsuki Nakuru).mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2518293
+        ]
+      }
+    },
+    {
       "title": "White Canvas (feat. Aitsuki Nakuru) (osu! edit)",
       "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - White Canvas (feat. Aitsuki Nakuru) (osu! edit).mp3",
       "ranked_modes": [
@@ -237,12 +249,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "White Canvas (feat. Aitsuki Nakuru)",
-      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - White Canvas (feat. Aitsuki Nakuru).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Zero Gravity",
       "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Zero Gravity.mp3",
       "ranked_modes": [],
@@ -255,5 +261,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:42:24Z"
+  "updated_at": "2026-04-26T19:46:54Z"
 }

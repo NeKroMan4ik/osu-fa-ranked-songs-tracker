@@ -411,6 +411,18 @@
       }
     },
     {
+      "title": "Suffruti",
+      "preview": "https://assets.ppy.sh/artists/297/Black Lotus/-45 - Suffruti.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2474533
+        ]
+      }
+    },
+    {
       "title": "System Sun",
       "preview": "https://assets.ppy.sh/artists/297/Sunfleur/-45 - System Sun.mp3",
       "ranked_modes": [
@@ -457,9 +469,13 @@
       "preview": "https://assets.ppy.sh/artists/297/Sunfleur/-45 - Total Eclipse of The Sun.mp3",
       "ranked_modes": [
         "fruits",
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2126920
+        ],
         "osu": [
           1782707
         ],
@@ -630,7 +646,7 @@
     },
     {
       "title": "Dance in the Light",
-      "preview": "https://assets.ppy.sh/artists/297/Malice Call/-45 - Dance in the Light.mp3",
+      "preview": "https://assets.ppy.sh/artists/297/Malice Call/-45_-_Dance_in_the_Light.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -899,12 +915,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Suffruti",
-      "preview": "https://assets.ppy.sh/artists/297/Black Lotus/-45 - Suffruti.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Sunfleur",
       "preview": "https://assets.ppy.sh/artists/297/Sunfleur/-45 - Sunfleur.mp3",
       "ranked_modes": [],
@@ -1007,5 +1017,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:32:35Z"
+  "updated_at": "2026-04-26T19:37:20Z"
 }

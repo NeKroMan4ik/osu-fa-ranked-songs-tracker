@@ -75,6 +75,18 @@
       }
     },
     {
+      "title": "Paspal - Ideal",
+      "preview": "https://assets.ppy.sh/artists/130/Queen A%27rcadia/Paspal_-_Ideal.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2525673
+        ]
+      }
+    },
+    {
       "title": "Symholic feat. Rina Komatsu - Veil of Ash",
       "preview": "https://assets.ppy.sh/artists/130/Songs/Symholic_feat._Rina_Komatsu_-_Veil_of_Ash.mp3",
       "ranked_modes": [
@@ -253,12 +265,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Paspal - Ideal",
-      "preview": "https://assets.ppy.sh/artists/130/Queen A%27rcadia/Paspal_-_Ideal.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Paspal - Night Blooming Lilies",
       "preview": "https://assets.ppy.sh/artists/130/Songs/Paspal - Night Blooming Lilies.mp3",
       "ranked_modes": [],
@@ -385,5 +391,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:44:22Z"
+  "updated_at": "2026-04-26T19:48:48Z"
 }

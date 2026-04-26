@@ -399,9 +399,13 @@
       "title": "Camellia feat. Nanahira - Energy * Drin-ko Fein-chan!",
       "preview": "https://assets.ppy.sh/artists/31/Replay/Camellia_feat._Nanahira_-_Energy_Drin-ko_Fein-chan.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2469434
+        ],
         "osu": [
           257407
         ]
@@ -2644,6 +2648,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Camellia feat. Camellia - Thule",
+      "preview": "https://assets.ppy.sh/artists/31/Songs/Camellia_feat._Camellia_-_Thule.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Camellia feat. Nanahira - Hea~rt Bea~t O~ver~Hea~~~~t!!!!",
       "preview": "https://assets.ppy.sh/artists/31/4orce/Camellia feat. Nanahira - Hea%7Ert Bea%7Et O%7Ever%7EHea%7E%7E%7E%7Et!!!!.mp3",
       "ranked_modes": [],
@@ -3082,5 +3092,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:34:43Z"
+  "updated_at": "2026-04-26T19:39:25Z"
 }

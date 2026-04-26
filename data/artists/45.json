@@ -348,6 +348,18 @@
       }
     },
     {
+      "title": "The Beginning",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1113.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2524315
+        ]
+      }
+    },
+    {
       "title": "The Empress",
       "preview": "https://assets.ppy.sh/artists/45/previews/1084.mp3",
       "ranked_modes": [
@@ -1008,12 +1020,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "The Beginning",
-      "preview": "https://assets.ppy.sh/artists/45/previews/1113.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "The Chainsaw (feat. Tom Barber of Chelsea Grin)",
       "preview": "https://assets.ppy.sh/artists/45/J.O.I.N.T/UNDEAD CORPORATION - The Chainsaw (feat. Tom Barber of Chelsea Grin).mp3",
       "ranked_modes": [],
@@ -1146,5 +1152,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:45:18Z"
+  "updated_at": "2026-04-26T19:49:43Z"
 }

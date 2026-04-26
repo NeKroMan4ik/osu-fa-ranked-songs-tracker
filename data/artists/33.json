@@ -18,9 +18,13 @@
       "title": "Dance With Nightsky",
       "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Dance With Nightsky.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2258704
+        ],
         "mania": [
           1139370
         ]
@@ -540,5 +544,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:37:29Z"
+  "updated_at": "2026-04-26T19:42:06Z"
 }

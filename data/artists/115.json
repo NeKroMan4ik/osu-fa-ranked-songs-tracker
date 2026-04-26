@@ -39,12 +39,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "BLOOD CODE, TOFUKU - POP SHOVE-IT",
-      "preview": "https://assets.ppy.sh/artists/115/previews/2989.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "BLOOD CODE, Wishlyst - Take Me Home (feat. Wishlyst)",
       "preview": "https://assets.ppy.sh/artists/115/previews/2990.mp3",
       "ranked_modes": [],
@@ -55,7 +49,13 @@
       "preview": "https://assets.ppy.sh/artists/115/previews/2983.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "POP SHOVE-IT FEAT. TOFUKU",
+      "preview": "https://assets.ppy.sh/artists/115/Songs/BLOOD_CODE_-_POP_SHOVE-IT_FEAT._TOFUKU.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:34:25Z"
+  "updated_at": "2026-04-26T19:39:07Z"
 }

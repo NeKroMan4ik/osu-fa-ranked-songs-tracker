@@ -32,9 +32,13 @@
       "ranked_modes": [
         "fruits",
         "mania",
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2529686
+        ],
         "mania": [
           2187234,
           2422499
@@ -72,18 +76,6 @@
       }
     },
     {
-      "title": "Spirit Away",
-      "preview": "https://assets.ppy.sh/artists/333/Songs/Euchaeta - Spirit Away.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1857409
-        ]
-      }
-    },
-    {
       "title": "Who's World?",
       "preview": "https://assets.ppy.sh/artists/333/Songs/Euchaeta - Who%27s World.mp3",
       "ranked_modes": [
@@ -106,11 +98,17 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Spirit Away",
+      "preview": "https://assets.ppy.sh/artists/333/Songs/Euchaeta_-_Spirit_Away.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "The North Pole feat. kazune",
       "preview": "https://assets.ppy.sh/artists/333/Songs/Euchaeta - The North Pole feat. kazune.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:36:08Z"
+  "updated_at": "2026-04-26T19:40:48Z"
 }

@@ -43,6 +43,18 @@
       }
     },
     {
+      "title": "Peepee Song",
+      "preview": "https://assets.ppy.sh/artists/233/Songs/Boom Kitty - Peepee Song.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1880752
+        ]
+      }
+    },
+    {
       "title": "Shredageddon",
       "preview": "https://assets.ppy.sh/artists/233/Songs/Boom Kitty - Shredageddon.mp3",
       "ranked_modes": [
@@ -175,12 +187,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Peepee Song",
-      "preview": "https://assets.ppy.sh/artists/233/Songs/Boom Kitty - Peepee Song.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Power Trip",
       "preview": "https://assets.ppy.sh/artists/233/Songs/Boom_Kitty_-_Power_Trip.mp3",
       "ranked_modes": [],
@@ -223,5 +229,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:34:30Z"
+  "updated_at": "2026-04-26T19:39:12Z"
 }

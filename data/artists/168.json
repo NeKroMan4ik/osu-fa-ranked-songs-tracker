@@ -167,10 +167,14 @@
       "preview": "https://assets.ppy.sh/artists/168/TOHO EUROBEAT VOL. 3 THE EMBODIMENT OF SCARLET DEVIL/A-One feat. Shihori - Magic Girl !!.mp3",
       "ranked_modes": [
         "fruits",
+        "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2534821
+        ],
         "osu": [
           53519,
           1583787,
@@ -275,5 +279,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:32:50Z"
+  "updated_at": "2026-04-26T19:37:35Z"
 }

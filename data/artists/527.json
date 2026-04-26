@@ -100,9 +100,13 @@
       "preview": "https://assets.ppy.sh/artists/527/Songs/Laur_-_SEV-26.mp3",
       "ranked_modes": [
         "fruits",
-        "mania"
+        "mania",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2534398
+        ],
         "mania": [
           2513401
         ],
@@ -288,5 +292,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:39:04Z"
+  "updated_at": "2026-04-26T19:43:38Z"
 }

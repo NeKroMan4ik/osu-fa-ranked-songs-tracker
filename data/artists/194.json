@@ -67,10 +67,14 @@
       "preview": "https://assets.ppy.sh/artists/194/Chronostasis/Release Hallucination - Chronostasis.mp3",
       "ranked_modes": [
         "fruits",
+        "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          1665948
+        ],
         "taiko": [
           842930,
           1898578,
@@ -125,7 +129,8 @@
           1839414,
           1856043,
           2060223,
-          2152319
+          2152319,
+          2264613
         ],
         "taiko": [
           1320516,
@@ -272,5 +277,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:42:28Z"
+  "updated_at": "2026-04-26T19:46:57Z"
 }

@@ -264,6 +264,18 @@
       }
     },
     {
+      "title": "WAiKURO - ETERNAL CHAOS",
+      "preview": "https://assets.ppy.sh/artists/150/Songs/WAiKURO - ETERNAL CHAOS.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1725991
+        ]
+      }
+    },
+    {
       "title": "Yooh Remixed by BlackY - salvation -from:BLACK-",
       "preview": "https://assets.ppy.sh/artists/150/Songs/Yooh Remixed by BlackY - salvation -fromBLACK-.mp3",
       "ranked_modes": [
@@ -790,13 +802,7 @@
       "preview": "https://assets.ppy.sh/artists/150/GABRiELLA/BlackY - Victoria.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "WAiKURO - ETERNAL CHAOS",
-      "preview": "https://assets.ppy.sh/artists/150/Songs/WAiKURO - ETERNAL CHAOS.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:34:20Z"
+  "updated_at": "2026-04-26T19:39:03Z"
 }

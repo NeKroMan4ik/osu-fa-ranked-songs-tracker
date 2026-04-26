@@ -28,6 +28,18 @@
       }
     },
     {
+      "title": "hopeful hyle",
+      "preview": "https://assets.ppy.sh/artists/434/The 4th Edition Clear Color/SiLiS - hopeful hyle.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2352047
+        ]
+      }
+    },
+    {
       "title": "March to the Constellations",
       "preview": "https://assets.ppy.sh/artists/434/The 4th Edition Clear Color/SiLiS - March to the Constellations.mp3",
       "ranked_modes": [
@@ -132,12 +144,6 @@
     {
       "title": "Haruyakihata",
       "preview": "https://assets.ppy.sh/artists/434/The 4th Edition Clear Color/SiLiS - Haruyakihata.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "hopeful hyle",
-      "preview": "https://assets.ppy.sh/artists/434/The 4th Edition Clear Color/SiLiS - hopeful hyle.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -262,5 +268,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:43:36Z"
+  "updated_at": "2026-04-26T19:48:04Z"
 }

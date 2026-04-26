@@ -202,19 +202,6 @@
       }
     },
     {
-      "title": "Seimei no Tomoshibi",
-      "preview": "https://assets.ppy.sh/artists/99/previews/2662.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2042767,
-          2296090
-        ]
-      }
-    },
-    {
       "title": "Sylphia",
       "preview": "https://assets.ppy.sh/artists/99/previews/2676.mp3",
       "ranked_modes": [
@@ -342,6 +329,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Seimei no Tomoshibi",
+      "preview": "https://assets.ppy.sh/artists/99/Last Words/Imy_-_Seimei_no_Tomoshibi.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Shinsou Kairou",
       "preview": "https://assets.ppy.sh/artists/99/previews/2663.mp3",
       "ranked_modes": [],
@@ -354,5 +347,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:37:43Z"
+  "updated_at": "2026-04-26T19:42:19Z"
 }

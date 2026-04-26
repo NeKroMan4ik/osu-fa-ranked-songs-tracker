@@ -51,9 +51,13 @@
       "title": "Mikansei Romantic (feat. Kotono)",
       "preview": "https://assets.ppy.sh/artists/292/Mikansei Romantic/Mitsukiyo - Mikansei Romantic (feat. Kotonoha).mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2535062
+        ],
         "mania": [
           1850473,
           2246587
@@ -151,5 +155,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:40:24Z"
+  "updated_at": "2026-04-26T19:44:57Z"
 }

@@ -150,18 +150,6 @@
       }
     },
     {
-      "title": "Yuichiro Tsukagoshi (NanosizeMir) feat. Sennzai - Kanousei no Shoujo",
-      "preview": "https://assets.ppy.sh/artists/110/RedemptioN/Yuichiro Tsukagoshi (NanosizeMir) feat. Sennzai - Kanousei no Shoujo.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2124582
-        ]
-      }
-    },
-    {
       "title": "bermei.inazawa feat. Sennzai - RedemptioN",
       "preview": "https://assets.ppy.sh/artists/110/RedemptioN/bermei.inazawa feat. Sennzai - RedemptioN.mp3",
       "ranked_modes": [],
@@ -282,6 +270,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Yuichiro Tsukagoshi (NanosizeMir) feat. Sennzai - Kanousei no Shoujo",
+      "preview": "https://assets.ppy.sh/artists/110/RedemptioN/Yuichiro_Tsukagoshi_NanosizeMir_feat._Sennzai_-_Kanousei_no_Shoujo.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Yuichiro Tsukagoshi (NanosizeMir) feat. Sennzai - Kuro Lily",
       "preview": "https://assets.ppy.sh/artists/110/Fleurix/Yuichiro Tsukagoshi (NanosizeMir) feat. Sennzai - Kuro Lily.mp3",
       "ranked_modes": [],
@@ -300,5 +294,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:43:20Z"
+  "updated_at": "2026-04-26T19:47:48Z"
 }

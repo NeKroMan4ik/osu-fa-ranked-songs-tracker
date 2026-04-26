@@ -131,6 +131,18 @@
       }
     },
     {
+      "title": "Graduation from The World",
+      "preview": "https://assets.ppy.sh/artists/359/Midnight Sacrifice/cygnus - Graduation from The World.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2508774
+        ]
+      }
+    },
+    {
       "title": "Lavis Moon",
       "preview": "https://assets.ppy.sh/artists/359/The Evolution of War/cygnus_-_Lavis_Moon.mp3",
       "ranked_modes": [
@@ -544,12 +556,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Graduation from The World",
-      "preview": "https://assets.ppy.sh/artists/359/Midnight Sacrifice/cygnus - Graduation from The World.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Hakai no Shinzou",
       "preview": "https://assets.ppy.sh/artists/359/Cry for the Infinity/cygnus - Hakai no Shinzou.mp3",
       "ranked_modes": [],
@@ -838,5 +844,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:35:14Z"
+  "updated_at": "2026-04-26T19:39:54Z"
 }

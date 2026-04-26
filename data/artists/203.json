@@ -3,6 +3,18 @@
   "name": "Lundy",
   "tracks": [
     {
+      "title": "not to pop your bubble...",
+      "preview": "https://assets.ppy.sh/artists/203/Songs/Lundy - not to pop your bubble....mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2378766
+        ]
+      }
+    },
+    {
       "title": "Septima",
       "preview": "https://assets.ppy.sh/artists/203/Songs/Lundy - Septima.mp3",
       "ranked_modes": [
@@ -105,12 +117,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "not to pop your bubble...",
-      "preview": "https://assets.ppy.sh/artists/203/Songs/Lundy - not to pop your bubble....mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Stand-Off",
       "preview": "https://assets.ppy.sh/artists/203/Stand-Off/Lundy - Stand-Off.mp3",
       "ranked_modes": [],
@@ -141,5 +147,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:39:36Z"
+  "updated_at": "2026-04-26T19:44:10Z"
 }

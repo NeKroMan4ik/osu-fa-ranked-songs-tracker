@@ -3,6 +3,30 @@
   "name": "jeko",
   "tracks": [
     {
+      "title": "Geheimnis",
+      "preview": "https://assets.ppy.sh/artists/538/Songs/jeko - Geheimnis.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2463674
+        ]
+      }
+    },
+    {
+      "title": "persistence",
+      "preview": "https://assets.ppy.sh/artists/538/Songs/jeko - persistence.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2494074
+        ]
+      }
+    },
+    {
       "title": "Aberration",
       "preview": "https://assets.ppy.sh/artists/538/Songs/jeko - Aberration.mp3",
       "ranked_modes": [],
@@ -17,12 +41,6 @@
     {
       "title": "Etheria",
       "preview": "https://assets.ppy.sh/artists/538/Songs/jeko - Etheria.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Geheimnis",
-      "preview": "https://assets.ppy.sh/artists/538/Songs/jeko - Geheimnis.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -69,12 +87,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "persistence",
-      "preview": "https://assets.ppy.sh/artists/538/Songs/jeko - persistence.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "PLANES OF EXISTENCE",
       "preview": "https://assets.ppy.sh/artists/538/Songs/jeko - PLANES OF EXISTENCE.mp3",
       "ranked_modes": [],
@@ -105,5 +117,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:37:54Z"
+  "updated_at": "2026-04-26T19:42:30Z"
 }

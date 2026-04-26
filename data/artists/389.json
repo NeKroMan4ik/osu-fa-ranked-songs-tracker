@@ -50,9 +50,13 @@
       "title": "you feat. nayuta - Color (2019 Reworks)",
       "preview": "https://assets.ppy.sh/artists/389/Songs/you feat. nayuta - Color (2019 Reworks).mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2526966
+        ],
         "osu": [
           2089375,
           2421045
@@ -79,11 +83,12 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          1108981,
+          2519542
+        ],
         "osu": [
           2125961
-        ],
-        "taiko": [
-          1108981
         ]
       }
     },
@@ -124,5 +129,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:46:22Z"
+  "updated_at": "2026-04-26T19:50:44Z"
 }

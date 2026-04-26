@@ -3,6 +3,18 @@
   "name": "cute girls doing cute things",
   "tracks": [
     {
+      "title": "Friends",
+      "preview": "https://assets.ppy.sh/artists/105/previews/2765.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2537709
+        ]
+      }
+    },
+    {
       "title": "Ideal",
       "preview": "https://assets.ppy.sh/artists/105/previews/2767.mp3",
       "ranked_modes": [
@@ -39,12 +51,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Friends",
-      "preview": "https://assets.ppy.sh/artists/105/previews/2765.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "I like cute girls (with Miraie)",
       "preview": "https://assets.ppy.sh/artists/105/previews/2766.mp3",
       "ranked_modes": [],
@@ -69,5 +75,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:35:12Z"
+  "updated_at": "2026-04-26T19:39:52Z"
 }

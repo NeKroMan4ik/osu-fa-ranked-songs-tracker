@@ -18,9 +18,13 @@
       "title": "Kek",
       "preview": "https://assets.ppy.sh/artists/52/previews/1527.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2333936
+        ],
         "osu": [
           944723
         ]
@@ -109,5 +113,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:36:14Z"
+  "updated_at": "2026-04-26T19:40:54Z"
 }

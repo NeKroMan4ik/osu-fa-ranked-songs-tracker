@@ -3,6 +3,18 @@
   "name": "69 de 74",
   "tracks": [
     {
+      "title": "69 de 74 feat. Komiya Mao - Stand Up!! Stand Up!!",
+      "preview": "https://assets.ppy.sh/artists/268/Songs/69 de 74 feat. Komiya Mao - Stand Up!! Stand Up!!.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2528791
+        ]
+      }
+    },
+    {
       "title": "Aratanaru Ketsui",
       "preview": "https://assets.ppy.sh/artists/268/Songs/69 de 74 - Aratanaru Ketsui.mp3",
       "ranked_modes": [
@@ -92,12 +104,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "69 de 74 feat. Komiya Mao - Stand Up!! Stand Up!!",
-      "preview": "https://assets.ppy.sh/artists/268/Songs/69 de 74 feat. Komiya Mao - Stand Up!! Stand Up!!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "CHAOTIC DESTRUCTION",
       "preview": "https://assets.ppy.sh/artists/268/Songs/69 de 74 - CHAOTIC DESTRUCTION.mp3",
       "ranked_modes": [],
@@ -116,5 +122,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-19T19:32:46Z"
+  "updated_at": "2026-04-26T19:37:31Z"
 }
