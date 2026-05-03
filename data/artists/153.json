@@ -3,6 +3,18 @@
   "name": "Aethoro",
   "tracks": [
     {
+      "title": "A Town Beside the Ocean",
+      "preview": "https://assets.ppy.sh/artists/153/A Town Beside the Ocean/Aethoro - A Town Beside the Ocean.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2419228
+        ]
+      }
+    },
+    {
       "title": "Deertracks",
       "preview": "https://assets.ppy.sh/artists/153/Spiritdance/Aethoro - Deertracks.mp3",
       "ranked_modes": [
@@ -47,12 +59,6 @@
       }
     },
     {
-      "title": "A Town Beside the Ocean",
-      "preview": "https://assets.ppy.sh/artists/153/A Town Beside the Ocean/Aethoro - A Town Beside the Ocean.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Arielle's Wish",
       "preview": "https://assets.ppy.sh/artists/153/Spiritdance/Aethoro - Arielle's Wish.mp3",
       "ranked_modes": [],
@@ -89,5 +95,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:37:45Z"
+  "updated_at": "2026-05-03T19:43:48Z"
 }

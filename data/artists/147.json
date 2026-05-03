@@ -31,6 +31,18 @@
       }
     },
     {
+      "title": "One night in a harem",
+      "preview": "https://assets.ppy.sh/artists/147/An Anecdote of Succubus Quest OST/Cres. - One night in a harem.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2110334
+        ]
+      }
+    },
+    {
       "title": "Afternoon Tea",
       "preview": "https://assets.ppy.sh/artists/147/Songs/Cres. - Afternoon Tea.mp3",
       "ranked_modes": [],
@@ -97,17 +109,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "One night in a harem",
-      "preview": "https://assets.ppy.sh/artists/147/An Anecdote of Succubus Quest OST/Cres. - One night in a harem.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Rarmil Battle",
       "preview": "https://assets.ppy.sh/artists/147/Succubus Rhapsodia OST/Cres. - Rarmil Battle.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:39:47Z"
+  "updated_at": "2026-05-03T19:45:55Z"
 }

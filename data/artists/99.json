@@ -202,6 +202,19 @@
       }
     },
     {
+      "title": "Seimei no Tomoshibi",
+      "preview": "https://assets.ppy.sh/artists/99/Last Words/Imy_-_Seimei_no_Tomoshibi.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2042767,
+          2296090
+        ]
+      }
+    },
+    {
       "title": "Sylphia",
       "preview": "https://assets.ppy.sh/artists/99/previews/2676.mp3",
       "ranked_modes": [
@@ -305,14 +318,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Imy feat. konoko - INGLASS",
-      "preview": "https://assets.ppy.sh/artists/99/INGLASS/Imy feat. konoko - INGLASS.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Imy feat. konoko - Lost colors",
-      "preview": "https://assets.ppy.sh/artists/99/INGLASS/Imy feat. konoko - Lost colors.mp3",
+      "title": "INGLASS (feat. konoko)",
+      "preview": "https://assets.ppy.sh/artists/99/INGLASS/Imy_-_INGLASS_feat._konoko.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -329,8 +336,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Seimei no Tomoshibi",
-      "preview": "https://assets.ppy.sh/artists/99/Last Words/Imy_-_Seimei_no_Tomoshibi.mp3",
+      "title": "Lost colors (feat. konoko)",
+      "preview": "https://assets.ppy.sh/artists/99/INGLASS/Imy_-_Lost_colors_feat._konoko.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -347,5 +354,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:42:19Z"
+  "updated_at": "2026-05-03T19:48:32Z"
 }

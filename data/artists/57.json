@@ -3,6 +3,18 @@
   "name": "goreshit",
   "tracks": [
     {
+      "title": "benzo (with me eternal)",
+      "preview": "https://assets.ppy.sh/artists/57/semantics%3A the benzo chronicles/goreshit_-_benzo_with_me_eternal.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          935733
+        ]
+      }
+    },
+    {
       "title": "come find me",
       "preview": "https://assets.ppy.sh/artists/57/rituals/goreshit - come find me.mp3",
       "ranked_modes": [
@@ -11,6 +23,18 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           1106860
+        ]
+      }
+    },
+    {
+      "title": "one way to hannover",
+      "preview": "https://assets.ppy.sh/artists/57/semantics%3A the benzo chronicles/goreshit_-_one_way_to_hannover.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          1010164
         ]
       }
     },
@@ -35,6 +59,30 @@
       "beatmapset_ids_by_mode": {
         "taiko": [
           1071296
+        ]
+      }
+    },
+    {
+      "title": "the pain of relief (we have our vices one and all)",
+      "preview": "https://assets.ppy.sh/artists/57/semantics%3A the benzo chronicles/goreshit_-_the_pain_of_relief_we_have_our_vices_one_and_all.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1529429
+        ]
+      }
+    },
+    {
+      "title": "there are no angels here.",
+      "preview": "https://assets.ppy.sh/artists/57/semantics%3A the benzo chronicles/goreshit_-_there_are_no_angels_here..mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          514938
         ]
       }
     },
@@ -70,14 +118,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "benzo (with me eternal)",
-      "preview": "https://assets.ppy.sh/artists/57/semantics%3A the benzo chronicles/goreshit_-_benzo_with_me_eternal.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "broken promises/scattered dreams",
-      "preview": "https://assets.ppy.sh/artists/57/semantics%3A the benzo chronicles/goreshit_-_broken_promisesscattered_dreams.mp3",
+      "title": "broken promises/shattered dreams",
+      "preview": "https://assets.ppy.sh/artists/57/semantics%3A the benzo chronicles/goreshit_-_broken_promisesshattered_dreams.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -142,12 +184,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "one way to hannover",
-      "preview": "https://assets.ppy.sh/artists/57/semantics%3A the benzo chronicles/goreshit_-_one_way_to_hannover.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "skin like leather",
       "preview": "https://assets.ppy.sh/artists/57/loather/goreshit - skin like leather.mp3",
       "ranked_modes": [],
@@ -158,19 +194,7 @@
       "preview": "https://assets.ppy.sh/artists/57/loather/goreshit - tension.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "the pain of relief (we have our vices one and all)",
-      "preview": "https://assets.ppy.sh/artists/57/semantics%3A the benzo chronicles/goreshit_-_the_pain_of_relief_we_have_our_vices_one_and_all.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "there are no angels here.",
-      "preview": "https://assets.ppy.sh/artists/57/semantics%3A the benzo chronicles/goreshit_-_there_are_no_angels_here..mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:41:34Z"
+  "updated_at": "2026-05-03T19:47:45Z"
 }

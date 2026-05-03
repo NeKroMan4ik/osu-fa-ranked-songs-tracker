@@ -46,9 +46,13 @@
       "title": "MYUKKE. - Beta Snow",
       "preview": "https://assets.ppy.sh/artists/441/Songs/MYUKKE. - Beta Snow.mp3",
       "ranked_modes": [
-        "fruits"
+        "fruits",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2223271
+        ],
         "fruits": [
           2275058
         ]
@@ -101,5 +105,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:38:50Z"
+  "updated_at": "2026-05-03T19:44:56Z"
 }

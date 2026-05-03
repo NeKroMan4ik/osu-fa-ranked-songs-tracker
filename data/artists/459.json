@@ -167,9 +167,13 @@
       "title": "Signal",
       "preview": "https://assets.ppy.sh/artists/459/Signal/Ludicin - Signal.mp3",
       "ranked_modes": [
+        "fruits",
         "mania"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2354094
+        ],
         "mania": [
           2364931
         ]
@@ -194,5 +198,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:44:07Z"
+  "updated_at": "2026-05-03T19:50:24Z"
 }

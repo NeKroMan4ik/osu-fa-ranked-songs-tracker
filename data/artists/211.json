@@ -155,6 +155,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Kayuki feat. Risa Yuzuki - Umbilical",
+      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Kayuki_feat._Risa_Yuzuki_-_Umbilical.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Lemonade Fizz",
       "preview": "https://assets.ppy.sh/artists/211/Imitator/Risa Yuzuki - Lemonade Fizz.mp3",
       "ranked_modes": [],
@@ -215,17 +221,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Umbilical",
-      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Risa Yuzuki - Umbilical.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Yamatonadeshiko Dance Floor",
       "preview": "https://assets.ppy.sh/artists/211/Furin Kagerou/Risa Yuzuki - Yamatonadeshiko Dance Floor.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:47:07Z"
+  "updated_at": "2026-05-03T19:53:32Z"
 }

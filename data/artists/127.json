@@ -145,12 +145,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Aitsuki Nakuru & Miura Ko - Nounai Sociality",
-      "preview": "https://assets.ppy.sh/artists/127/Nacollection!!2/Aitsuki Nakuru %26 Miura Ko - Nounai Sociality.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Applephilia no Himegoto feat. Aoi Sumito",
       "preview": "https://assets.ppy.sh/artists/127/Applephilia no Himegoto/Aitsuki Nakuru - Applephilia no Himegoto feat. Aoi Sumito.mp3",
       "ranked_modes": [],
@@ -159,6 +153,12 @@
     {
       "title": "Kabocha feat. Aitsuki Nakuru - Lilith",
       "preview": "https://assets.ppy.sh/artists/127/Nacollection-3-/Kabocha feat. Aitsuki Nakuru - Lilith.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ko Miura feat. Aitsuki Nakuru - Nounai Sociality",
+      "preview": "https://assets.ppy.sh/artists/127/Nacollection!!2/Ko_Miura_feat._Aitsuki_Nakuru_-_Nounai_Sociality.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -175,5 +175,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:37:53Z"
+  "updated_at": "2026-05-03T19:43:56Z"
 }

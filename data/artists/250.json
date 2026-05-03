@@ -47,9 +47,13 @@
       "title": "wont interfere",
       "preview": "https://assets.ppy.sh/artists/250/wont interfere/luvlxckdown - wont interfere.mp3",
       "ranked_modes": [
+        "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2536648
+        ],
         "taiko": [
           2339644
         ]
@@ -62,5 +66,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:44:13Z"
+  "updated_at": "2026-05-03T19:50:30Z"
 }

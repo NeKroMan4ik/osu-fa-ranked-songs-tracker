@@ -150,6 +150,18 @@
       }
     },
     {
+      "title": "Yuichiro Tsukagoshi (NanosizeMir) feat. Sennzai - Kanousei no Shoujo",
+      "preview": "https://assets.ppy.sh/artists/110/RedemptioN/Yuichiro_Tsukagoshi_NanosizeMir_feat._Sennzai_-_Kanousei_no_Shoujo.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2124582
+        ]
+      }
+    },
+    {
       "title": "bermei.inazawa feat. Sennzai - RedemptioN",
       "preview": "https://assets.ppy.sh/artists/110/RedemptioN/bermei.inazawa feat. Sennzai - RedemptioN.mp3",
       "ranked_modes": [],
@@ -259,19 +271,13 @@
     },
     {
       "title": "Yuichiro Tsukagoshi (NanosizeMir) feat. Sennzai - Homura",
-      "preview": "https://assets.ppy.sh/artists/110/VTTRACT/Yuichiro Tsukagoshi (NanosizeMir) feat. Sennzai - Homura.mp3",
+      "preview": "https://assets.ppy.sh/artists/110/VTTRACT/Yuichiro_Tsukagoshi_NanosizeMir_feat._Sennzai_-_Homura.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Yuichiro Tsukagoshi (NanosizeMir) feat. Sennzai - Hoshi Tan Ambivalence",
       "preview": "https://assets.ppy.sh/artists/110/Ambivalen%C2%A2e/Yuichiro Tsukagoshi (NanosizeMir) feat. Sennzai - Hoshi Tan Ambivalence.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Yuichiro Tsukagoshi (NanosizeMir) feat. Sennzai - Kanousei no Shoujo",
-      "preview": "https://assets.ppy.sh/artists/110/RedemptioN/Yuichiro_Tsukagoshi_NanosizeMir_feat._Sennzai_-_Kanousei_no_Shoujo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -294,5 +300,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:47:48Z"
+  "updated_at": "2026-05-03T19:54:14Z"
 }

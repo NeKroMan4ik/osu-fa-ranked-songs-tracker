@@ -44,6 +44,18 @@
       }
     },
     {
+      "title": "Nightfall",
+      "preview": "https://assets.ppy.sh/artists/284/Nightfall in Middle-Earth/Blind_Guardian_-_Nightfall.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2054445
+        ]
+      }
+    },
+    {
       "title": "Curse My Name",
       "preview": "https://assets.ppy.sh/artists/284/At the Edge of Time/Blind Guardian - Curse My Name.mp3",
       "ranked_modes": [],
@@ -52,12 +64,6 @@
     {
       "title": "I'm Alive",
       "preview": "https://assets.ppy.sh/artists/284/Imaginations From the Other Side/Blind Guardian - I%27m Alive.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Nightfall",
-      "preview": "https://assets.ppy.sh/artists/284/Nightfall in Middle-Earth/Blind_Guardian_-_Nightfall.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -92,5 +98,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:39:06Z"
+  "updated_at": "2026-05-03T19:45:12Z"
 }

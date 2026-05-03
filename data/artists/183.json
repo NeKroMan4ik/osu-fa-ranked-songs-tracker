@@ -88,6 +88,18 @@
       }
     },
     {
+      "title": "tezuka x Aoi feat. Momohina Nano - Sunset Toybox",
+      "preview": "https://assets.ppy.sh/artists/183/Songs/tezuka x Aoi feat. Momohina Nano - Sunset Toybox.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2529348
+        ]
+      }
+    },
+    {
       "title": "Welkius",
       "preview": "https://assets.ppy.sh/artists/183/Songs/Aoi_-_Welkius.mp3",
       "ranked_modes": [
@@ -166,17 +178,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "tezuka x Aoi feat. Momohina Nano - Sunset Toybox",
-      "preview": "https://assets.ppy.sh/artists/183/Songs/tezuka x Aoi feat. Momohina Nano - Sunset Toybox.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Tonari no Niwa wa Aoi (NIWASHI+Aoi) - Polacro",
       "preview": "https://assets.ppy.sh/artists/183/Songs/Tonari no Niwa wa Aoi (NIWASHI%2BAoi) - Polacro.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:38:23Z"
+  "updated_at": "2026-05-03T19:44:27Z"
 }

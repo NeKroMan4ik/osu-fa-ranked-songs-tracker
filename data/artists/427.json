@@ -91,6 +91,18 @@
       }
     },
     {
+      "title": "Tourmaline Drill",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Tourmaline_Drill.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2533221
+        ]
+      }
+    },
+    {
       "title": "A Creature Made of Slices",
       "preview": "https://assets.ppy.sh/artists/427/Rabbit%27s Journey/WangleLine - A Creature Made of Slices.mp3",
       "ranked_modes": [],
@@ -223,12 +235,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Tourmaline Drill",
-      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Tourmaline_Drill.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Turbo Burger",
       "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Turbo_Burger.mp3",
       "ranked_modes": [],
@@ -241,5 +247,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:50:05Z"
+  "updated_at": "2026-05-03T19:56:36Z"
 }

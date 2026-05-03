@@ -39,7 +39,8 @@
       ],
       "beatmapset_ids_by_mode": {
         "mania": [
-          2403854
+          2403854,
+          2532856
         ]
       }
     },
@@ -56,5 +57,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:43:33Z"
+  "updated_at": "2026-05-03T19:49:48Z"
 }

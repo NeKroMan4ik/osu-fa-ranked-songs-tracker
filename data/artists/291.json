@@ -164,8 +164,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Geometrical Dominator",
-      "preview": "https://assets.ppy.sh/artists/291/Geometrical Dominator/Waterflame - Geometrical Dominator.mp3",
+      "title": "Geometrical Dominator (Game Ver.)",
+      "preview": "https://assets.ppy.sh/artists/291/Geometrical Dominator/Waterflame_-_Geometrical_Dominator_Game_Ver..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -296,5 +296,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:50:07Z"
+  "updated_at": "2026-05-03T19:56:38Z"
 }

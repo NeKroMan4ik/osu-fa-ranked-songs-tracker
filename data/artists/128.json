@@ -54,7 +54,8 @@
       "beatmapset_ids_by_mode": {
         "mania": [
           518351,
-          2299375
+          2299375,
+          2447781
         ],
         "taiko": [
           1601533
@@ -216,5 +217,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:41:23Z"
+  "updated_at": "2026-05-03T19:47:33Z"
 }

@@ -71,15 +71,16 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2472271,
+          2526220
+        ],
         "taiko": [
           2479494
         ],
         "mania": [
           2473122,
           2477332
-        ],
-        "osu": [
-          2472271
         ]
       }
     },
@@ -628,6 +629,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "5KiLOBYTE feat. Azure - EXTINCTION",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/5KiLOBYTE feat. Azure - EXTINCTION.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "777system - NOWHERE HEAVEN",
       "preview": "https://assets.ppy.sh/artists/462/3 Digit World Cup 2026/777system - NOWHERE HEAVEN.mp3",
       "ranked_modes": [],
@@ -636,6 +643,12 @@
     {
       "title": "AAAA - reach for your victory!!!",
       "preview": "https://assets.ppy.sh/artists/462/Badly Wood Cup 2024/AAAA - reach for your victory!!!.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ADA - Land of the Lustrous",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/ADA - Land of the Lustrous.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -676,6 +689,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "airlemoneX - lanthanide",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/airlemoneX - lanthanide.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Akiri - ROTTED AS THE QUEEN OF THE RATS",
       "preview": "https://assets.ppy.sh/artists/462/3 Digit World Cup 2025/Akiri - ROTTED AS THE QUEEN OF THE RATS.mp3",
       "ranked_modes": [],
@@ -696,6 +715,12 @@
     {
       "title": "Aphel - Pondering Magic",
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Aphel - Pondering Magic.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ardolf feat. eili - Astralith",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/Ardolf feat. eili - Astralith.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -730,6 +755,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "AXiS as \"EQUiON\" - Intercosmic",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/AXiS as EQUiON - Intercosmic.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Axya - Again, Weeping Brilliantly",
       "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2023 Penance/Axya - Again%2C Weeping Brilliantly.mp3",
       "ranked_modes": [],
@@ -756,6 +787,12 @@
     {
       "title": "ByStarStruck - Phlox",
       "preview": "https://assets.ppy.sh/artists/462/MushoCup 2026/ByStarStruck - Phlox.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "cexiria - Bypass the Dimension",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/cexiria - Bypass the Dimension.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -796,6 +833,18 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Connexio feat. Shimizu Aiyu - Silent Remorse",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/Connexio feat. Shimizu Aiyu - Silent Remorse.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "coul - sleep well, i love you, my dear.",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/coul - sleep well%2C i love you%2C my dear..mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "coul vs. ByStarStruck - Undinemaris",
       "preview": "https://assets.ppy.sh/artists/462/MushoCup 2026/coul vs. ByStarStruck - Undinemaris.mp3",
       "ranked_modes": [],
@@ -804,6 +853,12 @@
     {
       "title": "CS4W - EX-ris",
       "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2023 Penance/CS4W - EX-ris.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "cygnus - The Kingdom of Babylon",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/cygnus - The Kingdom of Babylon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -838,6 +893,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Drazically feat. echo - COLLUS-iON[]data",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/Drazically feat. echo - COLLUS-iON%5B%5Ddata.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "dxsbond vs. Rose Quartz - HELIOPOLIS",
       "preview": "https://assets.ppy.sh/artists/462/Volition%E2%80%99s osu! Liberal Invitational II/dxsbond vs. Rose Quartz - HELIOPOLIS.mp3",
       "ranked_modes": [],
@@ -852,6 +913,12 @@
     {
       "title": "Eraser - Distant Solace",
       "preview": "https://assets.ppy.sh/artists/462/6 Digit World Cup/Eraser_-_Distant_Solace.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Essbee - EstRa",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/Essbee - EstRa.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -910,6 +977,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "jeko - Etheria",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/jeko - Etheria.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Juwubi - H1GH D!VE",
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Juwubi_-_H1GH_DVE.mp3",
       "ranked_modes": [],
@@ -958,6 +1031,24 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Krimek & enva - Jiyuu no Koe",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/Krimek %26 enva - Jiyuu no Koe.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Krimek - Ashen Souls (feat. eili & AKA)",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/Krimek - Ashen Souls (feat. eili %26 AKA).mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Krimek - Crimson Vow (feat. eili)",
+      "preview": "https://assets.ppy.sh/artists/462/MushoCup 2026/Krimek_-_Crimson_Vow_feat._eili.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Krimek - Cybernetic Reverie",
       "preview": "https://assets.ppy.sh/artists/462/5 Digit World Cup 2024/Krimek - Cybernetic Reverie.mp3",
       "ranked_modes": [],
@@ -978,6 +1069,12 @@
     {
       "title": "Link\"0 - rezehv",
       "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/Link0 - rezehv.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "log() feat. DexcilaDou - BLACKOUT",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/log() feat. DexcilaDou - BLACKOUT.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1018,8 +1115,20 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "MM - Gravity feat. eggu",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/MM - Gravity feat. eggu.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "MYUKKE. - Beta Snow",
       "preview": "https://assets.ppy.sh/artists/462/Badly Wood Cup 2024/MYUKKE. - Beta Snow.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "N_dog (feat.quu-zie) - heart break",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/N%27dog (feat.quu-zie) - heart break.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1090,6 +1199,18 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Pirendora - Pyroclastic Flow",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/Pirendora - Pyroclastic Flow.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ptar124 & 1zm8 - A World of Whiplash When You're Interrupted by a Cutscene",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/ptar124 %26 1zm8 - A World of Whiplash When You%27re Interrupted by a Cutscene.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "ptar124 - A Platter of Primes",
       "preview": "https://assets.ppy.sh/artists/462/osu!catch 3 Digit World Cup 2024/ptar124 - A Platter of Primes.mp3",
       "ranked_modes": [],
@@ -1098,6 +1219,12 @@
     {
       "title": "ptar124 - Titanomachy feat. Hatsune Miku",
       "preview": "https://assets.ppy.sh/artists/462/MushoCup 2026/ptar124 - Titanomachy feat. Hatsune Miku.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "RE:VIVE - We Are RE:BELLION",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/REVIVE - We Are REBELLION.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1150,8 +1277,20 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "rN feat. eili - Enneagrammatos",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/rN feat. eili - Enneagrammatos.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Sad Keyboard Guy & Gardens - Waking Shadows feat. eili",
       "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2023 Penance/Sad Keyboard Guy %26 Gardens - Waking Shadows feat. eili.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "sage - Hyena Groove",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/sage - Hyena Groove.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1162,8 +1301,32 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "SDMNE - XTRiNSiXA",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/SDMNE - XTRiNSiXA.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "seatrus - Blank society",
       "preview": "https://assets.ppy.sh/artists/462/Badly Wood Cup 2024/seatrus - Blank society.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sh0wtime & Redsign - CHIMERA",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/Sh0wtime %26 Redsign - CHIMERA.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shokii - 2BAD",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/Shokii - 2BAD.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "SiLiS - ascended ~Kishi Kaisei~",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/SiLiS - ascended %7EKishi Kaisei%7E.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1204,8 +1367,26 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Sot-C - TAKE THIS GUN LOL",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/Sot-C - TAKE THIS GUN LOL.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "sugosugiii - Haven Re:volutioN",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/sugosugiii_-_Haven_RevolutioN.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "sugosugiii - Zyphorath Quixalune",
       "preview": "https://assets.ppy.sh/artists/462/3 Digit World Cup 2025/sugosugiii - Zyphorath Quixalune.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "sugosugiii feat. Ethereal_Winter - Trail Towards Home",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/sugosugiii feat. Ethereal%27Winter - Trail Towards Home.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1218,6 +1399,18 @@
     {
       "title": "TAG - Astral Stranger",
       "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2023 Penance/TAG - Astral Stranger.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "TeKno.loji - Domain.Fragmentation",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/TeKno.loji - Domain.Fragmentation.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "THE BEAT WIZARD - cthulhu ruined my sandcastle so i threw sand at its face",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/THE BEAT WIZARD - cthulhu ruined my sandcastle so i threw sand at its face.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1242,6 +1435,18 @@
     {
       "title": "trung-nova - Starry Comet",
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/trung-nova_-_Starry_Comet.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "trung-nova - surrounded by countless nebulae",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/trung-nova - surrounded by countless nebulae.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ulagumo - unbreakable",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/Ulagumo - unbreakable.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1306,11 +1511,35 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "XenjeS - Temple of Technology",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/XenjeS - Temple of Technology.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Xeven - Become One Again (feat. Hatsune Miku)",
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Xeven - Become One Again (feat. Hatsune Miku).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Xeven as _OdiN_ - Ouroboros",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/Xeven as %27OdiN%27 - Ouroboros.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "XH feat. Astrea Natura - New Generation (Rescup Ver.)",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/XH feat. Astrea Natura - New Generation (Rescup Ver.).mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Xyris & Kagetora. feat. Ethereal_Winter - Rigid Memory",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/Xyris %26 Kagetora. feat. Ethereal%27Winter - Rigid Memory.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:46:06Z"
+  "updated_at": "2026-05-03T19:52:28Z"
 }

@@ -141,6 +141,18 @@
       }
     },
     {
+      "title": "ELFENSJoN - Hexenjagd",
+      "preview": "https://assets.ppy.sh/artists/69/EINHERJAR/ELFENSJoN_-_Hexenjagd.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1112621
+        ]
+      }
+    },
+    {
       "title": "ELFENSJoN - Hoshikuzu no Rinne",
       "preview": "https://assets.ppy.sh/artists/69/ASH OF ROUGE- SIDE ASTRAL/ELFENSJoN - Hoshikuzu no Rinne.mp3",
       "ranked_modes": [
@@ -401,12 +413,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "ELFENSJoN - Hexenjagd",
-      "preview": "https://assets.ppy.sh/artists/69/EINHERJAR/ELFENSJoN_-_Hexenjagd.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "ELFENSJoN - Hikari no Yobigoe",
       "preview": "https://assets.ppy.sh/artists/69/ZENITH/ELFENSJoN - Hikari no Yobigoe.mp3",
       "ranked_modes": [],
@@ -485,5 +491,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:40:33Z"
+  "updated_at": "2026-05-03T19:46:42Z"
 }

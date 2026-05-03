@@ -3,6 +3,42 @@
   "name": "log() / ohm002",
   "tracks": [
     {
+      "title": "777system - ~GOLDENERNOCTURNE~",
+      "preview": "https://assets.ppy.sh/artists/540/Songs/777system - %7EGOLDENERNOCTURNE%7E.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2507622
+        ]
+      }
+    },
+    {
+      "title": "log() - Stellar Sky (Remastered)",
+      "preview": "https://assets.ppy.sh/artists/540/PINK%27WHITE/log() - Stellar Sky (Remastered).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2375862
+        ]
+      }
+    },
+    {
+      "title": "ohm002 - ohm002 (ohm002 remix)",
+      "preview": "https://assets.ppy.sh/artists/540/BLACK%27WHITE VOL.3/ohm002 - ohm002 (ohm002 remix).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2304560
+        ]
+      }
+    },
+    {
       "title": "777system - ETHEREALSTAYS333",
       "preview": "https://assets.ppy.sh/artists/540/Songs/777system - ETHEREALSTAYS333.mp3",
       "ranked_modes": [],
@@ -23,12 +59,6 @@
     {
       "title": "777system - NOWHERE HEAVEN",
       "preview": "https://assets.ppy.sh/artists/540/Songs/777system_-_NOWHERE_HEAVEN.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "777system - ~GOLDENERNOCTURNE~",
-      "preview": "https://assets.ppy.sh/artists/540/Songs/777system - %7EGOLDENERNOCTURNE%7E.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -111,12 +141,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "log() - Stellar Sky (Remastered)",
-      "preview": "https://assets.ppy.sh/artists/540/PINK%27WHITE/log() - Stellar Sky (Remastered).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "log() - Stellar Sky (Short Edit.)",
       "preview": "https://assets.ppy.sh/artists/540/PINK%27WHITE/log() - Stellar Sky (Short Edit.).mp3",
       "ranked_modes": [],
@@ -127,13 +151,7 @@
       "preview": "https://assets.ppy.sh/artists/540/BLACK%27WHITE/log() - X-PHASED.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ohm002 - ohm002 (ohm002 remix)",
-      "preview": "https://assets.ppy.sh/artists/540/BLACK%27WHITE VOL.3/ohm002 - ohm002 (ohm002 remix).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:44:01Z"
+  "updated_at": "2026-05-03T19:50:18Z"
 }

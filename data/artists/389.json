@@ -117,6 +117,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Meteor (feat. TEA)",
+      "preview": "https://assets.ppy.sh/artists/389/Songs/you_-_Meteor_feat._TEA.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Smile Diary (2015 Update)",
       "preview": "https://assets.ppy.sh/artists/389/Songs/you - Smile Diary (2015 Update).mp3",
       "ranked_modes": [],
@@ -129,5 +135,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:50:44Z"
+  "updated_at": "2026-05-03T19:57:16Z"
 }

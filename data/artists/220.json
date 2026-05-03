@@ -188,6 +188,18 @@
       }
     },
     {
+      "title": "Waltz for Chroma (feat. Natsushiro Takaaki)",
+      "preview": "https://assets.ppy.sh/artists/220/Waltz For Chroma/Marmalade_butcher_-_Waltz_for_Chroma_feat._Natsushiro_Takaaki.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1911933
+        ]
+      }
+    },
+    {
       "title": "Y/M/K/M",
       "preview": "https://assets.ppy.sh/artists/220/Uteruchesis/Marmalade butcher - YMKM.mp3",
       "ranked_modes": [
@@ -283,13 +295,7 @@
       "preview": "https://assets.ppy.sh/artists/220/VisioN - NoisiA/Marmalade butcher - VisioN.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Waltz for Chroma (feat. Natsushiro Takaaki)",
-      "preview": "https://assets.ppy.sh/artists/220/Waltz For Chroma/Marmalade_butcher_-_Waltz_for_Chroma_feat._Natsushiro_Takaaki.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:44:27Z"
+  "updated_at": "2026-05-03T19:50:45Z"
 }

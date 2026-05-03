@@ -118,6 +118,18 @@
       }
     },
     {
+      "title": "wish (feat. somunia)",
+      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn - wish (feat. somunia).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2495854
+        ]
+      }
+    },
+    {
       "title": "0AM (feat. nayuta)",
       "preview": "https://assets.ppy.sh/artists/166/0AM/Aiobahn - 0AM (feat. nayuta).mp3",
       "ranked_modes": [],
@@ -176,13 +188,7 @@
       "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn - Vignette.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "wish (feat. somunia)",
-      "preview": "https://assets.ppy.sh/artists/166/Songs/Aiobahn - wish (feat. somunia).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:37:51Z"
+  "updated_at": "2026-05-03T19:43:55Z"
 }

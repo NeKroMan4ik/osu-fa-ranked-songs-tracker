@@ -61,8 +61,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "you, TEA - Meteor",
-      "preview": "https://assets.ppy.sh/artists/374/PRISMA/you%2C TEA - Meteor.mp3",
+      "title": "you - Meteor (feat. TEA)",
+      "preview": "https://assets.ppy.sh/artists/374/PRISMA/you_-_Meteor_feat._TEA.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -73,5 +73,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:38:09Z"
+  "updated_at": "2026-05-03T19:44:13Z"
 }

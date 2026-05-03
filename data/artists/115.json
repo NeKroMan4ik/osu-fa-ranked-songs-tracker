@@ -3,6 +3,18 @@
   "name": "BLOOD CODE",
   "tracks": [
     {
+      "title": "POP SHOVE-IT FEAT. TOFUKU",
+      "preview": "https://assets.ppy.sh/artists/115/Songs/BLOOD_CODE_-_POP_SHOVE-IT_FEAT._TOFUKU.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1294825
+        ]
+      }
+    },
+    {
       "title": "BLOOD CODE, Cosmicosmo, TOFUKU - Paradise Plaza (feat. TOFUKU)",
       "preview": "https://assets.ppy.sh/artists/115/previews/2984.mp3",
       "ranked_modes": [],
@@ -49,13 +61,7 @@
       "preview": "https://assets.ppy.sh/artists/115/previews/2983.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "POP SHOVE-IT FEAT. TOFUKU",
-      "preview": "https://assets.ppy.sh/artists/115/Songs/BLOOD_CODE_-_POP_SHOVE-IT_FEAT._TOFUKU.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:39:07Z"
+  "updated_at": "2026-05-03T19:45:13Z"
 }

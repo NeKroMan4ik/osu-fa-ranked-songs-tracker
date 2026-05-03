@@ -289,9 +289,13 @@
       "title": "Gram vs. DJ Genki - XIchedelic Nova Trinity",
       "preview": "https://assets.ppy.sh/artists/295/Songs/Gram_vs._DJ_Genki_-_XIchedelic_Nova_Trinity.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2287963
+        ],
         "mania": [
           2334475
         ]
@@ -436,5 +440,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-04-26T19:40:12Z"
+  "updated_at": "2026-05-03T19:46:21Z"
 }
