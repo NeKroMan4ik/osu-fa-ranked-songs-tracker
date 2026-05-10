@@ -3,6 +3,18 @@
   "name": "Risa Yuzuki",
   "tracks": [
     {
+      "title": "BlackY feat. Risa Yuzuki - Imitator",
+      "preview": "https://assets.ppy.sh/artists/211/Imitator/BlackY_feat._Risa_Yuzuki_-_Imitator.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2268000
+        ]
+      }
+    },
+    {
       "title": "Cinderella Maker",
       "preview": "https://assets.ppy.sh/artists/211/Replique/Risa Yuzuki - Cinderella Maker.mp3",
       "ranked_modes": [
@@ -23,6 +35,18 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           1544897
+        ]
+      }
+    },
+    {
+      "title": "Kayuki feat. Risa Yuzuki - Umbilical",
+      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Kayuki_feat._Risa_Yuzuki_-_Umbilical.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2332292
         ]
       }
     },
@@ -95,14 +119,14 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "BlackY feat. Risa Yuzuki - Hyouhon",
-      "preview": "https://assets.ppy.sh/artists/211/PARAD%C3%98XY/BlackY feat. Risa Yuzuki - Hyouhon.mp3",
+      "title": "BlackY feat. Risa Yuzuki - Furin Kagerou",
+      "preview": "https://assets.ppy.sh/artists/211/Furin Kagerou/BlackY_feat._Risa_Yuzuki_-_Furin_Kagerou.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "BlackY feat. Risa Yuzuki - Imitator",
-      "preview": "https://assets.ppy.sh/artists/211/Imitator/BlackY_feat._Risa_Yuzuki_-_Imitator.mp3",
+      "title": "BlackY feat. Risa Yuzuki - Hyouhon",
+      "preview": "https://assets.ppy.sh/artists/211/PARAD%C3%98XY/BlackY feat. Risa Yuzuki - Hyouhon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -151,12 +175,6 @@
     {
       "title": "Ironical Parade",
       "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Risa Yuzuki - Ironical Parade.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kayuki feat. Risa Yuzuki - Umbilical",
-      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Kayuki_feat._Risa_Yuzuki_-_Umbilical.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -227,5 +245,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-03T19:53:32Z"
+  "updated_at": "2026-05-10T19:59:02Z"
 }

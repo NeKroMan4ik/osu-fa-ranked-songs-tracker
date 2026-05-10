@@ -6,9 +6,13 @@
       "title": "Pratanallis feat. eupe - Orion",
       "preview": "https://assets.ppy.sh/artists/175/Casa Blanca/Pratanallis feat. eupe - Orion.mp3",
       "ranked_modes": [
-        "fruits"
+        "fruits",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2533975
+        ],
         "fruits": [
           1580048
         ]
@@ -174,5 +178,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-03T19:52:55Z"
+  "updated_at": "2026-05-10T19:58:29Z"
 }

@@ -184,6 +184,18 @@
       }
     },
     {
+      "title": "Metamorphism",
+      "preview": "https://assets.ppy.sh/artists/359/Lament/cygnus - Metamorphism.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2407955
+        ]
+      }
+    },
+    {
       "title": "Moon Atomizer",
       "preview": "https://assets.ppy.sh/artists/359/Sorrow Mania/cygnus - Moon Atomizer.mp3",
       "ranked_modes": [
@@ -295,9 +307,13 @@
       "title": "Silver Mutation",
       "preview": "https://assets.ppy.sh/artists/359/Omaju/cygnus - Silver Mutation.mp3",
       "ranked_modes": [
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2407978
+        ],
         "osu": [
           2067206
         ]
@@ -652,12 +668,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Metamorphism",
-      "preview": "https://assets.ppy.sh/artists/359/Lament/cygnus - Metamorphism.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Midnight Sacrifice",
       "preview": "https://assets.ppy.sh/artists/359/Midnight Sacrifice/cygnus - Midnight Sacrifice.mp3",
       "ranked_modes": [],
@@ -844,5 +854,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-03T19:46:02Z"
+  "updated_at": "2026-05-10T19:52:14Z"
 }

@@ -158,6 +158,18 @@
       }
     },
     {
+      "title": "G e n g a o z o",
+      "preview": "https://assets.ppy.sh/artists/297/Songs/-45 - G e n g a o z o.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2408551
+        ]
+      }
+    },
+    {
       "title": "Gusha no Koushin",
       "preview": "https://assets.ppy.sh/artists/297/Sunfleur/-45 - Gusha no Koushin.mp3",
       "ranked_modes": [
@@ -507,9 +519,13 @@
       "title": "Tsugihagi Chimera",
       "preview": "https://assets.ppy.sh/artists/297/Songs/-45 - Tsugiha Chimera.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2186091
+        ],
         "osu": [
           1054988
         ]
@@ -672,12 +688,6 @@
     {
       "title": "EXILE",
       "preview": "https://assets.ppy.sh/artists/297/Sunfleur/-45 - EXILE.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "G e n g a o z o",
-      "preview": "https://assets.ppy.sh/artists/297/Songs/-45 - G e n g a o z o.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1018,5 +1028,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-03T19:43:23Z"
+  "updated_at": "2026-05-10T19:49:50Z"
 }

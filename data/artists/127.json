@@ -66,6 +66,18 @@
       }
     },
     {
+      "title": "Ko Miura feat. Aitsuki Nakuru - Nounai Sociality",
+      "preview": "https://assets.ppy.sh/artists/127/Nacollection!!2/Ko_Miura_feat._Aitsuki_Nakuru_-_Nounai_Sociality.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2175532
+        ]
+      }
+    },
+    {
       "title": "Minagu feat. Aitsuki Nakuru - Enamel no Butoukai",
       "preview": "https://assets.ppy.sh/artists/127/Applephilia no Himegoto/Minagu feat. Aitsuki Nakuru - Enamel no Butoukai.mp3",
       "ranked_modes": [
@@ -157,12 +169,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Ko Miura feat. Aitsuki Nakuru - Nounai Sociality",
-      "preview": "https://assets.ppy.sh/artists/127/Nacollection!!2/Ko_Miura_feat._Aitsuki_Nakuru_-_Nounai_Sociality.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "lapix feat. Aitsuki Nakuru - Merry Merry Go Round",
       "preview": "https://assets.ppy.sh/artists/127/Nacollection-3-/lapix feat. Aitsuki Nakuru - Merry Merry Go Round.mp3",
       "ranked_modes": [],
@@ -175,5 +181,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-03T19:43:56Z"
+  "updated_at": "2026-05-10T19:50:20Z"
 }

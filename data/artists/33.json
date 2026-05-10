@@ -300,6 +300,18 @@
       }
     },
     {
+      "title": "iRELLiA",
+      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN_-_iRELLiA.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2402683
+        ]
+      }
+    },
+    {
       "title": "Legend of Genesis",
       "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - Legend of Genesis.mp3",
       "ranked_modes": [
@@ -460,12 +472,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "iRELLiA",
-      "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN_-_iRELLiA.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "KANONEFLIEGERFAUST",
       "preview": "https://assets.ppy.sh/artists/33/Songs/HyuN - KANONEFLIEGERFAUST.mp3",
       "ranked_modes": [],
@@ -544,5 +550,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-03T19:48:18Z"
+  "updated_at": "2026-05-10T19:54:18Z"
 }

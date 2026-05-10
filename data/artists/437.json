@@ -3,6 +3,50 @@
   "name": "tom^",
   "tracks": [
     {
+      "title": "fieryrage accordion (hardcore remix)",
+      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tom_-_fieryrage_accordion_hardcore_remix.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1516867
+        ],
+        "taiko": [
+          1516860
+        ]
+      }
+    },
+    {
+      "title": "fieryrage accordion (hardcore remix) (TV Size)",
+      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tom_-_fieryrage_accordion_hardcore_remix_TV_Size.mp3",
+      "ranked_modes": [
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2537564
+        ],
+        "mania": [
+          2527220
+        ]
+      }
+    },
+    {
+      "title": "petal blizzard",
+      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tom_-_petal_blizzard.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2487754
+        ]
+      }
+    },
+    {
       "title": "Circuit Break",
       "preview": "https://assets.ppy.sh/artists/437/Songs/tom_-_Circuit_Break.mp3",
       "ranked_modes": [],
@@ -17,18 +61,6 @@
     {
       "title": "dysthymia",
       "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tom_-_dysthymia.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "fieryrage accordion (hardcore remix)",
-      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tom_-_fieryrage_accordion_hardcore_remix.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "fieryrage accordion (hardcore remix) (TV Size)",
-      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tom_-_fieryrage_accordion_hardcore_remix_TV_Size.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -53,12 +85,6 @@
     {
       "title": "lullaby",
       "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tom_-_lullaby.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "petal blizzard",
-      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tom_-_petal_blizzard.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -105,5 +131,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-03T19:55:58Z"
+  "updated_at": "2026-05-10T20:01:18Z"
 }

@@ -121,10 +121,19 @@
       "preview": "https://assets.ppy.sh/artists/396/Songs/tpazolite_-_Gumbarlzo.mp3",
       "ranked_modes": [
         "fruits",
+        "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2530315
+        ],
+        "osu": [
+          2472011,
+          2476607,
+          2513044
+        ],
         "fruits": [
           2479663,
           2480276,
@@ -134,10 +143,6 @@
           2491986,
           2493653,
           2507497
-        ],
-        "osu": [
-          2472011,
-          2476607
         ]
       }
     },
@@ -650,5 +655,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-03T19:55:21Z"
+  "updated_at": "2026-05-10T20:00:44Z"
 }

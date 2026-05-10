@@ -145,6 +145,22 @@
       }
     },
     {
+      "title": "Connexio feat. Shimizu Aiyu - Silent Remorse",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/Connexio feat. Shimizu Aiyu - Silent Remorse.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2392255
+        ],
+        "fruits": [
+          2404086
+        ]
+      }
+    },
+    {
       "title": "DJ Raisei - ReDIVE NEURON",
       "preview": "https://assets.ppy.sh/artists/462/Badly Wood Cup 2024/DJ Raisei - ReDIVE NEURON.mp3",
       "ranked_modes": [
@@ -173,6 +189,18 @@
         ],
         "taiko": [
           2455736
+        ]
+      }
+    },
+    {
+      "title": "fur:trash - puppydog's lament",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/furtrash_-_puppydogs_lament.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2530140
         ]
       }
     },
@@ -253,9 +281,13 @@
       "preview": "https://assets.ppy.sh/artists/462/osu!mania 7K Chinese National Cup 2025/Kou! - A.O.Earea%27of%27effect.mp3",
       "ranked_modes": [
         "mania",
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2508831
+        ],
         "osu": [
           2423348
         ],
@@ -470,6 +502,18 @@
       }
     },
     {
+      "title": "rN feat. eili - Enneagrammatos",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/rN feat. eili - Enneagrammatos.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2403899
+        ]
+      }
+    },
+    {
       "title": "RRolanDD - Almom",
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/RRolanDD_-_Almom.mp3",
       "ranked_modes": [
@@ -563,6 +607,18 @@
       }
     },
     {
+      "title": "THE ENTIRE EARTH - conic",
+      "preview": "https://assets.ppy.sh/artists/462/osu! Norway Tournament 2025/THE ENTIRE EARTH - conic.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2536479
+        ]
+      }
+    },
+    {
       "title": "Tsukishiro feat. Inti - Neon Rebellion",
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Tsukishiro feat. Inti - Neon Rebellion.mp3",
       "ranked_modes": [
@@ -583,6 +639,18 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           2412252
+        ]
+      }
+    },
+    {
+      "title": "XenjeS - Night Sky Solitude",
+      "preview": "https://assets.ppy.sh/artists/462/3 Digit World Cup 2025/XenjeS - Night Sky Solitude.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2468221
         ]
       }
     },
@@ -833,12 +901,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Connexio feat. Shimizu Aiyu - Silent Remorse",
-      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/Connexio feat. Shimizu Aiyu - Silent Remorse.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "coul - sleep well, i love you, my dear.",
       "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/coul - sleep well%2C i love you%2C my dear..mp3",
       "ranked_modes": [],
@@ -965,12 +1027,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "fur:trash - puppydog's lament",
-      "preview": "https://assets.ppy.sh/artists/462/Songs/furtrash_-_puppydogs_lament.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "hima - Midnight Utopia",
       "preview": "https://assets.ppy.sh/artists/462/MushoCup 2026/hima - Midnight Utopia.mp3",
       "ranked_modes": [],
@@ -1057,6 +1113,12 @@
     {
       "title": "Krimek - Dahlia (feat. eili)",
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Krimek_-_Dahlia_feat._eili.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kuro feat. Kasane Teto - Anomaly Maria",
+      "preview": "https://assets.ppy.sh/artists/462/MushoCup 2026/Kuro_feat._Kasane_Teto_-_Anomaly_Maria.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1277,12 +1339,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "rN feat. eili - Enneagrammatos",
-      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/rN feat. eili - Enneagrammatos.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Sad Keyboard Guy & Gardens - Waking Shadows feat. eili",
       "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2023 Penance/Sad Keyboard Guy %26 Gardens - Waking Shadows feat. eili.mp3",
       "ranked_modes": [],
@@ -1421,12 +1477,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "THE ENTIRE EARTH - conic",
-      "preview": "https://assets.ppy.sh/artists/462/osu! Norway Tournament 2025/THE ENTIRE EARTH - conic.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "THICC BOX - Uso no Resentment",
       "preview": "https://assets.ppy.sh/artists/462/MushoCup 2026/THICC BOX - Uso no Resentment.mp3",
       "ranked_modes": [],
@@ -1499,12 +1549,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "XenjeS - Night Sky Solitude",
-      "preview": "https://assets.ppy.sh/artists/462/3 Digit World Cup 2025/XenjeS - Night Sky Solitude.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "XenjeS - RELENTLESS ANXiETY",
       "preview": "https://assets.ppy.sh/artists/462/3 Digit World Cup 2026/XenjeS - RELENTLESS ANXiETY.mp3",
       "ranked_modes": [],
@@ -1541,5 +1585,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-03T19:52:28Z"
+  "updated_at": "2026-05-10T19:58:04Z"
 }

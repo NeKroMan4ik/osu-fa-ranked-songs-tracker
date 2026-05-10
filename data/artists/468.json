@@ -67,6 +67,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Dark Blossom",
+      "preview": "https://assets.ppy.sh/artists/468/Dark Blossom/lexycat_-_Dark_Blossom.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Hanabi",
       "preview": "https://assets.ppy.sh/artists/468/Dark Blossom/lexycat_-_Hanabi.mp3",
       "ranked_modes": [],
@@ -85,5 +91,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-03T19:50:05Z"
+  "updated_at": "2026-05-10T19:55:54Z"
 }

@@ -173,6 +173,18 @@
       }
     },
     {
+      "title": "solfa feat. Chata - Amaku Amai Mama",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Ehot dream%7E/solfa feat. Chata - Amaku Amai Mama.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2539994
+        ]
+      }
+    },
+    {
       "title": "solfa feat. Chata - Colorful precious life",
       "preview": "https://assets.ppy.sh/artists/207/chronicle %7Ecat side%7E/solfa feat. Chata - Colorful precious life.mp3",
       "ranked_modes": [
@@ -599,6 +611,18 @@
       }
     },
     {
+      "title": "solfa feat. Shimotsuki Haruka - trusty",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle -the sun-/solfa feat. Shimotsuki Haruka - trusty.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2307661
+        ]
+      }
+    },
+    {
       "title": "solfa feat. yuiko - Freezing RosE",
       "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. yuiko - Freezing RosE.mp3",
       "ranked_modes": [
@@ -679,12 +703,6 @@
     {
       "title": "Sacred arrow",
       "preview": "https://assets.ppy.sh/artists/207/Songs/solfa - Sacred arrow.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "solfa feat. Chata - Amaku Amai Mama",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Ehot dream%7E/solfa feat. Chata - Amaku Amai Mama.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -839,12 +857,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "solfa feat. Shimotsuki Haruka - trusty",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle -the sun-/solfa feat. Shimotsuki Haruka - trusty.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "solfa feat. Tsukiyono Usagi (CV: Moca Choco) - Marshmallow Whip",
       "preview": "https://assets.ppy.sh/artists/207/chronicle -supersonic-/solfa feat. Tsukiyono Usagi (CV Moca Choco) - Marshmallow Whip.mp3",
       "ranked_modes": [],
@@ -887,5 +899,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-03T19:54:43Z"
+  "updated_at": "2026-05-10T20:00:07Z"
 }

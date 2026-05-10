@@ -3,6 +3,18 @@
   "name": "lexxndr",
   "tracks": [
     {
+      "title": "losing my mind",
+      "preview": "https://assets.ppy.sh/artists/510/losing my mind/lexxndr - losing my mind.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2543343
+        ]
+      }
+    },
+    {
       "title": "the beginning",
       "preview": "https://assets.ppy.sh/artists/510/the beginning and the end/lexxndr - the beginning.mp3",
       "ranked_modes": [
@@ -93,12 +105,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "losing my mind",
-      "preview": "https://assets.ppy.sh/artists/510/losing my mind/lexxndr - losing my mind.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "lost",
       "preview": "https://assets.ppy.sh/artists/510/lost/lexxndr - lost.mp3",
       "ranked_modes": [],
@@ -159,5 +165,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-03T19:50:03Z"
+  "updated_at": "2026-05-10T19:55:53Z"
 }

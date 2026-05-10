@@ -32,9 +32,13 @@
       "title": "complex feelings about my own existence feat. jungkook",
       "preview": "https://assets.ppy.sh/artists/257/Songs/in love with a ghost - complex feelings about my own existence feat. jungkook.mp3",
       "ranked_modes": [
-        "fruits"
+        "fruits",
+        "mania"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2532180
+        ],
         "fruits": [
           1772651
         ]
@@ -189,5 +193,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-03T19:48:34Z"
+  "updated_at": "2026-05-10T19:54:32Z"
 }

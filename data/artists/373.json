@@ -77,9 +77,13 @@
       "title": "Helios",
       "preview": "https://assets.ppy.sh/artists/373/Songs/Supire - Helios.mp3",
       "ranked_modes": [
+        "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2489234
+        ],
         "taiko": [
           2267923,
           2368014
@@ -186,5 +190,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-03T19:55:09Z"
+  "updated_at": "2026-05-10T20:00:33Z"
 }

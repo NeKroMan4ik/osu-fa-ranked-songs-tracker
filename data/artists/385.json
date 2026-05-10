@@ -31,17 +31,23 @@
       }
     },
     {
+      "title": "Writing on the Wall",
+      "preview": "https://assets.ppy.sh/artists/385/Writing on the Wall/Will_Stetson_-_Writing_on_the_Wall.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2316177
+        ]
+      }
+    },
+    {
       "title": "Koala (Self Cover)",
       "preview": "https://assets.ppy.sh/artists/385/Koala/Will Stetson - Koala (Self Cover).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Writing on the Wall",
-      "preview": "https://assets.ppy.sh/artists/385/Writing on the Wall/Will_Stetson_-_Writing_on_the_Wall.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-03T19:56:47Z"
+  "updated_at": "2026-05-10T20:02:01Z"
 }

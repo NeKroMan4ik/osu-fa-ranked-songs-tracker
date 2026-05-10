@@ -21,6 +21,18 @@
       }
     },
     {
+      "title": "Meteor (feat. TEA)",
+      "preview": "https://assets.ppy.sh/artists/389/Songs/you_-_Meteor_feat._TEA.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1984574
+        ]
+      }
+    },
+    {
       "title": "Wake Up",
       "preview": "https://assets.ppy.sh/artists/389/Songs/you - Wake Up.mp3",
       "ranked_modes": [
@@ -117,12 +129,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Meteor (feat. TEA)",
-      "preview": "https://assets.ppy.sh/artists/389/Songs/you_-_Meteor_feat._TEA.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Smile Diary (2015 Update)",
       "preview": "https://assets.ppy.sh/artists/389/Songs/you - Smile Diary (2015 Update).mp3",
       "ranked_modes": [],
@@ -135,5 +141,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-03T19:57:16Z"
+  "updated_at": "2026-05-10T20:02:28Z"
 }

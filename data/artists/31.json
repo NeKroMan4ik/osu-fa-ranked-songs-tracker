@@ -184,7 +184,8 @@
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
-          673373
+          673373,
+          2526285
         ]
       }
     },
@@ -521,7 +522,8 @@
           592381,
           707371,
           1320797,
-          1780166
+          1780166,
+          2525365
         ],
         "mania": [
           634241
@@ -1478,38 +1480,6 @@
         ],
         "mania": [
           1314013
-        ]
-      }
-    },
-    {
-      "title": "KASAI HARCORES - CYCLE HIT",
-      "preview": "https://assets.ppy.sh/artists/31/Kasai Harcores/KASAI HARCORES - CYCLE HIT.mp3",
-      "ranked_modes": [
-        "fruits",
-        "mania",
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          668239,
-          671254,
-          1822323,
-          2182833
-        ],
-        "osu": [
-          636839,
-          1185464,
-          2182833
-        ],
-        "mania": [
-          706478,
-          746817,
-          1322678
-        ],
-        "fruits": [
-          692367,
-          799724
         ]
       }
     },
@@ -2878,6 +2848,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "KASAI HARCORES - CYCLE HIT",
+      "preview": "https://assets.ppy.sh/artists/31/Kasai Harcores/KASAI_HARCORES_-_CYCLE_HIT.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "KASAI HARCORES - Moeagare! HARCORES",
       "preview": "https://assets.ppy.sh/artists/31/Kasai Harcores/KASAI HARCORES - Moeagare! HARCORES.mp3",
       "ranked_modes": [],
@@ -3094,5 +3070,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-03T19:45:31Z"
+  "updated_at": "2026-05-10T19:51:46Z"
 }

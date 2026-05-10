@@ -3,6 +3,18 @@
   "name": "Kyutatsuki",
   "tracks": [
     {
+      "title": "BLACKLOTUS",
+      "preview": "https://assets.ppy.sh/artists/476/Dimension Wars/Kyutatsuki - BLACKLOTUS.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2538340
+        ]
+      }
+    },
+    {
       "title": "Dimension Wars",
       "preview": "https://assets.ppy.sh/artists/476/Dimension Wars/Kyutatsuki - Dimension Wars.mp3",
       "ranked_modes": [
@@ -45,17 +57,11 @@
       }
     },
     {
-      "title": "BLACKLOTUS",
-      "preview": "https://assets.ppy.sh/artists/476/Dimension Wars/Kyutatsuki - BLACKLOTUS.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Meteoric Impact",
       "preview": "https://assets.ppy.sh/artists/476/Estera Starlite/Kyutatsuki - Meteoric Impact.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-03T19:49:48Z"
+  "updated_at": "2026-05-10T19:55:39Z"
 }

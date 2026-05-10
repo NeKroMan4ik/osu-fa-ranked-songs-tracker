@@ -19,6 +19,18 @@
       }
     },
     {
+      "title": "Day of Reflection",
+      "preview": "https://assets.ppy.sh/artists/81/previews/2155.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2535552
+        ]
+      }
+    },
+    {
       "title": "Home",
       "preview": "https://assets.ppy.sh/artists/81/previews/2147.mp3",
       "ranked_modes": [
@@ -112,12 +124,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Day of Reflection",
-      "preview": "https://assets.ppy.sh/artists/81/previews/2155.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Ensis",
       "preview": "https://assets.ppy.sh/artists/81/previews/2156.mp3",
       "ranked_modes": [],
@@ -154,5 +160,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-03T19:46:16Z"
+  "updated_at": "2026-05-10T19:52:27Z"
 }

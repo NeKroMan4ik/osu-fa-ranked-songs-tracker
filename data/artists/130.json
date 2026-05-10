@@ -39,6 +39,18 @@
       }
     },
     {
+      "title": "Guren ni Ochiru Kokoro",
+      "preview": "https://assets.ppy.sh/artists/130/Hikuu ni Negatta Hangyaku no Hime (Symholic 2nd CD)/Symholic - Guren ni Ochiru Kokoro.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2529870
+        ]
+      }
+    },
+    {
       "title": "Kimi ni Tewatashita Ichirin no Hana",
       "preview": "https://assets.ppy.sh/artists/130/Ansrail (Symholic 11th CD)/Symholic - Kimi ni Tewatashita Ichirin no Hana.mp3",
       "ranked_modes": [
@@ -147,12 +159,6 @@
     {
       "title": "Demythology",
       "preview": "https://assets.ppy.sh/artists/130/Zenoth (Symholic 9th CD)/Symholic - Demythology.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Guren ni Ochiru Kokoro",
-      "preview": "https://assets.ppy.sh/artists/130/Hikuu ni Negatta Hangyaku no Hime (Symholic 2nd CD)/Symholic - Guren ni Ochiru Kokoro.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -391,5 +397,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-03T19:55:16Z"
+  "updated_at": "2026-05-10T20:00:39Z"
 }

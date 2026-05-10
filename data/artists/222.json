@@ -31,6 +31,18 @@
       }
     },
     {
+      "title": "Doremi Goal",
+      "preview": "https://assets.ppy.sh/artists/222/Setsugetsuka/KINEMA106 - Doremi Goal.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1734588
+        ]
+      }
+    },
+    {
       "title": "Fly Away",
       "preview": "https://assets.ppy.sh/artists/222/Setsugetsuka/KINEMA106 - Fly Away.mp3",
       "ranked_modes": [
@@ -195,12 +207,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Doremi Goal",
-      "preview": "https://assets.ppy.sh/artists/222/Setsugetsuka/KINEMA106 - Doremi Goal.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Doremi Goal -KUSOMETAL ver-",
       "preview": "https://assets.ppy.sh/artists/222/Yongou Bunshou/KINEMA106 - Doremi Goal -KUSOMETAL ver-.mp3",
       "ranked_modes": [],
@@ -303,5 +309,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-03T19:49:19Z"
+  "updated_at": "2026-05-10T19:55:12Z"
 }

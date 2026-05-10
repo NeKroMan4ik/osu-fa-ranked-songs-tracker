@@ -6,14 +6,18 @@
       "title": "Skywired Beatscape",
       "preview": "https://assets.ppy.sh/artists/514/Songs/steelplus - Skywired Beatscape.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2527061
+        ],
         "osu": [
           2468647
         ]
       }
     }
   ],
-  "updated_at": "2026-05-03T19:55:00Z"
+  "updated_at": "2026-05-10T20:00:23Z"
 }
