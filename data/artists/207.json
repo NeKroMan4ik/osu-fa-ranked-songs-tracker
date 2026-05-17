@@ -406,9 +406,13 @@
       "title": "solfa feat. KOTOKO - affection",
       "preview": "https://assets.ppy.sh/artists/207/chronicle %7Emarine stage%7E/solfa feat. KOTOKO - affection.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2525124
+        ],
         "osu": [
           1160766
         ]
@@ -899,5 +903,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T20:00:07Z"
+  "updated_at": "2026-05-17T20:08:37Z"
 }

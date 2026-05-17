@@ -1,0 +1,43 @@
+{
+  "id": 544,
+  "name": "dandeless",
+  "tracks": [
+    {
+      "title": "crack in the earth",
+      "preview": "https://assets.ppy.sh/artists/544/Songs/dandeless - crack in the earth.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "grode",
+      "preview": "https://assets.ppy.sh/artists/544/Songs/dandeless - grode.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "macro.wav",
+      "preview": "https://assets.ppy.sh/artists/544/Songs/dandeless - macro.wav.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "micro.wav",
+      "preview": "https://assets.ppy.sh/artists/544/Songs/dandeless - micro.wav.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "selfportrait",
+      "preview": "https://assets.ppy.sh/artists/544/Songs/dandeless - selfportrait.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "transition",
+      "preview": "https://assets.ppy.sh/artists/544/Songs/dandeless - transition.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-05-17T20:00:04Z"
+}

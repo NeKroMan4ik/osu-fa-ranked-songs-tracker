@@ -71,9 +71,13 @@
       "title": "Evolutionary Anima",
       "preview": "https://assets.ppy.sh/artists/401/Songs/Akiri_-_Evolutionary_Anima.mp3",
       "ranked_modes": [
+        "fruits",
         "mania"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2492266
+        ],
         "mania": [
           2314344,
           2363694
@@ -161,12 +165,13 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2311704,
+          2336324
+        ],
         "mania": [
           2242527,
           2529021
-        ],
-        "taiko": [
-          2336324
         ]
       }
     },
@@ -695,5 +700,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T19:50:27Z"
+  "updated_at": "2026-05-17T19:58:03Z"
 }

@@ -29,6 +29,18 @@
       }
     },
     {
+      "title": "Relentless",
+      "preview": "https://assets.ppy.sh/artists/317/As the wind blows/happy30 - Relentless.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2294240
+        ]
+      }
+    },
+    {
       "title": "You spin my world",
       "preview": "https://assets.ppy.sh/artists/317/As the wind blows/happy30 - You spin my world.mp3",
       "ranked_modes": [
@@ -60,17 +72,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Relentless",
-      "preview": "https://assets.ppy.sh/artists/317/As the wind blows/happy30 - Relentless.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Shoot the star",
       "preview": "https://assets.ppy.sh/artists/317/As the wind blows/happy30 - Shoot the star.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T19:53:57Z"
+  "updated_at": "2026-05-17T20:01:55Z"
 }

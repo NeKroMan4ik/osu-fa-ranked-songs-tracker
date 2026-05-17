@@ -88,6 +88,18 @@
       }
     },
     {
+      "title": "Everything Everything",
+      "preview": "https://assets.ppy.sh/artists/240/Good Kid 2/Good Kid - Everything Everything.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2402521
+        ]
+      }
+    },
+    {
       "title": "Faster",
       "preview": "https://assets.ppy.sh/artists/240/Good Kid/Good Kid - Faster.mp3",
       "ranked_modes": [
@@ -244,17 +256,11 @@
       }
     },
     {
-      "title": "Everything Everything",
-      "preview": "https://assets.ppy.sh/artists/240/Good Kid 2/Good Kid - Everything Everything.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Rift",
       "preview": "https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Rift.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T19:53:46Z"
+  "updated_at": "2026-05-17T20:01:42Z"
 }

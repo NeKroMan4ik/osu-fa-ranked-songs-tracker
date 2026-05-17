@@ -136,9 +136,15 @@
       "preview": "https://assets.ppy.sh/artists/459/Songs/Ludicin - Lost Requiem.mp3",
       "ranked_modes": [
         "fruits",
-        "mania"
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2332074,
+          2338391,
+          2409171
+        ],
         "mania": [
           2325151,
           2325184,
@@ -198,5 +204,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T19:56:12Z"
+  "updated_at": "2026-05-17T20:04:21Z"
 }

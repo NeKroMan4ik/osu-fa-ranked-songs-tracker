@@ -3,6 +3,18 @@
   "name": "unfeeling",
   "tracks": [
     {
+      "title": "yearning",
+      "preview": "https://assets.ppy.sh/artists/509/Songs/unfeeling - yearning.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2499477
+        ]
+      }
+    },
+    {
       "title": "a desperate attempt to live as if nothing had happened",
       "preview": "https://assets.ppy.sh/artists/509/Songs/unfeeling_-_a_desperate_attempt_to_live_as_if_nothing_had_happened.mp3",
       "ranked_modes": [],
@@ -201,12 +213,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "yearning",
-      "preview": "https://assets.ppy.sh/artists/509/Songs/unfeeling - yearning.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "you and I hoped for the best",
       "preview": "https://assets.ppy.sh/artists/509/Songs/unfeeling - you and I hoped for the best.mp3",
       "ranked_modes": [],
@@ -219,5 +225,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T20:01:32Z"
+  "updated_at": "2026-05-17T20:10:11Z"
 }

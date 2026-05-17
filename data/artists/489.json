@@ -3,6 +3,18 @@
   "name": "SPIRIT GARDEN *",
   "tracks": [
     {
+      "title": "Akrasia",
+      "preview": "https://assets.ppy.sh/artists/489/Songs/SPIRIT GARDEN  - Akrasia.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2531874
+        ]
+      }
+    },
+    {
       "title": "Continue",
       "preview": "https://assets.ppy.sh/artists/489/Songs/SPIRIT GARDEN  - Continue.mp3",
       "ranked_modes": [
@@ -21,17 +33,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Akrasia",
-      "preview": "https://assets.ppy.sh/artists/489/Songs/SPIRIT GARDEN  - Akrasia.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Archaicism (Extended Version) feat. Haruki",
       "preview": "https://assets.ppy.sh/artists/489/Songs/SPIRIT GARDEN  - Archaicism (Extended Version) feat. Haruki.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T20:00:17Z"
+  "updated_at": "2026-05-17T20:08:48Z"
 }

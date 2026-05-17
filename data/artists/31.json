@@ -1484,6 +1484,37 @@
       }
     },
     {
+      "title": "KASAI HARCORES - CYCLE HIT",
+      "preview": "https://assets.ppy.sh/artists/31/Kasai Harcores/KASAI_HARCORES_-_CYCLE_HIT.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          668239,
+          671254,
+          1822323,
+          2182833
+        ],
+        "osu": [
+          636839,
+          1185464,
+          2182833
+        ],
+        "mania": [
+          706478,
+          746817,
+          1322678
+        ],
+        "fruits": [
+          692367
+        ]
+      }
+    },
+    {
       "title": "KASAI HARCORES - TRIPLE PLAY",
       "preview": "https://assets.ppy.sh/artists/31/Kasai Harcores/KASAI HARCORES - TRIPLE PLAY.mp3",
       "ranked_modes": [
@@ -2176,11 +2207,12 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          1773012,
+          2523700
+        ],
         "fruits": [
           2082231
-        ],
-        "mania": [
-          1773012
         ],
         "taiko": [
           1794458
@@ -2362,6 +2394,12 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          1009031,
+          1032718,
+          1368704,
+          2514159
+        ],
         "taiko": [
           1199802,
           2179989
@@ -2370,11 +2408,6 @@
           1150451,
           1313438,
           2110867
-        ],
-        "osu": [
-          1009031,
-          1032718,
-          1368704
         ]
       }
     },
@@ -2848,12 +2881,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "KASAI HARCORES - CYCLE HIT",
-      "preview": "https://assets.ppy.sh/artists/31/Kasai Harcores/KASAI_HARCORES_-_CYCLE_HIT.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "KASAI HARCORES - Moeagare! HARCORES",
       "preview": "https://assets.ppy.sh/artists/31/Kasai Harcores/KASAI HARCORES - Moeagare! HARCORES.mp3",
       "ranked_modes": [],
@@ -3070,5 +3097,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T19:51:46Z"
+  "updated_at": "2026-05-17T19:59:30Z"
 }

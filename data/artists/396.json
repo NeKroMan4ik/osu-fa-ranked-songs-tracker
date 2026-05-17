@@ -62,13 +62,14 @@
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          88180,
+          2489015
+        ],
         "mania": [
           1749630,
           1979588,
           2207023
-        ],
-        "osu": [
-          88180
         ]
       }
     },
@@ -190,10 +191,14 @@
       "title": "intrO - Don't be Foolish",
       "preview": "https://assets.ppy.sh/artists/396/Ponko2 Girlish/t%2Bpazolite - intrO - Don_t be Foolish.mp3",
       "ranked_modes": [
+        "fruits",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2492872
+        ],
         "osu": [
           2389851
         ],
@@ -655,5 +660,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T20:00:44Z"
+  "updated_at": "2026-05-17T20:09:17Z"
 }

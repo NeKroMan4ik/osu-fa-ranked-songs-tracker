@@ -76,6 +76,18 @@
       }
     },
     {
+      "title": "Spirit Away",
+      "preview": "https://assets.ppy.sh/artists/333/Songs/Euchaeta_-_Spirit_Away.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1857409
+        ]
+      }
+    },
+    {
       "title": "Who's World?",
       "preview": "https://assets.ppy.sh/artists/333/Songs/Euchaeta - Who%27s World.mp3",
       "ranked_modes": [
@@ -98,17 +110,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Spirit Away",
-      "preview": "https://assets.ppy.sh/artists/333/Songs/Euchaeta_-_Spirit_Away.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "The North Pole feat. kazune",
       "preview": "https://assets.ppy.sh/artists/333/Songs/Euchaeta - The North Pole feat. kazune.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T19:53:04Z"
+  "updated_at": "2026-05-17T20:00:57Z"
 }

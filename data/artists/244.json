@@ -75,6 +75,18 @@
       }
     },
     {
+      "title": "Ziqqurat",
+      "preview": "https://assets.ppy.sh/artists/244/Ziqqurat/Yunosuke - Ziqqurat.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2539338
+        ]
+      }
+    },
+    {
       "title": "Black or White",
       "preview": "https://assets.ppy.sh/artists/244/Black or White/Yunosuke - Black or White.mp3",
       "ranked_modes": [],
@@ -145,13 +157,7 @@
       "preview": "https://assets.ppy.sh/artists/244/Sharari/Yunosuke - Sharari.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ziqqurat",
-      "preview": "https://assets.ppy.sh/artists/244/Ziqqurat/Yunosuke - Ziqqurat.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T20:02:34Z"
+  "updated_at": "2026-05-17T20:11:19Z"
 }

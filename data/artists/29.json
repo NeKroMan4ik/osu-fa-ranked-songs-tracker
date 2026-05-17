@@ -31,9 +31,13 @@
       "title": "Culprate & Skorpion - Jester",
       "preview": "https://assets.ppy.sh/artists/29/previews/634.mp3",
       "ranked_modes": [
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2544108
+        ],
         "osu": [
           848259
         ]
@@ -181,5 +185,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T19:52:10Z"
+  "updated_at": "2026-05-17T19:59:56Z"
 }

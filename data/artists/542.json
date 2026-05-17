@@ -3,6 +3,18 @@
   "name": "Sukima Altera",
   "tracks": [
     {
+      "title": "INDUSTRY SLAYER",
+      "preview": "https://assets.ppy.sh/artists/542/Songs/Sukima Altera - INDUSTRY SLAYER.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2472648
+        ]
+      }
+    },
+    {
       "title": "Beyond Time and Beneath the Bed of Flowers in My Name",
       "preview": "https://assets.ppy.sh/artists/542/Songs/Sukima Altera - Beyond Time and Beneath the Bed of Flowers in My Name.mp3",
       "ranked_modes": [],
@@ -17,12 +29,6 @@
     {
       "title": "illusion (Fantaisie Impromptu)",
       "preview": "https://assets.ppy.sh/artists/542/Songs/Sukima Altera - illusion (Fantaisie Impromptu).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "INDUSTRY SLAYER",
-      "preview": "https://assets.ppy.sh/artists/542/Songs/Sukima Altera - INDUSTRY SLAYER.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -99,5 +105,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T20:00:30Z"
+  "updated_at": "2026-05-17T20:09:01Z"
 }

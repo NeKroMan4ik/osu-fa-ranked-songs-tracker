@@ -23,9 +23,13 @@
       "preview": "https://assets.ppy.sh/artists/99/previews/2660.mp3",
       "ranked_modes": [
         "mania",
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2529528
+        ],
         "osu": [
           1246683,
           2443994
@@ -354,5 +358,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T19:54:30Z"
+  "updated_at": "2026-05-17T20:02:30Z"
 }

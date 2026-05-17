@@ -155,9 +155,13 @@
       "title": "Open Scar Unending",
       "preview": "https://assets.ppy.sh/artists/220/Songs/Marmalade_butcher_-_Open_Scar_Unending.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2527292
+        ],
         "osu": [
           2471983
         ]
@@ -297,5 +301,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T19:56:30Z"
+  "updated_at": "2026-05-17T20:04:41Z"
 }

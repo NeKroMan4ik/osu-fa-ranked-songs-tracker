@@ -19,6 +19,18 @@
       }
     },
     {
+      "title": "and Say Good Bye...",
+      "preview": "https://assets.ppy.sh/artists/45/previews/1120.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1779479
+        ]
+      }
+    },
+    {
       "title": "Bloodthirsty Nightmare Lullaby",
       "preview": "https://assets.ppy.sh/artists/45/TOHO Complete Box - GOLD/UNDEAD_CORPORATION_-_Bloodthirsty_Nightmare_Lullaby.mp3",
       "ranked_modes": [
@@ -580,12 +592,6 @@
     {
       "title": "Access Me",
       "preview": "https://assets.ppy.sh/artists/45/previews/1174.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "and Say Good Bye...",
-      "preview": "https://assets.ppy.sh/artists/45/previews/1120.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1154,5 +1160,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T20:01:30Z"
+  "updated_at": "2026-05-17T20:10:10Z"
 }

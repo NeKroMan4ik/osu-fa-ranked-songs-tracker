@@ -92,9 +92,13 @@
       "title": "Reikoku Assassins",
       "preview": "https://assets.ppy.sh/artists/433/Reikoku Assassins/Xyris - Reikoku Assassins.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2447921
+        ],
         "mania": [
           2287693
         ]
@@ -119,5 +123,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T20:02:20Z"
+  "updated_at": "2026-05-17T20:11:03Z"
 }

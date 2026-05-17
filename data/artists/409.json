@@ -3,6 +3,18 @@
   "name": "ptar124",
   "tracks": [
     {
+      "title": "AmbidextrouS ~The Alchemist of The Left x The Sage of The Right~",
+      "preview": "https://assets.ppy.sh/artists/409/AmbidextrouS %7EThe Alchemist of The Left x The Sage of The Right%7E/ptar124_-_AmbidextrouS_The_Alchemist_of_The_Left_x_The_Sage_of_The_Right.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1698560
+        ]
+      }
+    },
+    {
       "title": "ptar124 feat. SEKAI vs. takehirotei - The Arcanists' Heist of 739 Magia Era",
       "preview": "https://assets.ppy.sh/artists/409/The Arcanists_ Heist of 739 Magia Era/ptar124 feat. SEKAI vs. takehirotei - The Arcanists_ Heist of 739 Magia Era.mp3",
       "ranked_modes": [
@@ -29,12 +41,6 @@
     {
       "title": "A Platter of Primes",
       "preview": "https://assets.ppy.sh/artists/409/Songs/ptar124_-_A_Platter_of_Primes.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "AmbidextrouS ~The Alchemist of The Left x The Sage of The Right~",
-      "preview": "https://assets.ppy.sh/artists/409/AmbidextrouS %7EThe Alchemist of The Left x The Sage of The Right%7E/ptar124_-_AmbidextrouS_The_Alchemist_of_The_Left_x_The_Sage_of_The_Right.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -129,5 +135,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T19:58:30Z"
+  "updated_at": "2026-05-17T20:06:52Z"
 }

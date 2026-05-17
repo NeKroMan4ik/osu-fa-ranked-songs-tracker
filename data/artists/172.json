@@ -44,6 +44,18 @@
       }
     },
     {
+      "title": "LEVEL-DOWN",
+      "preview": "https://assets.ppy.sh/artists/172/Songs/II-L - LEVEL-DOWN.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2501884
+        ]
+      }
+    },
+    {
       "title": "PIONEER-4",
       "preview": "https://assets.ppy.sh/artists/172/PIONEER PROGRAM/II-L - PIONEER-4.mp3",
       "ranked_modes": [
@@ -177,12 +189,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "LEVEL-DOWN",
-      "preview": "https://assets.ppy.sh/artists/172/Songs/II-L - LEVEL-DOWN.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "PIONEER-5",
       "preview": "https://assets.ppy.sh/artists/172/PIONEER PROGRAM/II-L - PIONEER-5.mp3",
       "ranked_modes": [],
@@ -261,5 +267,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T19:54:25Z"
+  "updated_at": "2026-05-17T20:02:25Z"
 }

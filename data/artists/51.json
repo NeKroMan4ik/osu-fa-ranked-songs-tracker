@@ -59,6 +59,18 @@
       }
     },
     {
+      "title": "Camellia vs. Akira Complex - Railgun Roulette (VIP)",
+      "preview": "https://assets.ppy.sh/artists/51/Reality Distortion/Camellia vs. Akira Complex - Railgun Roulette (VIP).mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1052957
+        ]
+      }
+    },
+    {
       "title": "Camellia vs. Akira Complex - Reality Distortion",
       "preview": "https://assets.ppy.sh/artists/51/Reality Distortion/Camellia vs. Akira Complex - Reality Distortion.mp3",
       "ranked_modes": [
@@ -208,12 +220,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Camellia vs. Akira Complex - Railgun Roulette (VIP)",
-      "preview": "https://assets.ppy.sh/artists/51/Reality Distortion/Camellia vs. Akira Complex - Railgun Roulette (VIP).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Camellia vs. Akira Complex - World Collapse (Introduction)",
       "preview": "https://assets.ppy.sh/artists/51/Reality Distortion/Camellia vs. Akira Complex - World Collapse (Introduction).mp3",
       "ranked_modes": [],
@@ -298,5 +304,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T19:50:26Z"
+  "updated_at": "2026-05-17T19:58:01Z"
 }

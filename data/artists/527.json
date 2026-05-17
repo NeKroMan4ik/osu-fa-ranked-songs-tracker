@@ -65,13 +65,29 @@
       }
     },
     {
+      "title": "Laur vs. M1shamo - Deceiver",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur vs. M1shamo - Deceiver.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2546740
+        ]
+      }
+    },
+    {
       "title": "PRISTINE",
       "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - PRISTINE.mp3",
       "ranked_modes": [
         "fruits",
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2510774
+        ],
         "osu": [
           840447,
           872448,
@@ -270,12 +286,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Laur vs. M1shamo - Deceiver",
-      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur vs. M1shamo - Deceiver.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Quaerite Veritatis",
       "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - Quaerite Veritatis.mp3",
       "ranked_modes": [],
@@ -294,5 +304,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T19:55:44Z"
+  "updated_at": "2026-05-17T20:03:51Z"
 }

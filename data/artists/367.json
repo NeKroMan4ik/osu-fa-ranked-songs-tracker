@@ -56,6 +56,18 @@
       }
     },
     {
+      "title": "kanemiko feat. usagidenki - Impermanence",
+      "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko_feat._usagidenki_-_Impermanence.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2491162
+        ]
+      }
+    },
+    {
       "title": "Ruin in Cascade",
       "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko_-_Ruin_in_Cascade.mp3",
       "ranked_modes": [
@@ -117,12 +129,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "kanemiko feat. usagidenki - Impermanence",
-      "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko_feat._usagidenki_-_Impermanence.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Kurokotei x kanemiko - astranelique",
       "preview": "https://assets.ppy.sh/artists/367/Songs/Kurokotei_x_kanemiko_-_astranelique.mp3",
       "ranked_modes": [],
@@ -147,5 +153,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T19:54:58Z"
+  "updated_at": "2026-05-17T20:03:01Z"
 }

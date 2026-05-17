@@ -6,10 +6,14 @@
       "title": "vleermuis",
       "preview": "https://assets.ppy.sh/artists/511/Songs/gladde paling - vleermuis.mp3",
       "ranked_modes": [
+        "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2486893
+        ],
         "taiko": [
           2473748
         ],
@@ -19,5 +23,5 @@
       }
     }
   ],
-  "updated_at": "2026-05-10T19:53:40Z"
+  "updated_at": "2026-05-17T20:01:36Z"
 }

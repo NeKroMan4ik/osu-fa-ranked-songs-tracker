@@ -63,6 +63,18 @@
       }
     },
     {
+      "title": "Akiri feat. Celadon - Project: Spacefarers",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/Akiri_feat._Celadon_-_Project_Spacefarers.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2462810
+        ]
+      }
+    },
+    {
       "title": "Altermis & takehirotei & Violet Delta - Christmas Slop",
       "preview": "https://assets.ppy.sh/artists/462/Songs/Altermis__takehirotei__Violet_Delta_-_Christmas_Slop.mp3",
       "ranked_modes": [
@@ -133,6 +145,18 @@
       }
     },
     {
+      "title": "Cityyy - Control 0",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/Cityyy_-_Control_0.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2543510
+        ]
+      }
+    },
+    {
       "title": "Cityyy - Running Man",
       "preview": "https://assets.ppy.sh/artists/462/Songs/Cityyy_-_Running_Man.mp3",
       "ranked_modes": [
@@ -141,6 +165,18 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           2299790
+        ]
+      }
+    },
+    {
+      "title": "Cityyy - Vibrant Springs",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/Cityyy_-_Vibrant_Springs.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2378237
         ]
       }
     },
@@ -414,6 +450,18 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           2163553
+        ]
+      }
+    },
+    {
+      "title": "Neighbour's Blueish Garden (NIWASHI+Aoi) - Deklowaz, the Allchemist",
+      "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/Neighbours_Blueish_Garden_NIWASHIAoi_-_Deklowaz_the_Allchemist.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2401472
         ]
       }
     },
@@ -775,12 +823,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Akiri feat. Celadon - Project: Spacefarers",
-      "preview": "https://assets.ppy.sh/artists/462/Songs/Akiri_feat._Celadon_-_Project_Spacefarers.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Aphel - Pondering Magic",
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Aphel - Pondering Magic.mp3",
       "ranked_modes": [],
@@ -877,12 +919,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Cityyy - Control 0",
-      "preview": "https://assets.ppy.sh/artists/462/Songs/Cityyy_-_Control_0.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Cityyy - Mystical Memories",
       "preview": "https://assets.ppy.sh/artists/462/Songs/Cityyy_-_Mystical_Memories.mp3",
       "ranked_modes": [],
@@ -891,12 +927,6 @@
     {
       "title": "Cityyy - Unknown",
       "preview": "https://assets.ppy.sh/artists/462/Songs/Cityyy_-_Unknown.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Cityyy - Vibrant Springs",
-      "preview": "https://assets.ppy.sh/artists/462/Songs/Cityyy_-_Vibrant_Springs.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1197,12 +1227,6 @@
     {
       "title": "N_dog - Cyclic Universe Theory",
       "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2024/N%27dog - Cyclic Universe Theory.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Neighbour's Blueish Garden (NIWASHI+Aoi) - Deklowaz, the Allchemist",
-      "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/Neighbours_Blueish_Garden_NIWASHIAoi_-_Deklowaz_the_Allchemist.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1585,5 +1609,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T19:58:04Z"
+  "updated_at": "2026-05-17T20:06:23Z"
 }

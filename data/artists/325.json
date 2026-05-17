@@ -3,6 +3,18 @@
   "name": "LilyPichu",
   "tracks": [
     {
+      "title": "anemo sky",
+      "preview": "https://assets.ppy.sh/artists/325/anemo sky/LilyPichu - anemo sky.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1897389
+        ]
+      }
+    },
+    {
       "title": "dreamy night",
       "preview": "https://assets.ppy.sh/artists/325/dreamy night/LilyPichu - dreamy night.mp3",
       "ranked_modes": [
@@ -59,12 +71,6 @@
       }
     },
     {
-      "title": "anemo sky",
-      "preview": "https://assets.ppy.sh/artists/325/anemo sky/LilyPichu - anemo sky.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "comfy vibes",
       "preview": "https://assets.ppy.sh/artists/325/comfy vibes/LilyPichu - comfy vibes.mp3",
       "ranked_modes": [],
@@ -119,5 +125,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T19:55:59Z"
+  "updated_at": "2026-05-17T20:04:07Z"
 }

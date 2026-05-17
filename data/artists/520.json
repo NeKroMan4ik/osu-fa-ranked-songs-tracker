@@ -30,10 +30,14 @@
       "title": "Sayonara",
       "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Sayonara.mp3",
       "ranked_modes": [
+        "fruits",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2526944
+        ],
         "osu": [
           2330830
         ],
@@ -133,5 +137,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T20:00:45Z"
+  "updated_at": "2026-05-17T20:09:18Z"
 }

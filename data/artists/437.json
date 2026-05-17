@@ -6,10 +6,14 @@
       "title": "fieryrage accordion (hardcore remix)",
       "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tom_-_fieryrage_accordion_hardcore_remix.mp3",
       "ranked_modes": [
+        "fruits",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          1921382
+        ],
         "osu": [
           1516867
         ],
@@ -131,5 +135,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-10T20:01:18Z"
+  "updated_at": "2026-05-17T20:09:54Z"
 }
