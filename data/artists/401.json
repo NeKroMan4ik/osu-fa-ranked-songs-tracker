@@ -153,7 +153,8 @@
       "beatmapset_ids_by_mode": {
         "mania": [
           2523537,
-          2526575
+          2526575,
+          2548004
         ]
       }
     },
@@ -216,9 +217,13 @@
       "preview": "https://assets.ppy.sh/artists/401/Your Moms Revenge/Akiri - the song of 2024.mp3",
       "ranked_modes": [
         "mania",
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2535084
+        ],
         "mania": [
           2465056
         ],
@@ -700,5 +705,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T19:58:03Z"
+  "updated_at": "2026-05-24T19:58:35Z"
 }

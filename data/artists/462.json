@@ -169,6 +169,18 @@
       }
     },
     {
+      "title": "Cityyy - Unknown",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/Cityyy_-_Unknown.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2356147
+        ]
+      }
+    },
+    {
       "title": "Cityyy - Vibrant Springs",
       "preview": "https://assets.ppy.sh/artists/462/Songs/Cityyy_-_Vibrant_Springs.mp3",
       "ranked_modes": [
@@ -193,6 +205,18 @@
         ],
         "fruits": [
           2404086
+        ]
+      }
+    },
+    {
+      "title": "DawMii - DiSKN0TZ",
+      "preview": "https://assets.ppy.sh/artists/462/6 Digit World Cup/DawMii_-_DiSKN0TZ.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2436213
         ]
       }
     },
@@ -859,6 +883,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "ArXe - Mura o Sukue Kage ni Nomareru Mae ni (feat. Hatsune Miku & Megurine Luka)",
+      "preview": "https://assets.ppy.sh/artists/462/6 Digit Asia Pacific Cup 2026/ArXe - Mura o Sukue Kage ni Nomareru Mae ni (feat. Hatsune Miku %26 Megurine Luka).mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "ArXe - Wings of Threshold (feat. Kasane Teto)",
       "preview": "https://assets.ppy.sh/artists/462/6 Digit World Cup/ArXe - Wings of Threshold (feat. Kasane Teto).mp3",
       "ranked_modes": [],
@@ -925,12 +955,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Cityyy - Unknown",
-      "preview": "https://assets.ppy.sh/artists/462/Songs/Cityyy_-_Unknown.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "coul - sleep well, i love you, my dear.",
       "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/coul - sleep well%2C i love you%2C my dear..mp3",
       "ranked_modes": [],
@@ -961,12 +985,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "DawMii - DiSKN0TZ",
-      "preview": "https://assets.ppy.sh/artists/462/6 Digit World Cup/DawMii_-_DiSKN0TZ.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "DeformedEutopia (Nirotiy + AiSS) - Chong Xiao - The Multitude of Empyrean -",
       "preview": "https://assets.ppy.sh/artists/462/osu!mania 7K Chinese National Cup 2024/DeformedEutopia (Nirotiy %2B AiSS) - Chong Xiao - The Multitude of Empyrean -.mp3",
       "ranked_modes": [],
@@ -981,6 +999,12 @@
     {
       "title": "Doomsday - Luyten's Star",
       "preview": "https://assets.ppy.sh/artists/462/Battle of the Box 2024/Doomsday - Luyten%27s Star.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Double-U - temptations feat. mai",
+      "preview": "https://assets.ppy.sh/artists/462/MushoCup 2026/Double-U_-_temptations_feat._mai.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1053,6 +1077,12 @@
     {
       "title": "fur:trash - LONG LIVE THE KING",
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/furtrash_-_LONG_LIVE_THE_KING.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Gardens - Counting Breaths feat. eili",
+      "preview": "https://assets.ppy.sh/artists/462/osu!mania Chinese National Cup 7K 2026/Gardens - Counting Breaths feat. eili.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1352,7 +1382,7 @@
     },
     {
       "title": "RiTSUMUGo - Fragmented Essence",
-      "preview": "https://assets.ppy.sh/artists/462/South Asia Suiji Showdown/RiTSUMUGo - Fragmented Essence.mp3",
+      "preview": "https://assets.ppy.sh/artists/462/South Asia Suiji Showdown/RiTSUMUGo_-_Fragmented_Essence.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1609,5 +1639,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T20:06:23Z"
+  "updated_at": "2026-05-24T20:07:12Z"
 }

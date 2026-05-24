@@ -238,6 +238,7 @@
       ],
       "beatmapset_ids_by_mode": {
         "mania": [
+          2425601,
           2461763
         ],
         "fruits": [
@@ -350,5 +351,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T20:00:02Z"
+  "updated_at": "2026-05-24T20:00:38Z"
 }

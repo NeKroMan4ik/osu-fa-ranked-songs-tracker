@@ -94,18 +94,6 @@
       }
     },
     {
-      "title": "Deus ex Machina",
-      "preview": "https://assets.ppy.sh/artists/194/Imperfection of Imaginary Number/Release Hallucination - Deus ex Machina.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1777293
-        ]
-      }
-    },
-    {
       "title": "Dystopia",
       "preview": "https://assets.ppy.sh/artists/194/Dystopia/Release Hallucination - Dystopia.mp3",
       "ranked_modes": [
@@ -213,6 +201,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Deus ex Machina",
+      "preview": "https://assets.ppy.sh/artists/194/Imperfection of Imaginary Number/Release_Hallucination_-_Deus_ex_Machina.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Fate",
       "preview": "https://assets.ppy.sh/artists/194/Nightmare Outbreak/Release Hallucination - Fate.mp3",
       "ranked_modes": [],
@@ -279,5 +273,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T20:07:17Z"
+  "updated_at": "2026-05-24T20:08:07Z"
 }

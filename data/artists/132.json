@@ -17,35 +17,6 @@
       }
     },
     {
-      "title": "Hidamari no Uta",
-      "preview": "https://assets.ppy.sh/artists/132/DJ'TEKINA--SOMETHING/DJ'TEKINASOMETHING - Hidamari no Uta.mp3",
-      "ranked_modes": [
-        "fruits",
-        "mania",
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          334050,
-          831242,
-          831322,
-          875916,
-          966324,
-          2544714
-        ],
-        "fruits": [
-          2505838
-        ],
-        "taiko": [
-          2505838
-        ],
-        "mania": [
-          2505838
-        ]
-      }
-    },
-    {
       "title": "Kimi Iro, Yami ni, Tokete.",
       "preview": "https://assets.ppy.sh/artists/132/Songs/Yuyoyuppe feat. YUC'e - Kimi Iro, Yami ni, Tokete..mp3",
       "ranked_modes": [
@@ -196,6 +167,12 @@
       }
     },
     {
+      "title": "DJ'TEKINA//SOMETHING - Hidamari no Shi",
+      "preview": "https://assets.ppy.sh/artists/132/DJ%27TEKINA//SOMETHING/DJTEKINASOMETHING_-_Hidamari_no_Shi.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Emerald Galaxy",
       "preview": "https://assets.ppy.sh/artists/132/Songs/Yuyoyuppe - Emerald Galaxy.mp3",
       "ranked_modes": [],
@@ -226,11 +203,17 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Yuyoyuppe - Hidamari no Shi",
+      "preview": "https://assets.ppy.sh/artists/132/Solitude Freak/Yuyoyuppe_-_Hidamari_no_Shi.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Yuyoyuppe - Lost Story",
       "preview": "https://assets.ppy.sh/artists/132/Story of Hope/Yuyoyuppe_-_Lost_Story.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T20:11:23Z"
+  "updated_at": "2026-05-24T20:12:24Z"
 }

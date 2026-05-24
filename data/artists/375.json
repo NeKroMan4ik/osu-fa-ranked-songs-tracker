@@ -60,9 +60,13 @@
       "preview": "https://assets.ppy.sh/artists/375/Liminal Rite/Kardashev - Cellar of Ghosts.mp3",
       "ranked_modes": [
         "mania",
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2047718
+        ],
         "osu": [
           1804362,
           2046040,
@@ -141,5 +145,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T20:03:06Z"
+  "updated_at": "2026-05-24T20:03:49Z"
 }

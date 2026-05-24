@@ -305,34 +305,6 @@
       }
     },
     {
-      "title": "Summoning 101",
-      "preview": "https://assets.ppy.sh/artists/331/Millenium Mother/Mili - Summoning 101.mp3",
-      "ranked_modes": [
-        "fruits",
-        "mania",
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          920344,
-          1949959,
-          1959023,
-          2231504
-        ],
-        "mania": [
-          1487402,
-          1954482
-        ],
-        "fruits": [
-          1301493
-        ],
-        "taiko": [
-          804107
-        ]
-      }
-    },
-    {
       "title": "Unidentified Flavourful Object",
       "preview": "https://assets.ppy.sh/artists/331/Miracle Milk/Mili - Unidentified Flavourful Object.mp3",
       "ranked_modes": [
@@ -509,7 +481,13 @@
       "preview": "https://assets.ppy.sh/artists/331/Songs/Mili - Mitsubachi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Summoning 101",
+      "preview": "https://assets.ppy.sh/artists/331/Millennium Mother/Mili_-_Summoning_101.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T20:05:01Z"
+  "updated_at": "2026-05-24T20:05:47Z"
 }

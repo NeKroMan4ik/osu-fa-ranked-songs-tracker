@@ -18,9 +18,13 @@
       "title": ";w;",
       "preview": "https://assets.ppy.sh/artists/356/Songs/7_7_-_w.mp3",
       "ranked_modes": [
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2541183
+        ],
         "osu": [
           2122395
         ]
@@ -218,5 +222,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T19:57:34Z"
+  "updated_at": "2026-05-24T19:58:04Z"
 }

@@ -27,6 +27,18 @@
       }
     },
     {
+      "title": "More Than Just Another Try",
+      "preview": "https://assets.ppy.sh/artists/48/previews/1229.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2452434
+        ]
+      }
+    },
+    {
       "title": "Overtime",
       "preview": "https://assets.ppy.sh/artists/48/previews/1230.mp3",
       "ranked_modes": [
@@ -88,12 +100,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "More Than Just Another Try",
-      "preview": "https://assets.ppy.sh/artists/48/previews/1229.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Pizza",
       "preview": "https://assets.ppy.sh/artists/48/previews/1231.mp3",
       "ranked_modes": [],
@@ -118,5 +124,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T20:03:26Z"
+  "updated_at": "2026-05-24T20:04:10Z"
 }

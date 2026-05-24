@@ -202,6 +202,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - if",
+      "preview": "https://assets.ppy.sh/artists/160/Wish -Haru ni Chiru Shirayuki no Hana-/Emiru_no_Aishita_Tsukiyo_ni_Dai_San_Gensou_Kyoku_wo_-_if.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "EMPEROR",
       "preview": "https://assets.ppy.sh/artists/160/THE WORLD ~Taiyou to Tsuki no Refrain~/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - EMPEROR.mp3",
       "ranked_modes": [],
@@ -252,12 +258,6 @@
     {
       "title": "Horror House",
       "preview": "https://assets.ppy.sh/artists/160/Gengaku Horror House/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Horror House.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "if",
-      "preview": "https://assets.ppy.sh/artists/160/Wish -Haru ni Chiru Shirayuki no Hana-/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - if.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -472,5 +472,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T20:00:43Z"
+  "updated_at": "2026-05-24T20:01:23Z"
 }

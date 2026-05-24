@@ -50,9 +50,13 @@
       "title": "F1055",
       "preview": "https://assets.ppy.sh/artists/92/Memory Waves/Silentroom - F1055.mp3",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2435345
+        ],
         "taiko": [
           1224716
         ]
@@ -256,5 +260,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T20:08:23Z"
+  "updated_at": "2026-05-24T20:09:18Z"
 }

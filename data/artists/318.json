@@ -79,13 +79,13 @@
     },
     {
       "title": "Diamond Chronicles",
-      "preview": "https://assets.ppy.sh/artists/318/Songs/Massive New Krew - Diamond Chronicles.mp3",
+      "preview": "https://assets.ppy.sh/artists/318/Songs/Massive_New_Krew_-_Diamond_Chronicles.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Diamond Chronicles (Game Size)",
-      "preview": "https://assets.ppy.sh/artists/318/Songs/Massive New Krew - Diamond Chronicles (Game Size).mp3",
+      "title": "Diamond Chronicles (Extended Ver.)",
+      "preview": "https://assets.ppy.sh/artists/318/Songs/Massive_New_Krew_-_Diamond_Chronicles_Extended_Ver..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -96,5 +96,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T20:04:44Z"
+  "updated_at": "2026-05-24T20:05:31Z"
 }

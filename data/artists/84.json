@@ -19,9 +19,13 @@
       "preview": "https://assets.ppy.sh/artists/84/previews/2198.mp3",
       "ranked_modes": [
         "fruits",
-        "mania"
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2545581
+        ],
         "fruits": [
           1293035
         ],
@@ -73,5 +77,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T20:06:01Z"
+  "updated_at": "2026-05-24T20:06:48Z"
 }

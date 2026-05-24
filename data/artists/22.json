@@ -27,15 +27,16 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          501719,
+          2530761
+        ],
         "mania": [
           788001
         ],
         "taiko": [
           501719,
           788001
-        ],
-        "osu": [
-          501719
         ]
       }
     },
@@ -48,6 +49,18 @@
       "beatmapset_ids_by_mode": {
         "taiko": [
           1391615
+        ]
+      }
+    },
+    {
+      "title": "Don't Want Any",
+      "preview": "https://assets.ppy.sh/artists/22/previews/3046.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2524842
         ]
       }
     },
@@ -178,12 +191,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Don't Want Any",
-      "preview": "https://assets.ppy.sh/artists/22/previews/3046.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Free",
       "preview": "https://assets.ppy.sh/artists/22/previews/428.mp3",
       "ranked_modes": [],
@@ -202,5 +209,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T20:10:25Z"
+  "updated_at": "2026-05-24T20:11:26Z"
 }

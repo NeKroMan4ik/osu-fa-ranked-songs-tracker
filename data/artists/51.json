@@ -62,11 +62,15 @@
       "title": "Camellia vs. Akira Complex - Railgun Roulette (VIP)",
       "preview": "https://assets.ppy.sh/artists/51/Reality Distortion/Camellia vs. Akira Complex - Railgun Roulette (VIP).mp3",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
         "taiko": [
           1052957
+        ],
+        "osu": [
+          694402
         ]
       }
     },
@@ -92,6 +96,7 @@
           2036440
         ],
         "osu": [
+          582089,
           1016559,
           1565791
         ]
@@ -304,5 +309,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T19:58:01Z"
+  "updated_at": "2026-05-24T19:58:33Z"
 }

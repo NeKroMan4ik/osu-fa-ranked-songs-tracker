@@ -6,9 +6,13 @@
       "title": "hugging.in.the.rain",
       "preview": "https://assets.ppy.sh/artists/507/downpour.ep/Tanger - hugging.in.the.rain.mp3",
       "ranked_modes": [
+        "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2536605
+        ],
         "taiko": [
           2526962
         ]
@@ -151,5 +155,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T20:09:24Z"
+  "updated_at": "2026-05-24T20:10:23Z"
 }

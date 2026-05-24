@@ -18,9 +18,13 @@
       "title": "the beginning",
       "preview": "https://assets.ppy.sh/artists/510/the beginning and the end/lexxndr - the beginning.mp3",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2546090
+        ],
         "taiko": [
           2432317
         ]
@@ -165,5 +169,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T20:04:01Z"
+  "updated_at": "2026-05-24T20:04:46Z"
 }

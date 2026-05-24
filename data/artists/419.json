@@ -19,9 +19,13 @@
       "preview": "https://assets.ppy.sh/artists/419/rest/633397 - nothing can hurt you now. it_s okay%2C don_t worry.mp3",
       "ranked_modes": [
         "mania",
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2510861
+        ],
         "mania": [
           2300685
         ],
@@ -147,5 +151,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T19:57:31Z"
+  "updated_at": "2026-05-24T19:58:01Z"
 }

@@ -55,6 +55,18 @@
       }
     },
     {
+      "title": "With Weight.",
+      "preview": "https://assets.ppy.sh/artists/353/I Want to Live My Life/Stars Hollow - With Weight..mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2536993
+        ]
+      }
+    },
+    {
       "title": "Beside You.",
       "preview": "https://assets.ppy.sh/artists/353/I Want to Live My Life/Stars Hollow - Beside You..mp3",
       "ranked_modes": [],
@@ -73,17 +85,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "With Weight.",
-      "preview": "https://assets.ppy.sh/artists/353/I Want to Live My Life/Stars Hollow - With Weight..mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "you won't be happy again",
       "preview": "https://assets.ppy.sh/artists/353/Happy Again (Deluxe)/Stars Hollow - you won%27t be happy again.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T20:08:51Z"
+  "updated_at": "2026-05-24T20:09:46Z"
 }

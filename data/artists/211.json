@@ -30,11 +30,27 @@
       "title": "Honogurai Tsuioku",
       "preview": "https://assets.ppy.sh/artists/211/Furin Kagerou/Risa Yuzuki - Honogurai Tsuioku.mp3",
       "ranked_modes": [
+        "fruits",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2333858
+        ],
+        "osu": [
+          1544897
+        ]
+      }
+    },
+    {
+      "title": "Ironical Parade",
+      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Risa Yuzuki - Ironical Parade.mp3",
+      "ranked_modes": [
         "osu"
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
-          1544897
+          2545702
         ]
       }
     },
@@ -173,12 +189,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Ironical Parade",
-      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Risa Yuzuki - Ironical Parade.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Lemonade Fizz",
       "preview": "https://assets.ppy.sh/artists/211/Imitator/Risa Yuzuki - Lemonade Fizz.mp3",
       "ranked_modes": [],
@@ -245,5 +255,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T20:07:27Z"
+  "updated_at": "2026-05-24T20:08:17Z"
 }

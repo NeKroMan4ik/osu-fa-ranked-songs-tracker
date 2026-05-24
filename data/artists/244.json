@@ -3,6 +3,18 @@
   "name": "Yunosuke",
   "tracks": [
     {
+      "title": "Black or White -Intro-",
+      "preview": "https://assets.ppy.sh/artists/244/Black or White/Yunosuke - Black or White -Intro-.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2524204
+        ]
+      }
+    },
+    {
       "title": "Coppelia",
       "preview": "https://assets.ppy.sh/artists/244/Coppelia/Yunosuke - Coppelia.mp3",
       "ranked_modes": [
@@ -93,12 +105,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Black or White -Intro-",
-      "preview": "https://assets.ppy.sh/artists/244/Black or White/Yunosuke - Black or White -Intro-.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Blank",
       "preview": "https://assets.ppy.sh/artists/244/Blank/Yunosuke - Blank.mp3",
       "ranked_modes": [],
@@ -159,5 +165,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T20:11:19Z"
+  "updated_at": "2026-05-24T20:12:21Z"
 }

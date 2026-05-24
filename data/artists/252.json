@@ -57,6 +57,18 @@
       }
     },
     {
+      "title": "framework",
+      "preview": "https://assets.ppy.sh/artists/252/square vision/my sound life - framework.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2525316
+        ]
+      }
+    },
+    {
       "title": "hello",
       "preview": "https://assets.ppy.sh/artists/252/hello/my sound life - hello.mp3",
       "ranked_modes": [
@@ -128,12 +140,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "framework",
-      "preview": "https://assets.ppy.sh/artists/252/square vision/my sound life - framework.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "meiro",
       "preview": "https://assets.ppy.sh/artists/252/portal two/my sound life - meiro.mp3",
       "ranked_modes": [],
@@ -152,5 +158,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T20:05:26Z"
+  "updated_at": "2026-05-24T20:06:12Z"
 }

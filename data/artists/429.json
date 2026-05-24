@@ -15,14 +15,20 @@
       }
     },
     {
-      "title": "CHAOS; [Deconstruction]",
-      "preview": "https://assets.ppy.sh/artists/429/Songs/Rose Quartz - CHAOS%27 %5BDeconstruction%5D.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Dreaming Wanderer",
       "preview": "https://assets.ppy.sh/artists/429/Songs/Rose Quartz - Dreaming Wanderer.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2552815
+        ]
+      }
+    },
+    {
+      "title": "CHAOS; [Deconstruction]",
+      "preview": "https://assets.ppy.sh/artists/429/Songs/Rose Quartz - CHAOS%27 %5BDeconstruction%5D.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -63,5 +69,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T20:07:44Z"
+  "updated_at": "2026-05-24T20:08:35Z"
 }

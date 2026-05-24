@@ -335,6 +335,18 @@
       }
     },
     {
+      "title": "Camellia feat. Camellia - Thule",
+      "preview": "https://assets.ppy.sh/artists/31/Songs/Camellia_feat._Camellia_-_Thule.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2542686
+        ]
+      }
+    },
+    {
       "title": "Camellia feat. Nanahira - Animal Land",
       "preview": "https://assets.ppy.sh/artists/31/3leep/Camellia feat. Nanahira - Animal Land.mp3",
       "ranked_modes": [
@@ -634,6 +646,18 @@
       "beatmapset_ids_by_mode": {
         "taiko": [
           903542
+        ]
+      }
+    },
+    {
+      "title": "Camellia feat. Nanahira - You Make My Life 1UP (x127 Long ver.)",
+      "preview": "https://assets.ppy.sh/artists/31/4orce/Camellia feat. Nanahira - You Make My Life 1UP (x127 Long ver.).mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2541752
         ]
       }
     },
@@ -1510,7 +1534,8 @@
           1322678
         ],
         "fruits": [
-          692367
+          692367,
+          799724
         ]
       }
     },
@@ -2332,9 +2357,13 @@
       "preview": "https://assets.ppy.sh/artists/31/INVAIDAS FROM DA JUNGLE/Camellia - The King Of Lions.mp3",
       "ranked_modes": [
         "fruits",
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2544845
+        ],
         "fruits": [
           2107464
         ],
@@ -2653,12 +2682,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Camellia feat. Camellia - Thule",
-      "preview": "https://assets.ppy.sh/artists/31/Songs/Camellia_feat._Camellia_-_Thule.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Camellia feat. Nanahira - Hea~rt Bea~t O~ver~Hea~~~~t!!!!",
       "preview": "https://assets.ppy.sh/artists/31/4orce/Camellia feat. Nanahira - Hea%7Ert Bea%7Et O%7Ever%7EHea%7E%7E%7E%7Et!!!!.mp3",
       "ranked_modes": [],
@@ -2733,12 +2756,6 @@
     {
       "title": "Camellia feat. Nanahira - Usakick!",
       "preview": "https://assets.ppy.sh/artists/31/Lop Step Rabbits!!/Camellia feat. Nanahira - Usakick!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Camellia feat. Nanahira - You Make My Life 1UP (x127 Long ver.)",
-      "preview": "https://assets.ppy.sh/artists/31/4orce/Camellia feat. Nanahira - You Make My Life 1UP (x127 Long ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -3097,5 +3114,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T19:59:30Z"
+  "updated_at": "2026-05-24T20:00:04Z"
 }

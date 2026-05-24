@@ -71,45 +71,18 @@
       }
     },
     {
-      "title": "goodbye earth i'm taking my spaceship to explore the universe",
-      "preview": "https://assets.ppy.sh/artists/257/Songs/in love with a ghost - goodbye earth i%27m taking my spaceship to explore the universe.mp3",
-      "ranked_modes": [
-        "fruits",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1747889
-        ],
-        "osu": [
-          1763834
-        ]
-      }
-    },
-    {
-      "title": "i thought we were lovers w/ basil",
-      "preview": "https://assets.ppy.sh/artists/257/Songs/in love with a ghost - i thought we were lovers w basil.mp3",
-      "ranked_modes": [
-        "fruits",
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2107832
-        ],
-        "fruits": [
-          1776379
-        ]
-      }
-    },
-    {
       "title": "iced tea for breakfast",
       "preview": "https://assets.ppy.sh/artists/257/gay story/in love with a ghost - iced tea for breakfast.mp3",
       "ranked_modes": [
         "fruits",
-        "mania"
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2154107,
+          2518770
+        ],
         "mania": [
           1773112
         ],
@@ -187,11 +160,23 @@
       }
     },
     {
-      "title": "am i a girl? am i a boy? do i really care?",
-      "preview": "https://assets.ppy.sh/artists/257/healing/in love with a ghost - am i a girl am i a boy do i really care.mp3",
+      "title": "am i a girl? am i a boy? do i really care? i'm hungry anyway",
+      "preview": "https://assets.ppy.sh/artists/257/healing/in_love_with_a_ghost_-_am_i_a_girl_am_i_a_boy_do_i_really_care_im_hungry_anyway.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "goodbye earth i'm taking my spaceship to explore the universe",
+      "preview": "https://assets.ppy.sh/artists/257/Songs/in love with a ghost - goodbye earth i%27m taking my spaceship to explore the universe.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "i thought we were lovers w/ basil",
+      "preview": "https://assets.ppy.sh/artists/257/discography (2016)/in love with a ghost - i thought we were lovers w basil.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T20:02:32Z"
+  "updated_at": "2026-05-24T20:03:15Z"
 }

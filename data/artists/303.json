@@ -44,9 +44,13 @@
       "title": "Midnight Sun (feat. Ekcle)",
       "preview": "https://assets.ppy.sh/artists/303/Songs/Vorso - Midnight Sun (feat. Ekcle).mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2242219
+        ],
         "osu": [
           818668
         ]
@@ -77,5 +81,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T20:10:32Z"
+  "updated_at": "2026-05-24T20:11:32Z"
 }

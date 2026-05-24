@@ -3,6 +3,18 @@
   "name": "TONE::FURY",
   "tracks": [
     {
+      "title": "DJ Stuiter - An Addendum",
+      "preview": "https://assets.ppy.sh/artists/480/OVERSEER/DJ Stuiter - An Addendum.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2543358
+        ]
+      }
+    },
+    {
       "title": "Akatsukicks - Mass Destruction",
       "preview": "https://assets.ppy.sh/artists/480/Mass Destruction/Akatsukicks - Mass Destruction.mp3",
       "ranked_modes": [],
@@ -53,12 +65,6 @@
     {
       "title": "DJ Stuiter & Tanza3D - ETERNiTY",
       "preview": "https://assets.ppy.sh/artists/480/OVERSEER/DJ Stuiter %26 Tanza3D - ETERNiTY.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "DJ Stuiter - An Addendum",
-      "preview": "https://assets.ppy.sh/artists/480/OVERSEER/DJ Stuiter - An Addendum.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -135,5 +141,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-17T20:09:56Z"
+  "updated_at": "2026-05-24T20:10:55Z"
 }
