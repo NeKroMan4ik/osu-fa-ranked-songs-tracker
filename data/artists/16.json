@@ -6,9 +6,13 @@
       "title": "Coffee",
       "preview": "https://assets.ppy.sh/artists/16/Songs/Wisp X - Coffee.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2399917
+        ],
         "osu": [
           733211,
           2061718
@@ -246,5 +250,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:11:48Z"
+  "updated_at": "2026-05-31T20:11:49Z"
 }

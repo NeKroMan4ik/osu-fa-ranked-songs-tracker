@@ -42,9 +42,13 @@
       "title": "FORViDDEN ENERZY -Fataldoze-",
       "preview": "https://assets.ppy.sh/artists/163/Songs/Reku Mochizuki - FORViDDEN ENERZY -Fataldoze-.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2531645
+        ],
         "mania": [
           1479741
         ]
@@ -159,5 +163,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:08:05Z"
+  "updated_at": "2026-05-31T20:08:32Z"
 }

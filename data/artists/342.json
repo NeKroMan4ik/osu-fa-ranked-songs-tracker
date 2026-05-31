@@ -32,9 +32,13 @@
       "title": "Dreamy Goat",
       "preview": "https://assets.ppy.sh/artists/342/Day by Day/yaseta - Dreamy Goat.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2534549
+        ],
         "osu": [
           1917139
         ]
@@ -101,5 +105,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:12:06Z"
+  "updated_at": "2026-05-31T20:12:06Z"
 }

@@ -6,9 +6,13 @@
       "title": "ikaruga_nex vs. Kagetora. - Grabinschrift der Goetter",
       "preview": "https://assets.ppy.sh/artists/446/Songs/ikaruganex_vs._Kagetora._-_Grabinschrift_der_Goetter.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2537666
+        ],
         "mania": [
           2318366,
           2483755
@@ -80,5 +84,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:03:09Z"
+  "updated_at": "2026-05-31T20:04:01Z"
 }

@@ -229,7 +229,8 @@
       ],
       "beatmapset_ids_by_mode": {
         "fruits": [
-          2109206
+          2109206,
+          2535258
         ],
         "mania": [
           1988057
@@ -446,10 +447,14 @@
       "preview": "https://assets.ppy.sh/artists/396/KAKATTEKOYEAH%E2%80%8B!%E2%80%8B!%E2%80%8B!%E2%80%8B!/t%2Bpazolite feat. Kabocha - OPENING.mp3",
       "ranked_modes": [
         "fruits",
+        "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2527829
+        ],
         "fruits": [
           2180177
         ],
@@ -660,5 +665,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:10:15Z"
+  "updated_at": "2026-05-31T20:10:26Z"
 }

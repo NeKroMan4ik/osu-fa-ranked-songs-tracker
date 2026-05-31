@@ -5,9 +5,15 @@
     {
       "title": "Ocean's Legacy",
       "preview": "https://assets.ppy.sh/artists/472/Songs/yoho - Ocean%27s Legacy.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2541937
+        ]
+      }
     }
   ],
-  "updated_at": "2026-05-24T20:12:08Z"
+  "updated_at": "2026-05-31T20:12:07Z"
 }

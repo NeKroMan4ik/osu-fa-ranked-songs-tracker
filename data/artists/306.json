@@ -309,6 +309,18 @@
       }
     },
     {
+      "title": "Weavers",
+      "preview": "https://assets.ppy.sh/artists/306/Weavers/Feint - Weavers.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2521062
+        ]
+      }
+    },
+    {
       "title": "Words (feat. Laura Brehm)",
       "preview": "https://assets.ppy.sh/artists/306/Words/Feint - Words (feat. Laura Brehm).mp3",
       "ranked_modes": [
@@ -368,13 +380,7 @@
       "preview": "https://assets.ppy.sh/artists/306/Songs/Feint - Times Like These.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Weavers",
-      "preview": "https://assets.ppy.sh/artists/306/Weavers/Feint - Weavers.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:01:47Z"
+  "updated_at": "2026-05-31T20:02:47Z"
 }

@@ -64,6 +64,18 @@
       }
     },
     {
+      "title": "SiLiS feat. Natsuki Karin - Liar Prison",
+      "preview": "https://assets.ppy.sh/artists/434/Mitsu no Negai (Three Wishes)/SiLiS_feat._Natsuki_Karin_-_Liar_Prison.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2536801
+        ]
+      }
+    },
+    {
       "title": "takehirotei & SiLiS - Isekai Magistrate",
       "preview": "https://assets.ppy.sh/artists/434/Songs/takehirotei__SiLiS_-_Isekai_Magistrate.mp3",
       "ranked_modes": [
@@ -208,12 +220,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "SiLiS feat. Natsuki Karin - Liar Prison",
-      "preview": "https://assets.ppy.sh/artists/434/Mitsu no Negai (Three Wishes)/SiLiS_feat._Natsuki_Karin_-_Liar_Prison.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "SiLiS vs sugosugiii feat. Eili - AZENINE",
       "preview": "https://assets.ppy.sh/artists/434/Songs/SiLiS_vs_sugosugiii_feat._Eili_-_AZENINE.mp3",
       "ranked_modes": [],
@@ -274,5 +280,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:09:19Z"
+  "updated_at": "2026-05-31T20:09:37Z"
 }

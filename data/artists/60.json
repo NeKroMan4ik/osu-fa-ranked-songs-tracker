@@ -108,6 +108,18 @@
       }
     },
     {
+      "title": "Ludicrous Speed",
+      "preview": "https://assets.ppy.sh/artists/60/previews/1708.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2540267
+        ]
+      }
+    },
+    {
       "title": "Shaolin Warrior",
       "preview": "https://assets.ppy.sh/artists/60/previews/1711.mp3",
       "ranked_modes": [
@@ -302,12 +314,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Ludicrous Speed",
-      "preview": "https://assets.ppy.sh/artists/60/previews/1708.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Medusa",
       "preview": "https://assets.ppy.sh/artists/60/previews/1709.mp3",
       "ranked_modes": [],
@@ -374,5 +380,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:01:41Z"
+  "updated_at": "2026-05-31T20:02:42Z"
 }

@@ -67,17 +67,28 @@
       }
     },
     {
+      "title": "Unmei no Dark Side -Rolling Gothic mix",
+      "preview": "https://assets.ppy.sh/artists/274/Songs/Kanpyohgo_-_Unmei_no_Dark_Side_-Rolling_Gothic_mix.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          984737,
+          2532082
+        ],
+        "osu": [
+          514980
+        ]
+      }
+    },
+    {
       "title": "Chiisana Chiisana Kenshou -Nostalgic Extended Rev2-",
       "preview": "https://assets.ppy.sh/artists/274/Songs/Kanpyohgo - Chiisana Chiisana Kenshou -Nostalgic Extended Rev2-.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Unmei no Dark Side -Rolling Gothic mix",
-      "preview": "https://assets.ppy.sh/artists/274/Songs/Kanpyohgo_-_Unmei_no_Dark_Side_-Rolling_Gothic_mix.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:03:48Z"
+  "updated_at": "2026-05-31T20:04:38Z"
 }

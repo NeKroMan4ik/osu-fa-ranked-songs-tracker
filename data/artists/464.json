@@ -6,9 +6,13 @@
       "title": "UNABLE",
       "preview": "https://assets.ppy.sh/artists/464/TRANQUILITY RESOLVE/rae - UNABLE.mp3",
       "ranked_modes": [
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2523688
+        ],
         "osu": [
           2372990
         ]
@@ -33,5 +37,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:07:51Z"
+  "updated_at": "2026-05-31T20:08:19Z"
 }

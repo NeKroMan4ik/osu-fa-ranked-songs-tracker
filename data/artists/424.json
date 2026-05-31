@@ -24,6 +24,7 @@
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
+          2523946,
           2524252
         ],
         "mania": [
@@ -95,5 +96,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T19:57:53Z"
+  "updated_at": "2026-05-31T19:59:18Z"
 }

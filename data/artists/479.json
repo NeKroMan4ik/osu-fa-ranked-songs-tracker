@@ -39,6 +39,18 @@
       }
     },
     {
+      "title": "LOSTVISION - Visions",
+      "preview": "https://assets.ppy.sh/artists/479/Visions/LOSTVISION - Visions.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2548912
+        ]
+      }
+    },
+    {
       "title": "Luun - Interlude - Stab",
       "preview": "https://assets.ppy.sh/artists/479/being bored sucks/Luun - Interlude - Stab.mp3",
       "ranked_modes": [
@@ -693,12 +705,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "LOSTVISION - Visions",
-      "preview": "https://assets.ppy.sh/artists/479/Visions/LOSTVISION - Visions.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Luun - Blonde",
       "preview": "https://assets.ppy.sh/artists/479/Blonde/Luun - Blonde.mp3",
       "ranked_modes": [],
@@ -891,5 +897,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:11:13Z"
+  "updated_at": "2026-05-31T20:11:18Z"
 }

@@ -28,6 +28,18 @@
       }
     },
     {
+      "title": "resting palace",
+      "preview": "https://assets.ppy.sh/artists/521/Songs/voira - resting palace.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2532238
+        ]
+      }
+    },
+    {
       "title": "ASTERISK",
       "preview": "https://assets.ppy.sh/artists/521/Songs/voira - ASTERISK.mp3",
       "ranked_modes": [],
@@ -68,13 +80,7 @@
       "preview": "https://assets.ppy.sh/artists/521/Songs/voira - gimme tech!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "resting palace",
-      "preview": "https://assets.ppy.sh/artists/521/Songs/voira - resting palace.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:11:30Z"
+  "updated_at": "2026-05-31T20:11:34Z"
 }

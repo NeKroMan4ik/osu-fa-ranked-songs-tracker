@@ -265,6 +265,19 @@
       }
     },
     {
+      "title": "Gardens - Counting Breaths feat. eili",
+      "preview": "https://assets.ppy.sh/artists/462/osu!mania Chinese National Cup 7K 2026/Gardens - Counting Breaths feat. eili.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2524160,
+          2524546
+        ]
+      }
+    },
+    {
       "title": "ginkiha - Silver Eclipse",
       "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/ginkiha - Silver Eclipse.mp3",
       "ranked_modes": [
@@ -658,6 +671,18 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           2425404
+        ]
+      }
+    },
+    {
+      "title": "sugosugiii - Zyphorath Quixalune",
+      "preview": "https://assets.ppy.sh/artists/462/3 Digit World Cup 2025/sugosugiii - Zyphorath Quixalune.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2527182
         ]
       }
     },
@@ -1081,12 +1106,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Gardens - Counting Breaths feat. eili",
-      "preview": "https://assets.ppy.sh/artists/462/osu!mania Chinese National Cup 7K 2026/Gardens - Counting Breaths feat. eili.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "hima - Midnight Utopia",
       "preview": "https://assets.ppy.sh/artists/462/MushoCup 2026/hima - Midnight Utopia.mp3",
       "ranked_modes": [],
@@ -1489,12 +1508,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "sugosugiii - Zyphorath Quixalune",
-      "preview": "https://assets.ppy.sh/artists/462/3 Digit World Cup 2025/sugosugiii - Zyphorath Quixalune.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "sugosugiii feat. Ethereal_Winter - Trail Towards Home",
       "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/sugosugiii feat. Ethereal%27Winter - Trail Towards Home.mp3",
       "ranked_modes": [],
@@ -1639,5 +1652,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:07:12Z"
+  "updated_at": "2026-05-31T20:07:44Z"
 }

@@ -31,6 +31,18 @@
       }
     },
     {
+      "title": "BACK COVER",
+      "preview": "https://assets.ppy.sh/artists/248/Kick%27s For Liberation 7/USAO - BACK COVER.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2530634
+        ]
+      }
+    },
+    {
       "title": "Big Daddy",
       "preview": "https://assets.ppy.sh/artists/248/Songs/USAO - Big Daddy.mp3",
       "ranked_modes": [
@@ -197,12 +209,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "BACK COVER",
-      "preview": "https://assets.ppy.sh/artists/248/Kick%27s For Liberation 7/USAO - BACK COVER.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Cyclops",
       "preview": "https://assets.ppy.sh/artists/248/Kick%27s For Liberation 7/USAO - Cyclops.mp3",
       "ranked_modes": [],
@@ -275,5 +281,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:11:16Z"
+  "updated_at": "2026-05-31T20:11:20Z"
 }

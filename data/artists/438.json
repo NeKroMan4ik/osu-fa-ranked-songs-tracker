@@ -43,9 +43,13 @@
       "title": "Reimei",
       "preview": "https://assets.ppy.sh/artists/438/Songs/Kagetora. - Reimei.mp3",
       "ranked_modes": [
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2531098
+        ],
         "osu": [
           1862286
         ]
@@ -88,5 +92,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:03:40Z"
+  "updated_at": "2026-05-31T20:04:31Z"
 }

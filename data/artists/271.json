@@ -27,6 +27,18 @@
       }
     },
     {
+      "title": "Ponchi feat. haxchi - Kokoro Diary",
+      "preview": "https://assets.ppy.sh/artists/271/Songs/Ponchi feat. haxchi - Kokoro Diary.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2529957
+        ]
+      }
+    },
+    {
       "title": "Ponchi feat. haxchi - Mousou <3 Chuu!!",
       "preview": "https://assets.ppy.sh/artists/271/Songs/Ponchi feat. haxchi - Mousou 3 Chuu!!.mp3",
       "ranked_modes": [
@@ -71,17 +83,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Ponchi feat. haxchi - Kokoro Diary",
-      "preview": "https://assets.ppy.sh/artists/271/Songs/Ponchi feat. haxchi - Kokoro Diary.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Ponchi feat. haxchi - Suisei Soda",
       "preview": "https://assets.ppy.sh/artists/271/Songs/Ponchi feat. haxchi - Suisei Soda.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:07:37Z"
+  "updated_at": "2026-05-31T20:08:06Z"
 }

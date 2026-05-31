@@ -200,6 +200,18 @@
       }
     },
     {
+      "title": "Mitsubachi",
+      "preview": "https://assets.ppy.sh/artists/331/Songs/Mili - Mitsubachi.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1046074
+        ]
+      }
+    },
+    {
       "title": "Nine Point Eight",
       "preview": "https://assets.ppy.sh/artists/331/Mag Mell/Mili - Nine Point Eight.mp3",
       "ranked_modes": [
@@ -301,6 +313,26 @@
         "osu": [
           1192164,
           2116195
+        ]
+      }
+    },
+    {
+      "title": "Summoning 101",
+      "preview": "https://assets.ppy.sh/artists/331/Millennium Mother/Mili_-_Summoning_101.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          920344,
+          1949959,
+          1959023,
+          2231504
+        ],
+        "mania": [
+          1487402,
+          1954482
         ]
       }
     },
@@ -475,19 +507,7 @@
       "preview": "https://assets.ppy.sh/artists/331/Songs/Mili feat. KIHOW from MYTH %26 ROID - In Hell We Live%2C Lament.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Mitsubachi",
-      "preview": "https://assets.ppy.sh/artists/331/Songs/Mili - Mitsubachi.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Summoning 101",
-      "preview": "https://assets.ppy.sh/artists/331/Millennium Mother/Mili_-_Summoning_101.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:05:47Z"
+  "updated_at": "2026-05-31T20:06:27Z"
 }

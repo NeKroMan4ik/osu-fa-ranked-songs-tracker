@@ -3,6 +3,18 @@
   "name": "Dazzling",
   "tracks": [
     {
+      "title": "ultra-kawaii-pic.png",
+      "preview": "https://assets.ppy.sh/artists/545/Songs/Dazzling - ultra-kawaii-pic.png.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2468185
+        ]
+      }
+    },
+    {
       "title": "ataraxia",
       "preview": "https://assets.ppy.sh/artists/545/Songs/Dazzling - ataraxia.mp3",
       "ranked_modes": [],
@@ -13,13 +25,7 @@
       "preview": "https://assets.ppy.sh/artists/545/Songs/krystAL (Dazzling vs. XH) - Future MicrrrOwave.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ultra-kawaii-pic.png",
-      "preview": "https://assets.ppy.sh/artists/545/Songs/Dazzling - ultra-kawaii-pic.png.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:00:45Z"
+  "updated_at": "2026-05-31T20:01:53Z"
 }

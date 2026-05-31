@@ -3,6 +3,26 @@
   "name": "in love with a ghost",
   "tracks": [
     {
+      "title": "am i a girl? am i a boy? do i really care? i'm hungry anyway",
+      "preview": "https://assets.ppy.sh/artists/257/healing/in_love_with_a_ghost_-_am_i_a_girl_am_i_a_boy_do_i_really_care_im_hungry_anyway.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1888384
+        ],
+        "mania": [
+          1768974
+        ],
+        "fruits": [
+          1747838
+        ]
+      }
+    },
+    {
       "title": "chilling at nemu's place",
       "preview": "https://assets.ppy.sh/artists/257/healing/in love with a ghost - chilling at nemu%27s place.mp3",
       "ranked_modes": [
@@ -33,9 +53,13 @@
       "preview": "https://assets.ppy.sh/artists/257/Songs/in love with a ghost - complex feelings about my own existence feat. jungkook.mp3",
       "ranked_modes": [
         "fruits",
-        "mania"
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2525398
+        ],
         "mania": [
           2532180
         ],
@@ -67,6 +91,34 @@
         ],
         "fruits": [
           1748257
+        ]
+      }
+    },
+    {
+      "title": "goodbye earth i'm taking my spaceship to explore the universe",
+      "preview": "https://assets.ppy.sh/artists/257/discography (2016)/in love with a ghost - goodbye earth i%27m taking my spaceship to explore the universe.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1763834
+        ]
+      }
+    },
+    {
+      "title": "i thought we were lovers w/ basil",
+      "preview": "https://assets.ppy.sh/artists/257/discography (2016)/in love with a ghost - i thought we were lovers w basil.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2107832
+        ],
+        "fruits": [
+          1776379
         ]
       }
     },
@@ -158,25 +210,7 @@
           1744475
         ]
       }
-    },
-    {
-      "title": "am i a girl? am i a boy? do i really care? i'm hungry anyway",
-      "preview": "https://assets.ppy.sh/artists/257/healing/in_love_with_a_ghost_-_am_i_a_girl_am_i_a_boy_do_i_really_care_im_hungry_anyway.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "goodbye earth i'm taking my spaceship to explore the universe",
-      "preview": "https://assets.ppy.sh/artists/257/Songs/in love with a ghost - goodbye earth i%27m taking my spaceship to explore the universe.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "i thought we were lovers w/ basil",
-      "preview": "https://assets.ppy.sh/artists/257/discography (2016)/in love with a ghost - i thought we were lovers w basil.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:03:15Z"
+  "updated_at": "2026-05-31T20:04:07Z"
 }

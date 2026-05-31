@@ -15,6 +15,18 @@
       }
     },
     {
+      "title": "nettwork",
+      "preview": "https://assets.ppy.sh/artists/510/the beginning and the end/lexxndr - nettwork.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2551034
+        ]
+      }
+    },
+    {
       "title": "the beginning",
       "preview": "https://assets.ppy.sh/artists/510/the beginning and the end/lexxndr - the beginning.mp3",
       "ranked_modes": [
@@ -115,12 +127,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "nettwork",
-      "preview": "https://assets.ppy.sh/artists/510/the beginning and the end/lexxndr - nettwork.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "nightmares & dreams",
       "preview": "https://assets.ppy.sh/artists/510/nightmares %26 dreams/lexxndr - nightmares %26 dreams.mp3",
       "ranked_modes": [],
@@ -169,5 +175,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:04:46Z"
+  "updated_at": "2026-05-31T20:05:31Z"
 }

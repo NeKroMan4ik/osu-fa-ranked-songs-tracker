@@ -27,6 +27,18 @@
       }
     },
     {
+      "title": "Nyah!",
+      "preview": "https://assets.ppy.sh/artists/488/Songs/DraGonis - Nyah!.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2441933
+        ]
+      }
+    },
+    {
       "title": "DraGonis x Ghost Voices - Escape Velocity",
       "preview": "https://assets.ppy.sh/artists/488/Songs/DraGonis x Ghost Voices - Escape Velocity.mp3",
       "ranked_modes": [],
@@ -49,13 +61,7 @@
       "preview": "https://assets.ppy.sh/artists/488/Songs/DraGonis - Journey to Windrise feat. aadajuulia.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Nyah!",
-      "preview": "https://assets.ppy.sh/artists/488/Songs/DraGonis - Nyah!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:01:07Z"
+  "updated_at": "2026-05-31T20:02:11Z"
 }

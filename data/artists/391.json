@@ -19,9 +19,13 @@
       "preview": "https://assets.ppy.sh/artists/391/Songs/Knife - Story.mp3",
       "ranked_modes": [
         "fruits",
-        "mania"
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2526320
+        ],
         "mania": [
           2109511
         ],
@@ -49,5 +53,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:04:09Z"
+  "updated_at": "2026-05-31T20:04:57Z"
 }

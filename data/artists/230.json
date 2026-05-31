@@ -40,7 +40,7 @@
     },
     {
       "title": "Back and Forth",
-      "preview": "https://assets.ppy.sh/artists/230/Songs/Haywyre - Back and Forth.mp3",
+      "preview": "https://assets.ppy.sh/artists/230/Songs/Haywyre_-_Back_and_Forth.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -58,7 +58,7 @@
     },
     {
       "title": "Never Count On Me",
-      "preview": "https://assets.ppy.sh/artists/230/Songs/Haywyre - Never Count On Me.mp3",
+      "preview": "https://assets.ppy.sh/artists/230/Songs/Haywyre_-_Never_Count_On_Me.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -99,5 +99,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:02:41Z"
+  "updated_at": "2026-05-31T20:03:36Z"
 }

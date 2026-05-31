@@ -338,9 +338,13 @@
       "title": "Camellia feat. Camellia - Thule",
       "preview": "https://assets.ppy.sh/artists/31/Songs/Camellia_feat._Camellia_-_Thule.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2548945
+        ],
         "mania": [
           2542686
         ]
@@ -387,9 +391,13 @@
       "title": "Camellia feat. Nanahira - Bikkurisasetara Okoru yo!",
       "preview": "https://assets.ppy.sh/artists/31/Versus/Camellia feat. Nanahira - Bikkurisasetara Okoru yo!.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2535873
+        ],
         "mania": [
           1604806,
           1748739
@@ -1105,9 +1113,13 @@
       "preview": "https://assets.ppy.sh/artists/31/Guest Track Summary %26 VIPs 02/Camellia - fastest crash (Camellia%27s paroxysmal Energetic Hitech Remix).mp3",
       "ranked_modes": [
         "fruits",
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          1261201
+        ],
         "fruits": [
           2519678
         ],
@@ -1517,15 +1529,16 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          636839,
+          1185464,
+          2182833,
+          2544980
+        ],
         "taiko": [
           668239,
           671254,
           1822323,
-          2182833
-        ],
-        "osu": [
-          636839,
-          1185464,
           2182833
         ],
         "mania": [
@@ -3114,5 +3127,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:00:04Z"
+  "updated_at": "2026-05-31T20:01:16Z"
 }

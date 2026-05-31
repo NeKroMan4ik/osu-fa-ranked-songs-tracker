@@ -159,6 +159,18 @@
       }
     },
     {
+      "title": "Oshi Shinobu",
+      "preview": "https://assets.ppy.sh/artists/401/Your Moms Revenge/Akiri - Oshi Shinobu.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2396967
+        ]
+      }
+    },
+    {
       "title": "Symphony Of The Beginning",
       "preview": "https://assets.ppy.sh/artists/401/The Lost Symphonies/Akiri - Symphony Of The Beginning.mp3",
       "ranked_modes": [
@@ -555,12 +567,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Oshi Shinobu",
-      "preview": "https://assets.ppy.sh/artists/401/Your Moms Revenge/Akiri - Oshi Shinobu.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Paper Lillies",
       "preview": "https://assets.ppy.sh/artists/401/Songs/Akiri - Paper Lillies.mp3",
       "ranked_modes": [],
@@ -705,5 +711,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T19:58:35Z"
+  "updated_at": "2026-05-31T19:59:56Z"
 }

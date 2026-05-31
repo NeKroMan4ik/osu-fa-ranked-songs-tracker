@@ -508,6 +508,18 @@
       }
     },
     {
+      "title": "solfa feat. nao - Mukuna Inori wa, Ao ni Somaru",
+      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. nao - Mukuna Inori wa%2C Ao ni Somaru.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2540742
+        ]
+      }
+    },
+    {
       "title": "solfa feat. Rita - shield nine (new overdrive ver.)",
       "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Rita - shield nine (new overdrive ver.).mp3",
       "ranked_modes": [
@@ -636,6 +648,18 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           2307661
+        ]
+      }
+    },
+    {
+      "title": "solfa feat. yanaginagi - Mizu no Naka no Kumo",
+      "preview": "https://assets.ppy.sh/artists/207/heart to heart/solfa feat. yanaginagi - Mizu no Naka no Kumo.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2545613
         ]
       }
     },
@@ -832,12 +856,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "solfa feat. nao - Mukuna Inori wa, Ao ni Somaru",
-      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. nao - Mukuna Inori wa%2C Ao ni Somaru.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "solfa feat. nao - Shinshoku no Sacrifice",
       "preview": "https://assets.ppy.sh/artists/207/chronicle -supersonic-/solfa feat. nao - Shinshoku no Sacrifice.mp3",
       "ranked_modes": [],
@@ -874,12 +892,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "solfa feat. yanaginagi - Mizu no Naka no Kumo",
-      "preview": "https://assets.ppy.sh/artists/207/heart to heart/solfa feat. yanaginagi - Mizu no Naka no Kumo.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "solfa feat. Yui Sakakibara - Love*Magic! ~Wellcome to Minoir!!~",
       "preview": "https://assets.ppy.sh/artists/207/chronicle %7Eforest stage%7E/solfa feat. Yui Sakakibara - LoveMagic! %7EWellcome to Minoir!!%7E.mp3",
       "ranked_modes": [],
@@ -910,5 +922,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-24T20:09:32Z"
+  "updated_at": "2026-05-31T20:09:49Z"
 }
