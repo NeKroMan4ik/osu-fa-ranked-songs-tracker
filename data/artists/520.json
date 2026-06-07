@@ -47,6 +47,18 @@
       }
     },
     {
+      "title": "Sorrow",
+      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Sorrow.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2422610
+        ]
+      }
+    },
+    {
       "title": "Subsidence",
       "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Subsidence.mp3",
       "ranked_modes": [
@@ -113,12 +125,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Sorrow",
-      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Sorrow.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Spark",
       "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Spark.mp3",
       "ranked_modes": [],
@@ -137,5 +143,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-31T20:10:27Z"
+  "updated_at": "2026-06-07T20:16:50Z"
 }

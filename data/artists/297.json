@@ -101,6 +101,18 @@
       }
     },
     {
+      "title": "Dance in the Light",
+      "preview": "https://assets.ppy.sh/artists/297/Malice Call/-45_-_Dance_in_the_Light.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2468144
+        ]
+      }
+    },
+    {
       "title": "Dogra Magra",
       "preview": "https://assets.ppy.sh/artists/297/Amagasa Higasa/-45 - Dogra Magra.mp3",
       "ranked_modes": [
@@ -213,7 +225,8 @@
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
-          2250284
+          2250284,
+          2533003
         ]
       }
     },
@@ -662,12 +675,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Dance in the Light",
-      "preview": "https://assets.ppy.sh/artists/297/Malice Call/-45_-_Dance_in_the_Light.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Domine",
       "preview": "https://assets.ppy.sh/artists/297/Songs/-45 - Domine.mp3",
       "ranked_modes": [],
@@ -1028,5 +1035,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-31T19:59:17Z"
+  "updated_at": "2026-06-07T20:04:29Z"
 }

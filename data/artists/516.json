@@ -6,9 +6,13 @@
       "title": "AZALI & indrop feat. AKA - Faceless Memories",
       "preview": "https://assets.ppy.sh/artists/516/re%27LOAD/AZALI %26 indrop feat. AKA - Faceless Memories.mp3",
       "ranked_modes": [
-        "fruits"
+        "fruits",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2548595
+        ],
         "fruits": [
           2419849
         ]
@@ -63,5 +67,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-31T19:59:53Z"
+  "updated_at": "2026-06-07T20:05:09Z"
 }

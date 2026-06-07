@@ -15,6 +15,18 @@
       }
     },
     {
+      "title": "Arielle's Wish",
+      "preview": "https://assets.ppy.sh/artists/153/Spiritdance/Aethoro - Arielle's Wish.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2533002
+        ]
+      }
+    },
+    {
       "title": "Deertracks",
       "preview": "https://assets.ppy.sh/artists/153/Spiritdance/Aethoro - Deertracks.mp3",
       "ranked_modes": [
@@ -61,12 +73,6 @@
       }
     },
     {
-      "title": "Arielle's Wish",
-      "preview": "https://assets.ppy.sh/artists/153/Spiritdance/Aethoro - Arielle's Wish.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Awakened",
       "preview": "https://assets.ppy.sh/artists/153/Awakened/Aethoro - Awakened.mp3",
       "ranked_modes": [],
@@ -97,5 +103,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-31T19:59:41Z"
+  "updated_at": "2026-06-07T20:04:56Z"
 }

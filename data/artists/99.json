@@ -238,9 +238,13 @@
       "title": "Synapse",
       "preview": "https://assets.ppy.sh/artists/99/previews/2672.mp3",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2526199
+        ],
         "taiko": [
           1272578
         ]
@@ -358,5 +362,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-31T20:04:05Z"
+  "updated_at": "2026-06-07T20:09:49Z"
 }

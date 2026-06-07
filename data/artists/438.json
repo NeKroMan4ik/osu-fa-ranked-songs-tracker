@@ -15,6 +15,18 @@
       }
     },
     {
+      "title": "Crazy banger",
+      "preview": "https://assets.ppy.sh/artists/438/Songs/Kagetora. - Crazy banger.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2545868
+        ]
+      }
+    },
+    {
       "title": "Eisyo-kobu - Faithtival",
       "preview": "https://assets.ppy.sh/artists/438/Songs/Eisyo-kobu - Faithtival.mp3",
       "ranked_modes": [
@@ -80,17 +92,11 @@
       }
     },
     {
-      "title": "Crazy banger",
-      "preview": "https://assets.ppy.sh/artists/438/Songs/Kagetora. - Crazy banger.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "ikaruga_nex vs. Kagetora. - Grabinschrift der Goetter",
       "preview": "https://assets.ppy.sh/artists/438/Songs/ikaruga%27nex vs. Kagetora. - Grabinschrift der Goetter.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-31T20:04:31Z"
+  "updated_at": "2026-06-07T20:10:17Z"
 }

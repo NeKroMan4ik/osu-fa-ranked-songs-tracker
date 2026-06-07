@@ -320,6 +320,7 @@
       "title": "Summoning 101",
       "preview": "https://assets.ppy.sh/artists/331/Millennium Mother/Mili_-_Summoning_101.mp3",
       "ranked_modes": [
+        "fruits",
         "mania",
         "osu"
       ],
@@ -333,6 +334,9 @@
         "mania": [
           1487402,
           1954482
+        ],
+        "fruits": [
+          1301493
         ]
       }
     },
@@ -509,5 +513,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-31T20:06:27Z"
+  "updated_at": "2026-06-07T20:12:24Z"
 }

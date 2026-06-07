@@ -15,6 +15,18 @@
       }
     },
     {
+      "title": "Brilliant Silver, Shining Blade",
+      "preview": "https://assets.ppy.sh/artists/424/Songs/0 K - Brilliant Silver%2C Shining Blade.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2195061
+        ]
+      }
+    },
+    {
       "title": "Nivem City",
       "preview": "https://assets.ppy.sh/artists/424/Songs/0_K_-_Nivem_City.mp3",
       "ranked_modes": [
@@ -50,12 +62,6 @@
     {
       "title": "alte vola!",
       "preview": "https://assets.ppy.sh/artists/424/Songs/0_K_-_alte_vola.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Brilliant Silver, Shining Blade",
-      "preview": "https://assets.ppy.sh/artists/424/Songs/0 K - Brilliant Silver%2C Shining Blade.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -96,5 +102,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-31T19:59:18Z"
+  "updated_at": "2026-06-07T20:04:30Z"
 }

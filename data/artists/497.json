@@ -23,6 +23,18 @@
       }
     },
     {
+      "title": "mentavarium",
+      "preview": "https://assets.ppy.sh/artists/497/mentavarium/kikoyu - mentavarium.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2466609
+        ]
+      }
+    },
+    {
       "title": "a shadow-bound beast",
       "preview": "https://assets.ppy.sh/artists/497/a shadow-bound beast/kikoyu - a shadow-bound beast.mp3",
       "ranked_modes": [],
@@ -51,13 +63,7 @@
       "preview": "https://assets.ppy.sh/artists/497/immaturity/kikoyu - ii. maturity.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "mentavarium",
-      "preview": "https://assets.ppy.sh/artists/497/mentavarium/kikoyu - mentavarium.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-31T20:04:46Z"
+  "updated_at": "2026-06-07T20:10:34Z"
 }

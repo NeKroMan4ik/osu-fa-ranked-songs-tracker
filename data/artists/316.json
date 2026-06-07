@@ -3,6 +3,18 @@
   "name": "Zenpaku",
   "tracks": [
     {
+      "title": "Blast+ (feat. DEMONDICE)",
+      "preview": "https://assets.ppy.sh/artists/316/Odyssey Cycle/Zenpaku_-_Blast_feat._DEMONDICE.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2542866
+        ]
+      }
+    },
+    {
       "title": "Effluxion feat. Ririsya",
       "preview": "https://assets.ppy.sh/artists/316/Songs/Zenpaku - Effluxion feat. Ririsya.mp3",
       "ranked_modes": [
@@ -53,12 +65,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Blast+ (feat. DEMONDICE)",
-      "preview": "https://assets.ppy.sh/artists/316/Odyssey Cycle/Zenpaku_-_Blast_feat._DEMONDICE.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Passage",
       "preview": "https://assets.ppy.sh/artists/316/Odyssey Cycle/Zenpaku - Passage.mp3",
       "ranked_modes": [],
@@ -71,5 +77,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-31T20:12:27Z"
+  "updated_at": "2026-06-07T20:19:04Z"
 }

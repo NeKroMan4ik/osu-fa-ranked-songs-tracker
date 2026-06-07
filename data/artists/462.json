@@ -273,6 +273,7 @@
       "beatmapset_ids_by_mode": {
         "mania": [
           2524160,
+          2524447,
           2524546
         ]
       }
@@ -554,9 +555,13 @@
       "title": "RD-Sounds feat. Meramipop - On Seeking U",
       "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/RD-Sounds_feat._Meramipop_-_On_Seeking_U.mp3",
       "ranked_modes": [
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2400881
+        ],
         "osu": [
           2409840
         ]
@@ -1652,5 +1657,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-31T20:07:44Z"
+  "updated_at": "2026-06-07T20:13:50Z"
 }

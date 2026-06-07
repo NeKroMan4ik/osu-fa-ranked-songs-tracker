@@ -3,6 +3,18 @@
   "name": "RYUJIN / GYZE",
   "tracks": [
     {
+      "title": "GYZE - BLACK BRIDE",
+      "preview": "https://assets.ppy.sh/artists/148/Black Bride/GYZE - BLACK BRIDE.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2259320
+        ]
+      }
+    },
+    {
       "title": "GYZE - HONESTY",
       "preview": "https://assets.ppy.sh/artists/148/Black Bride/GYZE - HONESTY.mp3",
       "ranked_modes": [
@@ -51,12 +63,6 @@
     {
       "title": "GYZE - A DYNASTY",
       "preview": "https://assets.ppy.sh/artists/148/Fascinating Violence/GYZE - A DYNASTY.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "GYZE - BLACK BRIDE",
-      "preview": "https://assets.ppy.sh/artists/148/Black Bride/GYZE - BLACK BRIDE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -121,5 +127,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-31T20:09:04Z"
+  "updated_at": "2026-06-07T20:15:19Z"
 }

@@ -71,7 +71,8 @@
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
-          2319934
+          2319934,
+          2324815
         ]
       }
     },
@@ -263,5 +264,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-31T20:03:21Z"
+  "updated_at": "2026-06-07T20:09:00Z"
 }

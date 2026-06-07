@@ -95,6 +95,18 @@
       }
     },
     {
+      "title": "Restful Day with the Rabbits",
+      "preview": "https://assets.ppy.sh/artists/427/Rabbit%27s Journey/WangleLine - Restful Day with the Rabbits.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2554595
+        ]
+      }
+    },
+    {
       "title": "Tourmaline Drill",
       "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Tourmaline_Drill.mp3",
       "ranked_modes": [
@@ -185,12 +197,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Restful Day with the Rabbits",
-      "preview": "https://assets.ppy.sh/artists/427/Rabbit%27s Journey/WangleLine - Restful Day with the Rabbits.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Satellite",
       "preview": "https://assets.ppy.sh/artists/427/Rabbit%27s Journey/WangleLine - Satellite.mp3",
       "ranked_modes": [],
@@ -251,5 +257,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-31T20:11:36Z"
+  "updated_at": "2026-06-07T20:18:06Z"
 }

@@ -43,6 +43,18 @@
       }
     },
     {
+      "title": "Scars and Shrapnel Wounds",
+      "preview": "https://assets.ppy.sh/artists/332/The Saberlight Chronicles/Fellowship - Scars and Shrapnel Wounds.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2453090
+        ]
+      }
+    },
+    {
       "title": "The Frozen Land",
       "preview": "https://assets.ppy.sh/artists/332/Songs/Fellowship - The Frozen Land.mp3",
       "ranked_modes": [
@@ -110,17 +122,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Scars and Shrapnel Wounds",
-      "preview": "https://assets.ppy.sh/artists/332/The Saberlight Chronicles/Fellowship - Scars and Shrapnel Wounds.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Still Enough",
       "preview": "https://assets.ppy.sh/artists/332/The Saberlight Chronicles/Fellowship - Still Enough.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-31T20:02:48Z"
+  "updated_at": "2026-06-07T20:08:25Z"
 }

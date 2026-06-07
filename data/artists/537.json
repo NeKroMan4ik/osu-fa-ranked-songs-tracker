@@ -5,9 +5,15 @@
     {
       "title": "Super-Focused Limit Break",
       "preview": "https://assets.ppy.sh/artists/537/Songs/dennoko-P - Super-Focused Limit Break.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2537890
+        ]
+      }
     }
   ],
-  "updated_at": "2026-05-31T20:01:55Z"
+  "updated_at": "2026-06-07T20:07:25Z"
 }

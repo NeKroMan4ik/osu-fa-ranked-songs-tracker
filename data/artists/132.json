@@ -168,7 +168,7 @@
     },
     {
       "title": "DJ'TEKINA//SOMETHING - Hidamari no Shi",
-      "preview": "https://assets.ppy.sh/artists/132/DJ%27TEKINA//SOMETHING/DJTEKINASOMETHING_-_Hidamari_no_Shi.mp3",
+      "preview": "https://assets.ppy.sh/artists/132/DJ'TEKINA--SOMETHING/DJ'TEKINASOMETHING%20-%20Hidamari%20no%20Shi.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -215,5 +215,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-05-31T20:12:22Z"
+  "updated_at": "2026-06-07T20:18:58Z"
 }
