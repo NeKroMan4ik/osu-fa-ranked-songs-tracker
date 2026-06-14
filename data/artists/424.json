@@ -66,6 +66,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Downtown Swoop",
+      "preview": "https://assets.ppy.sh/artists/424/Songs/0_K_-_Downtown_Swoop.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Flux Turbulenti",
       "preview": "https://assets.ppy.sh/artists/424/Songs/0_K_-_Flux_Turbulenti.mp3",
       "ranked_modes": [],
@@ -102,5 +108,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-07T20:04:30Z"
+  "updated_at": "2026-06-14T20:12:11Z"
 }

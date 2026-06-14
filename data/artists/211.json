@@ -3,6 +3,18 @@
   "name": "Risa Yuzuki",
   "tracks": [
     {
+      "title": "Amatsu Sumizome",
+      "preview": "https://assets.ppy.sh/artists/211/Furin Kagerou/Risa Yuzuki - Amatsu Sumizome.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1591003
+        ]
+      }
+    },
+    {
       "title": "BlackY feat. Risa Yuzuki - Imitator",
       "preview": "https://assets.ppy.sh/artists/211/Imitator/BlackY_feat._Risa_Yuzuki_-_Imitator.mp3",
       "ranked_modes": [
@@ -121,12 +133,6 @@
           1934189
         ]
       }
-    },
-    {
-      "title": "Amatsu Sumizome",
-      "preview": "https://assets.ppy.sh/artists/211/Furin Kagerou/Risa Yuzuki - Amatsu Sumizome.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Black Winged Variation",
@@ -255,5 +261,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-07T20:14:56Z"
+  "updated_at": "2026-06-14T20:22:56Z"
 }

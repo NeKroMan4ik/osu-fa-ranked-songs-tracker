@@ -26,10 +26,14 @@
       "title": "fieryrage accordion (hardcore remix) (TV Size)",
       "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tom_-_fieryrage_accordion_hardcore_remix_TV_Size.mp3",
       "ranked_modes": [
+        "fruits",
         "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2535687
+        ],
         "taiko": [
           2537564
         ],
@@ -135,5 +139,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-07T20:17:27Z"
+  "updated_at": "2026-06-14T20:25:33Z"
 }

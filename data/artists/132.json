@@ -3,6 +3,18 @@
   "name": "Yuyoyuppe / DJ'TEKINA//SOMETHING",
   "tracks": [
     {
+      "title": "DJ'TEKINA//SOMETHING - Hidamari no Shi",
+      "preview": "https://assets.ppy.sh/artists/132/DJ'TEKINA--SOMETHING/DJ'TEKINASOMETHING%20-%20Hidamari%20no%20Shi.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2516039
+        ]
+      }
+    },
+    {
       "title": "Gerbera",
       "preview": "https://assets.ppy.sh/artists/132/Draw/Yuyoyuppe - Gerbera.mp3",
       "ranked_modes": [
@@ -69,6 +81,18 @@
       }
     },
     {
+      "title": "Yuyoyuppe - Hidamari no Shi",
+      "preview": "https://assets.ppy.sh/artists/132/Solitude Freak/Yuyoyuppe_-_Hidamari_no_Shi.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2516039
+        ]
+      }
+    },
+    {
       "title": "Yuyoyuppe - Hope",
       "preview": "https://assets.ppy.sh/artists/132/Story of Hope/Yuyoyuppe_-_Hope.mp3",
       "ranked_modes": [
@@ -121,7 +145,8 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           15951,
-          1110400
+          1110400,
+          1207113
         ]
       }
     },
@@ -167,12 +192,6 @@
       }
     },
     {
-      "title": "DJ'TEKINA//SOMETHING - Hidamari no Shi",
-      "preview": "https://assets.ppy.sh/artists/132/DJ'TEKINA--SOMETHING/DJ'TEKINASOMETHING%20-%20Hidamari%20no%20Shi.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Emerald Galaxy",
       "preview": "https://assets.ppy.sh/artists/132/Songs/Yuyoyuppe - Emerald Galaxy.mp3",
       "ranked_modes": [],
@@ -203,17 +222,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Yuyoyuppe - Hidamari no Shi",
-      "preview": "https://assets.ppy.sh/artists/132/Solitude Freak/Yuyoyuppe_-_Hidamari_no_Shi.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Yuyoyuppe - Lost Story",
       "preview": "https://assets.ppy.sh/artists/132/Story of Hope/Yuyoyuppe_-_Lost_Story.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-07T20:18:58Z"
+  "updated_at": "2026-06-14T20:27:06Z"
 }

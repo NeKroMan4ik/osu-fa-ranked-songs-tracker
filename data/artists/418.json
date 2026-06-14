@@ -83,6 +83,18 @@
       }
     },
     {
+      "title": "Xeudo Code - Dancing Among the Flying Bullet",
+      "preview": "https://assets.ppy.sh/artists/418/Great Means Not Good/Xeudo Code - Dancing Among the Flying Bullet.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2548363
+        ]
+      }
+    },
+    {
       "title": "Xeudo Code - TERRAFORGE",
       "preview": "https://assets.ppy.sh/artists/418/TERRAFORGE/Xeudo Code - TERRAFORGE.mp3",
       "ranked_modes": [
@@ -314,13 +326,7 @@
       "preview": "https://assets.ppy.sh/artists/418/Villain/Xeudo Code - Cyber Attack.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Xeudo Code - Dancing Among the Flying Bullet",
-      "preview": "https://assets.ppy.sh/artists/418/Great Means Not Good/Xeudo Code - Dancing Among the Flying Bullet.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-07T20:15:14Z"
+  "updated_at": "2026-06-14T20:23:15Z"
 }

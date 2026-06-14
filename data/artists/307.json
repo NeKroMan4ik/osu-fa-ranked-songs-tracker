@@ -39,6 +39,12 @@
       }
     },
     {
+      "title": "Emotional Overdrive",
+      "preview": "https://assets.ppy.sh/artists/307/Songs/Mono._-_Emotional_Overdrive.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "ROCKET START",
       "preview": "https://assets.ppy.sh/artists/307/Songs/Mono. - ROCKET START.mp3",
       "ranked_modes": [],
@@ -69,5 +75,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-07T20:12:38Z"
+  "updated_at": "2026-06-14T20:20:35Z"
 }

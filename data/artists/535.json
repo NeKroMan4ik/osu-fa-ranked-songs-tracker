@@ -5,9 +5,15 @@
     {
       "title": "Buy Now!",
       "preview": "https://assets.ppy.sh/artists/535/Songs/OLDUCT - Buy Now!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2532796
+        ]
+      }
     }
   ],
-  "updated_at": "2026-06-07T20:13:40Z"
+  "updated_at": "2026-06-14T20:21:40Z"
 }

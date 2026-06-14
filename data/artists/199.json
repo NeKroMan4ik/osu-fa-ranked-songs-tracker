@@ -56,6 +56,18 @@
       }
     },
     {
+      "title": "Goodbye Goodnight (feat. shully) (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Goodbye Goodnight (feat. shully) (osu! edit).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2524139
+        ]
+      }
+    },
+    {
       "title": "Invisible Scars (feat. mami)",
       "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Invisible Scars (feat. mami).mp3",
       "ranked_modes": [
@@ -171,12 +183,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Goodbye Goodnight (feat. shully) (osu! edit)",
-      "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Goodbye Goodnight (feat. shully) (osu! edit).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Invisible Scars (feat. mami) (osu! edit)",
       "preview": "https://assets.ppy.sh/artists/199/Songs/rejection - Invisible Scars (feat. mami) (osu! edit).mp3",
       "ranked_modes": [],
@@ -261,5 +267,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-07T20:14:42Z"
+  "updated_at": "2026-06-14T20:22:42Z"
 }

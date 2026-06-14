@@ -323,9 +323,13 @@
       "title": "uma vs. Morimori Atsushi - Re: End of a Dream",
       "preview": "https://assets.ppy.sh/artists/108/Songs/uma_vs._Morimori_Atsushi_-_Re_End_of_a_Dream.mp3",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2362177
+        ],
         "taiko": [
           1897902
         ]
@@ -558,5 +562,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-07T20:12:42Z"
+  "updated_at": "2026-06-14T20:20:40Z"
 }

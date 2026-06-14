@@ -19,9 +19,13 @@
       "preview": "https://assets.ppy.sh/artists/266/Neko Hacker/Neko Hacker - Circulation.mp3",
       "ranked_modes": [
         "fruits",
-        "mania"
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2560695
+        ],
         "mania": [
           2121312,
           2377323,
@@ -186,5 +190,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-07T20:13:10Z"
+  "updated_at": "2026-06-14T20:21:09Z"
 }

@@ -104,9 +104,14 @@
       "preview": "https://assets.ppy.sh/artists/130/Songs/Symholic_feat._Rina_Komatsu_-_Veil_of_Ash.mp3",
       "ranked_modes": [
         "fruits",
-        "mania"
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2528101,
+          2534759
+        ],
         "mania": [
           2397874
         ],
@@ -398,5 +403,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-07T20:16:43Z"
+  "updated_at": "2026-06-14T20:24:47Z"
 }

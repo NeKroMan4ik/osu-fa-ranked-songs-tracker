@@ -3,6 +3,18 @@
   "name": "voira",
   "tracks": [
     {
+      "title": "brainwave",
+      "preview": "https://assets.ppy.sh/artists/521/Songs/voira - brainwave.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2541312
+        ]
+      }
+    },
+    {
       "title": "break/apart",
       "preview": "https://assets.ppy.sh/artists/521/break-apart/voira - breakapart.mp3",
       "ranked_modes": [
@@ -58,12 +70,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "brainwave",
-      "preview": "https://assets.ppy.sh/artists/521/Songs/voira - brainwave.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "empathy",
       "preview": "https://assets.ppy.sh/artists/521/Songs/voira - empathy.mp3",
       "ranked_modes": [],
@@ -82,5 +88,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-07T20:18:03Z"
+  "updated_at": "2026-06-14T20:26:10Z"
 }

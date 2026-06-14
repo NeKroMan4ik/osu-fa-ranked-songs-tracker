@@ -3,14 +3,20 @@
   "name": "mimizu",
   "tracks": [
     {
-      "title": "End Of Fake!",
-      "preview": "https://assets.ppy.sh/artists/505/Songs/mimizu - End Of Fake!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Everything will be broken.",
       "preview": "https://assets.ppy.sh/artists/505/Songs/mimizu - Everything will be broken..mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2492045
+        ]
+      }
+    },
+    {
+      "title": "End Of Fake!",
+      "preview": "https://assets.ppy.sh/artists/505/Songs/mimizu - End Of Fake!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -33,5 +39,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-07T20:12:28Z"
+  "updated_at": "2026-06-14T20:20:26Z"
 }

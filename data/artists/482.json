@@ -3,6 +3,18 @@
   "name": "XenjeS",
   "tracks": [
     {
+      "title": "DiSCOLORATiON",
+      "preview": "https://assets.ppy.sh/artists/482/Songs/XenjeS_-_DiSCOLORATiON.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2545317
+        ]
+      }
+    },
+    {
       "title": "Inorganic Dystopia",
       "preview": "https://assets.ppy.sh/artists/482/Songs/XenjeS_-_Inorganic_Dystopia.mp3",
       "ranked_modes": [
@@ -47,12 +59,6 @@
     {
       "title": "Descent",
       "preview": "https://assets.ppy.sh/artists/482/First Skyfall Ukrainian osu! Tournament 2024/XenjeS - Descent.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "DiSCOLORATiON",
-      "preview": "https://assets.ppy.sh/artists/482/Songs/XenjeS_-_DiSCOLORATiON.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -195,5 +201,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-07T20:18:26Z"
+  "updated_at": "2026-06-14T20:26:34Z"
 }

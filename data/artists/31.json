@@ -342,12 +342,13 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2542686,
+          2554749
+        ],
         "taiko": [
           2541488,
           2548945
-        ],
-        "mania": [
-          2542686
         ]
       }
     },
@@ -1019,33 +1020,6 @@
       }
     },
     {
-      "title": "Exit This Earth's Atomosphere",
-      "preview": "https://assets.ppy.sh/artists/31/PLANET__SHAPER/Camellia_-_Exit_This_Earths_Atomosphere.mp3",
-      "ranked_modes": [
-        "fruits",
-        "mania",
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1794725,
-          2528654
-        ],
-        "osu": [
-          424600,
-          517474,
-          1060325
-        ],
-        "mania": [
-          575053
-        ],
-        "taiko": [
-          567916
-        ]
-      }
-    },
-    {
       "title": "Exit This Earth's Atomosphere (Camellia's \"PLANETARY//200STEP\" Remix)",
       "preview": "https://assets.ppy.sh/artists/31/Guest Track Summary %26 VIPs 02/Camellia - Exit This Earth%27s Atomosphere (Camellia%27s PLANETARY200STEP Remix).mp3",
       "ranked_modes": [
@@ -1055,12 +1029,11 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "mania": [
-          1735796,
-          1824189
-        ],
         "fruits": [
           1825951
+        ],
+        "mania": [
+          1735796
         ],
         "taiko": [
           832997,
@@ -1197,11 +1170,12 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          1131426,
+          2555103
+        ],
         "fruits": [
           1809311
-        ],
-        "mania": [
-          1131426
         ],
         "taiko": [
           1154691
@@ -2438,15 +2412,16 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          1199802,
+          2179989,
+          2509131
+        ],
         "osu": [
           1009031,
           1032718,
           1368704,
           2514159
-        ],
-        "taiko": [
-          1199802,
-          2179989
         ],
         "mania": [
           1150451,
@@ -2459,9 +2434,13 @@
       "title": "Upload Your Mind :: Download My Soul",
       "preview": "https://assets.ppy.sh/artists/31/heart of android/Camellia - Upload Your Mind  Download My Soul.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2488222
+        ],
         "mania": [
           2051840
         ]
@@ -2829,6 +2808,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Exit This Earth's Atomosphere",
+      "preview": "https://assets.ppy.sh/artists/31/PLANET__SHAPER/Camellia_-_Exit_This_Earths_Atomosphere.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "feel my conscious",
       "preview": "https://assets.ppy.sh/artists/31/dreamless wanderer/Camellia_-_feel_my_conscious.mp3",
       "ranked_modes": [],
@@ -3129,5 +3114,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-07T20:06:41Z"
+  "updated_at": "2026-06-14T20:14:27Z"
 }

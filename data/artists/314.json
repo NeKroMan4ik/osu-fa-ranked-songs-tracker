@@ -120,9 +120,13 @@
       "title": "Kara Kara Kara no Kara",
       "preview": "https://assets.ppy.sh/artists/314/Kikuo Miku 5/Kikuo_-_Kara_Kara_Kara_no_Kara.mp3",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2537278
+        ],
         "taiko": [
           2136846
         ]
@@ -349,5 +353,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-07T20:10:35Z"
+  "updated_at": "2026-06-14T20:18:28Z"
 }

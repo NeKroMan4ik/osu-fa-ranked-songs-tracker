@@ -3,6 +3,22 @@
   "name": "log() / ohm002",
   "tracks": [
     {
+      "title": "777system - ETHEREALSTAYS333",
+      "preview": "https://assets.ppy.sh/artists/540/Songs/777system - ETHEREALSTAYS333.mp3",
+      "ranked_modes": [
+        "fruits",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2564535
+        ],
+        "fruits": [
+          2488228
+        ]
+      }
+    },
+    {
       "title": "777system - ~GOLDENERNOCTURNE~",
       "preview": "https://assets.ppy.sh/artists/540/Songs/777system - %7EGOLDENERNOCTURNE%7E.mp3",
       "ranked_modes": [
@@ -37,12 +53,6 @@
           2304560
         ]
       }
-    },
-    {
-      "title": "777system - ETHEREALSTAYS333",
-      "preview": "https://assets.ppy.sh/artists/540/Songs/777system - ETHEREALSTAYS333.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "777system - GOD",
@@ -153,5 +163,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-07T20:11:37Z"
+  "updated_at": "2026-06-14T20:19:32Z"
 }

@@ -5,9 +5,15 @@
     {
       "title": "TWC Sound Team \"FLiPFORCE\" - ON.UR.MARKS...",
       "preview": "https://assets.ppy.sh/artists/547/Songs/TWC Sound Team FLiPFORCE - ON.UR.MARKS....mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2538002
+        ]
+      }
     }
   ],
-  "updated_at": "2026-06-07T20:07:58Z"
+  "updated_at": "2026-06-14T20:15:45Z"
 }

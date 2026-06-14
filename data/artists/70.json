@@ -82,6 +82,18 @@
       }
     },
     {
+      "title": "Cymian (osu! edit)",
+      "preview": "https://assets.ppy.sh/artists/70/previews/1921.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2550782
+        ]
+      }
+    },
+    {
       "title": "Dead Soul",
       "preview": "https://assets.ppy.sh/artists/70/previews/1922.mp3",
       "ranked_modes": [
@@ -222,17 +234,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Cymian (osu! edit)",
-      "preview": "https://assets.ppy.sh/artists/70/previews/1921.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Rebirth",
       "preview": "https://assets.ppy.sh/artists/70/previews/1930.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-07T20:16:16Z"
+  "updated_at": "2026-06-14T20:24:19Z"
 }

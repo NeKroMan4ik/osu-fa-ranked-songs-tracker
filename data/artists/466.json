@@ -35,7 +35,20 @@
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
-          1137024
+          1137024,
+          2460502
+        ]
+      }
+    },
+    {
+      "title": "Rush Indigo",
+      "preview": "https://assets.ppy.sh/artists/466/selected works 2015 - 2019/ak%2Bq - Rush Indigo.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2356688
         ]
       }
     },
@@ -88,17 +101,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Rush Indigo",
-      "preview": "https://assets.ppy.sh/artists/466/selected works 2015 - 2019/ak%2Bq - Rush Indigo.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "subconsious-imaging",
       "preview": "https://assets.ppy.sh/artists/466/Songs/ak%2Bq - subconsious-imaging.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-07T20:05:07Z"
+  "updated_at": "2026-06-14T20:12:50Z"
 }
