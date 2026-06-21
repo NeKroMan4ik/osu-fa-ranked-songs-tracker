@@ -1,0 +1,43 @@
+{
+  "id": 550,
+  "name": "TRIAL",
+  "tracks": [
+    {
+      "title": "kooridori & TRIAL - Miracletale",
+      "preview": "https://assets.ppy.sh/artists/550/Songs/kooridori %26 TRIAL - Miracletale.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Notorious (Nota & TRIAL) - GIFT",
+      "preview": "https://assets.ppy.sh/artists/550/Songs/Notorious (Nota %26 TRIAL) - GIFT.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Notorious (Nota & TRIAL) - HOPE",
+      "preview": "https://assets.ppy.sh/artists/550/Songs/Notorious (Nota %26 TRIAL) - HOPE.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Notorious (Nota & TRIAL) - LOVE",
+      "preview": "https://assets.ppy.sh/artists/550/Songs/Notorious (Nota %26 TRIAL) - LOVE.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Notorious (Nota & TRIAL) - NOVA",
+      "preview": "https://assets.ppy.sh/artists/550/Songs/Notorious (Nota %26 TRIAL) - NOVA.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Stimulant Lollipop",
+      "preview": "https://assets.ppy.sh/artists/550/Songs/TRIAL - Stimulant Lollipop.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    }
+  ],
+  "updated_at": "2026-06-21T20:32:13Z"
+}

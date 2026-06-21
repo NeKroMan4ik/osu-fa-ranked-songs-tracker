@@ -144,9 +144,13 @@
       "title": "ELFENSJoN - Hexenjagd",
       "preview": "https://assets.ppy.sh/artists/69/EINHERJAR/ELFENSJoN_-_Hexenjagd.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          1931986
+        ],
         "osu": [
           1112621
         ]
@@ -491,5 +495,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:15:44Z"
+  "updated_at": "2026-06-21T20:22:30Z"
 }

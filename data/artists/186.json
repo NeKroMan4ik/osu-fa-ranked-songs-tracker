@@ -43,14 +43,20 @@
       }
     },
     {
-      "title": "BONErr",
-      "preview": "https://assets.ppy.sh/artists/186/Songs/SEBii - BONErr.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Play Poker! (feat. ERISU)",
       "preview": "https://assets.ppy.sh/artists/186/Songs/SEBii - Play Poker! (feat. ERISU).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2562466
+        ]
+      }
+    },
+    {
+      "title": "BONErr",
+      "preview": "https://assets.ppy.sh/artists/186/Songs/SEBii - BONErr.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -61,5 +67,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:23:36Z"
+  "updated_at": "2026-06-21T20:30:15Z"
 }

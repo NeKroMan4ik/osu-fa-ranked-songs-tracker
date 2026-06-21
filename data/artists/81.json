@@ -19,6 +19,18 @@
       }
     },
     {
+      "title": "Adventure",
+      "preview": "https://assets.ppy.sh/artists/81/previews/2146.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2558389
+        ]
+      }
+    },
+    {
       "title": "Day of Reflection",
       "preview": "https://assets.ppy.sh/artists/81/previews/2155.mp3",
       "ranked_modes": [
@@ -101,12 +113,6 @@
       }
     },
     {
-      "title": "Adventure",
-      "preview": "https://assets.ppy.sh/artists/81/previews/2146.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Beta's Brilliancy",
       "preview": "https://assets.ppy.sh/artists/81/previews/2152.mp3",
       "ranked_modes": [],
@@ -161,5 +167,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:15:16Z"
+  "updated_at": "2026-06-21T20:22:03Z"
 }

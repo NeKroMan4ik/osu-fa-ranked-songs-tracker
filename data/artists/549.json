@@ -3,6 +3,30 @@
   "name": "Katari",
   "tracks": [
     {
+      "title": "Flux Fiend",
+      "preview": "https://assets.ppy.sh/artists/549/Songs/Katari - Flux Fiend.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2480713
+        ]
+      }
+    },
+    {
+      "title": "Zmagz - Smile (Katari Remix)",
+      "preview": "https://assets.ppy.sh/artists/549/Songs/Zmagz_-_Smile_Katari_Remix.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2488779
+        ]
+      }
+    },
+    {
       "title": "Cosmic Aberrations from Beyond the Pixel-Verse",
       "preview": "https://assets.ppy.sh/artists/549/Songs/Katari - Cosmic Aberrations from Beyond the Pixel-Verse.mp3",
       "ranked_modes": [],
@@ -11,12 +35,6 @@
     {
       "title": "Distant Land (Cosmic Ride Remix)",
       "preview": "https://assets.ppy.sh/artists/549/Songs/Katari - Distant Land (Cosmic Ride Remix).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Flux Fiend",
-      "preview": "https://assets.ppy.sh/artists/549/Songs/Katari - Flux Fiend.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -43,13 +61,7 @@
       "preview": "https://assets.ppy.sh/artists/549/Songs/Katari_-_Welcome_to_the_Internet_-_Copy.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Zmagz - Smile (Katari Remix)",
-      "preview": "https://assets.ppy.sh/artists/549/Songs/Zmagz_-_Smile_Katari_Remix.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:18:22Z"
+  "updated_at": "2026-06-21T20:25:06Z"
 }

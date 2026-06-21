@@ -42,9 +42,13 @@
       "title": "Partition",
       "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_-_Partition.mp3",
       "ranked_modes": [
+        "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2466086
+        ],
         "taiko": [
           2351137
         ]
@@ -139,5 +143,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:24:44Z"
+  "updated_at": "2026-06-21T20:31:21Z"
 }

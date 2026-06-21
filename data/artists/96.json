@@ -270,7 +270,8 @@
       "beatmapset_ids_by_mode": {
         "taiko": [
           1580170,
-          2468709
+          2468709,
+          2525627
         ],
         "fruits": [
           1689443
@@ -335,5 +336,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:18:43Z"
+  "updated_at": "2026-06-21T20:25:28Z"
 }

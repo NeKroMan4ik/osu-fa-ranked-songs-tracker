@@ -22,11 +22,15 @@
       "title": "Eternity",
       "preview": "https://assets.ppy.sh/artists/218/Songs/Yooh_-_Eternity.mp3",
       "ranked_modes": [
+        "fruits",
         "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2518082
+        ],
         "mania": [
           2421270,
           2438278,
@@ -315,5 +319,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:26:54Z"
+  "updated_at": "2026-06-21T20:33:30Z"
 }

@@ -3,6 +3,18 @@
   "name": "tachibanaka",
   "tracks": [
     {
+      "title": "Early Morning",
+      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Early Morning.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2534361
+        ]
+      }
+    },
+    {
       "title": "Essence",
       "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Essence.mp3",
       "ranked_modes": [
@@ -77,12 +89,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Early Morning",
-      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Early Morning.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Escape",
       "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Escape.mp3",
       "ranked_modes": [],
@@ -143,5 +149,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:24:55Z"
+  "updated_at": "2026-06-21T20:31:32Z"
 }

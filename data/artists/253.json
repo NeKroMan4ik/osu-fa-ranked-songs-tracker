@@ -30,9 +30,13 @@
       "title": "Kannagi",
       "preview": "https://assets.ppy.sh/artists/253/Songs/A.SAKA - Kannagi.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2530218
+        ],
         "mania": [
           2343293
         ]
@@ -181,5 +185,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:12:28Z"
+  "updated_at": "2026-06-21T20:19:15Z"
 }

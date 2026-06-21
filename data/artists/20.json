@@ -101,6 +101,18 @@
       }
     },
     {
+      "title": "Houkai no Hate No Ishi feat. GUMI (Short Ver.)",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Houkai no Hate No Ishi feat. GUMI (Short Ver.).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2526450
+        ]
+      }
+    },
+    {
       "title": "MYxFLAVORxDAYS! feat. GUMI (Short Ver.)",
       "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - MYxFLAVORxDAYS! feat. GUMI (Short Ver.).mp3",
       "ranked_modes": [
@@ -260,12 +272,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Houkai no Hate No Ishi feat. GUMI (Short Ver.)",
-      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Houkai no Hate No Ishi feat. GUMI (Short Ver.).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "MYxFLAVORxDAYS! feat. GUMI",
       "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - MYxFLAVORxDAYS! feat. GUMI.mp3",
       "ranked_modes": [],
@@ -332,5 +338,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:25:38Z"
+  "updated_at": "2026-06-21T20:32:15Z"
 }

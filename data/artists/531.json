@@ -15,6 +15,18 @@
       }
     },
     {
+      "title": "To the B3AT!",
+      "preview": "https://assets.ppy.sh/artists/531/Songs/Juztan - To the B3AT!.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2524776
+        ]
+      }
+    },
+    {
       "title": "CH4-0S",
       "preview": "https://assets.ppy.sh/artists/531/Songs/Juztan - CH4-0S.mp3",
       "ranked_modes": [],
@@ -25,13 +37,7 @@
       "preview": "https://assets.ppy.sh/artists/531/Songs/Juztan - This is NOT a Music!.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "To the B3AT!",
-      "preview": "https://assets.ppy.sh/artists/531/Songs/Juztan - To the B3AT!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:18:05Z"
+  "updated_at": "2026-06-21T20:24:49Z"
 }

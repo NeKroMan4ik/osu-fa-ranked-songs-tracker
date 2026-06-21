@@ -15,6 +15,18 @@
       }
     },
     {
+      "title": "5KiLOBYTE feat. Azure - EXTINCTION",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/5KiLOBYTE feat. Azure - EXTINCTION.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2399921
+        ]
+      }
+    },
+    {
       "title": "777system - GOD",
       "preview": "https://assets.ppy.sh/artists/462/Songs/777system_-_GOD.mp3",
       "ranked_modes": [
@@ -124,9 +136,13 @@
       "title": "ArXe - Locus Amoenus (feat. Megurine Luka)",
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/ArXe - Locus Amoenus (feat. Megurine Luka).mp3",
       "ranked_modes": [
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2467187
+        ],
         "osu": [
           2412292
         ]
@@ -249,6 +265,18 @@
         ],
         "taiko": [
           2455736
+        ]
+      }
+    },
+    {
+      "title": "Fox Rush feat. Cassylish - Paint The Ocean Blue",
+      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Fox_Rush_feat._Cassylish_-_Paint_The_Ocean_Blue.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2412259
         ]
       }
     },
@@ -799,12 +827,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "5KiLOBYTE feat. Azure - EXTINCTION",
-      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/5KiLOBYTE feat. Azure - EXTINCTION.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "777system - NOWHERE HEAVEN",
       "preview": "https://assets.ppy.sh/artists/462/3 Digit World Cup 2026/777system - NOWHERE HEAVEN.mp3",
       "ranked_modes": [],
@@ -1095,12 +1117,6 @@
     {
       "title": "Fox Rush - Cloudgazing",
       "preview": "https://assets.ppy.sh/artists/462/Songs/Fox_Rush_-_Cloudgazing.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Fox Rush feat. Cassylish - Paint The Ocean Blue",
-      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Fox_Rush_feat._Cassylish_-_Paint_The_Ocean_Blue.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1657,5 +1673,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:21:50Z"
+  "updated_at": "2026-06-21T20:28:29Z"
 }

@@ -39,6 +39,18 @@
       }
     },
     {
+      "title": "Tell Me",
+      "preview": "https://assets.ppy.sh/artists/230/Panorama Discover/Haywyre - Tell Me.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2543113
+        ]
+      }
+    },
+    {
       "title": "Back and Forth",
       "preview": "https://assets.ppy.sh/artists/230/Songs/Haywyre_-_Back_and_Forth.mp3",
       "ranked_modes": [],
@@ -75,12 +87,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Tell Me",
-      "preview": "https://assets.ppy.sh/artists/230/Panorama Discover/Haywyre - Tell Me.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "The Schism",
       "preview": "https://assets.ppy.sh/artists/230/Two Fold Pt. 1/Haywyre - The Schism.mp3",
       "ranked_modes": [],
@@ -99,5 +105,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:17:07Z"
+  "updated_at": "2026-06-21T20:23:52Z"
 }

@@ -5,9 +5,15 @@
     {
       "title": "!!! IMPULSIVE <!!> WAVE !!!",
       "preview": "https://assets.ppy.sh/artists/500/Songs/LUZE - !!! IMPULSIVE !! WAVE !!!.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2438724
+        ]
+      }
     }
   ],
-  "updated_at": "2026-06-14T20:19:47Z"
+  "updated_at": "2026-06-21T20:26:30Z"
 }

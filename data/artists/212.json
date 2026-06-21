@@ -3,6 +3,30 @@
   "name": "garlagan",
   "tracks": [
     {
+      "title": "apopopop",
+      "preview": "https://assets.ppy.sh/artists/212/00/garlagan - apopopop.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2534473
+        ]
+      }
+    },
+    {
+      "title": "Leight Wight",
+      "preview": "https://assets.ppy.sh/artists/212/00/garlagan - Leight Wight.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2494258
+        ]
+      }
+    },
+    {
       "title": "PPaper PPlanes",
       "preview": "https://assets.ppy.sh/artists/212/00/garlagan - PPaper PPlanes.mp3",
       "ranked_modes": [
@@ -50,18 +74,20 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           1685762,
+          2079518,
           2196143,
           2535849
+        ],
+        "mania": [
+          1788341,
+          2079518,
+          2135686
         ],
         "taiko": [
           2535849
         ],
         "fruits": [
           2524299
-        ],
-        "mania": [
-          1788341,
-          2135686
         ]
       }
     },
@@ -90,12 +116,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "apopopop",
-      "preview": "https://assets.ppy.sh/artists/212/00/garlagan - apopopop.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Deflect",
       "preview": "https://assets.ppy.sh/artists/212/00/garlagan - Deflect.mp3",
       "ranked_modes": [],
@@ -120,12 +140,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Leight Wight",
-      "preview": "https://assets.ppy.sh/artists/212/00/garlagan - Leight Wight.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Refract",
       "preview": "https://assets.ppy.sh/artists/212/Slowing Down/garlagan - Refract.mp3",
       "ranked_modes": [],
@@ -144,5 +158,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:16:30Z"
+  "updated_at": "2026-06-21T20:23:16Z"
 }

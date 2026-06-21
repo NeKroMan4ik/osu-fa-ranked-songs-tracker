@@ -190,6 +190,18 @@
       }
     },
     {
+      "title": "Rift",
+      "preview": "https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Rift.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2467271
+        ]
+      }
+    },
+    {
       "title": "Slingshot",
       "preview": "https://assets.ppy.sh/artists/240/Good Kid 2/Good Kid - Slingshot.mp3",
       "ranked_modes": [
@@ -241,6 +253,7 @@
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
+          2497900,
           2525114
         ]
       }
@@ -256,13 +269,7 @@
           2416816
         ]
       }
-    },
-    {
-      "title": "Rift",
-      "preview": "https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Rift.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:16:49Z"
+  "updated_at": "2026-06-21T20:23:35Z"
 }

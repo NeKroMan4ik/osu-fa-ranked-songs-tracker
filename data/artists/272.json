@@ -61,6 +61,18 @@
       }
     },
     {
+      "title": "ULTRA MEGA HAPPY PARTY!!!",
+      "preview": "https://assets.ppy.sh/artists/272/Songs/Hino_Isuka_-_ULTRA_MEGA_HAPPY_PARTY.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2456838
+        ]
+      }
+    },
+    {
       "title": "Wonderful Paradise",
       "preview": "https://assets.ppy.sh/artists/272/Songs/Hino Isuka - Wonderful Paradise.mp3",
       "ranked_modes": [
@@ -119,13 +131,7 @@
       "preview": "https://assets.ppy.sh/artists/272/Songs/Hino Isuka - Memories of Chasers.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ULTRA MEGA HAPPY PARTY!!!",
-      "preview": "https://assets.ppy.sh/artists/272/Songs/Hino_Isuka_-_ULTRA_MEGA_HAPPY_PARTY.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:17:17Z"
+  "updated_at": "2026-06-21T20:24:01Z"
 }

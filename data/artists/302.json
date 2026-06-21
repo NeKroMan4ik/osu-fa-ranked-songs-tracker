@@ -31,6 +31,18 @@
       }
     },
     {
+      "title": "The Lost Melody",
+      "preview": "https://assets.ppy.sh/artists/302/Neverafter/Andy Gillion - The Lost Melody.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2539491
+        ]
+      }
+    },
+    {
       "title": "1988 (feat. Li-sa-X)",
       "preview": "https://assets.ppy.sh/artists/302/Arcade Metal/Andy Gillion - 1988 (feat. Li-sa-X).mp3",
       "ranked_modes": [],
@@ -95,13 +107,7 @@
       "preview": "https://assets.ppy.sh/artists/302/Neverafter/Andy Gillion - Shards of a Forgotten World.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "The Lost Melody",
-      "preview": "https://assets.ppy.sh/artists/302/Neverafter/Andy Gillion - The Lost Melody.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:13:13Z"
+  "updated_at": "2026-06-21T20:19:59Z"
 }

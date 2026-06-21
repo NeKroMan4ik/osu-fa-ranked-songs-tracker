@@ -86,9 +86,13 @@
       "title": "Ex Nihilo",
       "preview": "https://assets.ppy.sh/artists/15/Azure of the Horizon/Fractal Dreamers - Ex Nihilo.mp3",
       "ranked_modes": [
-        "fruits"
+        "fruits",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2539590
+        ],
         "fruits": [
           1254879
         ]
@@ -362,5 +366,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:16:20Z"
+  "updated_at": "2026-06-21T20:23:06Z"
 }

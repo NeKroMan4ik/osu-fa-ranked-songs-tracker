@@ -30,9 +30,13 @@
       "title": "Set Me Free (Cut Ver.)",
       "preview": "https://assets.ppy.sh/artists/403/Songs/Draper_-_Set_Me_Free_Cut_Ver..mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2535272
+        ],
         "osu": [
           1679483
         ]
@@ -45,5 +49,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:15:31Z"
+  "updated_at": "2026-06-21T20:22:17Z"
 }

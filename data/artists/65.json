@@ -42,9 +42,13 @@
       "title": "Shotgun Senorita (Zardonic Remix)",
       "preview": "https://assets.ppy.sh/artists/65/previews/1840.mp3",
       "ranked_modes": [
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2528729
+        ],
         "osu": [
           65853
         ]
@@ -217,5 +221,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:14:11Z"
+  "updated_at": "2026-06-21T20:20:57Z"
 }

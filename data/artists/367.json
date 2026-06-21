@@ -56,6 +56,18 @@
       }
     },
     {
+      "title": "kanemiko & Kyutatsuki & Aoi - Fractal Vertex",
+      "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko__Kyutatsuki__Aoi_-_Fractal_Vertex.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2253784
+        ]
+      }
+    },
+    {
       "title": "kanemiko feat. usagidenki - Impermanence",
       "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko_feat._usagidenki_-_Impermanence.mp3",
       "ranked_modes": [
@@ -127,12 +139,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "kanemiko & Kyutatsuki & Aoi - Fractal Vertex",
-      "preview": "https://assets.ppy.sh/artists/367/Songs/kanemiko__Kyutatsuki__Aoi_-_Fractal_Vertex.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Kurokotei x kanemiko - astranelique",
       "preview": "https://assets.ppy.sh/artists/367/Songs/Kurokotei_x_kanemiko_-_astranelique.mp3",
       "ranked_modes": [],
@@ -157,5 +163,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:18:12Z"
+  "updated_at": "2026-06-21T20:24:57Z"
 }

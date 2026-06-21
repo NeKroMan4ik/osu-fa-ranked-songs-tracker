@@ -1020,6 +1020,29 @@
       }
     },
     {
+      "title": "Exit This Earth's Atomosphere",
+      "preview": "https://assets.ppy.sh/artists/31/PLANET__SHAPER/Camellia_-_Exit_This_Earths_Atomosphere.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1794725,
+          2528654
+        ],
+        "osu": [
+          424600,
+          517474,
+          1060325
+        ],
+        "mania": [
+          575053
+        ]
+      }
+    },
+    {
       "title": "Exit This Earth's Atomosphere (Camellia's \"PLANETARY//200STEP\" Remix)",
       "preview": "https://assets.ppy.sh/artists/31/Guest Track Summary %26 VIPs 02/Camellia - Exit This Earth%27s Atomosphere (Camellia%27s PLANETARY200STEP Remix).mp3",
       "ranked_modes": [
@@ -2808,12 +2831,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Exit This Earth's Atomosphere",
-      "preview": "https://assets.ppy.sh/artists/31/PLANET__SHAPER/Camellia_-_Exit_This_Earths_Atomosphere.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "feel my conscious",
       "preview": "https://assets.ppy.sh/artists/31/dreamless wanderer/Camellia_-_feel_my_conscious.mp3",
       "ranked_modes": [],
@@ -3114,5 +3131,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:14:27Z"
+  "updated_at": "2026-06-21T20:21:14Z"
 }

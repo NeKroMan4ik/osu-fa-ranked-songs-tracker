@@ -293,6 +293,18 @@
       }
     },
     {
+      "title": "Seiren Femme fatale",
+      "preview": "https://assets.ppy.sh/artists/93/Seiren Femme fatale/Ariabl%27eyeS - Seiren Femme fatale.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2359595
+        ]
+      }
+    },
+    {
       "title": "Senkou no Flare",
       "preview": "https://assets.ppy.sh/artists/93/Akaki Akuma no Tragedia/Ariabl%27eyeS - Senkou no Flare.mp3",
       "ranked_modes": [
@@ -636,12 +648,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Seiren Femme fatale",
-      "preview": "https://assets.ppy.sh/artists/93/Seiren Femme fatale/Ariabl%27eyeS - Seiren Femme fatale.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Senjou no Diva",
       "preview": "https://assets.ppy.sh/artists/93/Ariabl%27eyeS 1st Album %E7%A2%A7%E3%81%8D%E5%B9%BB%E6%83%B3%E3%81%AE%E3%82%A8%E3%83%AA%E3%82%B8%E3%82%A6%E3%83%A0/Ariabl%27eyeS - Senjou no Diva.mp3",
       "ranked_modes": [],
@@ -750,5 +756,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:13:34Z"
+  "updated_at": "2026-06-21T20:20:20Z"
 }

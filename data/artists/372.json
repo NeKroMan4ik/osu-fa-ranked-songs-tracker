@@ -289,6 +289,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Nasu Is Not Fruits Desu!",
+      "preview": "https://assets.ppy.sh/artists/372/Songs/YUCe_-_Nasu_Is_Not_Fruits_Desu.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Night Club Junkie",
       "preview": "https://assets.ppy.sh/artists/372/macaron moon/YUC%27e - Night Club Junkie.mp3",
       "ranked_modes": [],
@@ -325,5 +331,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:26:58Z"
+  "updated_at": "2026-06-21T20:33:33Z"
 }

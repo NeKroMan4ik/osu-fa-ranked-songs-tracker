@@ -18,10 +18,14 @@
       "title": "Birds of Plague",
       "preview": "https://assets.ppy.sh/artists/95/previews/2522.mp3",
       "ranked_modes": [
+        "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2351212
+        ],
         "osu": [
           1244852
         ],
@@ -297,5 +301,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:13:32Z"
+  "updated_at": "2026-06-21T20:20:18Z"
 }

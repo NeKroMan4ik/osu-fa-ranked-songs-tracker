@@ -657,6 +657,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Tabula Rasa",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_Tabula_Rasa.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "TanglePurge",
       "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - TanglePurge.mp3",
       "ranked_modes": [],
@@ -693,5 +699,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-14T20:23:35Z"
+  "updated_at": "2026-06-21T20:30:13Z"
 }
