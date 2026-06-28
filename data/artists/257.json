@@ -99,9 +99,13 @@
       "title": "goodbye earth i'm taking my spaceship to explore the universe",
       "preview": "https://assets.ppy.sh/artists/257/discography (2016)/in love with a ghost - goodbye earth i%27m taking my spaceship to explore the universe.mp3",
       "ranked_modes": [
+        "fruits",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          1747889
+        ],
         "osu": [
           1763834
         ]
@@ -213,5 +217,5 @@
       }
     }
   ],
-  "updated_at": "2026-06-21T20:24:27Z"
+  "updated_at": "2026-06-28T20:08:29Z"
 }

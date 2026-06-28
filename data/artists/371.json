@@ -135,6 +135,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Dahlia (feat. eili)",
+      "preview": "https://assets.ppy.sh/artists/371/Songs/Krimek_-_Dahlia_feat._eili.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Dissociation",
       "preview": "https://assets.ppy.sh/artists/371/GALAXY OF MIND/MINE/Krimek_-_Dissociation.mp3",
       "ranked_modes": [],
@@ -255,5 +261,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-21T20:25:36Z"
+  "updated_at": "2026-06-28T20:09:38Z"
 }

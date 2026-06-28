@@ -30,9 +30,13 @@
       "title": "Chromatic",
       "preview": "https://assets.ppy.sh/artists/263/Chromatic/Ardolf - Chromatic.mp3",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2548627
+        ],
         "taiko": [
           1538237
         ]
@@ -149,5 +153,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-21T20:20:16Z"
+  "updated_at": "2026-06-28T20:04:16Z"
 }

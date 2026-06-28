@@ -241,11 +241,17 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Sylvir - Etiolan Highway",
+      "preview": "https://assets.ppy.sh/artists/8/Songs/Sylvir_-_Etiolan_Highway.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "THE SKIES OPEN",
       "preview": "https://assets.ppy.sh/artists/8/previews/887.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-21T20:31:23Z"
+  "updated_at": "2026-06-28T20:15:28Z"
 }

@@ -108,9 +108,13 @@
       "title": "you feat. ugu - PAINTER",
       "preview": "https://assets.ppy.sh/artists/389/Songs/you feat. ugu - PAINTER.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2543616
+        ],
         "mania": [
           2305181
         ]
@@ -141,5 +145,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-21T20:33:31Z"
+  "updated_at": "2026-06-28T20:17:37Z"
 }

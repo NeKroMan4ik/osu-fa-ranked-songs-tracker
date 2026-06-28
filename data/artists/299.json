@@ -18,9 +18,13 @@
       "title": "Final Boss",
       "preview": "https://assets.ppy.sh/artists/299/Final Boss/Nitro Fun - Final Boss.mp3",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          1925449
+        ],
         "taiko": [
           2351719
         ]
@@ -39,5 +43,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-21T20:27:59Z"
+  "updated_at": "2026-06-28T20:12:03Z"
 }

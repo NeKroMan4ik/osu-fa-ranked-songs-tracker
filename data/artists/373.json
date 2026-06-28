@@ -60,10 +60,14 @@
       "title": "Forgotten Hate",
       "preview": "https://assets.ppy.sh/artists/373/Howling EP/Supire - Forgotten Hate.mp3",
       "ranked_modes": [
+        "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2529640
+        ],
         "taiko": [
           2108707,
           2406745
@@ -190,5 +194,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-21T20:31:18Z"
+  "updated_at": "2026-06-28T20:15:23Z"
 }

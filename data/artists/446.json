@@ -3,6 +3,18 @@
   "name": "ikaruga_nex",
   "tracks": [
     {
+      "title": "BLAZES ASSAULT",
+      "preview": "https://assets.ppy.sh/artists/446/BLAZES ASSAULT/ikaruga%27nex - BLAZES ASSAULT.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2498336
+        ]
+      }
+    },
+    {
       "title": "ikaruga_nex vs. Kagetora. - Grabinschrift der Goetter",
       "preview": "https://assets.ppy.sh/artists/446/Songs/ikaruganex_vs._Kagetora._-_Grabinschrift_der_Goetter.mp3",
       "ranked_modes": [
@@ -66,12 +78,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "BLAZES ASSAULT",
-      "preview": "https://assets.ppy.sh/artists/446/BLAZES ASSAULT/ikaruga%27nex - BLAZES ASSAULT.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Mirage",
       "preview": "https://assets.ppy.sh/artists/446/Songs/ikaruga%27nex - Mirage.mp3",
       "ranked_modes": [],
@@ -84,5 +90,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-21T20:24:20Z"
+  "updated_at": "2026-06-28T20:08:22Z"
 }

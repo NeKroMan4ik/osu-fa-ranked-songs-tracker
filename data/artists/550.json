@@ -3,20 +3,26 @@
   "name": "TRIAL",
   "tracks": [
     {
+      "title": "Notorious (Nota & TRIAL) - HOPE",
+      "preview": "https://assets.ppy.sh/artists/550/Songs/Notorious (Nota %26 TRIAL) - HOPE.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2462562
+        ]
+      }
+    },
+    {
       "title": "kooridori & TRIAL - Miracletale",
-      "preview": "https://assets.ppy.sh/artists/550/Songs/kooridori %26 TRIAL - Miracletale.mp3",
+      "preview": "https://assets.ppy.sh/artists/550/Songs/kooridori__TRIAL_-_Miracletale.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Notorious (Nota & TRIAL) - GIFT",
       "preview": "https://assets.ppy.sh/artists/550/Songs/Notorious (Nota %26 TRIAL) - GIFT.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Notorious (Nota & TRIAL) - HOPE",
-      "preview": "https://assets.ppy.sh/artists/550/Songs/Notorious (Nota %26 TRIAL) - HOPE.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -39,5 +45,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-21T20:32:13Z"
+  "updated_at": "2026-06-28T20:16:19Z"
 }

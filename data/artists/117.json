@@ -27,6 +27,18 @@
       }
     },
     {
+      "title": "Red Ocean",
+      "preview": "https://assets.ppy.sh/artists/117/Trigger/I_love_you_Orchestra_-_Red_Ocean.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2536291
+        ]
+      }
+    },
+    {
       "title": "Eat The Bitch",
       "preview": "https://assets.ppy.sh/artists/117/Trigger/I_love_you_Orchestra_-_Eat_The_Bitch.mp3",
       "ranked_modes": [],
@@ -41,12 +53,6 @@
     {
       "title": "MRMS",
       "preview": "https://assets.ppy.sh/artists/117/Trigger/I_love_you_Orchestra_-_MRMS.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Red Ocean",
-      "preview": "https://assets.ppy.sh/artists/117/Trigger/I_love_you_Orchestra_-_Red_Ocean.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -69,5 +75,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-21T20:24:12Z"
+  "updated_at": "2026-06-28T20:08:14Z"
 }

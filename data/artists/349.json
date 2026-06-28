@@ -88,15 +88,20 @@
       "preview": "https://assets.ppy.sh/artists/349/Yotogibanashi no Kamikakushi/Minstrel - Yotogibanashi no Kamikakushi.mp3",
       "ranked_modes": [
         "mania",
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
         "mania": [
           2536810
         ],
         "osu": [
+          236396,
           1900605,
           1907639
+        ],
+        "taiko": [
+          236396
         ]
       }
     },
@@ -137,5 +142,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-21T20:27:09Z"
+  "updated_at": "2026-06-28T20:11:13Z"
 }

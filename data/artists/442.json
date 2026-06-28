@@ -153,6 +153,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "vibew/me!",
+      "preview": "https://assets.ppy.sh/artists/442/Songs/sugosugiii_-_vibewme.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "wru when i needed u",
       "preview": "https://assets.ppy.sh/artists/442/urmydesire/sugosugiii - wru when i needed u.mp3",
       "ranked_modes": [],
@@ -165,5 +171,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-21T20:31:13Z"
+  "updated_at": "2026-06-28T20:15:19Z"
 }

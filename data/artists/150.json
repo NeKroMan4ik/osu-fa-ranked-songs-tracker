@@ -58,9 +58,13 @@
       "title": "BlackY feat. Risa Yuzuki - Furin Kagerou",
       "preview": "https://assets.ppy.sh/artists/150/Songs/BlackY feat. Risa Yuzuki - Furin Kagerou.mp3",
       "ranked_modes": [
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2420035
+        ],
         "osu": [
           1511294
         ]
@@ -804,5 +808,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-21T20:20:49Z"
+  "updated_at": "2026-06-28T20:04:49Z"
 }

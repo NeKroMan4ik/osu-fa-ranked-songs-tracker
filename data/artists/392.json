@@ -18,9 +18,13 @@
       "title": "ArchangeL",
       "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_-_ArchangeL.mp3",
       "ranked_modes": [
+        "fruits",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2564183
+        ],
         "osu": [
           2023712
         ]
@@ -125,6 +129,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Radium",
+      "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_-_Radium.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Serrate",
       "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_-_Serrate.mp3",
       "ranked_modes": [],
@@ -143,5 +153,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-21T20:31:21Z"
+  "updated_at": "2026-06-28T20:15:26Z"
 }

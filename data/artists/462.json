@@ -556,6 +556,18 @@
       }
     },
     {
+      "title": "Pirendora - Pyroclastic Flow",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/Pirendora - Pyroclastic Flow.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2518911
+        ]
+      }
+    },
+    {
       "title": "polysha - Where the Spirits Go On",
       "preview": "https://assets.ppy.sh/artists/462/Corsace Open 2023 Penance/polysha - Where the Spirits Go On.mp3",
       "ranked_modes": [
@@ -1355,12 +1367,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Pirendora - Pyroclastic Flow",
-      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/Pirendora - Pyroclastic Flow.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "ptar124 & 1zm8 - A World of Whiplash When You're Interrupted by a Cutscene",
       "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/ptar124 %26 1zm8 - A World of Whiplash When You%27re Interrupted by a Cutscene.mp3",
       "ranked_modes": [],
@@ -1673,5 +1679,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-21T20:28:29Z"
+  "updated_at": "2026-06-28T20:12:34Z"
 }

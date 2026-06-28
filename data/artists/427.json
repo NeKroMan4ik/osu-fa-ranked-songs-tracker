@@ -3,6 +3,18 @@
   "name": "WangleLine",
   "tracks": [
     {
+      "title": "Blink and You'll Miss It",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Blink_and_Youll_Miss_It.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2421329
+        ]
+      }
+    },
+    {
       "title": "Dice",
       "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Dice.mp3",
       "ranked_modes": [
@@ -131,12 +143,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Blink and You'll Miss It",
-      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Blink_and_Youll_Miss_It.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Building the Spaceship",
       "preview": "https://assets.ppy.sh/artists/427/Rabbit%27s Journey/WangleLine - Building the Spaceship.mp3",
       "ranked_modes": [],
@@ -257,5 +263,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-21T20:32:50Z"
+  "updated_at": "2026-06-28T20:16:56Z"
 }

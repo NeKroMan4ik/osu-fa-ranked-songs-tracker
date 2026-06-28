@@ -137,9 +137,13 @@
       "title": "Gertrauda",
       "preview": "https://assets.ppy.sh/artists/331/Millenium Mother/Mili - Gertrauda.mp3",
       "ranked_modes": [
-        "fruits"
+        "fruits",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          1983218
+        ],
         "fruits": [
           807114
         ]
@@ -322,7 +326,8 @@
       "ranked_modes": [
         "fruits",
         "mania",
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
@@ -337,6 +342,9 @@
         ],
         "fruits": [
           1301493
+        ],
+        "taiko": [
+          804107
         ]
       }
     },
@@ -513,5 +521,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-21T20:27:03Z"
+  "updated_at": "2026-06-28T20:11:07Z"
 }

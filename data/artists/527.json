@@ -15,6 +15,18 @@
       }
     },
     {
+      "title": "Calamity of the Mystic Garden : Doom",
+      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - Calamity of the Mystic Garden  Doom.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2528018
+        ]
+      }
+    },
+    {
       "title": "Euphoria",
       "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - Euphoria.mp3",
       "ranked_modes": [
@@ -56,9 +68,13 @@
       "title": "Laur vs. CK - Lost Civilization",
       "preview": "https://assets.ppy.sh/artists/527/Songs/Laur vs. CK - Lost Civilization.mp3",
       "ranked_modes": [
+        "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2546541
+        ],
         "taiko": [
           1538278
         ]
@@ -85,13 +101,14 @@
         "osu"
       ],
       "beatmapset_ids_by_mode": {
-        "mania": [
-          2510774
-        ],
         "osu": [
+          797405,
           840447,
           872448,
           1804855
+        ],
+        "mania": [
+          2510774
         ],
         "fruits": [
           1213868
@@ -214,12 +231,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Calamity of the Mystic Garden : Doom",
-      "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - Calamity of the Mystic Garden  Doom.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Cosmic Blaster",
       "preview": "https://assets.ppy.sh/artists/527/Songs/Laur - Cosmic Blaster.mp3",
       "ranked_modes": [],
@@ -304,5 +315,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-21T20:25:50Z"
+  "updated_at": "2026-06-28T20:09:53Z"
 }

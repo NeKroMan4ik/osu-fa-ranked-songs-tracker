@@ -91,9 +91,13 @@
       "preview": "https://assets.ppy.sh/artists/154/Tramontane EP/Boxplot - Tramontane.mp3",
       "ranked_modes": [
         "mania",
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2556572
+        ],
         "mania": [
           2270381
         ],
@@ -145,5 +149,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-21T20:21:02Z"
+  "updated_at": "2026-06-28T20:05:02Z"
 }
