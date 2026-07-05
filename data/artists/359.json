@@ -458,6 +458,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Angel Limiter",
+      "preview": "https://assets.ppy.sh/artists/359/Songs/cygnus_-_Angel_Limiter.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Angel Ring",
       "preview": "https://assets.ppy.sh/artists/359/Lament/cygnus - Angel Ring.mp3",
       "ranked_modes": [],
@@ -668,6 +674,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Magnificence",
+      "preview": "https://assets.ppy.sh/artists/359/Mugen/cygnus - Magnificence.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Malformed Candelabra",
       "preview": "https://assets.ppy.sh/artists/359/Sorrow Mania/cygnus - Malformed Candelabra.mp3",
       "ranked_modes": [],
@@ -716,6 +728,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Paranoia",
+      "preview": "https://assets.ppy.sh/artists/359/Mugen/cygnus - Paranoia.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Parasite Circus",
       "preview": "https://assets.ppy.sh/artists/359/The Evolution of War/cygnus_-_Parasite_Circus.mp3",
       "ranked_modes": [],
@@ -752,6 +770,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "RoseDoll",
+      "preview": "https://assets.ppy.sh/artists/359/Mugen/cygnus - RoseDoll.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Sacred Connection",
       "preview": "https://assets.ppy.sh/artists/359/Sorrow Mania/cygnus - Sacred Connection.mp3",
       "ranked_modes": [],
@@ -764,8 +788,32 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Satsuriku Tenkeikyou",
+      "preview": "https://assets.ppy.sh/artists/359/Mugen/cygnus - Satsuriku Tenkeikyou.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Saya no Meinichi",
+      "preview": "https://assets.ppy.sh/artists/359/Mugen/cygnus - Saya no Meinichi.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Schizophrenia",
+      "preview": "https://assets.ppy.sh/artists/359/Mugen/cygnus - Schizophrenia.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Shinshoku",
       "preview": "https://assets.ppy.sh/artists/359/Omaju/cygnus - Shinshoku.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shioka",
+      "preview": "https://assets.ppy.sh/artists/359/Mugen/cygnus - Shioka.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -818,6 +866,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Tears from Beyond",
+      "preview": "https://assets.ppy.sh/artists/359/Songs/cygnus_-_Tears_from_Beyond.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "The Devil's Mirror",
       "preview": "https://assets.ppy.sh/artists/359/Songs/cygnus_-_The_Devils_Mirror.mp3",
       "ranked_modes": [],
@@ -826,6 +880,12 @@
     {
       "title": "The Heart of Genesis",
       "preview": "https://assets.ppy.sh/artists/359/Sorrow Mania/cygnus - The Heart of Genesis.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "The Kingdom of Babylon",
+      "preview": "https://assets.ppy.sh/artists/359/Songs/cygnus_-_The_Kingdom_of_Babylon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -860,5 +920,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-28T20:05:45Z"
+  "updated_at": "2026-07-05T20:06:20Z"
 }

@@ -75,9 +75,13 @@
       "title": "LV.4 feat. Mawata Spica - Vortex of Sorrow",
       "preview": "https://assets.ppy.sh/artists/214/Songs/LV.4_feat._Mawata_Spica_-_Vortex_of_Sorrow.mp3",
       "ranked_modes": [
+        "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2493543
+        ],
         "taiko": [
           1980701
         ]
@@ -209,5 +213,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-28T20:10:36Z"
+  "updated_at": "2026-07-05T20:11:18Z"
 }

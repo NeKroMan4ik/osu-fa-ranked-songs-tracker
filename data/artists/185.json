@@ -399,6 +399,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Armor PierQer",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_Armor_PierQer.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Ascension",
       "preview": "https://assets.ppy.sh/artists/185/Battle of Prophets EP/seatrus - Ascension.mp3",
       "ranked_modes": [],
@@ -407,6 +413,12 @@
     {
       "title": "Ataraxia (2020 Rework)",
       "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - Ataraxia (2020 Rework).mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "brainthieves",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_brainthieves.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -483,8 +495,20 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "ExitusHaul",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_ExitusHaul.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Geton the Ascending Current (Spinoff of \"Loudly Cloudy\")",
       "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_Geton_the_Ascending_Current_Spinoff_of_Loudly_Cloudy.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Gouka Kenran Mala Ken!",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_Gouka_Kenran_Mala_Ken.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -543,6 +567,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Kokan Sensou",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_Kokan_Sensou.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "kuro+seatrus - Bellum",
       "preview": "https://assets.ppy.sh/artists/185/Songs/kuro%2Bseatrus - Bellum.mp3",
       "ranked_modes": [],
@@ -575,6 +605,12 @@
     {
       "title": "Metamocluster",
       "preview": "https://assets.ppy.sh/artists/185/3%3A00 AM EP/seatrus_-_Metamocluster.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Moonlit",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_Moonlit.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -621,6 +657,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "seatrus feat. Hanakuma Chifuyu - Ushio",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_feat._Hanakuma_Chifuyu_-_Ushio.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "seatrus feat. Marumoko - Ori Yamanu Ame",
       "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus feat. Marumoko - Ori Yamanu Ame.mp3",
       "ranked_modes": [],
@@ -629,6 +671,12 @@
     {
       "title": "Shiny Summer Skies",
       "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus - Shiny Summer Skies.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Shuusetsu",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_Shuusetsu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -693,11 +741,23 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Towards the Sunset",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_Towards_the_Sunset.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Weekend Extravagance XD",
       "preview": "https://assets.ppy.sh/artists/185/Honey Trap/seatrus_-_Weekend_Extravagance_XD.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Welcome to the New World",
+      "preview": "https://assets.ppy.sh/artists/185/Songs/seatrus_-_Welcome_to_the_New_World.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-28T20:14:19Z"
+  "updated_at": "2026-07-05T20:15:05Z"
 }

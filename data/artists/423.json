@@ -15,6 +15,18 @@
       }
     },
     {
+      "title": "in eternal bliss may rest my unspoken words",
+      "preview": "https://assets.ppy.sh/artists/423/xiiiac13 Collection Volume %231/xiiiac13 - in eternal bliss may rest my unspoken words.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2524738
+        ]
+      }
+    },
+    {
       "title": "pov: it's 2016 and you're watching the intro of a travel vlog",
       "preview": "https://assets.ppy.sh/artists/423/Catvillain/xiiiac13 - pov it%27s 2016 and you%27re watching the intro of a travel vlog.mp3",
       "ranked_modes": [
@@ -67,12 +79,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "in eternal bliss may rest my unspoken words",
-      "preview": "https://assets.ppy.sh/artists/423/xiiiac13 Collection Volume %231/xiiiac13 - in eternal bliss may rest my unspoken words.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "me when the and the",
       "preview": "https://assets.ppy.sh/artists/423/xiiiac13 Collection Volume %231/xiiiac13 - me when the and the.mp3",
       "ranked_modes": [],
@@ -103,5 +109,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-28T20:17:26Z"
+  "updated_at": "2026-07-05T20:18:18Z"
 }

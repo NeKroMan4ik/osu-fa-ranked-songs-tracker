@@ -310,9 +310,13 @@
       "title": "ginkiha - Silver Eclipse",
       "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/ginkiha - Silver Eclipse.mp3",
       "ranked_modes": [
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2403887
+        ],
         "osu": [
           2414413
         ]
@@ -696,6 +700,18 @@
       }
     },
     {
+      "title": "Sot-C - TAKE THIS GUN LOL",
+      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/Sot-C - TAKE THIS GUN LOL.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2465214
+        ]
+      }
+    },
+    {
       "title": "sugosugiii - Maelstrom",
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/sugosugiii - Maelstrom.mp3",
       "ranked_modes": [
@@ -769,6 +785,18 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           2412288
+        ]
+      }
+    },
+    {
+      "title": "Vamerya - Nebosvod",
+      "preview": "https://assets.ppy.sh/artists/462/Blossom Duo Cup/Vamerya - Nebosvod.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2370059
         ]
       }
     },
@@ -895,6 +923,12 @@
     {
       "title": "airlemoneX - lanthanide",
       "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/airlemoneX - lanthanide.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Akiri - 1NKBURNER (Long Ver.)",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/Akiri_-_1NKBURNER_Long_Ver..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1343,6 +1377,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "NotNordax, dxprxsslve - Moments We Lost",
+      "preview": "https://assets.ppy.sh/artists/462/Schedule Hell/NotNordax%2C dxprxsslve - Moments We Lost.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "NotNordax, dxprxsslve, yuubit - Cryodesiccation",
       "preview": "https://assets.ppy.sh/artists/462/Kazakhstan Tournament Mafia Draft Cup 2/NotNordax_dxprxsslve_yuubit_-_Cryodesiccation.mp3",
       "ranked_modes": [],
@@ -1523,12 +1563,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Sot-C - TAKE THIS GUN LOL",
-      "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/Sot-C - TAKE THIS GUN LOL.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "sugosugiii - Haven Re:volutioN",
       "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/sugosugiii_-_Haven_RevolutioN.mp3",
       "ranked_modes": [],
@@ -1613,12 +1647,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Vamerya - Nebosvod",
-      "preview": "https://assets.ppy.sh/artists/462/Blossom Duo Cup/Vamerya - Nebosvod.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Vamerya - Traces",
       "preview": "https://assets.ppy.sh/artists/462/Frost Duo Cup 2/Vamerya - Traces.mp3",
       "ranked_modes": [],
@@ -1679,5 +1707,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-28T20:12:34Z"
+  "updated_at": "2026-07-05T20:13:18Z"
 }

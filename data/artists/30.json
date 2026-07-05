@@ -15,6 +15,18 @@
       }
     },
     {
+      "title": "Akuou",
+      "preview": "https://assets.ppy.sh/artists/30/previews/2630.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2564987
+        ]
+      }
+    },
+    {
       "title": "Happppy song",
       "preview": "https://assets.ppy.sh/artists/30/previews/640.mp3",
       "ranked_modes": [
@@ -87,12 +99,6 @@
       }
     },
     {
-      "title": "Akuou",
-      "preview": "https://assets.ppy.sh/artists/30/previews/2630.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "iiillluuuvvvUUU",
       "preview": "https://assets.ppy.sh/artists/30/previews/641.mp3",
       "ranked_modes": [],
@@ -129,5 +135,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-28T20:14:56Z"
+  "updated_at": "2026-07-05T20:15:44Z"
 }

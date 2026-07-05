@@ -142,6 +142,7 @@
       "beatmapset_ids_by_mode": {
         "mania": [
           2336958,
+          2459536,
           2465644
         ]
       }
@@ -229,8 +230,110 @@
       }
     },
     {
+      "title": "Dakishimeru made.",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_-_Dakishimeru_made..mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Gyutte",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_-_Gyutte.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Himitsu feat. KAFU",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_-_Himitsu_feat._KAFU.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Kuu ni Naru",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_-_Kuu_ni_Naru.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Le Rouge",
       "preview": "https://assets.ppy.sh/artists/77/previews/3021.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Magic Maid feat. Kasane Teto SV",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_-_Magic_Maid_feat._Kasane_Teto_SV.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MIMI feat. HARU - Maple",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_feat._HARU_-_Maple.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MIMI feat. KAFU - Hanataba",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_feat._KAFU_-_Hanataba.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MIMI feat. KAFU - Ima wa Ii nda yo.",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_feat._KAFU_-_Ima_wa_Ii_nda_yo..mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MIMI feat. KAFU - Issee noo de",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_feat._KAFU_-_Issee_noo_de.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MIMI feat. Kasane Teto SV - Encore Dance",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_feat._Kasane_Teto_SV_-_Encore_Dance.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MIMI feat. Kasane Teto SV - Trick Heart",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_feat._Kasane_Teto_SV_-_Trick_Heart.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MIMI feat. SEKAI - Escape",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_feat._SEKAI_-_Escape.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "MIMI feat. wanko - Minimum",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_feat._wanko_-_Minimum.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Salty Mellow feat. KAFU",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_-_Salty_Mellow_feat._KAFU.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Sayonara wa Iwanaide sa (feat. KAFU)",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_-_Sayonara_wa_Iwanaide_sa_feat._KAFU.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Science (feat. Kasane Teto SV)",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_-_Science_feat._Kasane_Teto_SV.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Slowly Night",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_-_Slowly_Night.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -239,7 +342,19 @@
       "preview": "https://assets.ppy.sh/artists/77/previews/3022.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "UNFADING",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_-_UNFADING.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "What Call This Day ? (feat. ninzin from Rokudenashi)",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_-_What_Call_This_Day_feat._ninzin_from_Rokudenashi.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-28T20:11:10Z"
+  "updated_at": "2026-07-05T20:11:52Z"
 }

@@ -277,6 +277,12 @@
       }
     },
     {
+      "title": "1NKBURNER (Long Ver.)",
+      "preview": "https://assets.ppy.sh/artists/401/Songs/Akiri_-_1NKBURNER_Long_Ver..mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Ace Note",
       "preview": "https://assets.ppy.sh/artists/401/Your Moms Revenge/Akiri - Ace Note.mp3",
       "ranked_modes": [],
@@ -290,7 +296,7 @@
     },
     {
       "title": "Akiri feat. Celadon - Project: Spacefarers",
-      "preview": "https://assets.ppy.sh/artists/401/Star System Rewrite/Akiri feat. Celadon - Project Spacefarers.mp3",
+      "preview": "https://assets.ppy.sh/artists/401/Star System Rewrite/Akiri_feat._Celadon_-_Project_Spacefarers.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -338,7 +344,7 @@
     },
     {
       "title": "ATOMIC RAILGUN",
-      "preview": "https://assets.ppy.sh/artists/401/Star System Rewrite/Akiri - ATOMIC RAILGUN.mp3",
+      "preview": "https://assets.ppy.sh/artists/401/Star System Rewrite/Akiri_-_ATOMIC_RAILGUN.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -398,7 +404,7 @@
     },
     {
       "title": "Collapsing Star Fragmentation",
-      "preview": "https://assets.ppy.sh/artists/401/Star System Rewrite/Akiri - Collapsing Star Fragmentation.mp3",
+      "preview": "https://assets.ppy.sh/artists/401/Star System Rewrite/Akiri_-_Collapsing_Star_Fragmentation.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -434,7 +440,7 @@
     },
     {
       "title": "FINAL DESTINATION",
-      "preview": "https://assets.ppy.sh/artists/401/Star System Rewrite/Akiri - FINAL DESTINATION.mp3",
+      "preview": "https://assets.ppy.sh/artists/401/Star System Rewrite/Akiri_-_FINAL_DESTINATION.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -715,5 +721,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-28T20:03:42Z"
+  "updated_at": "2026-07-05T20:04:14Z"
 }

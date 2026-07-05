@@ -179,6 +179,18 @@
       }
     },
     {
+      "title": "Time To Think",
+      "preview": "https://assets.ppy.sh/artists/22/Songs/VINXIS_-_Time_To_Think.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2562226
+        ]
+      }
+    },
+    {
       "title": "A Long Trail of Dirt",
       "preview": "https://assets.ppy.sh/artists/22/previews/426.mp3",
       "ranked_modes": [],
@@ -201,13 +213,7 @@
       "preview": "https://assets.ppy.sh/artists/22/previews/3047.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Time To Think",
-      "preview": "https://assets.ppy.sh/artists/22/Songs/VINXIS_-_Time_To_Think.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-28T20:16:48Z"
+  "updated_at": "2026-07-05T20:17:39Z"
 }

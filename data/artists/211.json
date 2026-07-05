@@ -153,6 +153,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "BlackY feat. Risa Yuzuki - Lemonade Fizz",
+      "preview": "https://assets.ppy.sh/artists/211/Imitator/BlackY_feat._Risa_Yuzuki_-_Lemonade_Fizz.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "BlackY feat. Risa Yuzuki - PARADOXY",
       "preview": "https://assets.ppy.sh/artists/211/PARAD%C3%98XY/BlackY feat. Risa Yuzuki - PARADOXY.mp3",
       "ranked_modes": [],
@@ -191,12 +197,6 @@
     {
       "title": "Hyakkiyakoujun",
       "preview": "https://assets.ppy.sh/artists/211/Furin Kagerou/Risa Yuzuki - Hyakkiyakoujun.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lemonade Fizz",
-      "preview": "https://assets.ppy.sh/artists/211/Imitator/Risa Yuzuki - Lemonade Fizz.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -261,5 +261,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-28T20:13:41Z"
+  "updated_at": "2026-07-05T20:14:26Z"
 }

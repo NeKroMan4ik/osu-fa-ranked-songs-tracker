@@ -7,9 +7,13 @@
       "preview": "https://assets.ppy.sh/artists/189/CodeQ/Natsume Itsuki - AI to CodeQ no Hate.mp3",
       "ranked_modes": [
         "mania",
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          1551987
+        ],
         "mania": [
           2052729
         ],
@@ -180,5 +184,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-28T20:11:51Z"
+  "updated_at": "2026-07-05T20:12:34Z"
 }

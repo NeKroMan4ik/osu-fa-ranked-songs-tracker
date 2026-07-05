@@ -173,9 +173,13 @@
       "title": "G e n g a o z o",
       "preview": "https://assets.ppy.sh/artists/297/Songs/-45 - G e n g a o z o.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2534573
+        ],
         "mania": [
           2408551
         ]
@@ -1035,5 +1039,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-28T20:02:57Z"
+  "updated_at": "2026-07-05T20:03:28Z"
 }

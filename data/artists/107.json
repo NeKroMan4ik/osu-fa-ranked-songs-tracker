@@ -31,6 +31,18 @@
       }
     },
     {
+      "title": "ULTRAVIOLET",
+      "preview": "https://assets.ppy.sh/artists/107/previews/2812.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2552693
+        ]
+      }
+    },
+    {
       "title": "BREAKING AND ENTERING",
       "preview": "https://assets.ppy.sh/artists/107/previews/2805.mp3",
       "ranked_modes": [],
@@ -65,13 +77,7 @@
       "preview": "https://assets.ppy.sh/artists/107/Songs/ALEPH_-_SIGNALBURNERRR.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "ULTRAVIOLET",
-      "preview": "https://assets.ppy.sh/artists/107/previews/2812.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-28T20:03:46Z"
+  "updated_at": "2026-07-05T20:04:17Z"
 }

@@ -190,18 +190,6 @@
       }
     },
     {
-      "title": "Rift",
-      "preview": "https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Rift.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2467271
-        ]
-      }
-    },
-    {
       "title": "Slingshot",
       "preview": "https://assets.ppy.sh/artists/240/Good Kid 2/Good Kid - Slingshot.mp3",
       "ranked_modes": [
@@ -246,19 +234,6 @@
       }
     },
     {
-      "title": "Wall",
-      "preview": "https://assets.ppy.sh/artists/240/Songs/Good_Kid_-_Wall.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2497900,
-          2525114
-        ]
-      }
-    },
-    {
       "title": "Witches",
       "preview": "https://assets.ppy.sh/artists/240/Good Kid/Good Kid - Witches.mp3",
       "ranked_modes": [
@@ -269,7 +244,67 @@
           2416816
         ]
       }
+    },
+    {
+      "title": "Alone With Me",
+      "preview": "https://assets.ppy.sh/artists/240/Can We Hang Out Sometime/Good Kid - Alone With Me.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Cicada",
+      "preview": "https://assets.ppy.sh/artists/240/Can We Hang Out Sometime/Good Kid - Cicada.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Coffee",
+      "preview": "https://assets.ppy.sh/artists/240/Can We Hang Out Sometime/Good Kid - Coffee.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Eastside",
+      "preview": "https://assets.ppy.sh/artists/240/Can We Hang Out Sometime/Good Kid - Eastside.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ghost Keeper",
+      "preview": "https://assets.ppy.sh/artists/240/Can We Hang Out Sometime/Good Kid - Ghost Keeper.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ginger Lemonade",
+      "preview": "https://assets.ppy.sh/artists/240/Can We Hang Out Sometime/Good Kid - Ginger Lemonade.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Rift",
+      "preview": "https://assets.ppy.sh/artists/240/Can We Hang Out Sometime/Good Kid - Rift.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tea Leaves",
+      "preview": "https://assets.ppy.sh/artists/240/Can We Hang Out Sometime/Good Kid - Tea Leaves.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Tornado",
+      "preview": "https://assets.ppy.sh/artists/240/Can We Hang Out Sometime/Good Kid - Tornado.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Wall",
+      "preview": "https://assets.ppy.sh/artists/240/Can We Hang Out Sometime/Good Kid - Wall.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-28T20:07:37Z"
+  "updated_at": "2026-07-05T20:08:14Z"
 }

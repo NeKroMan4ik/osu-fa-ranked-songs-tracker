@@ -126,6 +126,18 @@
       }
     },
     {
+      "title": "Through Chains That Drag Us Downward",
+      "preview": "https://assets.ppy.sh/artists/152/Of Erthe and Axen Act II/Xanthochroid - Through Chains That Drag Us Downward.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2403884
+        ]
+      }
+    },
+    {
       "title": "To Higher Climes Where Few Might Stand",
       "preview": "https://assets.ppy.sh/artists/152/Of Erthe and Axen Act I/Xanthochroid - To Higher Climes Where Few Might Stand.mp3",
       "ranked_modes": [
@@ -188,13 +200,7 @@
       "preview": "https://assets.ppy.sh/artists/152/Of Erthe and Axen Act I/Xanthochroid - The Sound Which Has No Name.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Through Chains That Drag Us Downward",
-      "preview": "https://assets.ppy.sh/artists/152/Of Erthe and Axen Act II/Xanthochroid - Through Chains That Drag Us Downward.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-28T20:17:14Z"
+  "updated_at": "2026-07-05T20:18:06Z"
 }

@@ -101,6 +101,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "DECAY",
+      "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNX_-_DECAY.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "IN(EX+)HALE",
       "preview": "https://assets.ppy.sh/artists/288/Songs/ZxNX_-_INEXHALE.mp3",
       "ranked_modes": [],
@@ -203,5 +209,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-28T20:17:59Z"
+  "updated_at": "2026-07-05T20:18:52Z"
 }

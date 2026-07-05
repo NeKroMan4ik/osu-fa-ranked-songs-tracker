@@ -1,143 +1,133 @@
 {
   "id": 437,
-  "name": "tom^",
+  "name": "tom^s",
   "tracks": [
     {
-      "title": "fieryrage accordion (hardcore remix)",
-      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tom_-_fieryrage_accordion_hardcore_remix.mp3",
-      "ranked_modes": [
-        "fruits",
-        "osu",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          1921382
-        ],
-        "osu": [
-          1516867
-        ],
-        "taiko": [
-          1516860
-        ]
-      }
-    },
-    {
-      "title": "fieryrage accordion (hardcore remix) (TV Size)",
-      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tom_-_fieryrage_accordion_hardcore_remix_TV_Size.mp3",
-      "ranked_modes": [
-        "fruits",
-        "mania",
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "fruits": [
-          2535687
-        ],
-        "taiko": [
-          2537564
-        ],
-        "mania": [
-          2527220
-        ]
-      }
-    },
-    {
-      "title": "petal blizzard",
-      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tom_-_petal_blizzard.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2487754
-        ]
-      }
+      "title": "at the end of the rainbow",
+      "preview": "https://assets.ppy.sh/artists/437/MOGSWORLD THE ALBUM tom%5Es edition/tom%5Es - at the end of the rainbow.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     },
     {
       "title": "Circuit Break",
-      "preview": "https://assets.ppy.sh/artists/437/Songs/tom_-_Circuit_Break.mp3",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/toms_-_Circuit_Break.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "corpse party",
-      "preview": "https://assets.ppy.sh/artists/437/Songs/tom_-_corpse_party.mp3",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/toms_-_corpse_party.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "crystal cave",
+      "preview": "https://assets.ppy.sh/artists/437/MOGSWORLD THE ALBUM tom%5Es edition/tom%5Es - crystal cave.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "dysthymia",
-      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tom_-_dysthymia.mp3",
+      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/toms_-_dysthymia.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "fieryrage accordion (hardcore remix)",
+      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/toms_-_fieryrage_accordion_hardcore_remix.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "fieryrage accordion (hardcore remix) (TV Size)",
+      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/toms_-_fieryrage_accordion_hardcore_remix_TV_Size.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "hanabi (feat. kendo)",
-      "preview": "https://assets.ppy.sh/artists/437/Songs/tom_-_hanabi_feat._kendo.mp3",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/toms_-_hanabi_feat._kendo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "i love you.",
-      "preview": "https://assets.ppy.sh/artists/437/Songs/tom_-_i_love_you..mp3",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/toms_-_i_love_you..mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "kaleidoscope",
+      "preview": "https://assets.ppy.sh/artists/437/MOGSWORLD THE ALBUM tom%5Es edition/tom%5Es - kaleidoscope.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "lost in the void",
-      "preview": "https://assets.ppy.sh/artists/437/Songs/tom_-_lost_in_the_void.mp3",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/toms_-_lost_in_the_void.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "lullaby",
-      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/tom_-_lullaby.mp3",
+      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/toms_-_lullaby.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "petal blizzard",
+      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/toms_-_petal_blizzard.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Pufferfish",
+      "preview": "https://assets.ppy.sh/artists/437/MOGSWORLD THE ALBUM tom%5Es edition/tom%5Es - Pufferfish.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "rave time",
-      "preview": "https://assets.ppy.sh/artists/437/Songs/tom_-_rave_time.mp3",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/toms_-_rave_time.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "The Beauty Of It All",
-      "preview": "https://assets.ppy.sh/artists/437/Songs/tom_-_The_Beauty_Of_It_All.mp3",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/toms_-_The_Beauty_Of_It_All.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "tom^ & EgoFear - God Complex",
-      "preview": "https://assets.ppy.sh/artists/437/Songs/tom__EgoFear_-_God_Complex.mp3",
+      "title": "tom^s & EgoFear - God Complex",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/toms__EgoFear_-_God_Complex.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "tom^ & Kamitan - a new beginning.",
-      "preview": "https://assets.ppy.sh/artists/437/Songs/tom__Kamitan_-_a_new_beginning..mp3",
+      "title": "tom^s & Kamitan - a new beginning.",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/toms__Kamitan_-_a_new_beginning..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "unorthodox",
-      "preview": "https://assets.ppy.sh/artists/437/Songs/tom_-_unorthodox.mp3",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/toms_-_unorthodox.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "untitled",
-      "preview": "https://assets.ppy.sh/artists/437/Songs/tom_-_untitled.mp3",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/toms_-_untitled.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "when they cry",
-      "preview": "https://assets.ppy.sh/artists/437/Songs/tom_-_when_they_cry.mp3",
+      "preview": "https://assets.ppy.sh/artists/437/Songs/toms_-_when_they_cry.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-28T20:16:14Z"
+  "updated_at": "2026-07-05T20:17:04Z"
 }

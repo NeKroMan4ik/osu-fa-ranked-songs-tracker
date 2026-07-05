@@ -387,6 +387,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "ELFENSJoN - AshVeit",
+      "preview": "https://assets.ppy.sh/artists/69/HEXMAGIA/ELFENSJoN - AshVeit.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "ELFENSJoN - ATARAXIA",
       "preview": "https://assets.ppy.sh/artists/69/ZENITH/ELFENSJoN - ATARAXIA.mp3",
       "ranked_modes": [],
@@ -437,6 +443,30 @@
     {
       "title": "ELFENSJoN - Ito",
       "preview": "https://assets.ppy.sh/artists/69/ASH OF ROUGE- SIDE ASTRAL/ELFENSJoN - Ito.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ELFENSJoN - LUEUR BLANCHE",
+      "preview": "https://assets.ppy.sh/artists/69/ANIMA/ELFENSJoN - LUEUR BLANCHE.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ELFENSJoN - Omokage wa Shiroi Yuki",
+      "preview": "https://assets.ppy.sh/artists/69/HEXMAGIA/ELFENSJoN - Omokage wa Shiroi Yuki.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ELFENSJoN - Rinkaku o Tadoreba",
+      "preview": "https://assets.ppy.sh/artists/69/HEXMAGIA/ELFENSJoN - Rinkaku o Tadoreba.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "ELFENSJoN - Scribed in Fire",
+      "preview": "https://assets.ppy.sh/artists/69/HEXMAGIA/ELFENSJoN - Scribed in Fire.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -495,5 +525,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-28T20:06:30Z"
+  "updated_at": "2026-07-05T20:07:06Z"
 }

@@ -7,9 +7,13 @@
       "preview": "https://assets.ppy.sh/artists/519/FLOP ERA/ePiaeon - FLOP ERA.mp3",
       "ranked_modes": [
         "mania",
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2530646
+        ],
         "osu": [
           2448751,
           2530621
@@ -38,5 +42,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-28T20:06:42Z"
+  "updated_at": "2026-07-05T20:07:19Z"
 }

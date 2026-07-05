@@ -39,6 +39,18 @@
       }
     },
     {
+      "title": "Less Than Three (feat. Becky) (Ricardo Autobahn Remix)",
+      "preview": "https://assets.ppy.sh/artists/44/Best of Disko Warp %7EBlack Side%7E/Disko_Warp_-_Less_Than_Three_feat._Becky_Ricardo_Autobahn_Remix.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2535534
+        ]
+      }
+    },
+    {
       "title": "Ani-Rock! & Initial P - Together!!",
       "preview": "https://assets.ppy.sh/artists/44/previews/1041.mp3",
       "ranked_modes": [],
@@ -147,12 +159,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Less Than Three (feat. Becky) (Ricardo Autobahn Remix)",
-      "preview": "https://assets.ppy.sh/artists/44/Best of Disko Warp %7EBlack Side%7E/Disko_Warp_-_Less_Than_Three_feat._Becky_Ricardo_Autobahn_Remix.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Lolitabot - Lolitabot (Initial P Remix)",
       "preview": "https://assets.ppy.sh/artists/44/previews/1063.mp3",
       "ranked_modes": [],
@@ -213,5 +219,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-28T20:06:04Z"
+  "updated_at": "2026-07-05T20:06:40Z"
 }

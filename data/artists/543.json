@@ -5,9 +5,15 @@
     {
       "title": "Prism of Chroma",
       "preview": "https://assets.ppy.sh/artists/543/Songs/trung-nova - Prism of Chroma.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2551916
+        ]
+      }
     }
   ],
-  "updated_at": "2026-06-28T20:16:25Z"
+  "updated_at": "2026-07-05T20:17:15Z"
 }

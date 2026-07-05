@@ -235,12 +235,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Catalyst (feat. Tsuyuri Karin)",
-      "preview": "https://assets.ppy.sh/artists/106/previews/2772.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "EXTRAPHANTASM",
       "preview": "https://assets.ppy.sh/artists/106/previews/2780.mp3",
       "ranked_modes": [],
@@ -289,6 +283,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "P4koo / Tsuyuri Karin / BlueArpeggio - Catalyst",
+      "preview": "https://assets.ppy.sh/artists/106/Songs/P4koo_Tsuyuri_Karin_BlueArpeggio_-_Catalyst.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "PLUS+INFINITY",
       "preview": "https://assets.ppy.sh/artists/106/previews/2795.mp3",
       "ranked_modes": [],
@@ -319,5 +319,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-28T20:12:39Z"
+  "updated_at": "2026-07-05T20:13:23Z"
 }

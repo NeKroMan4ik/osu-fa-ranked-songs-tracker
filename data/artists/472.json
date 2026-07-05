@@ -6,14 +6,18 @@
       "title": "Ocean's Legacy",
       "preview": "https://assets.ppy.sh/artists/472/Songs/yoho - Ocean%27s Legacy.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2358194
+        ],
         "mania": [
           2541937
         ]
       }
     }
   ],
-  "updated_at": "2026-06-28T20:17:30Z"
+  "updated_at": "2026-07-05T20:18:23Z"
 }

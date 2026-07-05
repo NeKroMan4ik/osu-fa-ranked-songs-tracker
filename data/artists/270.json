@@ -60,9 +60,13 @@
       "preview": "https://assets.ppy.sh/artists/270/Mountains/Rameses B - Mountains (feat. Veela).mp3",
       "ranked_modes": [
         "fruits",
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2550124
+        ],
         "osu": [
           1715288,
           1863179
@@ -228,5 +232,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-06-28T20:13:17Z"
+  "updated_at": "2026-07-05T20:14:02Z"
 }
