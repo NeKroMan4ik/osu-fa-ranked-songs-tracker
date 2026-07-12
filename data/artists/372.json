@@ -249,6 +249,18 @@
       }
     },
     {
+      "title": "Summer Night Hiking",
+      "preview": "https://assets.ppy.sh/artists/372/Summer Night Hiking/YUC%27e - Summer Night Hiking.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2552165
+        ]
+      }
+    },
+    {
       "title": "Sunset Tea Cup",
       "preview": "https://assets.ppy.sh/artists/372/Songs/YUC_e_-_Sunset_Tea_Cup.mp3",
       "ranked_modes": [
@@ -319,17 +331,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Summer Night Hiking",
-      "preview": "https://assets.ppy.sh/artists/372/Summer Night Hiking/YUC%27e - Summer Night Hiking.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Tick Tock",
       "preview": "https://assets.ppy.sh/artists/372/Future Candy/YUC%27e - Tick Tock.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:18:32Z"
+  "updated_at": "2026-07-12T20:12:03Z"
 }

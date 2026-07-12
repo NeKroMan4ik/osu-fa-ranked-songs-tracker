@@ -1219,9 +1219,13 @@
       "title": "Fly to night, tonight",
       "preview": "https://assets.ppy.sh/artists/31/Songs/Camellia - Fly to night%2C tonight.mp3",
       "ranked_modes": [
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2522406
+        ],
         "osu": [
           1119638
         ]
@@ -1980,6 +1984,10 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2287992,
+          2525247
+        ],
         "mania": [
           2293949,
           2425003
@@ -1987,9 +1995,6 @@
         "taiko": [
           2299969,
           2432240
-        ],
-        "osu": [
-          2287992
         ]
       }
     },
@@ -2264,6 +2269,18 @@
         ],
         "taiko": [
           1794458
+        ]
+      }
+    },
+    {
+      "title": "SECRET BOSS",
+      "preview": "https://assets.ppy.sh/artists/31/Blackmagik Blazing/Camellia - SECRET BOSS.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2254202
         ]
       }
     },
@@ -3064,12 +3081,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "SECRET BOSS",
-      "preview": "https://assets.ppy.sh/artists/31/Blackmagik Blazing/Camellia - SECRET BOSS.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "SLIME INCIDENT",
       "preview": "https://assets.ppy.sh/artists/31/U.U.F.O/Camellia - SLIME INCIDENT.mp3",
       "ranked_modes": [],
@@ -3142,5 +3153,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:05:48Z"
+  "updated_at": "2026-07-12T19:59:40Z"
 }

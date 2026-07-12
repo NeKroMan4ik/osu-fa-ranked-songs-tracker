@@ -53,7 +53,8 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           921839,
-          2234520
+          2234520,
+          2525644
         ],
         "taiko": [
           567140
@@ -145,6 +146,18 @@
       "beatmapset_ids_by_mode": {
         "taiko": [
           1006161
+        ]
+      }
+    },
+    {
+      "title": "The Path of Apotheosis",
+      "preview": "https://assets.ppy.sh/artists/43/previews/1037.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2557931
         ]
       }
     },
@@ -289,12 +302,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "The Path of Apotheosis",
-      "preview": "https://assets.ppy.sh/artists/43/previews/1037.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "The War Machine Embodiment",
       "preview": "https://assets.ppy.sh/artists/43/previews/1028.mp3",
       "ranked_modes": [],
@@ -325,5 +332,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:09:09Z"
+  "updated_at": "2026-07-12T20:02:59Z"
 }

@@ -57,6 +57,18 @@
       }
     },
     {
+      "title": "Obedience",
+      "preview": "https://assets.ppy.sh/artists/448/Songs/Kry.exe_-_Obedience.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2555586
+        ]
+      }
+    },
+    {
       "title": "SENT://iNEL",
       "preview": "https://assets.ppy.sh/artists/448/Songs/Kry.exe - SENTiNEL.mp3",
       "ranked_modes": [
@@ -99,12 +111,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Obedience",
-      "preview": "https://assets.ppy.sh/artists/448/Songs/Kry.exe_-_Obedience.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Rift Walker",
       "preview": "https://assets.ppy.sh/artists/448/Songs/Kry.exe_-_Rift_Walker.mp3",
       "ranked_modes": [],
@@ -117,5 +123,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:10:20Z"
+  "updated_at": "2026-07-12T20:04:09Z"
 }

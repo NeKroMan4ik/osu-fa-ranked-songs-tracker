@@ -15,6 +15,18 @@
       }
     },
     {
+      "title": "Taiko",
+      "preview": "https://assets.ppy.sh/artists/351/Taiko/Kenneyon - Taiko.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          1970810
+        ]
+      }
+    },
+    {
       "title": "Boba",
       "preview": "https://assets.ppy.sh/artists/351/Boba/Kenneyon - Boba.mp3",
       "ranked_modes": [],
@@ -39,17 +51,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Taiko",
-      "preview": "https://assets.ppy.sh/artists/351/Taiko/Kenneyon - Taiko.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Triumph",
       "preview": "https://assets.ppy.sh/artists/351/Triumph/Kenneyon - Triumph.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:09:51Z"
+  "updated_at": "2026-07-12T20:03:41Z"
 }

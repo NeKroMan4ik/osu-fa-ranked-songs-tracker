@@ -20,6 +20,18 @@
       }
     },
     {
+      "title": "Aoi Sumito feat. Aitsuki Nakuru - Applephilia no Himegoto",
+      "preview": "https://assets.ppy.sh/artists/127/Applephilia no Himegoto/Aoi_Sumito_feat._Aitsuki_Nakuru_-_Applephilia_no_Himegoto.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1366302
+        ]
+      }
+    },
+    {
       "title": "Feryquitous feat. Aitsuki Nakuru - Ether",
       "preview": "https://assets.ppy.sh/artists/127/JelLaboratory/Feryquitous feat. Aitsuki Nakuru - Ether.mp3",
       "ranked_modes": [
@@ -157,12 +169,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Aoi Sumito feat. Aitsuki Nakuru - Applephilia no Himegoto",
-      "preview": "https://assets.ppy.sh/artists/127/Applephilia no Himegoto/Aoi_Sumito_feat._Aitsuki_Nakuru_-_Applephilia_no_Himegoto.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Kabocha feat. Aitsuki Nakuru - Lilith",
       "preview": "https://assets.ppy.sh/artists/127/Nacollection-3-/Kabocha feat. Aitsuki Nakuru - Lilith.mp3",
       "ranked_modes": [],
@@ -181,5 +187,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:04:05Z"
+  "updated_at": "2026-07-12T19:58:03Z"
 }

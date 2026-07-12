@@ -7,9 +7,13 @@
       "preview": "https://assets.ppy.sh/artists/146/Songs/polysha_-_Endverse.mp3",
       "ranked_modes": [
         "fruits",
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2552339
+        ],
         "osu": [
           2088576,
           2524055
@@ -124,6 +128,12 @@
       }
     },
     {
+      "title": "Ashrount & polysha - ARCADEA",
+      "preview": "https://assets.ppy.sh/artists/146/Songs/Ashrount__polysha_-_ARCADEA.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "polysha - Has not come yet",
       "preview": "https://assets.ppy.sh/artists/146/Bloom/polysha - Has not come yet.mp3",
       "ranked_modes": [],
@@ -178,5 +188,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:13:43Z"
+  "updated_at": "2026-07-12T20:07:26Z"
 }

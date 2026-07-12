@@ -36,9 +36,13 @@
       "preview": "https://assets.ppy.sh/artists/291/Glorious Morning/Waterflame - Glorious Morning.mp3",
       "ranked_modes": [
         "mania",
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2526416
+        ],
         "taiko": [
           2187682
         ],
@@ -313,5 +317,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:17:49Z"
+  "updated_at": "2026-07-12T20:11:21Z"
 }

@@ -119,6 +119,18 @@
       }
     },
     {
+      "title": "SPELL DIVER",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_SPELL_DIVER.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2403782
+        ]
+      }
+    },
+    {
       "title": "Tourmaline Drill",
       "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Tourmaline_Drill.mp3",
       "ranked_modes": [
@@ -133,6 +145,12 @@
     {
       "title": "A Creature Made of Slices",
       "preview": "https://assets.ppy.sh/artists/427/Rabbit%27s Journey/WangleLine - A Creature Made of Slices.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Ad Astra",
+      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_Ad_Astra.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -215,12 +233,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "SPELL DIVER",
-      "preview": "https://assets.ppy.sh/artists/427/Songs/WangleLine_-_SPELL_DIVER.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Strange Relic",
       "preview": "https://assets.ppy.sh/artists/427/Rabbit%27s Journey/WangleLine_-_Strange_Relic.mp3",
       "ranked_modes": [],
@@ -263,5 +275,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:17:47Z"
+  "updated_at": "2026-07-12T20:11:20Z"
 }

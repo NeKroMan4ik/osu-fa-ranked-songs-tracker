@@ -3,6 +3,22 @@
   "name": "DOT96",
   "tracks": [
     {
+      "title": "JETSTICK PT.1.5",
+      "preview": "https://assets.ppy.sh/artists/390/NEW CONTINUE/DOT96 - JETSTICK PT.1.5.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2153113
+        ],
+        "mania": [
+          2153113
+        ]
+      }
+    },
+    {
       "title": "MAKE IT FUNKY NOW",
       "preview": "https://assets.ppy.sh/artists/390/NINETYSIX/DOT96 - MAKE IT FUNKY NOW.mp3",
       "ranked_modes": [
@@ -27,12 +43,6 @@
       }
     },
     {
-      "title": "JETSTICK PT.1.5",
-      "preview": "https://assets.ppy.sh/artists/390/NEW CONTINUE/DOT96 - JETSTICK PT.1.5.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "REASONING",
       "preview": "https://assets.ppy.sh/artists/390/CFD - Reasoning/DOT96 - REASONING.mp3",
       "ranked_modes": [],
@@ -45,5 +55,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:06:48Z"
+  "updated_at": "2026-07-12T20:00:40Z"
 }

@@ -181,6 +181,18 @@
       }
     },
     {
+      "title": "P4koo / Tsuyuri Karin / BlueArpeggio - Catalyst",
+      "preview": "https://assets.ppy.sh/artists/106/Songs/P4koo_Tsuyuri_Karin_BlueArpeggio_-_Catalyst.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2555443
+        ]
+      }
+    },
+    {
       "title": "Sky High (feat. rerone)",
       "preview": "https://assets.ppy.sh/artists/106/previews/2796.mp3",
       "ranked_modes": [
@@ -283,12 +295,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "P4koo / Tsuyuri Karin / BlueArpeggio - Catalyst",
-      "preview": "https://assets.ppy.sh/artists/106/Songs/P4koo_Tsuyuri_Karin_BlueArpeggio_-_Catalyst.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "PLUS+INFINITY",
       "preview": "https://assets.ppy.sh/artists/106/previews/2795.mp3",
       "ranked_modes": [],
@@ -319,5 +325,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:13:23Z"
+  "updated_at": "2026-07-12T20:07:08Z"
 }

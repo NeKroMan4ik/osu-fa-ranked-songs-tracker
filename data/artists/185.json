@@ -137,9 +137,13 @@
       "preview": "https://assets.ppy.sh/artists/185/efchi/seatrus - efchi.mp3",
       "ranked_modes": [
         "fruits",
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2523741
+        ],
         "fruits": [
           2133319
         ],
@@ -759,5 +763,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:15:05Z"
+  "updated_at": "2026-07-12T20:08:43Z"
 }

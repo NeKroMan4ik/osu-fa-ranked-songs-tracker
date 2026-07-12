@@ -6,9 +6,21 @@
       "title": "Milky Ways",
       "preview": "https://assets.ppy.sh/artists/119/Caps On, Hats Off/Bossfight - Milky Ways.mp3",
       "ranked_modes": [
-        "mania"
+        "fruits",
+        "mania",
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2464973
+        ],
+        "taiko": [
+          2464973
+        ],
+        "fruits": [
+          2464973
+        ],
         "mania": [
           1818929
         ]
@@ -97,5 +109,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:05:34Z"
+  "updated_at": "2026-07-12T19:59:27Z"
 }

@@ -47,6 +47,18 @@
       }
     },
     {
+      "title": "DREAMING COLOR",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - DREAMING COLOR.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2569504
+        ]
+      }
+    },
+    {
       "title": "DREAMING COLOR (Short Ver.)",
       "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - DREAMING COLOR (Short Ver.).mp3",
       "ranked_modes": [
@@ -232,12 +244,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "DREAMING COLOR",
-      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - DREAMING COLOR.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "hex feat. Aya Hatori",
       "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - hex feat. Aya Hatori.mp3",
       "ranked_modes": [],
@@ -340,5 +346,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:17:11Z"
+  "updated_at": "2026-07-12T20:10:44Z"
 }

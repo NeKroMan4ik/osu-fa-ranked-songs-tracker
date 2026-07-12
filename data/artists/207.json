@@ -352,6 +352,18 @@
       }
     },
     {
+      "title": "solfa feat. Chata - Sugar x Sugar",
+      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Chata - Sugar x Sugar.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2526120
+        ]
+      }
+    },
+    {
       "title": "solfa feat. Hashimoto Miyuki - Nijiiro Spring",
       "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Hashimoto Miyuki - Nijiiro Spring.mp3",
       "ranked_modes": [
@@ -760,12 +772,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "solfa feat. Chata - Sugar x Sugar",
-      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Chata - Sugar x Sugar.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "solfa feat. Chata - Vanity in the Bloom",
       "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Chata - Vanity in the Bloom.mp3",
       "ranked_modes": [],
@@ -922,5 +928,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:15:42Z"
+  "updated_at": "2026-07-12T20:09:18Z"
 }

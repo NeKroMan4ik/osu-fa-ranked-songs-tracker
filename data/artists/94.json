@@ -30,9 +30,13 @@
       "title": "Falling",
       "preview": "https://assets.ppy.sh/artists/94/previews/2511.mp3",
       "ranked_modes": [
+        "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2539608
+        ],
         "taiko": [
           1263796
         ]
@@ -188,5 +192,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:11:24Z"
+  "updated_at": "2026-07-12T20:05:10Z"
 }

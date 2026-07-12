@@ -3,14 +3,14 @@
   "name": "DGK",
   "tracks": [
     {
-      "title": "NoKANY - Mujinku-Vacuum Track#ADD8E6-",
-      "preview": "https://assets.ppy.sh/artists/229/Mujinku-Vacuum Track%23ADD8E6-/NoKANY_-_Mujinku-Vacuum_TrackADD8E6-.mp3",
+      "title": "NoKANY - Mujinku -Vacuum Track#ADD8E6-",
+      "preview": "https://assets.ppy.sh/artists/229/Mujinku-Vacuum Track%23ADD8E6-/NoKANY_-_Mujinku_-Vacuum_TrackADD8E6-.mp3",
       "ranked_modes": [
-        "mania"
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
-        "mania": [
-          1151089
+        "osu": [
+          2524947
         ]
       }
     },
@@ -63,5 +63,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:06:35Z"
+  "updated_at": "2026-07-12T20:00:26Z"
 }

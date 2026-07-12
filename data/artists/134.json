@@ -30,9 +30,13 @@
       "title": "Every End...",
       "preview": "https://assets.ppy.sh/artists/134/The Dimrain47 Collection (2005-2012)/Dimrain47 - Every End....mp3",
       "ranked_modes": [
-        "fruits"
+        "fruits",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2522722
+        ],
         "fruits": [
           2331122
         ]
@@ -224,5 +228,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:06:36Z"
+  "updated_at": "2026-07-12T20:00:28Z"
 }

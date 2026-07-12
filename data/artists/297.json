@@ -371,6 +371,18 @@
       }
     },
     {
+      "title": "Passiflora caerulea",
+      "preview": "https://assets.ppy.sh/artists/297/Songs/-45 - Passiflora caerulea.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2573203
+        ]
+      }
+    },
+    {
       "title": "Reikou Hatsuden",
       "preview": "https://assets.ppy.sh/artists/297/Sunfleur/-45 - Reikou Hatsuden.mp3",
       "ranked_modes": [
@@ -865,12 +877,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Passiflora caerulea",
-      "preview": "https://assets.ppy.sh/artists/297/Songs/-45 - Passiflora caerulea.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "PuppyMill",
       "preview": "https://assets.ppy.sh/artists/297/candybug/-45 - PuppyMill.mp3",
       "ranked_modes": [],
@@ -1039,5 +1045,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:03:28Z"
+  "updated_at": "2026-07-12T19:57:26Z"
 }

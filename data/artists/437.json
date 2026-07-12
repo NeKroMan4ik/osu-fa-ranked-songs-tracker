@@ -3,6 +3,59 @@
   "name": "tom^s",
   "tracks": [
     {
+      "title": "fieryrage accordion (hardcore remix)",
+      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/toms_-_fieryrage_accordion_hardcore_remix.mp3",
+      "ranked_modes": [
+        "fruits",
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          1921382
+        ],
+        "osu": [
+          1516867
+        ],
+        "taiko": [
+          1516860
+        ]
+      }
+    },
+    {
+      "title": "fieryrage accordion (hardcore remix) (TV Size)",
+      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/toms_-_fieryrage_accordion_hardcore_remix_TV_Size.mp3",
+      "ranked_modes": [
+        "fruits",
+        "mania",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2527220,
+          2563805
+        ],
+        "fruits": [
+          2535687
+        ],
+        "taiko": [
+          2537564
+        ]
+      }
+    },
+    {
+      "title": "petal blizzard",
+      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/toms_-_petal_blizzard.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2487754
+        ]
+      }
+    },
+    {
       "title": "at the end of the rainbow",
       "preview": "https://assets.ppy.sh/artists/437/MOGSWORLD THE ALBUM tom%5Es edition/tom%5Es - at the end of the rainbow.mp3",
       "ranked_modes": [],
@@ -33,18 +86,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "fieryrage accordion (hardcore remix)",
-      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/toms_-_fieryrage_accordion_hardcore_remix.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "fieryrage accordion (hardcore remix) (TV Size)",
-      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/toms_-_fieryrage_accordion_hardcore_remix_TV_Size.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "hanabi (feat. kendo)",
       "preview": "https://assets.ppy.sh/artists/437/Songs/toms_-_hanabi_feat._kendo.mp3",
       "ranked_modes": [],
@@ -71,12 +112,6 @@
     {
       "title": "lullaby",
       "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/toms_-_lullaby.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "petal blizzard",
-      "preview": "https://assets.ppy.sh/artists/437/tomspicy osu! collection 01/toms_-_petal_blizzard.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -129,5 +164,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:17:04Z"
+  "updated_at": "2026-07-12T20:10:38Z"
 }

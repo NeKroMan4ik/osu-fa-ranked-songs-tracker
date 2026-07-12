@@ -30,9 +30,13 @@
       "title": "Soumatou",
       "preview": "https://assets.ppy.sh/artists/307/Songs/Mono. - Soumatou.mp3",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2462297
+        ],
         "taiko": [
           2441208
         ]
@@ -75,5 +79,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:12:04Z"
+  "updated_at": "2026-07-12T20:05:52Z"
 }

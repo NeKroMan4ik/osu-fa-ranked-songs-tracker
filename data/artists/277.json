@@ -42,9 +42,13 @@
       "title": "Sports",
       "preview": "https://assets.ppy.sh/artists/277/Sports/Beach_Bunny_-_Sports.mp3",
       "ranked_modes": [
-        "fruits"
+        "fruits",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2532517
+        ],
         "fruits": [
           2401682
         ]
@@ -63,5 +67,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:05:10Z"
+  "updated_at": "2026-07-12T19:59:05Z"
 }

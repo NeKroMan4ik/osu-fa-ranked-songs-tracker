@@ -34,9 +34,13 @@
       "title": "DAYS",
       "preview": "https://assets.ppy.sh/artists/114/previews/2972.mp3",
       "ranked_modes": [
-        "fruits"
+        "fruits",
+        "mania"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2558013
+        ],
         "fruits": [
           2184377
         ]
@@ -118,5 +122,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:07:52Z"
+  "updated_at": "2026-07-12T20:01:41Z"
 }

@@ -190,6 +190,18 @@
       }
     },
     {
+      "title": "Rift",
+      "preview": "https://assets.ppy.sh/artists/240/Can We Hang Out Sometime/Good Kid - Rift.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2467271
+        ]
+      }
+    },
+    {
       "title": "Slingshot",
       "preview": "https://assets.ppy.sh/artists/240/Good Kid 2/Good Kid - Slingshot.mp3",
       "ranked_modes": [
@@ -230,6 +242,19 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           1598849
+        ]
+      }
+    },
+    {
+      "title": "Wall",
+      "preview": "https://assets.ppy.sh/artists/240/Can We Hang Out Sometime/Good Kid - Wall.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2497900,
+          2525114
         ]
       }
     },
@@ -282,12 +307,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Rift",
-      "preview": "https://assets.ppy.sh/artists/240/Can We Hang Out Sometime/Good Kid - Rift.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Tea Leaves",
       "preview": "https://assets.ppy.sh/artists/240/Can We Hang Out Sometime/Good Kid - Tea Leaves.mp3",
       "ranked_modes": [],
@@ -298,13 +317,7 @@
       "preview": "https://assets.ppy.sh/artists/240/Can We Hang Out Sometime/Good Kid - Tornado.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Wall",
-      "preview": "https://assets.ppy.sh/artists/240/Can We Hang Out Sometime/Good Kid - Wall.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:08:14Z"
+  "updated_at": "2026-07-12T20:02:03Z"
 }

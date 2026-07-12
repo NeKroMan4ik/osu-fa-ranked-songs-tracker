@@ -249,6 +249,18 @@
       }
     },
     {
+      "title": "Double-U - temptations feat. mai",
+      "preview": "https://assets.ppy.sh/artists/462/MushoCup 2026/Double-U_-_temptations_feat._mai.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2527017
+        ]
+      }
+    },
+    {
       "title": "Fisky - TURN IT UP",
       "preview": "https://assets.ppy.sh/artists/462/osu! Norway Tournament 2025/Fisky - TURN IT UP.mp3",
       "ranked_modes": [
@@ -1101,12 +1113,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Double-U - temptations feat. mai",
-      "preview": "https://assets.ppy.sh/artists/462/MushoCup 2026/Double-U_-_temptations_feat._mai.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Drazically feat. echo - COLLUS-iON[]data",
       "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/Drazically feat. echo - COLLUS-iON%5B%5Ddata.mp3",
       "ranked_modes": [],
@@ -1707,5 +1713,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:13:18Z"
+  "updated_at": "2026-07-12T20:07:03Z"
 }

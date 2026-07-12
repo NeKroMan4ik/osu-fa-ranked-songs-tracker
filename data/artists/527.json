@@ -134,9 +134,13 @@
       "ranked_modes": [
         "fruits",
         "mania",
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2511820
+        ],
         "mania": [
           2508618,
           2511082,
@@ -316,5 +320,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:10:34Z"
+  "updated_at": "2026-07-12T20:04:21Z"
 }

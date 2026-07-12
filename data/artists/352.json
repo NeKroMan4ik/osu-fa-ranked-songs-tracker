@@ -81,6 +81,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Ashrount & polysha - ARCADEA",
+      "preview": "https://assets.ppy.sh/artists/352/Songs/Ashrount__polysha_-_ARCADEA.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Cataraxir",
       "preview": "https://assets.ppy.sh/artists/352/Songs/Ashrount - Cataraxir.mp3",
       "ranked_modes": [],
@@ -111,5 +117,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-05T20:04:57Z"
+  "updated_at": "2026-07-12T19:58:52Z"
 }
