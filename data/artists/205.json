@@ -85,6 +85,18 @@
       }
     },
     {
+      "title": "RukaDesu & 5KiLOBYTE - DUALITY",
+      "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 3/RukaDesu %26 5KiLOBYTE - DUALITY.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2531630
+        ]
+      }
+    },
+    {
       "title": "Sad Keyboard Guy, Myntian & Sleepless - Chroma//Surge",
       "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 3/Sad Keyboard Guy%2C Myntian %26 Sleepless - ChromaSurge.mp3",
       "ranked_modes": [
@@ -303,12 +315,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "RukaDesu & 5KiLOBYTE - DUALITY",
-      "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 3/RukaDesu %26 5KiLOBYTE - DUALITY.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Ryazan a.k.a. lixound - COMA",
       "preview": "https://assets.ppy.sh/artists/205/HARDCORE UTOPIA 1/Ryazan a.k.a. lixound - COMA.mp3",
       "ranked_modes": [],
@@ -375,5 +381,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:02:17Z"
+  "updated_at": "2026-07-19T20:04:04Z"
 }

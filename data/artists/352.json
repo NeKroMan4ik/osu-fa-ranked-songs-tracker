@@ -15,6 +15,18 @@
       }
     },
     {
+      "title": "Cataraxir",
+      "preview": "https://assets.ppy.sh/artists/352/Songs/Ashrount - Cataraxir.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2544291
+        ]
+      }
+    },
+    {
       "title": "Jekyll & Hyde",
       "preview": "https://assets.ppy.sh/artists/352/Songs/Ashrount_-_Jekyll__Hyde.mp3",
       "ranked_modes": [
@@ -87,12 +99,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Cataraxir",
-      "preview": "https://assets.ppy.sh/artists/352/Songs/Ashrount - Cataraxir.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Don't you Overload?",
       "preview": "https://assets.ppy.sh/artists/352/Songs/Ashrount - Don%27t you Overload.mp3",
       "ranked_modes": [],
@@ -117,5 +123,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T19:58:52Z"
+  "updated_at": "2026-07-19T20:00:34Z"
 }

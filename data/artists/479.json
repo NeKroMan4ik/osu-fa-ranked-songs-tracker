@@ -87,6 +87,18 @@
       }
     },
     {
+      "title": "TFD500 - Hero's March",
+      "preview": "https://assets.ppy.sh/artists/479/Hero%27s March/TFD500 - Hero%27s March.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2539716
+        ]
+      }
+    },
+    {
       "title": "TFD500 - Yami",
       "preview": "https://assets.ppy.sh/artists/479/Yami/TFD500 - Yami.mp3",
       "ranked_modes": [
@@ -843,12 +855,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "TFD500 - Hero's March",
-      "preview": "https://assets.ppy.sh/artists/479/Hero%27s March/TFD500 - Hero%27s March.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "TFD500 - Hero's March (Chiptune Mix)",
       "preview": "https://assets.ppy.sh/artists/479/Hero%27s March/TFD500 - Hero%27s March (Chiptune Mix).mp3",
       "ranked_modes": [],
@@ -897,5 +903,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:10:58Z"
+  "updated_at": "2026-07-19T20:12:58Z"
 }

@@ -92,6 +92,18 @@
       }
     },
     {
+      "title": "lettre",
+      "preview": "https://assets.ppy.sh/artists/234/caracol/Annabel - lettre.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2528019
+        ]
+      }
+    },
+    {
       "title": "lilac slumber -cosmic ver.-",
       "preview": "https://assets.ppy.sh/artists/234/cosmic gardener/Annabel - lilac slumber -cosmic ver.-.mp3",
       "ranked_modes": [
@@ -230,12 +242,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "lettre",
-      "preview": "https://assets.ppy.sh/artists/234/caracol/Annabel - lettre.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Muishiki no Machi",
       "preview": "https://assets.ppy.sh/artists/234/Nylon Town/Annabel - Muishiki no Machi.mp3",
       "ranked_modes": [],
@@ -260,5 +266,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T19:58:29Z"
+  "updated_at": "2026-07-19T20:00:10Z"
 }

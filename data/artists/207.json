@@ -15,18 +15,6 @@
       }
     },
     {
-      "title": "Chata - Snow white syndrome",
-      "preview": "https://assets.ppy.sh/artists/207/sing a song!/solfa feat. Chata - Snow white syndrome.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2535868
-        ]
-      }
-    },
-    {
       "title": "solfa feat. Aitsuki Nakuru - nothing",
       "preview": "https://assets.ppy.sh/artists/207/star dome/solfa feat. Aitsuki Nakuru - nothing.mp3",
       "ranked_modes": [
@@ -556,31 +544,6 @@
       }
     },
     {
-      "title": "solfa feat. Shimotsuki Haruka + Ceui - STUDY STEADY",
-      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. Shimotsuki Haruka %2B Ceui - STUDY STEADY.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1907991,
-          2165707
-        ]
-      }
-    },
-    {
-      "title": "solfa feat. Shimotsuki Haruka + Ceui - study steady day!",
-      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Ehot dream%7E/solfa feat. Shimotsuki Haruka %2B Ceui - study steady day!.mp3",
-      "ranked_modes": [
-        "taiko"
-      ],
-      "beatmapset_ids_by_mode": {
-        "taiko": [
-          2240306
-        ]
-      }
-    },
-    {
       "title": "solfa feat. Shimotsuki Haruka + Chata + Katakiri Rekka - go ahead!",
       "preview": "https://assets.ppy.sh/artists/207/chronicle %7Edog side%7E/solfa feat. Shimotsuki Haruka %2B Chata %2B Katakiri Rekka - go ahead!.mp3",
       "ranked_modes": [
@@ -664,18 +627,6 @@
       }
     },
     {
-      "title": "solfa feat. yanaginagi - Mizu no Naka no Kumo",
-      "preview": "https://assets.ppy.sh/artists/207/heart to heart/solfa feat. yanaginagi - Mizu no Naka no Kumo.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2545613
-        ]
-      }
-    },
-    {
       "title": "solfa feat. yuiko - Freezing RosE",
       "preview": "https://assets.ppy.sh/artists/207/Songs/solfa feat. yuiko - Freezing RosE.mp3",
       "ranked_modes": [
@@ -730,8 +681,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Fight the Devils throne",
-      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa - Fight the Devils throne.mp3",
+      "title": "Fight the Devil's throne",
+      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa_-_Fight_the_Devils_throne.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -768,6 +719,12 @@
     {
       "title": "solfa feat. Chata - pureness heart",
       "preview": "https://assets.ppy.sh/artists/207/chronicle -wind notes-/solfa feat. Chata - pureness heart.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "solfa feat. Chata - snow white syndrome",
+      "preview": "https://assets.ppy.sh/artists/207/sing a song!/solfa_feat._Chata_-_snow_white_syndrome.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -892,8 +849,26 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "solfa feat. Shimotsuki Haruka + Ceui - STUDY STEADY (Game Ver.)",
+      "preview": "https://assets.ppy.sh/artists/207/Songs/solfa_feat._Shimotsuki_Haruka__Ceui_-_STUDY_STEADY_Game_Ver..mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "solfa feat. Shimotsuki Haruka + Ceui - study steady day!",
+      "preview": "https://assets.ppy.sh/artists/207/chronicle %7Ehot dream%7E/solfa feat. Shimotsuki Haruka %2B Ceui - study steady day!.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "solfa feat. Tsukiyono Usagi (CV: Moca Choco) - Marshmallow Whip",
       "preview": "https://assets.ppy.sh/artists/207/chronicle -supersonic-/solfa feat. Tsukiyono Usagi (CV Moca Choco) - Marshmallow Whip.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "solfa feat. yanaginagi - Mizu no Naka no Kumo",
+      "preview": "https://assets.ppy.sh/artists/207/heart to heart/solfa_feat._yanaginagi_-_Mizu_no_Naka_no_Kumo.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -928,5 +903,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:09:18Z"
+  "updated_at": "2026-07-19T20:11:17Z"
 }

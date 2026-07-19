@@ -47,36 +47,6 @@
       }
     },
     {
-      "title": "DREAMING COLOR",
-      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - DREAMING COLOR.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2569504
-        ]
-      }
-    },
-    {
-      "title": "DREAMING COLOR (Short Ver.)",
-      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - DREAMING COLOR (Short Ver.).mp3",
-      "ranked_modes": [
-        "fruits",
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          752435,
-          1116584,
-          2524884
-        ],
-        "fruits": [
-          946773
-        ]
-      }
-    },
-    {
       "title": "Hitori ja... Issho nara! (TV Size)",
       "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Hitori ja... Issho nara! (TV Size).mp3",
       "ranked_modes": [
@@ -113,32 +83,6 @@
       }
     },
     {
-      "title": "Houkai no Hate No Ishi feat. GUMI (Short Ver.)",
-      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Houkai no Hate No Ishi feat. GUMI (Short Ver.).mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2526450
-        ]
-      }
-    },
-    {
-      "title": "MYxFLAVORxDAYS! feat. GUMI (Short Ver.)",
-      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - MYxFLAVORxDAYS! feat. GUMI (Short Ver.).mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2114027,
-          2121497,
-          2537464
-        ]
-      }
-    },
-    {
       "title": "Sore ga Zenbu, Yume ni Tsunagaru (Short Ver.)",
       "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Sore ga Zenbu%2C Yume ni Tsunagaru (Short Ver.).mp3",
       "ranked_modes": [
@@ -152,18 +96,6 @@
         ],
         "taiko": [
           1217811
-        ]
-      }
-    },
-    {
-      "title": "Taiatari*Romance feat. Ayuru Ouhashi (Short Ver.)",
-      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - TaiatariRomance feat. Ayuru Ouhashi (Short Ver.).mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          796338
         ]
       }
     },
@@ -244,6 +176,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "DREAMING COLOR",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial__Error_-_DREAMING_COLOR_Short_Ver..mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "hex feat. Aya Hatori",
       "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - hex feat. Aya Hatori.mp3",
       "ranked_modes": [],
@@ -274,14 +212,14 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Houkai no Hate No Ishi feat. GUMI",
-      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - Houkai no Hate No Ishi feat. GUMI.mp3",
+      "title": "Houkai no hate no ishi feat. GUMI",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial__Error_-_Houkai_no_hate_no_ishi_feat._GUMI.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
       "title": "MYxFLAVORxDAYS! feat. GUMI",
-      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - MYxFLAVORxDAYS! feat. GUMI.mp3",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial__Error_-_MYxFLAVORxDAYS_feat._GUMI.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -316,8 +254,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Taiatari*Romance feat. Ayuru Ouhashi",
-      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial %26 Error - TaiatariRomance feat. Ayuru Ouhashi.mp3",
+      "title": "TAIATARI*Romance feat. Ayuru Ohashi",
+      "preview": "https://assets.ppy.sh/artists/20/Songs/Trial__Error_-_TAIATARIRomance_feat._Ayuru_Ohashi_Short_Ver..mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -346,5 +284,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:10:44Z"
+  "updated_at": "2026-07-19T20:12:44Z"
 }

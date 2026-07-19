@@ -92,6 +92,18 @@
       }
     },
     {
+      "title": "The Approaching of Atonement / Silvered Shadows",
+      "preview": "https://assets.ppy.sh/artists/375/Liminal Rite/Kardashev - The Approaching of Atonement  Silvered Shadows.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1889320
+        ]
+      }
+    },
+    {
       "title": "Apparitions in Candlelight",
       "preview": "https://assets.ppy.sh/artists/375/Liminal Rite/Kardashev - Apparitions in Candlelight.mp3",
       "ranked_modes": [],
@@ -138,13 +150,7 @@
       "preview": "https://assets.ppy.sh/artists/375/Peripety/Kardashev - Somnium.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "The Approaching of Atonement / Silvered Shadows",
-      "preview": "https://assets.ppy.sh/artists/375/Liminal Rite/Kardashev - The Approaching of Atonement  Silvered Shadows.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:03:34Z"
+  "updated_at": "2026-07-19T20:05:18Z"
 }

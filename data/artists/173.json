@@ -3,6 +3,22 @@
   "name": "Aquestion",
   "tracks": [
     {
+      "title": "Aquestion - ENERGY INFLATION",
+      "preview": "https://assets.ppy.sh/artists/173/Songs/Aquestion_-_ENERGY_INFLATION.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2358356
+        ],
+        "osu": [
+          2211300
+        ]
+      }
+    },
+    {
       "title": "Aquestion - Umami Blaze",
       "preview": "https://assets.ppy.sh/artists/173/Songs/Aquestion - Umami Blaze.mp3",
       "ranked_modes": [
@@ -30,12 +46,6 @@
     {
       "title": "Aquestion - Arrogation",
       "preview": "https://assets.ppy.sh/artists/173/Songs/Aquestion_-_Arrogation.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Aquestion - ENERGY INFLATION",
-      "preview": "https://assets.ppy.sh/artists/173/Songs/Aquestion_-_ENERGY_INFLATION.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -70,5 +80,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T19:58:38Z"
+  "updated_at": "2026-07-19T20:00:20Z"
 }

@@ -94,6 +94,18 @@
       }
     },
     {
+      "title": "Count down 321",
+      "preview": "https://assets.ppy.sh/artists/396/KAKATTEKOYEAH%E2%80%8B!%E2%80%8B!%E2%80%8B!%E2%80%8B!/t%2Bpazolite - Count down 321.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2492718
+        ]
+      }
+    },
+    {
       "title": "Dogbite",
       "preview": "https://assets.ppy.sh/artists/396/without Permission/t%2Bpazolite - Dogbite.mp3",
       "ranked_modes": [
@@ -545,12 +557,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Count down 321",
-      "preview": "https://assets.ppy.sh/artists/396/KAKATTEKOYEAH%E2%80%8B!%E2%80%8B!%E2%80%8B!%E2%80%8B!/t%2Bpazolite - Count down 321.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "diskommunication",
       "preview": "https://assets.ppy.sh/artists/396/Answer from X Girlz/t%2Bpazolite - diskommunication.mp3",
       "ranked_modes": [],
@@ -665,5 +671,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:10:01Z"
+  "updated_at": "2026-07-19T20:11:58Z"
 }

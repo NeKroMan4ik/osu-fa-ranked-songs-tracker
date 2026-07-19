@@ -3,6 +3,18 @@
   "name": "d0tc0mmie",
   "tracks": [
     {
+      "title": "Dokifeel feat. Hanakuma Chifuyu",
+      "preview": "https://assets.ppy.sh/artists/493/0401%2B/d0tc0mmie - Dokifeel feat. Hanakuma Chifuyu.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2552185
+        ]
+      }
+    },
+    {
       "title": "Guilty feat. Kasane Teto",
       "preview": "https://assets.ppy.sh/artists/493/0401%2B/d0tc0mmie - Guilty feat. Kasane Teto.mp3",
       "ranked_modes": [
@@ -23,12 +35,6 @@
     {
       "title": "Do It Over feat. Kasane Teto",
       "preview": "https://assets.ppy.sh/artists/493/0401%2B/d0tc0mmie - Do It Over feat. Kasane Teto.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Dokifeel feat. Hanakuma Chifuyu",
-      "preview": "https://assets.ppy.sh/artists/493/0401%2B/d0tc0mmie - Dokifeel feat. Hanakuma Chifuyu.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -81,5 +87,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:00:14Z"
+  "updated_at": "2026-07-19T20:01:59Z"
 }

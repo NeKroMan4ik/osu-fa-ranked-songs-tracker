@@ -31,6 +31,18 @@
       }
     },
     {
+      "title": "log() - Please remember, you must die.",
+      "preview": "https://assets.ppy.sh/artists/540/Songs/log() - Please remember%2C you must die..mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2545327
+        ]
+      }
+    },
+    {
       "title": "log() - Stellar Sky (Remastered)",
       "preview": "https://assets.ppy.sh/artists/540/PINK%27WHITE/log() - Stellar Sky (Remastered).mp3",
       "ranked_modes": [
@@ -139,12 +151,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "log() - Please remember, you must die.",
-      "preview": "https://assets.ppy.sh/artists/540/Songs/log() - Please remember%2C you must die..mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "log() - PRECiOUS : PROMiSE",
       "preview": "https://assets.ppy.sh/artists/540/PINK%27WHITE/log() - PRECiOUS  PROMiSE.mp3",
       "ranked_modes": [],
@@ -163,5 +169,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:04:46Z"
+  "updated_at": "2026-07-19T20:06:35Z"
 }

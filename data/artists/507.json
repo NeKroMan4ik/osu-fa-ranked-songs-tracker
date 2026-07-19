@@ -7,9 +7,13 @@
       "preview": "https://assets.ppy.sh/artists/507/downpour.ep/Tanger - hugging.in.the.rain.mp3",
       "ranked_modes": [
         "mania",
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2542002
+        ],
         "mania": [
           2536605
         ],
@@ -155,5 +159,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:10:09Z"
+  "updated_at": "2026-07-19T20:12:06Z"
 }

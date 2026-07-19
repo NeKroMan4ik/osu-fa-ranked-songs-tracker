@@ -225,6 +225,18 @@
       }
     },
     {
+      "title": "Darkney - Prism Fall",
+      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Darkney - Prism Fall.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2412267
+        ]
+      }
+    },
+    {
       "title": "DawMii - DiSKN0TZ",
       "preview": "https://assets.ppy.sh/artists/462/6 Digit World Cup/DawMii_-_DiSKN0TZ.mp3",
       "ranked_modes": [
@@ -444,6 +456,18 @@
       }
     },
     {
+      "title": "Krimek - Dahlia (feat. eili)",
+      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Krimek_-_Dahlia_feat._eili.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2412294
+        ]
+      }
+    },
+    {
       "title": "Kry.exe - Rift Walker",
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Kry.exe - Rift Walker.mp3",
       "ranked_modes": [
@@ -579,7 +603,8 @@
       ],
       "beatmapset_ids_by_mode": {
         "mania": [
-          2518911
+          2518911,
+          2578594
         ]
       }
     },
@@ -813,6 +838,18 @@
       }
     },
     {
+      "title": "velamy & Turq - Sudden Death",
+      "preview": "https://assets.ppy.sh/artists/462/Kyoku 2024/velamy__Turq_-_Sudden_Death.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2242699
+        ]
+      }
+    },
+    {
       "title": "WangleLine - Super Kitten Travel Hex",
       "preview": "https://assets.ppy.sh/artists/462/Locus 2025/WangleLine - Super Kitten Travel Hex.mp3",
       "ranked_modes": [
@@ -922,7 +959,7 @@
     },
     {
       "title": "agu - unbound",
-      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/agu - unbound.mp3",
+      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/agu_-_unbound.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1085,12 +1122,6 @@
     {
       "title": "cygnus - The Kingdom of Babylon",
       "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/cygnus - The Kingdom of Babylon.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Darkney - Prism Fall",
-      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Darkney - Prism Fall.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1259,12 +1290,6 @@
     {
       "title": "Krimek - Cybernetic Reverie",
       "preview": "https://assets.ppy.sh/artists/462/5 Digit World Cup 2024/Krimek - Cybernetic Reverie.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Krimek - Dahlia (feat. eili)",
-      "preview": "https://assets.ppy.sh/artists/462/Locus 2025/Krimek_-_Dahlia_feat._eili.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1659,12 +1684,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "velamy & Turq - Sudden Death",
-      "preview": "https://assets.ppy.sh/artists/462/Kyoku 2024/velamy__Turq_-_Sudden_Death.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "WEARY - Out of the Waking World",
       "preview": "https://assets.ppy.sh/artists/462/the tea party house/WEARY_-_Out_of_the_Waking_World.mp3",
       "ranked_modes": [],
@@ -1713,5 +1732,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:07:03Z"
+  "updated_at": "2026-07-19T20:08:53Z"
 }

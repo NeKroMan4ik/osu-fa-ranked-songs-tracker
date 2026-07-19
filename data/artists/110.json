@@ -46,9 +46,13 @@
       "title": "Colorful Sounds Port feat. Sennzai - Jewelry Beans",
       "preview": "https://assets.ppy.sh/artists/110/Fleurix/Colorful Sounds Port feat. Sennzai - Jewelry Beans.mp3",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2508033
+        ],
         "taiko": [
           1234969
         ]
@@ -95,10 +99,14 @@
       "title": "HyuN feat. Sennzai - Duplicity Shade",
       "preview": "https://assets.ppy.sh/artists/110/Songs/HyuN_feat._Sennzai_-_Duplicity_Shade.mp3",
       "ranked_modes": [
+        "fruits",
         "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2561252
+        ],
         "osu": [
           2302059
         ],
@@ -300,5 +308,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:08:49Z"
+  "updated_at": "2026-07-19T20:10:47Z"
 }

@@ -19,9 +19,13 @@
       "preview": "https://assets.ppy.sh/artists/325/dreamy night/LilyPichu - dreamy night.mp3",
       "ranked_modes": [
         "mania",
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          1957905
+        ],
         "mania": [
           1960341
         ],
@@ -125,5 +129,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:04:37Z"
+  "updated_at": "2026-07-19T20:06:25Z"
 }

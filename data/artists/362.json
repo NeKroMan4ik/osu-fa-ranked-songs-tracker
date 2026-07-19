@@ -18,9 +18,13 @@
       "title": "Attracting Universe",
       "preview": "https://assets.ppy.sh/artists/362/Songs/Shadren - Attracting Universe.mp3",
       "ranked_modes": [
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2526817
+        ],
         "taiko": [
           2448103
         ]
@@ -119,5 +123,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:08:56Z"
+  "updated_at": "2026-07-19T20:10:55Z"
 }

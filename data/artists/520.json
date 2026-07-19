@@ -83,6 +83,18 @@
       }
     },
     {
+      "title": "tachibanaka, hellfly - Shattered Mind",
+      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka%2C hellfly - Shattered Mind.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2460392
+        ]
+      }
+    },
+    {
       "title": "Daylight",
       "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Daylight.mp3",
       "ranked_modes": [],
@@ -137,17 +149,11 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "tachibanaka, hellfly - Shattered Mind",
-      "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka%2C hellfly - Shattered Mind.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Unsigned Memories",
       "preview": "https://assets.ppy.sh/artists/520/Songs/tachibanaka - Unsigned Memories.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:10:03Z"
+  "updated_at": "2026-07-19T20:12:00Z"
 }

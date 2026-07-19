@@ -23,11 +23,12 @@
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2109511,
+          2225653
+        ],
         "osu": [
           2526320
-        ],
-        "mania": [
-          2109511
         ],
         "fruits": [
           2096026
@@ -53,5 +54,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:03:54Z"
+  "updated_at": "2026-07-19T20:05:39Z"
 }

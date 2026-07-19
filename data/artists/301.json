@@ -244,9 +244,13 @@
       "title": "parallel skydive",
       "preview": "https://assets.ppy.sh/artists/301/parallel skydive/AAAA - parallel skydive.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2537331
+        ],
         "mania": [
           1919576,
           2165832,
@@ -313,5 +317,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T19:57:47Z"
+  "updated_at": "2026-07-19T19:59:25Z"
 }

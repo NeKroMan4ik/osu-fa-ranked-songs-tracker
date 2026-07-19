@@ -26,18 +26,6 @@
       }
     },
     {
-      "title": "Dakishimeru made.",
-      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_-_Dakishimeru_made..mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2042163
-        ]
-      }
-    },
-    {
       "title": "Floremie",
       "preview": "https://assets.ppy.sh/artists/77/previews/2077.mp3",
       "ranked_modes": [
@@ -221,18 +209,6 @@
       }
     },
     {
-      "title": "MIMI feat. Kasane Teto SV - Trick Heart",
-      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_feat._Kasane_Teto_SV_-_Trick_Heart.mp3",
-      "ranked_modes": [
-        "mania"
-      ],
-      "beatmapset_ids_by_mode": {
-        "mania": [
-          2499321
-        ]
-      }
-    },
-    {
       "title": "MIMI feat. SEKAI - Escape",
       "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_feat._SEKAI_-_Escape.mp3",
       "ranked_modes": [
@@ -249,9 +225,13 @@
       "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_feat._wanko_-_Minimum.mp3",
       "ranked_modes": [
         "mania",
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          1912477
+        ],
         "mania": [
           1859134
         ],
@@ -475,6 +455,12 @@
       }
     },
     {
+      "title": "Dakishimeru made. feat. KAFU",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_-_Dakishimeru_made._feat._KAFU.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Le Rouge",
       "preview": "https://assets.ppy.sh/artists/77/previews/3021.mp3",
       "ranked_modes": [],
@@ -491,7 +477,13 @@
       "preview": "https://assets.ppy.sh/artists/77/previews/3022.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Trick Heart feat. Kasane Teto SV",
+      "preview": "https://assets.ppy.sh/artists/77/Songs/MIMI_-_Trick_Heart_feat._Kasane_Teto_SV.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:05:40Z"
+  "updated_at": "2026-07-19T20:07:28Z"
 }

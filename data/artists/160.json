@@ -167,6 +167,18 @@
       }
     },
     {
+      "title": "SILVERY",
+      "preview": "https://assets.ppy.sh/artists/160/Tsuiten no Bara/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - SILVERY.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2388129
+        ]
+      }
+    },
+    {
       "title": "Ai no Uta",
       "preview": "https://assets.ppy.sh/artists/160/Gekijou no Prominence/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Ai no Uta.mp3",
       "ranked_modes": [],
@@ -401,12 +413,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "SILVERY",
-      "preview": "https://assets.ppy.sh/artists/160/Tsuiten no Bara/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - SILVERY.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Sins",
       "preview": "https://assets.ppy.sh/artists/160/AMETHYST/Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Sins.mp3",
       "ranked_modes": [],
@@ -479,5 +485,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:01:00Z"
+  "updated_at": "2026-07-19T20:02:45Z"
 }

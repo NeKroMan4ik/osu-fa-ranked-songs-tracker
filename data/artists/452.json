@@ -5,9 +5,15 @@
     {
       "title": "Corrupted Paywall",
       "preview": "https://assets.ppy.sh/artists/452/Songs/XH - Corrupted Paywall.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2287942
+        ]
+      }
     }
   ],
-  "updated_at": "2026-07-12T20:11:45Z"
+  "updated_at": "2026-07-19T20:13:45Z"
 }

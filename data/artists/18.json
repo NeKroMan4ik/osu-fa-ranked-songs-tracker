@@ -3,6 +3,36 @@
   "name": "*namirin",
   "tracks": [
     {
+      "title": "*namirin feat. Mitsukiyo - Koishiteiku Planet",
+      "preview": "https://assets.ppy.sh/artists/18/Koishiteiku Planet/namirin_feat._Mitsukiyo_-_Koishiteiku_Planet.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          916990,
+          2146169,
+          2510520
+        ]
+      }
+    },
+    {
+      "title": "Ciel etoile",
+      "preview": "https://assets.ppy.sh/artists/18/Koishiteiku Planet/namirin_-_Ciel_etoile.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2449706
+        ],
+        "osu": [
+          901091
+        ]
+      }
+    },
+    {
       "title": "closing eyes",
       "preview": "https://assets.ppy.sh/artists/18/previews/351.mp3",
       "ranked_modes": [
@@ -41,6 +71,23 @@
       }
     },
     {
+      "title": "Irodori Sora",
+      "preview": "https://assets.ppy.sh/artists/18/Koishiteiku Planet/namirin_-_Irodori_Sora.mp3",
+      "ranked_modes": [
+        "mania",
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2465080
+        ],
+        "osu": [
+          971432,
+          1182288
+        ]
+      }
+    },
+    {
       "title": "Iscariot no Sakebi",
       "preview": "https://assets.ppy.sh/artists/18/5colors/namirin_-_Iscariot_no_Sakebi.mp3",
       "ranked_modes": [
@@ -53,6 +100,22 @@
         ],
         "fruits": [
           685542
+        ]
+      }
+    },
+    {
+      "title": "Kanzen Shouri*Esper Girl",
+      "preview": "https://assets.ppy.sh/artists/18/Koishiteiku Planet/namirin_-_Kanzen_ShouriEsper_Girl.mp3",
+      "ranked_modes": [
+        "osu",
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          954272
+        ],
+        "taiko": [
+          927206
         ]
       }
     },
@@ -75,6 +138,18 @@
       }
     },
     {
+      "title": "Omajinai",
+      "preview": "https://assets.ppy.sh/artists/18/Koishiteiku Planet/namirin_-_Omajinai.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          906565
+        ]
+      }
+    },
+    {
       "title": "Senaka Awase no Sora (with Kakichoco)",
       "preview": "https://assets.ppy.sh/artists/18/5colors/namirin_-_Senaka_Awase_no_Sora_with_Kakichoco.mp3",
       "ranked_modes": [
@@ -85,37 +160,7 @@
           2001791
         ]
       }
-    },
-    {
-      "title": "*namirin feat. Mitsukiyo - Koishiteiku Planet",
-      "preview": "https://assets.ppy.sh/artists/18/Koishiteiku Planet/namirin_feat._Mitsukiyo_-_Koishiteiku_Planet.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Ciel etoile",
-      "preview": "https://assets.ppy.sh/artists/18/Koishiteiku Planet/namirin_-_Ciel_etoile.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Irodori Sora",
-      "preview": "https://assets.ppy.sh/artists/18/Koishiteiku Planet/namirin_-_Irodori_Sora.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Kanzen Shouri*Esper Girl",
-      "preview": "https://assets.ppy.sh/artists/18/Koishiteiku Planet/namirin_-_Kanzen_ShouriEsper_Girl.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Omajinai",
-      "preview": "https://assets.ppy.sh/artists/18/Koishiteiku Planet/namirin_-_Omajinai.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T19:57:23Z"
+  "updated_at": "2026-07-19T19:59:02Z"
 }

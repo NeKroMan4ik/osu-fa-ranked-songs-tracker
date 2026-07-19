@@ -44,18 +44,6 @@
       }
     },
     {
-      "title": "March to the Constellations",
-      "preview": "https://assets.ppy.sh/artists/434/The 4th Edition Clear Color/SiLiS - March to the Constellations.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2492988
-        ]
-      }
-    },
-    {
       "title": "Ryuu no Koukyoukyoku",
       "preview": "https://assets.ppy.sh/artists/434/The 4th Edition Clear Color/SiLiS - Ryuu no Koukyoukyoku.mp3",
       "ranked_modes": [
@@ -188,6 +176,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "March to the Constellations",
+      "preview": "https://assets.ppy.sh/artists/434/The 4th Edition Clear Color/SiLiS_-_March_to_the_Constellations.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "My Angel Goodbye",
       "preview": "https://assets.ppy.sh/artists/434/Songs/SiLiS_-_My_Angel_Goodbye.mp3",
       "ranked_modes": [],
@@ -284,5 +278,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:09:05Z"
+  "updated_at": "2026-07-19T20:11:03Z"
 }

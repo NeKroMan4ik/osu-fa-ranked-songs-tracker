@@ -6,10 +6,14 @@
       "title": "Digital Life Hacker",
       "preview": "https://assets.ppy.sh/artists/178/jelly girl/wotoha - Digital Life Hacker.mp3",
       "ranked_modes": [
+        "fruits",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2536575
+        ],
         "osu": [
           1509257,
           1516617,
@@ -108,5 +112,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:11:36Z"
+  "updated_at": "2026-07-19T20:13:36Z"
 }

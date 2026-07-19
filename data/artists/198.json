@@ -32,6 +32,18 @@
       }
     },
     {
+      "title": "Lucky Star (Cut Ver.)",
+      "preview": "https://assets.ppy.sh/artists/198/Lucky Star EP/Avizura - Lucky Star (Cut Ver.).mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2543798
+        ]
+      }
+    },
+    {
       "title": "Air Castles",
       "preview": "https://assets.ppy.sh/artists/198/Air Castles/Avizura - Air Castles.mp3",
       "ranked_modes": [],
@@ -58,12 +70,6 @@
     {
       "title": "Crystal (Cut Ver.)",
       "preview": "https://assets.ppy.sh/artists/198/Crystal EP/Avizura - Crystal (Cut Ver.).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Lucky Star (Cut Ver.)",
-      "preview": "https://assets.ppy.sh/artists/198/Lucky Star EP/Avizura - Lucky Star (Cut Ver.).mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -116,5 +122,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T19:59:02Z"
+  "updated_at": "2026-07-19T20:00:43Z"
 }

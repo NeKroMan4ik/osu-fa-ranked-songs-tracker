@@ -27,6 +27,18 @@
       }
     },
     {
+      "title": "Whispers of the Deserted",
+      "preview": "https://assets.ppy.sh/artists/482/Whispers of the Deserted/XenjeS - Whispers of the Deserted.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2524631
+        ]
+      }
+    },
+    {
       "title": "-45 - Aci-L (XenjeS Remix)",
       "preview": "https://assets.ppy.sh/artists/482/First Skyfall Ukrainian osu! Tournament 2024/-45 - Aci-L (XenjeS Remix).mp3",
       "ranked_modes": [],
@@ -177,12 +189,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Whispers of the Deserted",
-      "preview": "https://assets.ppy.sh/artists/482/Whispers of the Deserted/XenjeS - Whispers of the Deserted.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "World Deconstruction",
       "preview": "https://assets.ppy.sh/artists/482/Dawn of Destruxion/XenjeS - World Deconstruction.mp3",
       "ranked_modes": [],
@@ -201,5 +207,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:11:41Z"
+  "updated_at": "2026-07-19T20:13:41Z"
 }

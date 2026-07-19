@@ -55,18 +55,6 @@
       }
     },
     {
-      "title": "Ironical Parade",
-      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Risa Yuzuki - Ironical Parade.mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          2545702
-        ]
-      }
-    },
-    {
       "title": "Kayuki feat. Risa Yuzuki - Umbilical",
       "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Kayuki_feat._Risa_Yuzuki_-_Umbilical.mp3",
       "ranked_modes": [
@@ -135,12 +123,6 @@
       }
     },
     {
-      "title": "Black Winged Variation",
-      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Risa Yuzuki - Black Winged Variation.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "BlackY feat. Risa Yuzuki - Furin Kagerou",
       "preview": "https://assets.ppy.sh/artists/211/Furin Kagerou/BlackY_feat._Risa_Yuzuki_-_Furin_Kagerou.mp3",
       "ranked_modes": [],
@@ -161,6 +143,18 @@
     {
       "title": "BlackY feat. Risa Yuzuki - PARADOXY",
       "preview": "https://assets.ppy.sh/artists/211/PARAD%C3%98XY/BlackY feat. Risa Yuzuki - PARADOXY.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "BlackY feat. Risa Yuzuki - Shuumatsu Kinema",
+      "preview": "https://assets.ppy.sh/artists/211/Imitator/BlackY_feat._Risa_Yuzuki_-_Shuumatsu_Kinema.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "BlackY feat. Risa Yuzuki - Subekaraku Senrei",
+      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/BlackY_feat._Risa_Yuzuki_-_Subekaraku_Senrei.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -189,6 +183,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Feryquitous feat. Risa Yuzuki - Phyllness",
+      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Feryquitous_feat._Risa_Yuzuki_-_Phyllness.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Filia no Rashinban",
       "preview": "https://assets.ppy.sh/artists/211/Replique/Risa Yuzuki - Filia no Rashinban.mp3",
       "ranked_modes": [],
@@ -201,20 +201,20 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Kabocha feat. Risa Yuzuki - Black Winged Variation",
+      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Kabocha_feat._Risa_Yuzuki_-_Black_Winged_Variation.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Mihanada",
       "preview": "https://assets.ppy.sh/artists/211/Replique/Risa Yuzuki - Mihanada.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "PEAKY FREAKY",
-      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Risa Yuzuki - PEAKY FREAKY.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Phyllness",
-      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Risa Yuzuki - Phyllness.mp3",
+      "title": "Ponchi feat. Risa Yuzuki - Ironical Parade",
+      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Ponchi_feat._Risa_Yuzuki_-_Ironical_Parade.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -237,14 +237,8 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Shumatsu Kinema",
-      "preview": "https://assets.ppy.sh/artists/211/Imitator/Risa Yuzuki - Shumatsu Kinema.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Subekaraku Senrei",
-      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/Risa Yuzuki - Subekaraku Senrei.mp3",
+      "title": "t+pazolite feat. Risa Yuzuki - PEAKY FREAKY",
+      "preview": "https://assets.ppy.sh/artists/211/AMARTIA/tpazolite_feat._Risa_Yuzuki_-_PEAKY_FREAKY.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -261,5 +255,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:08:07Z"
+  "updated_at": "2026-07-19T20:10:02Z"
 }

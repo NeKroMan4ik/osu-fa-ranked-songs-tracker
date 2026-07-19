@@ -153,9 +153,13 @@
       "preview": "https://assets.ppy.sh/artists/112/Songs/SUPER_MWC_KART_-_Purple_Palace.mp3",
       "ranked_modes": [
         "mania",
+        "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2529186
+        ],
         "mania": [
           1569527
         ],
@@ -345,5 +349,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:08:40Z"
+  "updated_at": "2026-07-19T20:10:38Z"
 }

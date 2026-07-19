@@ -6,9 +6,13 @@
       "title": "Challenger",
       "preview": "https://assets.ppy.sh/artists/36/previews/872.mp3",
       "ranked_modes": [
-        "fruits"
+        "fruits",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2532603
+        ],
         "fruits": [
           966240
         ]
@@ -161,5 +165,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:00:02Z"
+  "updated_at": "2026-07-19T20:01:46Z"
 }

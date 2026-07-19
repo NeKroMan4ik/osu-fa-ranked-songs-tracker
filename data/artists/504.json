@@ -3,6 +3,18 @@
   "name": "MARETU",
   "tracks": [
     {
+      "title": "Darling",
+      "preview": "https://assets.ppy.sh/artists/504/Songs/MARETU_-_Darling.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2492060
+        ]
+      }
+    },
+    {
       "title": "Magical Doctor",
       "preview": "https://assets.ppy.sh/artists/504/Songs/MARETU - Magical Doctor.mp3",
       "ranked_modes": [
@@ -71,12 +83,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Darling",
-      "preview": "https://assets.ppy.sh/artists/504/Songs/MARETU_-_Darling.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Mind Brand",
       "preview": "https://assets.ppy.sh/artists/504/Songs/MARETU - Mind Brand.mp3",
       "ranked_modes": [],
@@ -113,5 +119,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:05:13Z"
+  "updated_at": "2026-07-19T20:07:02Z"
 }

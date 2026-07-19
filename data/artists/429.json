@@ -27,6 +27,18 @@
       }
     },
     {
+      "title": "Into the Mysterious World",
+      "preview": "https://assets.ppy.sh/artists/429/Into the Mysterious World/Rose Quartz - Into the Mysterious World.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2539144
+        ]
+      }
+    },
+    {
       "title": "CHAOS; [Deconstruction]",
       "preview": "https://assets.ppy.sh/artists/429/Songs/Rose Quartz - CHAOS%27 %5BDeconstruction%5D.mp3",
       "ranked_modes": [],
@@ -35,12 +47,6 @@
     {
       "title": "Drown",
       "preview": "https://assets.ppy.sh/artists/429/Songs/Rose Quartz - Drown.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Into the Mysterious World",
-      "preview": "https://assets.ppy.sh/artists/429/Into the Mysterious World/Rose Quartz - Into the Mysterious World.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -69,5 +75,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:08:23Z"
+  "updated_at": "2026-07-19T20:10:19Z"
 }

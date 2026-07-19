@@ -3,6 +3,18 @@
   "name": "glass beach",
   "tracks": [
     {
+      "title": "bedroom community",
+      "preview": "https://assets.ppy.sh/artists/113/previews/2960.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2553064
+        ]
+      }
+    },
+    {
       "title": "calico",
       "preview": "https://assets.ppy.sh/artists/113/previews/2961.mp3",
       "ranked_modes": [
@@ -73,7 +85,8 @@
       "beatmapset_ids_by_mode": {
         "osu": [
           1531792,
-          1883166
+          1883166,
+          1908090
         ],
         "mania": [
           1489548
@@ -165,12 +178,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "bedroom community",
-      "preview": "https://assets.ppy.sh/artists/113/previews/2960.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Calico (Emo Rocksteady Cover)",
       "preview": "https://assets.ppy.sh/artists/113/alchemist rats beg bashful (remixes)/Skatune Network - Calico (Emo Rocksteady Cover).mp3",
       "ranked_modes": [],
@@ -195,5 +202,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:01:58Z"
+  "updated_at": "2026-07-19T20:03:44Z"
 }

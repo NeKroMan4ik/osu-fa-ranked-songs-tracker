@@ -6,9 +6,13 @@
       "title": "7_7 feat. kasane vavzed - Yakou",
       "preview": "https://assets.ppy.sh/artists/356/Songs/7_7_feat._kasane_vavzed_-_Yakou.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2242200
+        ],
         "osu": [
           2194934
         ]
@@ -34,9 +38,13 @@
       "title": "?_?",
       "preview": "https://assets.ppy.sh/artists/356/Songs/7_7 - _.mp3",
       "ranked_modes": [
+        "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2174796
+        ],
         "taiko": [
           2023347
         ]
@@ -224,5 +232,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T19:57:39Z"
+  "updated_at": "2026-07-19T19:59:17Z"
 }

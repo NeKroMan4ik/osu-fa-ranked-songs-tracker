@@ -52,9 +52,13 @@
       "preview": "https://assets.ppy.sh/artists/279/Songs/Toromaru_-_Erinyes.mp3",
       "ranked_modes": [
         "fruits",
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2534384
+        ],
         "osu": [
           2192970
         ],
@@ -172,5 +176,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:10:41Z"
+  "updated_at": "2026-07-19T20:12:41Z"
 }

@@ -52,10 +52,14 @@
       "preview": "https://assets.ppy.sh/artists/10/Songs/nanobii - rainbow road.mp3",
       "ranked_modes": [
         "fruits",
+        "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2481624
+        ],
         "taiko": [
           1812415
         ],
@@ -116,5 +120,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:06:17Z"
+  "updated_at": "2026-07-19T20:08:04Z"
 }

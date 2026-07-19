@@ -23,11 +23,16 @@
       "title": "Emoji",
       "preview": "https://assets.ppy.sh/artists/287/Emoji/Pegboard Nerds - Emoji.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2529619
+        ],
         "osu": [
-          391823
+          391823,
+          2529619
         ]
       }
     },
@@ -72,9 +77,13 @@
       "title": "Pegboard Nerds x MisterWives - Coffins",
       "preview": "https://assets.ppy.sh/artists/287/Coffins/Pegboard_Nerds_x_MisterWives_-_Coffins.mp3",
       "ranked_modes": [
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2565715
+        ],
         "osu": [
           144771,
           823272,
@@ -136,5 +145,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:07:18Z"
+  "updated_at": "2026-07-19T20:09:11Z"
 }

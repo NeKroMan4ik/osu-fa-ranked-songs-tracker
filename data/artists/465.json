@@ -6,14 +6,18 @@
       "title": "Body to the Drum",
       "preview": "https://assets.ppy.sh/artists/465/Songs/Slax - Body to the Drum.mp3",
       "ranked_modes": [
+        "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2540169
+        ],
         "taiko": [
           2343891
         ]
       }
     }
   ],
-  "updated_at": "2026-07-12T20:09:11Z"
+  "updated_at": "2026-07-19T20:11:10Z"
 }

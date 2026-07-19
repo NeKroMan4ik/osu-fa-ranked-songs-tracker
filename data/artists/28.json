@@ -3,6 +3,18 @@
   "name": "Virtual Self",
   "tracks": [
     {
+      "title": "a.i.ngel (Become God)",
+      "preview": "https://assets.ppy.sh/artists/28/previews/618.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2563185
+        ]
+      }
+    },
+    {
       "title": "Angel Voices",
       "preview": "https://assets.ppy.sh/artists/28/previews/619.mp3",
       "ranked_modes": [
@@ -36,12 +48,6 @@
       }
     },
     {
-      "title": "a.i.ngel (Become God)",
-      "preview": "https://assets.ppy.sh/artists/28/previews/618.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Ghost Voices",
       "preview": "https://assets.ppy.sh/artists/28/previews/621.mp3",
       "ranked_modes": [],
@@ -60,5 +66,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:11:13Z"
+  "updated_at": "2026-07-19T20:13:13Z"
 }

@@ -3,6 +3,18 @@
   "name": "Seraph",
   "tracks": [
     {
+      "title": "Daydream",
+      "preview": "https://assets.ppy.sh/artists/225/Secret Garden/Seraph - Daydream.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2566136
+        ]
+      }
+    },
+    {
       "title": "for Black, Dear Dahlia",
       "preview": "https://assets.ppy.sh/artists/225/Black Dahlia/Seraph - for Black%2C Dear Dahlia.mp3",
       "ranked_modes": [
@@ -97,12 +109,6 @@
     {
       "title": "Charlotte",
       "preview": "https://assets.ppy.sh/artists/225/Ateliepoque/Seraph - Charlotte.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Daydream",
-      "preview": "https://assets.ppy.sh/artists/225/Secret Garden/Seraph - Daydream.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -269,5 +275,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:08:52Z"
+  "updated_at": "2026-07-19T20:10:50Z"
 }

@@ -51,6 +51,18 @@
       }
     },
     {
+      "title": "swamp.wav",
+      "preview": "https://assets.ppy.sh/artists/463/Childhood%27s End/hikota - swamp.wav.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2544004
+        ]
+      }
+    },
+    {
       "title": "2nd Death",
       "preview": "https://assets.ppy.sh/artists/463/Purgatory/hikota - 2nd Death.mp3",
       "ranked_modes": [],
@@ -201,12 +213,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "swamp.wav",
-      "preview": "https://assets.ppy.sh/artists/463/Childhood%27s End/hikota - swamp.wav.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "tatata",
       "preview": "https://assets.ppy.sh/artists/463/24-24/hikota - tatata.mp3",
       "ranked_modes": [],
@@ -237,5 +243,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:02:27Z"
+  "updated_at": "2026-07-19T20:04:14Z"
 }

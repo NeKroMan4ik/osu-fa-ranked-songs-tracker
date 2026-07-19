@@ -31,6 +31,18 @@
       }
     },
     {
+      "title": "Fragile",
+      "preview": "https://assets.ppy.sh/artists/137/Beautiful Lie/SECONDWALL - Fragile.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          1651223
+        ]
+      }
+    },
+    {
       "title": "Freedom",
       "preview": "https://assets.ppy.sh/artists/137/Beautiful Lie/SECONDWALL - Freedom.mp3",
       "ranked_modes": [
@@ -56,11 +68,12 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          1373974,
+          1646603
+        ],
         "mania": [
           2031239
-        ],
-        "osu": [
-          1373974
         ],
         "taiko": [
           1318825
@@ -140,13 +153,7 @@
           2183607
         ]
       }
-    },
-    {
-      "title": "Fragile",
-      "preview": "https://assets.ppy.sh/artists/137/Beautiful Lie/SECONDWALL - Fragile.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:08:46Z"
+  "updated_at": "2026-07-19T20:10:43Z"
 }

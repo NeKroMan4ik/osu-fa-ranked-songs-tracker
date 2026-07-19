@@ -6,9 +6,13 @@
       "title": "Ankh Natron Collider",
       "preview": "https://assets.ppy.sh/artists/383/Songs/Kou_-_Ankh_Natron_Collider.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2495564
+        ],
         "mania": [
           2432016,
           2527757
@@ -156,5 +160,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:04:04Z"
+  "updated_at": "2026-07-19T20:05:50Z"
 }

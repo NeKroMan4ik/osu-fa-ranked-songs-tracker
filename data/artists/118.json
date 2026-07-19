@@ -6,9 +6,13 @@
       "title": "HAELEQUINZ -the clown of 24stairs-",
       "preview": "https://assets.ppy.sh/artists/118/HAELEQUIN-HAELEQ∩INZ/orangentle  Yu_Asahina - HAELEQUINZ -the clown of 24stairs-.mp3",
       "ranked_modes": [
+        "mania",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2524350
+        ],
         "taiko": [
           623427
         ]
@@ -165,5 +169,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:06:58Z"
+  "updated_at": "2026-07-19T20:08:48Z"
 }

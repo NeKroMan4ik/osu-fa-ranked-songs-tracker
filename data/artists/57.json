@@ -80,12 +80,16 @@
       "title": "the pain of relief (we have our vices one and all)",
       "preview": "https://assets.ppy.sh/artists/57/semantics%3A the benzo chronicles/goreshit_-_the_pain_of_relief_we_have_our_vices_one_and_all.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
         "osu": [
           1529429,
           2219362
+        ],
+        "taiko": [
+          1084028
         ]
       }
     },
@@ -205,5 +209,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:02:04Z"
+  "updated_at": "2026-07-19T20:03:51Z"
 }

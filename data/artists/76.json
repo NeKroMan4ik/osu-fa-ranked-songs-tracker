@@ -252,9 +252,13 @@
       "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - MEJIRUSHI.mp3",
       "ranked_modes": [
         "mania",
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2317909
+        ],
         "mania": [
           1159152
         ],
@@ -498,5 +502,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:12:15Z"
+  "updated_at": "2026-07-19T20:14:18Z"
 }

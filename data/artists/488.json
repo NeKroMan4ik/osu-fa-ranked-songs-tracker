@@ -27,6 +27,18 @@
       }
     },
     {
+      "title": "Journey to Windrise feat. aadajuulia",
+      "preview": "https://assets.ppy.sh/artists/488/Songs/DraGonis - Journey to Windrise feat. aadajuulia.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2439221
+        ]
+      }
+    },
+    {
       "title": "Nyah!",
       "preview": "https://assets.ppy.sh/artists/488/Songs/DraGonis - Nyah!.mp3",
       "ranked_modes": [
@@ -55,13 +67,7 @@
       "preview": "https://assets.ppy.sh/artists/488/Songs/INDX8 x DraGonis - Twinkle.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Journey to Windrise feat. aadajuulia",
-      "preview": "https://assets.ppy.sh/artists/488/Songs/DraGonis - Journey to Windrise feat. aadajuulia.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:00:43Z"
+  "updated_at": "2026-07-19T20:02:27Z"
 }

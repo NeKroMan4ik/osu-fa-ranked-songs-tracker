@@ -262,9 +262,13 @@
       "title": "RTRT",
       "preview": "https://assets.ppy.sh/artists/331/Miracle Milk/Mili - RTRT.mp3",
       "ranked_modes": [
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2486763
+        ],
         "osu": [
           978481
         ]
@@ -275,9 +279,13 @@
       "preview": "https://assets.ppy.sh/artists/331/Millenium Mother/Mili_-_Rubber_Human.mp3",
       "ranked_modes": [
         "fruits",
-        "mania"
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2460568
+        ],
         "mania": [
           2371111
         ],
@@ -521,5 +529,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T20:05:37Z"
+  "updated_at": "2026-07-19T20:07:25Z"
 }

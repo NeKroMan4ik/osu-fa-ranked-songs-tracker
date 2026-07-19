@@ -1003,14 +1003,14 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Yomotsu Hirasaka",
-      "preview": "https://assets.ppy.sh/artists/297/Songs/-45_-_Yomotsu_Hirasaka.mp3",
+      "title": "Yomitsu Hirasaka CORRUPTION",
+      "preview": "https://assets.ppy.sh/artists/297/Enri Edo/-45_-_Yomitsu_Hirasaka_CORRUPTION.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Yomotsu Hirasaka CORRUPTION",
-      "preview": "https://assets.ppy.sh/artists/297/Enri Edo/-45_-_Yomotsu_Hirasaka_CORRUPTION.mp3",
+      "title": "Yomotsu Hirasaka",
+      "preview": "https://assets.ppy.sh/artists/297/Songs/-45_-_Yomotsu_Hirasaka.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1045,5 +1045,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-07-12T19:57:26Z"
+  "updated_at": "2026-07-19T19:59:04Z"
 }
