@@ -36,9 +36,13 @@
       "title": "cold weather",
       "preview": "https://assets.ppy.sh/artists/113/previews/2963.mp3",
       "ranked_modes": [
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2603242
+        ],
         "osu": [
           1280001,
           1324853,
@@ -196,5 +200,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-09-06T20:57:21Z"
+  "updated_at": "2026-09-13T21:14:06Z"
 }

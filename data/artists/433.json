@@ -6,11 +6,15 @@
       "title": "A Cybernetic-Superluminal-Apocalyptic Post-War Divination",
       "preview": "https://assets.ppy.sh/artists/433/A Cybernetic-Superluminal-Apocalyptic Post-War Divination/Xyris - A Cybernetic-Superluminal-Apocalyptic Post-War Divination.mp3",
       "ranked_modes": [
+        "fruits",
         "mania",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2577669
+        ],
         "taiko": [
           2142052,
           2416399,
@@ -123,5 +127,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-09-06T21:07:08Z"
+  "updated_at": "2026-09-13T21:24:03Z"
 }

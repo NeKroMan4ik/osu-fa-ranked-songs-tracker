@@ -367,9 +367,13 @@
       "title": "Vespera",
       "preview": "https://assets.ppy.sh/artists/76/Songs/Zekk - Vespera.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2585933
+        ],
         "mania": [
           894666
         ]
@@ -506,5 +510,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-09-06T21:07:31Z"
+  "updated_at": "2026-09-13T21:24:27Z"
 }

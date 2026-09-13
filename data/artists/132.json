@@ -6,10 +6,14 @@
       "title": "DJ'TEKINA//SOMETHING - Hidamari no Shi",
       "preview": "https://assets.ppy.sh/artists/132/DJ'TEKINA--SOMETHING/DJ'TEKINASOMETHING%20-%20Hidamari%20no%20Shi.mp3",
       "ranked_modes": [
+        "fruits",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2614898
+        ],
         "taiko": [
           2562427
         ],
@@ -88,10 +92,14 @@
       "title": "Yuyoyuppe - Hidamari no Shi",
       "preview": "https://assets.ppy.sh/artists/132/Solitude Freak/Yuyoyuppe_-_Hidamari_no_Shi.mp3",
       "ranked_modes": [
+        "fruits",
         "osu",
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2614898
+        ],
         "taiko": [
           2562427
         ],
@@ -236,5 +244,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-09-06T21:07:27Z"
+  "updated_at": "2026-09-13T21:24:23Z"
 }

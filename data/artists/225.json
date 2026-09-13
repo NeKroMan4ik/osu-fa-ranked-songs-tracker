@@ -3,6 +3,18 @@
   "name": "Seraph",
   "tracks": [
     {
+      "title": "Beautiful Your Life",
+      "preview": "https://assets.ppy.sh/artists/225/Beautiful Decadence/Seraph - Beautiful Your Life.mp3",
+      "ranked_modes": [
+        "osu"
+      ],
+      "beatmapset_ids_by_mode": {
+        "osu": [
+          2582629
+        ]
+      }
+    },
+    {
       "title": "Daydream",
       "preview": "https://assets.ppy.sh/artists/225/Secret Garden/Seraph - Daydream.mp3",
       "ranked_modes": [
@@ -79,12 +91,6 @@
     {
       "title": "Beautiful Decadence",
       "preview": "https://assets.ppy.sh/artists/225/Beautiful Decadence/Seraph - Beautiful Decadence.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Beautiful Your Life",
-      "preview": "https://assets.ppy.sh/artists/225/Beautiful Decadence/Seraph - Beautiful Your Life.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -275,5 +281,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-09-06T21:04:13Z"
+  "updated_at": "2026-09-13T21:21:07Z"
 }

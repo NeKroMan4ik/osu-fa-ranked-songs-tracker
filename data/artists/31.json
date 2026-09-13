@@ -1576,18 +1576,19 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          668239,
+          671254,
+          1822323,
+          2182833,
+          2609063
+        ],
         "osu": [
           636839,
           1185464,
           2182833,
           2544980,
           2548984
-        ],
-        "taiko": [
-          668239,
-          671254,
-          1822323,
-          2182833
         ],
         "mania": [
           706478,
@@ -1855,12 +1856,13 @@
         "taiko"
       ],
       "beatmapset_ids_by_mode": {
-        "osu": [
-          1845998
-        ],
         "mania": [
           1095471,
-          1281422
+          1281422,
+          2595290
+        ],
+        "osu": [
+          1845998
         ],
         "taiko": [
           1025635
@@ -2856,6 +2858,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "Camellia vs. Kaminose Tsukasa - Resonant Musical Automaton of Twin Agates",
+      "preview": "https://assets.ppy.sh/artists/31/Songs/Camellia_vs._Kaminose_Tsukasa_-_Resonant_Musical_Automaton_of_Twin_Agates.mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "Camellia, Tsuko feat. Nanahira - Present",
       "preview": "https://assets.ppy.sh/artists/31/4orce/Camellia%2C Tsuko feat. Nanahira - Present.mp3",
       "ranked_modes": [],
@@ -3198,5 +3206,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-09-06T20:55:06Z"
+  "updated_at": "2026-09-13T21:11:47Z"
 }

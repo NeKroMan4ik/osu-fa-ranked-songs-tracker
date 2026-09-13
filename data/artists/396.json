@@ -361,6 +361,18 @@
       }
     },
     {
+      "title": "Ofcourse you Need and nEed and neEd and neeD and NEED ME?",
+      "preview": "https://assets.ppy.sh/artists/396/Answer from X Girlz/t%2Bpazolite - Ofcourse you Need and nEed and neEd and neeD and NEED ME.mp3",
+      "ranked_modes": [
+        "fruits"
+      ],
+      "beatmapset_ids_by_mode": {
+        "fruits": [
+          2600427
+        ]
+      }
+    },
+    {
       "title": "Party in the HOLLOWood feat. Nanahira",
       "preview": "https://assets.ppy.sh/artists/396/Good Evening%2C HOLLOWood/t%2Bpazolite - Party in the HOLLOWood feat. Nanahira.mp3",
       "ranked_modes": [
@@ -509,18 +521,6 @@
       }
     },
     {
-      "title": "t+pazolite feat. Rizna - Distorted Lovesong (Full length)",
-      "preview": "https://assets.ppy.sh/artists/396/songs for X Girlz/t%2Bpazolite feat. Rizna - Distorted Lovesong (Full length).mp3",
-      "ranked_modes": [
-        "osu"
-      ],
-      "beatmapset_ids_by_mode": {
-        "osu": [
-          1959806
-        ]
-      }
-    },
-    {
       "title": "t+pazolite with Kabocha - Elder Dragon Legend",
       "preview": "https://assets.ppy.sh/artists/396/Elder Dragon Legend/tpazolite_with_Kabocha_-_Elder_Dragon_Legend.mp3",
       "ranked_modes": [
@@ -617,12 +617,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Ofcourse you Need and nEed and neEd and neeD and NEED ME?",
-      "preview": "https://assets.ppy.sh/artists/396/Answer from X Girlz/t%2Bpazolite - Ofcourse you Need and nEed and neEd and neeD and NEED ME.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Pleasure Ritual",
       "preview": "https://assets.ppy.sh/artists/396/I bun densho A la carte/t%2Bpazolite - Pleasure Ritual.mp3",
       "ranked_modes": [],
@@ -659,6 +653,12 @@
       "beatmapset_ids_by_mode": {}
     },
     {
+      "title": "t+pazolite feat. Rizna - Distorted Lovesong (Full Ver.)",
+      "preview": "https://assets.ppy.sh/artists/396/songs for X Girlz/tpazolite_feat._Rizna_-_Distorted_Lovesong_Full_Ver..mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
       "title": "t+pazolite vs. RoughSketch - GRK Spice",
       "preview": "https://assets.ppy.sh/artists/396/108 Sketches 3/t%2Bpazolite vs. RoughSketch - GRK Spice.mp3",
       "ranked_modes": [],
@@ -683,5 +683,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-09-06T21:05:20Z"
+  "updated_at": "2026-09-13T21:22:13Z"
 }

@@ -59,6 +59,18 @@
       }
     },
     {
+      "title": "Radium",
+      "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_-_Radium.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2583923
+        ]
+      }
+    },
+    {
       "title": "Sydosys as \"[LS]Ham\" - Apollyon",
       "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_as_LSHam_-_Apollyon.mp3",
       "ranked_modes": [
@@ -129,12 +141,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "Radium",
-      "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_-_Radium.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Serrate",
       "preview": "https://assets.ppy.sh/artists/392/Songs/Sydosys_-_Serrate.mp3",
       "ranked_modes": [],
@@ -153,5 +159,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-09-06T21:05:11Z"
+  "updated_at": "2026-09-13T21:22:04Z"
 }

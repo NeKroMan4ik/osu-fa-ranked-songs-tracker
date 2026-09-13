@@ -6,9 +6,13 @@
       "title": "abyss",
       "preview": "https://assets.ppy.sh/artists/387/abyss/PHAZE - abyss.mp3",
       "ranked_modes": [
+        "fruits",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2448093
+        ],
         "osu": [
           2047330,
           2453636
@@ -52,5 +56,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-09-06T21:02:43Z"
+  "updated_at": "2026-09-13T21:19:34Z"
 }

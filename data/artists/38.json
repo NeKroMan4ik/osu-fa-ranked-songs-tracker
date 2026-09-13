@@ -133,6 +133,18 @@
       }
     },
     {
+      "title": "night sky",
+      "preview": "https://assets.ppy.sh/artists/38/Rabbithole/BilliumMoto - night sky.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2558946
+        ]
+      }
+    },
+    {
       "title": "Rocky Buinne",
       "preview": "https://assets.ppy.sh/artists/38/Songs/BilliumMoto - Rocky Buinne (Short Ver.).mp3",
       "ranked_modes": [
@@ -217,12 +229,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "night sky",
-      "preview": "https://assets.ppy.sh/artists/38/Rabbithole/BilliumMoto - night sky.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "rabbithole",
       "preview": "https://assets.ppy.sh/artists/38/Rabbithole/BilliumMoto - rabbithole.mp3",
       "ranked_modes": [],
@@ -259,5 +265,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-09-06T20:54:40Z"
+  "updated_at": "2026-09-13T21:11:20Z"
 }

@@ -561,9 +561,13 @@
       "title": "White Peak",
       "preview": "https://assets.ppy.sh/artists/727/Evolved Chronicles/xi - White Peak.mp3",
       "ranked_modes": [
-        "mania"
+        "mania",
+        "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "osu": [
+          2234472
+        ],
         "mania": [
           1745201,
           2013471
@@ -671,5 +675,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-09-06T21:07:05Z"
+  "updated_at": "2026-09-13T21:24:00Z"
 }

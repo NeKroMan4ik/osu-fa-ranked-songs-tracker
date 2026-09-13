@@ -3,6 +3,18 @@
   "name": "Mitsukiyo",
   "tracks": [
     {
+      "title": "Balloon Party (feat. *namirin)",
+      "preview": "https://assets.ppy.sh/artists/292/Balloon Party/Mitsukiyo - Balloon Party (feat. namirin).mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2554554
+        ]
+      }
+    },
+    {
       "title": "Dream Leaf",
       "preview": "https://assets.ppy.sh/artists/292/Midori no Tegami/Mitsukiyo - Dream Leaf.mp3",
       "ranked_modes": [
@@ -143,12 +155,6 @@
       }
     },
     {
-      "title": "Balloon Party (feat. *namirin)",
-      "preview": "https://assets.ppy.sh/artists/292/Balloon Party/Mitsukiyo - Balloon Party (feat. namirin).mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "Koiiro Tsubasa (feat. kiichigo)",
       "preview": "https://assets.ppy.sh/artists/292/Balloon Party/Mitsukiyo - Koiiro Tsubasa (feat. kiichigo).mp3",
       "ranked_modes": [],
@@ -161,5 +167,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-09-06T21:01:06Z"
+  "updated_at": "2026-09-13T21:17:57Z"
 }

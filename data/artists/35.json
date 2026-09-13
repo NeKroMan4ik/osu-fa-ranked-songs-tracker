@@ -32,9 +32,13 @@
       "title": "Danzai No Honoo To Koibito-Tachi No Rondo",
       "preview": "https://assets.ppy.sh/artists/35/%E9%BB%84%E6%B3%89%E3%82%88%E3%82%8A%E8%81%B4%E3%81%93%E3%82%86%E3%80%81%E7%9A%87%E5%9B%BD%E3%81%AE%E7%87%88%E3%81%A8%E7%84%94%E3%81%AE%E5%B0%91%E5%A5%B3%E3%80%82/Imperial Circus Dead Decadence - Danzai No Honoo To Koibito-Tachi No Rondo.mp3",
       "ranked_modes": [
-        "osu"
+        "osu",
+        "taiko"
       ],
       "beatmapset_ids_by_mode": {
+        "taiko": [
+          2492465
+        ],
         "osu": [
           961431,
           1012635
@@ -374,5 +378,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-09-06T20:58:11Z"
+  "updated_at": "2026-09-13T21:14:59Z"
 }

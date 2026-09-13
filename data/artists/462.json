@@ -325,6 +325,18 @@
       }
     },
     {
+      "title": "fur:trash - puppydog's lament",
+      "preview": "https://assets.ppy.sh/artists/462/Songs/furtrash_-_puppydogs_lament.mp3",
+      "ranked_modes": [
+        "taiko"
+      ],
+      "beatmapset_ids_by_mode": {
+        "taiko": [
+          2530140
+        ]
+      }
+    },
+    {
       "title": "Gardens - Counting Breaths feat. eili",
       "preview": "https://assets.ppy.sh/artists/462/osu!mania Chinese National Cup 7K 2026/Gardens - Counting Breaths feat. eili.mp3",
       "ranked_modes": [
@@ -362,9 +374,13 @@
       "title": "Halv - Akashic Hex",
       "preview": "https://assets.ppy.sh/artists/462/China LAN 2025/Halv - Akashic Hex.mp3",
       "ranked_modes": [
+        "mania",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "mania": [
+          2442155
+        ],
         "osu": [
           2401984
         ]
@@ -724,9 +740,13 @@
       "title": "Redside feat. Hatsune Miku - Constellations",
       "preview": "https://assets.ppy.sh/artists/462/Songs/Redside_feat._Hatsune_Miku_-_Constellations.mp3",
       "ranked_modes": [
+        "fruits",
         "osu"
       ],
       "beatmapset_ids_by_mode": {
+        "fruits": [
+          2612392
+        ],
         "osu": [
           2535063
         ]
@@ -777,6 +797,18 @@
       "beatmapset_ids_by_mode": {
         "mania": [
           2407003
+        ]
+      }
+    },
+    {
+      "title": "Sakamiya feat. Misoramimi - Crimson Horizon",
+      "preview": "https://assets.ppy.sh/artists/462/osu!mania Chinese National Cup 4K 2026 Rebirth/Sakamiya feat. Misoramimi - Crimson Horizon.mp3",
+      "ranked_modes": [
+        "mania"
+      ],
+      "beatmapset_ids_by_mode": {
+        "mania": [
+          2589079
         ]
       }
     },
@@ -1330,12 +1362,6 @@
       "beatmapset_ids_by_mode": {}
     },
     {
-      "title": "fur:trash - puppydog's lament",
-      "preview": "https://assets.ppy.sh/artists/462/Songs/furtrash_-_puppydogs_lament.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
       "title": "grayfur - Shards of Luminance",
       "preview": "https://assets.ppy.sh/artists/462/osu! For Fun Cup 6/grayfur - Shards of Luminance.mp3",
       "ranked_modes": [],
@@ -1440,6 +1466,12 @@
     {
       "title": "lanthadium - ale kzethmya (OTR Ver.)",
       "preview": "https://assets.ppy.sh/artists/462/osu!t%C3%BCrkiye Open 2025/lanthadium - ale kzethmya (OTR Ver.).mp3",
+      "ranked_modes": [],
+      "beatmapset_ids_by_mode": {}
+    },
+    {
+      "title": "Lemi - \"Fiddler\"",
+      "preview": "https://assets.ppy.sh/artists/462/osu!mania Chinese National Cup 4K 2026 Rebirth/Lemi_-_Fiddler.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1638,12 +1670,6 @@
     {
       "title": "sage - Hyena Groove",
       "preview": "https://assets.ppy.sh/artists/462/Resurrection Cup 2025/sage - Hyena Groove.mp3",
-      "ranked_modes": [],
-      "beatmapset_ids_by_mode": {}
-    },
-    {
-      "title": "Sakamiya feat. Misoramimi - Crimson Horizon",
-      "preview": "https://assets.ppy.sh/artists/462/osu!mania Chinese National Cup 4K 2026 Rebirth/Sakamiya feat. Misoramimi - Crimson Horizon.mp3",
       "ranked_modes": [],
       "beatmapset_ids_by_mode": {}
     },
@@ -1924,5 +1950,5 @@
       "beatmapset_ids_by_mode": {}
     }
   ],
-  "updated_at": "2026-09-06T21:02:21Z"
+  "updated_at": "2026-09-13T21:19:12Z"
 }
